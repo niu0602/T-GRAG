@@ -1,0 +1,1178 @@
+{
+    "1": {
+        "Question": "What was Audi's operating profit in 2022?",
+        "Answer": "Audi's operating profit in 2022 was EUR 7.6 billion.",
+        "OriginalText": "We accomplished a lot together and generated a record operating profit of EUR 7.6 billion thanks to the dedication and team spirit of all employees.",
+        "chunk_id": "2022---1"
+    },
+    "2": {
+        "Question": "How many employees did Audi have worldwide in 2022?",
+        "Answer": "Audi had more than 87,000 employees worldwide in 2022.",
+        "OriginalText": "I would like to thank our more than 87,000 employees worldwide.",
+        "chunk_id": "2022---1"
+    },
+    "3": {
+        "Question": "Which Audi plants achieved net carbon neutrality in 2022?",
+        "Answer": "The Audi plants in Brussels, Győr, and Böllinger Höfe in Neckarsulm achieved net carbon neutrality in 2022.",
+        "OriginalText": "Our plants in Brussels, Győr and Böllinger Höfe in Neckarsulm, where production operations are already net carbonneutral, are pioneers in this respect.",
+        "chunk_id": "2022---1"
+    },
+    "4": {
+        "Question": "What was Audi's total car delivery in 2022, and how did it compare to the previous year?",
+        "Answer": "Audi delivered 1,614,231 cars in 2022, a decrease from 1,680,512 in 2021.",
+        "OriginalText": "In 2022, the brand group delivered 1,614,231 (1,680,512) cars of the Audi brand.",
+        "chunk_id": "2022---1"
+    },
+    "5": {
+        "Question": "What significant environmental program did Audi implement in 2022 to reduce its CO2 footprint?",
+        "Answer": "Audi implemented the Mission:Zero environmental program in 2022 to reduce its CO2 emissions throughout the life cycle of its vehicles.",
+        "OriginalText": "We reduce CO₂ emissions at various levels of the company, starting with the consistent implementation of our Roadmap E and projects related to the circular economy through to the Mission:Zero environmental program.",
+        "chunk_id": "2022---1"
+    },
+    "6": {
+        "Question": "How many cars did Bentley deliver in 2022, and how does that compare to 2021?",
+        "Answer": "Bentley delivered 15,174 luxury models in 2022, a decrease from 2021's 16,000 units (estimated).",
+        "OriginalText": "In 2022, the brand group delivered 15,174 luxury models of the Bentley brand.",
+        "chunk_id": "2022---1"
+    },
+    "7": {
+        "Question": "What was the total number of employees working for the Audi Group worldwide as of December 31, 2022?",
+        "Answer": "87,342 employees",
+        "OriginalText": "As of December 31, 2022, 87,342⁴ (85,350)² employees were working for the Audi Group all over the world.",
+        "chunk_id": "2022---2"
+    },
+    "8": {
+        "Question": "Which new plant locations were added to Audi's production network in 2022?",
+        "Answer": "The new additions were the multibrand plant in Ningbo (China) and the Crewe plant (United Kingdom).",
+        "OriginalText": "New additions during the reporting period were the multibrand plant in Ningbo (China) and the Crewe plant (United Kingdom) as part of the consolidation of Bentley.",
+        "chunk_id": "2022---2"
+    },
+    "9": {
+        "Question": "How many vehicles did Audi deliver in 2022, and how does this compare to the previous year's figures?",
+        "Answer": "Audi delivered 1,614,231 vehicles in 2022, a decrease from 1,680,512 in 2021.",
+        "OriginalText": "In 2022, the brand group delivered 1,614,231 (1,680,512)² cars of the Audi3 brand.",
+        "chunk_id": "2022---2"
+    },
+    "10": {
+        "Question": "How many motorcycles did Ducati deliver to customers in 2022?",
+        "Answer": "Ducati delivered 61,562 motorcycles in 2022.",
+        "OriginalText": "In 2022, the brand group delivered 61,562 (59,447)² motorcycles of the Ducati brand to customers.",
+        "chunk_id": "2022---2"
+    },
+    "11": {
+        "Question": "What significant production change occurred in Audi's Kaluga (Russia) facility in March 2022?",
+        "Answer": "Production at the Kaluga facility was halted in March 2022 due to the Russian attack on Ukraine.",
+        "OriginalText": "Production from January to March 2022. Against the background of the Russian attack on Ukraine, at the beginning of March the Volkswagen Group Board of Management decided to stop the production of vehicles in Russia until further notice.",
+        "chunk_id": "2022---2"
+    },
+    "12": {
+        "Question": "What was the total number of vehicles produced by Audi at its Brussels plant in 2022?",
+        "Answer": "Audi produced 50,302 vehicles at its Brussels plant in 2022.",
+        "OriginalText": "Brussels, Belgium AUDI BRUSSELS S.A./N.V. 50,302 vehicles e-tron, e-tron S e-tron Sportback, e-tron S Sportback Q8 e-tron, Q8 Sportback e-tronSQ8 e-tron, SQ8 Sportback e-tron",
+        "chunk_id": "2022---2"
+    },
+    "13": {
+        "Question": "How many vehicles did Audi produce in Zwickau, Germany in 2022?",
+        "Answer": "Audi produced 51,685 vehicles at its Zwickau plant in 2022.",
+        "OriginalText": "Zwickau, Germany Volkswagen AG 51,685 vehicles Q4 e-tron Q4 Sportback e-tron",
+        "chunk_id": "2022---2"
+    },
+    "14": {
+        "Question": "What were the production numbers for Audi's Győr, Hungary plant in 2022?",
+        "Answer": "Audi produced 170,018 vehicles at its Győr plant in 2022.",
+        "OriginalText": "Győr, Hungary Audi Hungaria Zrt. 170,018 vehicles Q3, RS Q3 Q3 Sportback, RS Q3 Sportback TT Coupé, TTS Coupé, TT RS Coupé TT Roadster, TTS Roadster, TT RS Roadster",
+        "chunk_id": "2022---2"
+    },
+    "15": {
+        "Question": "Which locations saw a resumption of production for Audi in 2022?",
+        "Answer": "Production resumed in São José dos Pinhais, Brazil in 2022.",
+        "OriginalText": "Production resumed in São José dos Pinhais (Brazil), while SKD production⁶ for Audi in Kaluga (Russia)⁷ has been halted since March 2022.",
+        "chunk_id": "2022---2"
+    },
+    "16": {
+        "Question": "What was the total number of vehicles produced by Bentley at the Crewe plant in 2022?",
+        "Answer": "Bentley produced 16,385 vehicles at its Crewe plant in 2022.",
+        "OriginalText": "Crewe, United Kingdom Bentley Motors Ltd. 16,385 vehicles Bentayga Continental GT, Continental GTC Flying Spur",
+        "chunk_id": "2022---2"
+    },
+    "17": {
+        "Question": "What was the total operating profit for the Premium brand group in 2022?",
+        "Answer": "The operating profit for the Premium brand group in 2022 was EUR 7.6 billion.",
+        "OriginalText": "At EUR 7.6 billion, we achieved a new record operating profit for the Premium brand group last year.",
+        "chunk_id": "2022---3"
+    },
+    "18": {
+        "Question": "How many vehicles did FAW-Volkswagen Automotive Co., Ltd. produce in Qingdao, China in 2022?",
+        "Answer": "FAW-Volkswagen Automotive Co., Ltd. produced 69,785 vehicles in Qingdao, China in 2022.",
+        "OriginalText": "3Qingdao, China FAW-Volkswagen Automotive Co., Ltd. 69,785 vehicles A3 L Sedan A3 Sportback",
+        "chunk_id": "2022---3"
+    },
+    "19": {
+        "Question": "In 2022, which Audi plants produced the Q4 e-tron models?",
+        "Answer": "The Audi plants in Zwickau, Germany, and Foshan, China, produced the Q4 e-tron models in 2022.",
+        "OriginalText": "Volkswagen AG 51,685 vehicles Q4 e-tron Q4 Sportback e-tron ... Foshan, China FAW-Volkswagen Automotive Co., Ltd. 37,912 vehicles Q2 L, Q2 L e-tron Q4 e-tron",
+        "chunk_id": "2022---3"
+    },
+    "20": {
+        "Question": "How many vehicles were produced by Ducati Motor (Thailand) Co., Ltd. in Amphur Pluakdaeng, Thailand, in 2022?",
+        "Answer": "Ducati Motor (Thailand) Co., Ltd. produced 11,503 vehicles in Amphur Pluakdaeng, Thailand, in 2022.",
+        "OriginalText": "Amphur Pluakdaeng, Thailand Ducati Motor (Thailand) Co., Ltd. 11,503 vehicles DesertX, Diavel, Hypermotard, Monster, Multistrada, Panigale (Superbike), Scrambler, Streetfighter, SuperSport",
+        "chunk_id": "2022---3"
+    },
+    "21": {
+        "Question": "Which two key events influenced Audi's corporate strategy in 2022 and how did they affect the company?",
+        "Answer": "The war in Ukraine and the fossil fuel crisis significantly influenced Audi’s strategy in 2022, prompting a focus on sustainability and resilience, including the phase-out of internal combustion engines by 2023 and the commitment to net carbon neutrality by 2025.",
+        "OriginalText": "The devastating war in Ukraine, fragile supply chains, coronavirus lockdowns in China, rising energy prices and high inflation tested us time and again. […] And the current fossil fuel crisis validates our early and firm decision to phase out the production of the last internal combustion engines by 2023.",
+        "chunk_id": "2022---3"
+    },
+    "22": {
+        "Question": "What was Audi's record operating profit in 2022, and how did it contribute to the brand group's success?",
+        "Answer": "Audi's operating profit in 2022 was EUR 7.6 billion, which, along with record revenue of EUR 61.8 billion and an operating return on sales of 12.2%, contributed to the brand group's success.",
+        "OriginalText": "At EUR 7.6 billion, we achieved a new record operating profit for the Premium brand group last year. Revenue and operating return on sales likewise reached record levels, at EUR 61.8 billion and 12.2 percent, respectively.",
+        "chunk_id": "2022---4"
+    },
+    "23": {
+        "Question": "Which brands contributed to the overall result of Audi's brand group in 2022?",
+        "Answer": "Bentley, Lamborghini, and Ducati helped drive the overall result for the brand group with a very strong operating performance in 2022.",
+        "OriginalText": "And our Bentley, Lamborghini and Ducati brands also helped drive the overall result for the brand group with a very strong operating performance.",
+        "chunk_id": "2022---4"
+    },
+    "24": {
+        "Question": "What was Audi's strategic focus in 2022 to increase resilience in response to the challenges posed by global crises?",
+        "Answer": "Audi focused on lowering its break-even point, making its business more resilient to crises such as the war in Ukraine, supply chain disruptions, and rising energy prices.",
+        "OriginalText": "An important lever in this regard is to lower our break-even point. The lower its level, the more robust and resilient our business is against crises.",
+        "chunk_id": "2022---4"
+    },
+    "25": {
+        "Question": "What was the increase in the delivery of fully electric Audi models in 2022 compared to 2021?",
+        "Answer": "Over 44 percent.",
+        "OriginalText": "With 118,196 fully electric Audi models, we set a new delivery record last year – an increase of over 44 percent compared with 2021.",
+        "chunk_id": "2022---5"
+    },
+    "26": {
+        "Question": "What model series was launched in Europe a few weeks before the report was published in 2022 and received strong pre-orders?",
+        "Answer": "Audi Q8 e-tron.",
+        "OriginalText": "The new Audi Q8 e-tron model series is being very well received, too. This model was launched recently on the European market a few weeks ago.",
+        "chunk_id": "2022---5"
+    },
+    "27": {
+        "Question": "Which Audi production sites were already manufacturing fully electric vehicles in 2022?",
+        "Answer": "Böllinger Höfe Neckarsulm and Brussels.",
+        "OriginalText": "Two Audi sites already have fully electric vehicles in series production: Böllinger Höfe Neckarsulm and Brussels.",
+        "chunk_id": "2022---5"
+    },
+    "28": {
+        "Question": "What is the percentage increase in Audi's brand value according to the Interbrand ranking in 2022?",
+        "Answer": "11 percent.",
+        "OriginalText": "In the recognized Interbrand ranking, the value of the Audi brand rose by 11 percent last year, reaching almost 15 billion US dollars.",
+        "chunk_id": "2022---5"
+    },
+    "29": {
+        "Question": "How many direct suppliers did Audi work with globally in 2022, and how many countries were they from?",
+        "Answer": "Audi worked with over 14,000 direct suppliers from around 60 countries in 2022.",
+        "OriginalText": "Our supply chain is long and widely branched.  We are talking about over 14,000 direct suppliers from around 60 countries.",
+        "chunk_id": "2022---6"
+    },
+    "30": {
+        "Question": "What new working model did Audi introduce in 2022 for employees performing time-sequenced tasks on the production line?",
+        "Answer": "In 2022, Audi introduced flexible working models for employees on the production line, aiming to improve access to digital offerings and enhance work quality.",
+        "OriginalText": "We are also currently developing more flexible working models for employees performing time-sequenced tasks on the production line.  As part of this, we are making it easier to access digital offerings from Audi and improving the quality of time spent at the company for our employees in production.",
+        "chunk_id": "2022---6"
+    },
+    "31": {
+        "Question": "What was the outcome of Audi's collaboration with the University of St. Gallen in 2022?",
+        "Answer": "In 2022, Audi conducted a study with the University of St. Gallen, involving 1,500 participants in over 50 workshops, which explored the best ways to organize and shape the new working world with a focus on self-organization and personal responsibility.",
+        "OriginalText": "We are cooperating with the scientific community to gain an even better understanding of the future needs of employees in the hybrid working world. Together with the University of St. Gallen, we conducted an extensive study. In more than 50 workshops, 1,500 participants looked into the question of how to best organize and shape the new working world. The result: a high degree of self-organization and personal responsibility is the basis for leveraging efficiency potential in hybrid forms of work.",
+        "chunk_id": "2022---7"
+    },
+    "32": {
+        "Question": "What did Audi include in its materiality analysis in 2022?",
+        "Answer": "In 2022, Audi updated its materiality analysis with an impact assessment according to the new Global Reporting Initiative standards and identified two main topics: 'Emissions and energy along the value chain' and 'Alternative drive technologies and vehicle emissions'.",
+        "OriginalText": "In 2022, Audi identified two main topics as a result of combining stakeholder relevance and the impact assessment: (1) 'Emissions and energy along the value chain' and (2) 'Alternative drive technologies and vehicle emissions.'",
+        "chunk_id": "2022---7"
+    },
+    "33": {
+        "Question": "How did Audi assess the sustainability impact of its activities in 2022?",
+        "Answer": "Audi used a two-step impact assessment in 2022 to evaluate the positive and negative impacts of its activities, based on their probability of occurrence and severity, and prioritized 16 sustainability topics.",
+        "OriginalText": "For the first step of the impact assessment, the company’s strategy team identified the potential positive and negative impacts for all 16 sustainability topics in the form of opportunities and risks for Audi and, for each of them, calculated the period of impact (shortterm or long-term) and the position in the value chain. In the second step, the individual impacts were evaluated using a scoring method based on their probability of occurrence and their severity (size, scope and reversibility of the impacts, among others).",
+        "chunk_id": "2022---7"
+    },
+    "34": {
+        "Question": "How many vehicles did Audi deliver in 2022, and how many of these were electric vehicles?",
+        "Answer": "Audi delivered 1.6 million vehicles in 2022, of which 118,000 were electric vehicles.",
+        "OriginalText": "Deliveries at 1.6 million vehicles of which 118 thousand electric vehicles.",
+        "chunk_id": "2022---8"
+    },
+    "35": {
+        "Question": "What was Audi's revenue in 2022, and how much did it increase compared to the previous year?",
+        "Answer": "Audi's revenue in 2022 was EUR 61.8 billion, a 16.4% increase from the previous year.",
+        "OriginalText": "Revenue 16.4% increase to EUR 61.8 billion.",
+        "chunk_id": "2022---8"
+    },
+    "36": {
+        "Question": "In 2022, what was Audi's net cash flow and how did it contribute to their financial performance?",
+        "Answer": "Audi's net cash flow was EUR 4.8 billion, contributing positively to their financial performance despite challenges.",
+        "OriginalText": "Net cash flow strong at 13.5 % EUR 4.8 billion above all due to strong price enforcement.",
+        "chunk_id": "2022---8"
+    },
+    "37": {
+        "Question": "What was the operating profit of Audi in 2022, and what factors contributed to it?",
+        "Answer": "Audi's operating profit in 2022 was EUR 7.6 billion, driven by good market performance and strong brands.",
+        "OriginalText": "Operating profit Record profit of EUR 7.6 billion thanks to good market performance and strong brands.",
+        "chunk_id": "2022---8"
+    },
+    "38": {
+        "Question": "What was the impact of the semiconductor supply chain issues on Audi's deliveries in 2022?",
+        "Answer": "Semiconductor supply chain issues in 2022 led to restricted supplies, impacting Audi's planned vehicle production and deliveries.",
+        "OriginalText": "Supplies of semiconductors were therefore restricted throughout all of 2022, impacting planned vehicle production and consequently deliveries.",
+        "chunk_id": "2022---8"
+    },
+    "39": {
+        "Question": "What was the outcome of the 'Audi im Dialog 2022' event held in Berlin?",
+        "Answer": "The 'Audi im Dialog 2022' event in Berlin allowed Audi to obtain expert feedback on its 'Vorsprung 2030' strategy related to e-mobility and the circular economy.",
+        "OriginalText": "'Audi im Dialog 2022' made it possible to obtain feedback from experts on the 'Vorsprung 2030' strategy as it relates to (e-)mobility and the circular economy.",
+        "chunk_id": "2022---8"
+    },
+    "40": {
+        "Question": "How many vehicles did the Audi Group manufacture in 2022, and what was the percentage increase compared to the previous year?",
+        "Answer": "1,717,896 vehicles, an increase of 8.6% compared to the previous year.",
+        "OriginalText": "The Audi Group manufactured 1,717,896 (1,581,164) vehicles in 2022, an increase of 8.6 percent compared with the previous year.",
+        "chunk_id": "2022---9"
+    },
+    "41": {
+        "Question": "In which location did Audi face production site and dealership closures due to the government’s zero-Covid strategy in 2022?",
+        "Answer": "In China.",
+        "OriginalText": "Production and deliveries in China came under strain at times owing to local lockdowns as part of the zero-Covid strategy imposed by the government up until the end of 2022.",
+        "chunk_id": "2022---9"
+    },
+    "42": {
+        "Question": "What was the outcome of the price enforcement and reduction in sales incentives for Audi in 2022?",
+        "Answer": "The measures positively impacted the Audi Group’s operating profit.",
+        "OriginalText": "Good price enforcement and reductions in sales incentives in the face of strong market demand had a positive impact on the operating profit of the Audi Group.",
+        "chunk_id": "2022---9"
+    },
+    "43": {
+        "Question": "How did Audi mitigate the impact of rising energy prices in 2022?",
+        "Answer": "Audi mitigated the impact by switching from gas to oil and stockpiling oil to avoid shortages, along with energy-saving measures.",
+        "OriginalText": "The effects were successfully constrained thanks to a partial switch from gas to oil as an energy source and the stockpiling of oil to stave off a possible shortage, as well as to intensive energy saving measures in the plants.",
+        "chunk_id": "2022---9"
+    },
+    "44": {
+        "Question": "How did inflation in 2022 impact the global economic environment, and what was its expected effect on 2023?",
+        "Answer": "Inflation rose rapidly, leading to interest rate hikes and a significant decline in growth predictions, which is expected to impact the 2023 fiscal year.",
+        "OriginalText": "A further challenge was posed by inflation, which started to increase rapidly mid-way through 2022, especially in the eurozone and the USA. This led to interest rate rises on the capital markets and a significant decline in growth predictions or even fears of recession in the affected regions, which is expected to have an impact on the 2023 fiscal year.",
+        "chunk_id": "2022---9"
+    },
+    "45": {
+        "Question": "How much did Audi's production of fully electric vehicles increase in 2022 compared to the previous year?",
+        "Answer": "Audi's production of fully electric vehicles increased to 127,927 units in 2022, up from 85,379 units in 2021, a rise of 49.9%.",
+        "OriginalText": "The Premium brand group increased the production of fully electric vehicles significantly in 2022 to 127,927 (85,379) vehicles.",
+        "chunk_id": "2022---10"
+    },
+    "46": {
+        "Question": "Which Audi model line had the highest percentage increase in electric vehicle production in 2022?",
+        "Answer": "The Audi Q4 e-tron and Audi e-tron GT recorded the highest percentage increases in electric vehicle production in 2022.",
+        "OriginalText": "The highest percentage increases were recorded for the Audi Q4 e-tron and Audi e-tron GT.",
+        "chunk_id": "2022---10"
+    },
+    "47": {
+        "Question": "In 2022, which country experienced a significant decline in Audi's vehicle production due to supply shortages and lockdowns?",
+        "Answer": "In China, Audi's vehicle production declined by 1.9% in 2022 due to plant closures and supply problems caused by coronavirus lockdowns.",
+        "OriginalText": "In China, the associated company FAW-Volkswagen produced 594,649 (605,933) Audi brand vehicles in 2022. The year-on-year decline of –1.9 percent was due especially to plant closures because of coronavirus lockdowns as well as to supply problems.",
+        "chunk_id": "2022---10"
+    },
+    "48": {
+        "Question": "How many Audi Q5 vehicles were produced in Mexico in 2022, and what was the year-on-year increase?",
+        "Answer": "In Mexico, the Audi plant in San José Chiapa produced 178,128 Audi Q5 vehicles in 2022, a 29.4% increase compared to 137,634 vehicles in 2021.",
+        "OriginalText": "The plant in San José Chiapa in Mexico built 178,128 (137,634) vehicles of the Audi Q5 model line, an increase of 29.4 percent.",
+        "chunk_id": "2022---10"
+    },
+    "49": {
+        "Question": "What was the impact of lockdowns on vehicle production in 2022?",
+        "Answer": "Lockdowns in China negatively impacted local production in 2022, contributing to production reductions and delays in the supply of parts.",
+        "OriginalText": "Supply situation gradually improved in the second half of the year – coronavirus lockdowns negatively impacted local production in China.",
+        "chunk_id": "2022---10"
+    },
+    "50": {
+        "Question": "What was the percentage increase in the production of Ducati motorcycles in 2022?",
+        "Answer": "Ducati produced 70,295 motorcycles in 2022, marking an 18.7% increase compared to 59,214 motorcycles in 2021.",
+        "OriginalText": "70,295 (59,214) motorcycles of the Ducati brand were produced in 2022, a year-on-year increase of 18.7 percent.",
+        "chunk_id": "2022---10"
+    },
+    "51": {
+        "Question": "What was the total number of vehicles produced at Audi's German sites in 2022, and how did it compare to 2021?",
+        "Answer": "Audi's German sites produced 533,793 vehicles in 2022, an increase of 16.4% compared to 458,746 vehicles in 2021.",
+        "OriginalText": "In 2022, a total of 533,793 (458,746) vehicles were produced at the German sites, an increase of 16.4 percent compared with the previous year.",
+        "chunk_id": "2022---10"
+    },
+    "52": {
+        "Question": "In 2022, what was the production volume of the Audi Q4 e-tron at the Zwickau site, and how did it compare to the previous year?",
+        "Answer": "The Zwickau site produced 51,685 Audi Q4 e-tron vehicles in 2022, marking an 86.6% increase compared to 27,696 units in 2021.",
+        "OriginalText": "In 2022, a total of 51,685 (27,696) fully electric models of the Audi Q4 e-tron model line were produced at the Volkswagen multi-brand site in Zwickau, an increase of 86.6 percent compared with the launch year 2021.",
+        "chunk_id": "2022---10"
+    },
+    "53": {
+        "Question": "How did the semiconductor shortages in 2022 impact Audi's vehicle production?",
+        "Answer": "Semiconductor shortages continued to disrupt Audi's vehicle production in 2022, particularly in the first half, but production stabilized and increased in the second half of the year.",
+        "OriginalText": "While production by the Premium brand group decreased by $^{-9.2}$ percent year-on-year in the first six months of 2022 due to ongoing supply restrictions, the situation changed in the second half of the year.",
+        "chunk_id": "2022---10"
+    },
+    "54": {
+        "Question": "What was the percentage decrease in Audi brand vehicle deliveries in 2022 compared to 2021?",
+        "Answer": "Audi brand vehicle deliveries decreased by 3.9% in 2022 compared to 2021.",
+        "OriginalText": "The Audi brand handed a total of 1,614,231 (1,680,512) vehicles over to customers, which was -3.9 percent lower than the previous year’s level.",
+        "chunk_id": "2022---11"
+    },
+    "55": {
+        "Question": "How many Ducati motorcycles were delivered in 2022, and what was the growth rate compared to the previous year?",
+        "Answer": "Ducati delivered 61,562 motorcycles in 2022, marking a growth rate of 3.7% compared to the previous year.",
+        "OriginalText": "With deliveries of 61,562 (59,447) motorcycles, Ducati crossed the 60,000 threshold for the first time.",
+        "chunk_id": "2022---11"
+    },
+    "56": {
+        "Question": "How many vehicles did the Audi Group deliver in total in 2022, and what was the decline compared to 2021?",
+        "Answer": "The Audi Group delivered 1,638,638 vehicles in 2022, a decline of 3% compared to 2021.",
+        "OriginalText": "In fiscal year 2022, the Premium brand group delivered a total of 1,638,638 (1,688,978) cars.",
+        "chunk_id": "2022---11"
+    },
+    "57": {
+        "Question": "How many vehicles did the Audi Group deliver in China in 2022, and what was the percentage decline compared to 2021?",
+        "Answer": "The Audi Group delivered 647,221 vehicles in China in 2022, representing a 7.8% decline compared to 2021.",
+        "OriginalText": "In China, the Premium brand group delivered 647,221 (702,224)³ vehicles by the end of 2022. The decline of –7.8 percent was due especially to production restrictions related to the coronavirus pandemic as well as to the persistently tense supply situation.",
+        "chunk_id": "2022---11"
+    },
+    "58": {
+        "Question": "What was the total revenue generated by the Audi Group in 2022, and what was the percentage increase compared to 2021?",
+        "Answer": "The Audi Group generated EUR 61,753 million in 2022, marking a 16.4% increase compared to 2021.",
+        "OriginalText": "The Audi Group generated revenue of EUR 61,753 (53,068) million in the 2022 fiscal year. The 16.4 percent increase compared with the previous year despite an almost constant number of vehicles sold was due to strong price enforcement as well as to the first-time consolidation of the Bentley brand as of January 1, 2022.",
+        "chunk_id": "2022---11"
+    },
+    "59": {
+        "Question": "What was the total delivery figure for the Audi Q4 e-tron in 2022, and how did it compare to the previous year?",
+        "Answer": "The Audi Q4 e-tron delivered 52,784 units in 2022, marking a year-on-year increase from the previous year.",
+        "OriginalText": "The best-selling fully electric vehicle was the Audi Q4 e-tron with 52,784 units.",
+        "chunk_id": "2022---11"
+    },
+    "60": {
+        "Question": "What was the revenue from the Audi brand's car sales in 2022, and how did it compare to 2021?",
+        "Answer": "Revenue from the Audi brand's car sales increased to EUR 41,081 million in 2022, up from EUR 36,476 million in 2021.",
+        "OriginalText": "Revenue from the sale of cars of the Audi brand increased to EUR 41,081 (36,476) million.",
+        "chunk_id": "2022---12"
+    },
+    "61": {
+        "Question": "What was the total revenue from the sale of Lamborghini vehicles in 2022, and what was the percentage increase from 2021?",
+        "Answer": "Lamborghini's revenue from vehicle sales in 2022 was EUR 2,193 million, a 20.6% increase from EUR 1,818 million in 2021.",
+        "OriginalText": "The Lamborghini brand increased revenue from the vehicle business by 20.6 percent to EUR 2,193 (1,818) million.",
+        "chunk_id": "2022---12"
+    },
+    "62": {
+        "Question": "What were the financial results from Audi's China business in 2022, and how did it compare to the previous year?",
+        "Answer": "The financial result from Audi's China business in 2022 was EUR 1,153 million, slightly up from EUR 1,140 million in 2021.",
+        "OriginalText": "Overall, the Audi Group’s China business contributed EUR 1,153 (1,140) million to the financial result.",
+        "chunk_id": "2022---12"
+    },
+    "63": {
+        "Question": "How much did the Audi Group's total assets increase by in 2022?",
+        "Answer": "EUR 4,688 million.",
+        "OriginalText": "Total assets of the Audi Group as of December 31, 2022, increased to EUR 70,812 (66,124) million.",
+        "chunk_id": "2022---13"
+    },
+    "64": {
+        "Question": "What is the return on investment (ROI) for the Audi Group in 2022?",
+        "Answer": "22.2%.",
+        "OriginalText": "The Audi Group’s return on investment (ROI) was 22.2 (16.7) percent in the 2022 fiscal year.",
+        "chunk_id": "2022---13"
+    },
+    "65": {
+        "Question": "How much did the Audi Group's net cash flow amount to in 2022?",
+        "Answer": "EUR 4,808 million.",
+        "OriginalText": "Net cash flow of the Audi Group in the year under review amounted to EUR 4,808 (7,757) million.",
+        "chunk_id": "2022---13"
+    },
+    "66": {
+        "Question": "How much did the Audi Group spend on capital expenditures in 2022?",
+        "Answer": "EUR 2,590 million.",
+        "OriginalText": "Capital expenditure increased to EUR –2,590 (–1,990) million, mainly due to investments for the construction of the new plant.",
+        "chunk_id": "2022---13"
+    },
+    "67": {
+        "Question": "What was the financial result of the Audi Group’s China business in 2022?",
+        "Answer": "EUR 1,153 million.",
+        "OriginalText": "Overall, the Audi Group’s China business contributed EUR 1,153 (1,140) million to the financial result, despite the challenging market situation.",
+        "chunk_id": "2022---13"
+    },
+    "68": {
+        "Question": "What were the total realized measures in the Audi Transformation Plan (ATP) in 2022?",
+        "Answer": "More than EUR 4 billion.",
+        "OriginalText": "In the year under review, measures totaling more than EUR 4 billion were realized.",
+        "chunk_id": "2022---13"
+    },
+    "69": {
+        "Question": "What was the revenue of the Audi Group in 2022 and how much of it was attributable to the manufacture of low-carbon technologies for transport?",
+        "Answer": "In 2022, Audi Group's revenue was EUR 61.8 billion, with EUR 51.6 billion (83.5%) attributed to the manufacture of low-carbon technologies for transport.",
+        "OriginalText": "Revenue of the Audi Group in 2022 totaled EUR 61.8 (53.1) billion. Of this amount, EUR 51.6 (42.7) billion, or 83.5 (80.6) percent, was attributable to the economic activity “Manufacture of low-carbon technologies for transport” and therefore classified as taxonomy-eligible.",
+        "chunk_id": "2022---14"
+    },
+    "70": {
+        "Question": "What was the total amount invested by the Audi Group in 2022 for electrification and digitalization?",
+        "Answer": "In 2022, Audi earmarked around EUR 28 billion for electrification and digitalization.",
+        "OriginalText": "To drive forward its transformation to a provider of sustainable and connected premium mobility, the Audi Group is earmarking investments of around EUR 28 billion for electrification and digitalization based on the planning round approved at the start of 2023.",
+        "chunk_id": "2022---14"
+    },
+    "71": {
+        "Question": "What was the total revenue of the Audi Group in 2022?",
+        "Answer": "EUR 61.8 billion",
+        "OriginalText": "Revenue of the Audi Group in 2022 totaled EUR 61.8 (53.1) billion.",
+        "chunk_id": "2022---15"
+    },
+    "72": {
+        "Question": "What percentage of Audi Group's revenue in 2022 was classified as taxonomy-eligible?",
+        "Answer": "83.5%",
+        "OriginalText": "Of this amount, EUR 51.6 (42.7) billion, or 83.5 (80.6) percent, was attributable to the economic activity 'Manufacture of low-carbon technologies for transport' and therefore classified as taxonomy-eligible.",
+        "chunk_id": "2022---15"
+    },
+    "73": {
+        "Question": "How much capital expenditure in 2022 was related to the economic activity 'Manufacture of low-carbon technologies for transport'?",
+        "Answer": "EUR 5.1 billion",
+        "OriginalText": "Taxonomy-eligible capital expenditure thus totaled EUR 5.1 (4.0) billion or 100 percent.",
+        "chunk_id": "2022---15"
+    },
+    "74": {
+        "Question": "What was the total amount of operating expenditure for the Audi Group in 2022 classified as taxonomy-eligible?",
+        "Answer": "EUR 2.8 billion",
+        "OriginalText": "EUR 2.8 billion $100\\%$ taxonomy-eligible operating expenditure .",
+        "chunk_id": "2022---15"
+    },
+    "75": {
+        "Question": "What was the proportion of Audi Group's total capital expenditure in 2022 that was taxonomy-aligned?",
+        "Answer": "39.3%",
+        "OriginalText": "Taking into account the DNSH criteria and minimum safeguards, 39.3 (41.3) percent of total capital expenditure was taxonomy-aligned in 2022.",
+        "chunk_id": "2022---15"
+    },
+    "76": {
+        "Question": "What percentage of the Audi Group's revenue in 2022 was taxonomy-aligned, according to the screening criteria?",
+        "Answer": "13.5%",
+        "OriginalText": "Of this amount, EUR 8.3 (6.8) billion, or 13.5 (12.8) percent, fulfilled the screening criteria.",
+        "chunk_id": "2022---15"
+    },
+    "77": {
+        "Question": "What is the expected net cash flow corridor for Audi Group in 2023?",
+        "Answer": "EUR 4.5 to 5.5 billion",
+        "OriginalText": "The Audi Group is anticipating a net cash flow corridor of EUR 4.5 to 5.5 billion and thus continues to aim for a high level.",
+        "chunk_id": "2022---16"
+    },
+    "78": {
+        "Question": "What is the expected range for Audi Group's operating return on sales (ROS) in 2023?",
+        "Answer": "9 to 11 percent",
+        "OriginalText": "The corridor for the operating return on sales (ROS) is forecast to be between 9 and 11 percent.",
+        "chunk_id": "2022---16"
+    },
+    "79": {
+        "Question": "What does Audi's 'Vorsprung 2030' strategy include for 2022 and beyond in relation to ESG management?",
+        "Answer": "Taxonomy-aligned sales revenue ranked alongside the DCI as one of Audi’s ESG management targets.",
+        "OriginalText": "For example, since 2022, taxonomy-aligned sales revenue has ranked alongside the DCI as one of Audi’s ESG management targets.",
+        "chunk_id": "2022---16"
+    },
+    "80": {
+        "Question": "What is the role of the Risk Management System (RMS) and Internal Control System (ICS) in Audi Group as of 2022?",
+        "Answer": "The RMS and ICS protect the company against material risks and ensure compliance with legal and strategic goals.",
+        "OriginalText": "On this basis, the RMS/ICS of the Audi Group features three lines that are intended to protect the company against the occurrence of material risks. The risk early warning system and the RMS/ICS for accounting are subject to scrutiny by the independent auditor of the consolidated financial statements.",
+        "chunk_id": "2022---17"
+    },
+    "81": {
+        "Question": "How does Audi Group manage opportunities in 2022 to ensure its future viability?",
+        "Answer": "Audi Group integrates opportunities management into its structure, focusing on optimizing revenue, costs, and product improvements, while analyzing trends and industry factors.",
+        "OriginalText": "Opportunities management – which includes such aspects as optimizing revenue and costs and improving products – is integrated into the operational and organizational structure of the Audi Group and is closely aligned with our strategic objectives.",
+        "chunk_id": "2022---17"
+    },
+    "82": {
+        "Question": "What major risks did Audi face in 2022, particularly related to its product program?",
+        "Answer": "The most significant risks were delays in the ramp-up of new vehicle models due to the ambitious product program.",
+        "OriginalText": "The most significant risks at present relate to the implementation of the ambitious product program, which could subsequently lead to delays in the ramp‑up of new vehicle models.",
+        "chunk_id": "2022---17"
+    },
+    "83": {
+        "Question": "What were the primary risks Audi identified regarding its supply chain in 2022?",
+        "Answer": "Audi faced risks related to semiconductor shortages, gas and energy price increases, and supply chain disruptions due to geopolitical tensions.",
+        "OriginalText": "In addition to ongoing uncertainties concerning the availability of semiconductors, which could again negatively impact production volumes at the sites in 2023, there are also price and supply risks in the gas and energy sectors, which could affect Audi directly as well as the supply chain.",
+        "chunk_id": "2022---17"
+    },
+    "84": {
+        "Question": "What were the main opportunities Audi identified in 2022?",
+        "Answer": "Audi saw opportunities in a more lively global economy, easing supply situations, and synergies within the Volkswagen Group, especially in development, procurement, and production.",
+        "OriginalText": "Material opportunities may arise from a more lively global economy, declining inflation and an easing of the semiconductor and general supply situation. In addition, further synergies may develop within the Volkswagen Group and in particular within the Premium brand group.",
+        "chunk_id": "2022---17"
+    },
+    "85": {
+        "Question": "How did Audi address sustainability risks in 2022?",
+        "Answer": "Audi intensified its ESG risk management, focusing on climate change, electric mobility shift, and CO₂ fleet emission targets.",
+        "OriginalText": "Activities relating to a holistic ESG risk management system were further intensified in the year under review. The material medium- and long‑term opportunities and risks associated with climate change are explained below.",
+        "chunk_id": "2022---17"
+    },
+    "86": {
+        "Question": "What challenges did Audi face with its diesel issue in 2022?",
+        "Answer": "Audi continued to address lawsuits and criminal proceedings related to the diesel issue, with some consultations with authorities still ongoing.",
+        "OriginalText": "Individual and class action lawsuits brought by customers and/or environmental and consumer organizations are currently still pending against Volkswagen AG and other Volkswagen Group companies, including AUDI AG, in a number of countries.",
+        "chunk_id": "2022---17"
+    },
+    "87": {
+        "Question": "What specific risks did Audi face in the Chinese market in 2022?",
+        "Answer": "Audi faced risks from slowed growth in the premium market, intensified competition for electric vehicles, and geopolitical tensions.",
+        "OriginalText": "For example, the latest data points to a slowdown in growth in the premium market, accompanied by intensified competition, especially for electric vehicles.",
+        "chunk_id": "2022---17"
+    },
+    "88": {
+        "Question": "Which global compliance and integrity program did Audi implement in 2022?",
+        "Answer": "Audi implemented the Together4-Integrity (T4I) program across more than 40 subsidiaries and participations worldwide in 2022.",
+        "OriginalText": "Together4-Integrity (T4I) is a global compliance and integrity program of the Volkswagen Group and its brands. AUDI AG has rolled out the program in more than 40 subsidiaries and participations worldwide.",
+        "chunk_id": "2022---18"
+    },
+    "89": {
+        "Question": "Who is the Head of Integrity Management at Audi in 2022?",
+        "Answer": "The Head of Integrity Management at Audi in 2022 is Elke Neidlein.",
+        "OriginalText": "Elke Neidlein, Head of Integrity Management, Dr. Anna Ehret, Head of Corporate Culture, and Prof. Dr. Miriam Müthel from WHU Düsseldorf...",
+        "chunk_id": "2022---18"
+    },
+    "90": {
+        "Question": "What are the four corporate values at Audi as stated in the 2022 report?",
+        "Answer": "The four corporate values at Audi in 2022 are appreciation, openness, responsibility, and integrity.",
+        "OriginalText": "The four corporate values at Audi are appreciation, openness, responsibility and integrity.",
+        "chunk_id": "2022---18"
+    },
+    "91": {
+        "Question": "What does the Leadership Indicator at Audi measure in 2022?",
+        "Answer": "The Leadership Indicator at Audi measures leadership performance based on an annual employee survey, and it is incorporated into the target agreements of top decision-makers.",
+        "OriginalText": "The key to this is a working environment that offers psychological safety and orientation, a place where different opinions are welcome... Moreover, a culture of trust is essential in order to retain employees and attract specialists and experts.",
+        "chunk_id": "2022---18"
+    },
+    "92": {
+        "Question": "How does Audi promote responsible leadership in 2022?",
+        "Answer": "Audi promotes responsible leadership in 2022 by offering Integrity Skillset training and 360-degree feedback systems for managers.",
+        "OriginalText": "In our Integrity Skillset training, for example, we teach future managers how to make ethical decisions in an increasingly complex environment...",
+        "chunk_id": "2022---18"
+    },
+    "93": {
+        "Question": "Which program did Audi implement to enhance ethical leadership in 2022?",
+        "Answer": "In 2022, Audi implemented the Integrity Skillset as part of its leadership training to promote ethical leadership.",
+        "OriginalText": "The Integrity Skillset, which Prof. Dr. Miriam Müthel developed in collaboration with Volkswagen under the Together4Integrity program, is now an established part of leadership training at Audi.",
+        "chunk_id": "2022---19"
+    },
+    "94": {
+        "Question": "How many vehicles did Lamborghini deliver in 2022, and what was its revenue?",
+        "Answer": "In 2022, Lamborghini delivered 9,233 vehicles and generated revenue of EUR 2,375 million, a 21.9% increase compared to the previous year.",
+        "OriginalText": "Lamborghini delivered 9,233 (8,405) vehicles to customers worldwide, generating revenue of EUR 2,375 (1,948) million, 21.9 percent more than in the previous year.",
+        "chunk_id": "2022---19"
+    },
+    "95": {
+        "Question": "What was the operating profit and return on sales for Lamborghini in 2022?",
+        "Answer": "Lamborghini posted an operating profit of EUR 614 million and a return on sales of 25.9% in 2022, setting new records.",
+        "OriginalText": "With an operating profit of EUR 614 (393) million, Lamborghini posted a return on sales of 25.9 (20.2) percent – new records in the company’s history.",
+        "chunk_id": "2022---19"
+    },
+    "96": {
+        "Question": "Which two key aspects are emphasized in Audi's Leadership.Compass as of 2022?",
+        "Answer": "As of 2022, Audi's Leadership.Compass emphasizes being a role model and a coach as key aspects of leadership.",
+        "OriginalText": "At Audi means being a role model, coach, pioneer and entrepreneur. We have incorporated this into the Leadership.Compass, our central definition of leadership.",
+        "chunk_id": "2022---19"
+    },
+    "97": {
+        "Question": "What key benefit did Ducati achieve in 2022 through its collaboration with Audi?",
+        "Answer": "In 2022, Ducati benefited from its collaboration with Audi by using Audi dealerships' showrooms at over 15 locations, contributing positively to volume growth.",
+        "OriginalText": "In the case of one project in Sales, the Ducati brand is now using the showrooms of Audi dealers at more than 15 sites. And very successfully, with collaboration making a positive contribution to volume growth in 2022.",
+        "chunk_id": "2022---19"
+    },
+    "98": {
+        "Question": "What new models did Lamborghini launch in 2022?",
+        "Answer": "Lamborghini launched the Huracán Tecnica and new models in the super SUV family, including the Urus Performante and Urus S in 2022.",
+        "OriginalText": "In 2022, Lamborghini presented a truly dazzling display of new products, including the launch of the Huracán Tecnica and with new additions in the super SUV family with the Urus Performante and the Urus S.",
+        "chunk_id": "2022---19"
+    },
+    "99": {
+        "Question": "What was the strategy behind the Premium brand group's governance model in 2022?",
+        "Answer": "The strategy behind the Premium brand group's governance model in 2022 was to establish unique selling points for each brand while leveraging synergies between them, such as shared technical platforms.",
+        "OriginalText": "The governance model of the Premium brand group focuses on establishing unique selling points for each brand... The key priority is to leverage synergy potential optimally to ensure mutual success.",
+        "chunk_id": "2022---19"
+    },
+    "100": {
+        "Question": "What was Lamborghini's operating profit in 2022?",
+        "Answer": "EUR 614 million",
+        "OriginalText": "With an operating profit of EUR 614 (393) million, Lamborghini posted a return on sales of 25.9 (20.2) percent – new records in the company’s history.",
+        "chunk_id": "2022---20"
+    },
+    "101": {
+        "Question": "What was the revenue growth percentage for Lamborghini in 2022 compared to 2021?",
+        "Answer": "21.9%",
+        "OriginalText": "Revenue in EUR million 2,375 (2021: 1,948) +21.9%.",
+        "chunk_id": "2022---20"
+    },
+    "102": {
+        "Question": "How many Lamborghini vehicles were delivered to customers in 2022?",
+        "Answer": "9,233 vehicles",
+        "OriginalText": "Lamborghini delivered 9,233 (2021: 8,405) vehicles to customers worldwide, generating revenue of EUR 2,375 million, 21.9 percent more than in the previous year.",
+        "chunk_id": "2022---20"
+    },
+    "103": {
+        "Question": "What was the operating return on sales (ROS) for Lamborghini in 2022?",
+        "Answer": "25.9%",
+        "OriginalText": "Operating return on sales (ROS) 25.9% (2021: 20.2%) +5.7 ppt.",
+        "chunk_id": "2022---20"
+    },
+    "104": {
+        "Question": "What was Bentley's delivery increase percentage in 2022 compared to 2021?",
+        "Answer": "3.5%",
+        "OriginalText": "Bentley delivered 15,174 (14,659) cars, topping its previous record by 3.5 percent.",
+        "chunk_id": "2022---20"
+    },
+    "105": {
+        "Question": "What was Bentley's operating return on sales (ROS) in 2022?",
+        "Answer": "20.9%",
+        "OriginalText": "Operating return on sales (ROS) 20.9% (2021: 13.7%) +7.2 ppt.",
+        "chunk_id": "2022---20"
+    },
+    "106": {
+        "Question": "What percentage of Bentley customers considering purchasing a car in 2022 were under the age of 40?",
+        "Answer": "78%",
+        "OriginalText": "78 percent of those considering purchasing a Bentley are under the age of 40.",
+        "chunk_id": "2022---20"
+    },
+    "107": {
+        "Question": "In 2022, what is Bentley's target for its operating return on sales (ROS) by 2030?",
+        "Answer": "Over 20%",
+        "OriginalText": "Bentley is planning to achieve an operating return on sales of over 20 percent from 2030.",
+        "chunk_id": "2022---20"
+    },
+    "108": {
+        "Question": "In 2022, Ducati achieved which major sporting accomplishments?",
+        "Answer": "Ducati triumphed in both the MotoGP™ and WorldSBK championships, with Francesco Bagnaia winning the MotoGP riders' title.",
+        "OriginalText": "In 2022, Ducati was able to celebrate its best sporting year of all time having triumphed in both the MotoGP™ and WorldSBK championships. In MotoGP™, Italian rider Francesco Bagnaia won the MotoGP riders’ title after an unprecedented comeback.",
+        "chunk_id": "2022---20"
+    },
+    "109": {
+        "Question": "How many motorcycles did Ducati deliver in 2022?",
+        "Answer": "61,562 motorcycles",
+        "OriginalText": "In 2022, Ducati delivered 61,562 (59,447) motorcycles – more than ever before in one year.",
+        "chunk_id": "2022---21"
+    },
+    "110": {
+        "Question": "What was the operating profit of Ducati in 2022?",
+        "Answer": "EUR 109 million",
+        "OriginalText": "Operating profit in EUR million 109 (2021: 61) +77.5%.",
+        "chunk_id": "2022---21"
+    },
+    "111": {
+        "Question": "What was the growth rate in revenue for Ducati in 2022 compared to 2021?",
+        "Answer": "24.0%",
+        "OriginalText": "Revenue rose by 24.0 percent to EUR 1,089 (878) million.",
+        "chunk_id": "2022---21"
+    },
+    "112": {
+        "Question": "Which Ducati model had the highest delivery numbers in 2022?",
+        "Answer": "Multistrada V4",
+        "OriginalText": "With deliveries of 10,716 motorcycles worldwide, the Multistrada V4 in its different versions once more proved to be the most popular model among Ducatis­ti.",
+        "chunk_id": "2022---21"
+    },
+    "113": {
+        "Question": "What was the operating return on sales for Ducati in 2022?",
+        "Answer": "10.0%",
+        "OriginalText": "Operating return on sales reached 10.0% (2021: 7.0%).",
+        "chunk_id": "2022---21"
+    },
+    "114": {
+        "Question": "What percentage of Ducati's sales network grew to by the end of 2022?",
+        "Answer": "821 distribution facilities",
+        "OriginalText": "The number of distribution facilities increased to a record 821 by the end of 2022.",
+        "chunk_id": "2022---21"
+    },
+    "115": {
+        "Question": "In which new markets did Ducati open dealerships in 2022?",
+        "Answer": "Brunei, Ecuador, El Salvador, and Mongolia",
+        "OriginalText": "With new dealerships opened in Brunei, Ecuador, El Salvador, and Mongolia, Ducati now has a presence in 96 markets.",
+        "chunk_id": "2022---21"
+    },
+    "116": {
+        "Question": "What is the fuel consumption range of the Audi Q4 55 e-tron according to the WLTP in 2022?",
+        "Answer": "The fuel consumption range of the Audi Q4 55 e-tron is 24.4–20.6 kWh/100 km according to the WLTP in 2022.",
+        "OriginalText": "Audi Q4 55 e-tron: electric power consumption (combined) in kWh/100 km: 24.4–20.6 (WLTP); CO₂ emissions (combined) in g/km: 0.",
+        "chunk_id": "2022---22"
+    },
+    "117": {
+        "Question": "Which Audi model offered seat upholstery made of recycled PET bottles and mixed plastic waste in 2022?",
+        "Answer": "The Audi Q8 e-tron offered seat upholstery made of recycled PET bottles and mixed plastic waste in 2022.",
+        "OriginalText": "For the Audi Q8 e‑tron, the company will not only offer optional interior features such as seat upholstery made of recycled PET bottles, old textiles or fiber scraps.",
+        "chunk_id": "2022---23"
+    },
+    "118": {
+        "Question": "What is the unique feature of the Audi urbansphere concept’s interior design, launched in 2022?",
+        "Answer": "The Audi urbansphere concept, launched in 2022, features an extremely large interior with swiveling armchairs and a large-format OLED screen for infotainment and video calls.",
+        "OriginalText": "The concept car offers an extremely large interior with four individual seats in two rows: when conversing, passengers can turn to face each other on their swiveling armchairs.",
+        "chunk_id": "2022---23"
+    },
+    "119": {
+        "Question": "How does Audi’s Premium Platform Electric (PPE), introduced in 2022, improve digital experiences in vehicles?",
+        "Answer": "The PPE, introduced in 2022, provides over-the-air updates, improved connectivity through 5G, and enhanced navigation and safety features like assisted driving and hazard warnings.",
+        "OriginalText": "The launch of the Premium Platform Electric (PPE) is the next important step for Audi ... connecting to the Volkswagen Automotive Cloud for over-the-air updates so that the vehicle’s software is always up to date.",
+        "chunk_id": "2022---23"
+    },
+    "120": {
+        "Question": "Which Audi model's range increased by more than 30% in 2022?",
+        "Answer": "The Audi Q8 e-tron's range increased by more than 30% compared to its predecessor.",
+        "OriginalText": "The Audi Q8 e-tron,¹ which is set to hit dealerships in selected markets in 2023, will build on these successes. In many key aspects, it overtakes its predecessor. For example, its range – measured according to WLTP – has been increased by more than 30 percent.",
+        "chunk_id": "2022---24"
+    },
+    "121": {
+        "Question": "What is the total electric power consumption range (in kWh/100 km) for the Audi Q8 e-tron, as stated in the 2022 Annual Report?",
+        "Answer": "The electric power consumption of the Audi Q8 e-tron ranges from 24.4 to 20.1 kWh/100 km.",
+        "OriginalText": "Audi Q8 e-tron: electric power consumption (combined) in kWh/100 km: 24.4–20.1.",
+        "chunk_id": "2022---24"
+    },
+    "122": {
+        "Question": "In the 2022 report, what significant feature did the Audi Q8 e-tron offer for premium comfort?",
+        "Answer": "The Audi Q8 e-tron offered a charging timer and preconditioning to adjust the vehicle's interior temperature before departure.",
+        "OriginalText": "Premium comfort is also provided by the charging timer, for instance, by allowing customers to set the precise time of departure. […] In addition, preconditioning adjusts the temperature of the vehicle interior to the desired level prior to departure.",
+        "chunk_id": "2022---24"
+    },
+    "123": {
+        "Question": "How many public charging points were available in Germany by December 2022?",
+        "Answer": "Over 63,500 charging points, including over 12,500 fast-charging terminals.",
+        "OriginalText": "According to the German Federal Network Agency, there were over 63,500 charging points in Germany in December 2022, including over 12,500 fast-charging terminals.",
+        "chunk_id": "2022---25"
+    },
+    "124": {
+        "Question": "How much did the number of publicly accessible charging stations in the EU grow from 2015 to 2021?",
+        "Answer": "By 580 percent.",
+        "OriginalText": "the number of publicly accessible charging stations grew by 580 percent between 2015 and 2021.",
+        "chunk_id": "2022---25"
+    },
+    "125": {
+        "Question": "What is the significant safety achievement of the Audi Q4 e-tron in terms of crash testing in 2022?",
+        "Answer": "The Audi Q4 e-tron received the top rating of five stars in the Euro NCAP crash test in 2022.",
+        "OriginalText": "For example, the Audi Q4 e-tron received the top rating of five stars in the Euro NCAP crash test.",
+        "chunk_id": "2022---26"
+    },
+    "126": {
+        "Question": "What was the key improvement in Audi's electric car safety testing in 2022?",
+        "Answer": "Audi increased focus on safety with crash simulations, performing thousands each year, as well as working on high-voltage battery safety.",
+        "OriginalText": "Crash simulations are now an indispensable part of model development: our specialists perform thousands of crash simulations each year before the first real prototype is built.",
+        "chunk_id": "2022---26"
+    },
+    "127": {
+        "Question": "What safety measure does Audi implement for its electric vehicles in the event of a crash, according to 2022?",
+        "Answer": "In the event of a crash, the high-voltage system in Audi's electric vehicles is automatically shut down to reduce power in the high-voltage system.",
+        "OriginalText": "At the same time, the high-voltage system is shut down after an accident in which the airbag is triggered so that the power in the high-voltage system is automatically reduced.",
+        "chunk_id": "2022---26"
+    },
+    "128": {
+        "Question": "What major milestone did Audi Sport GmbH achieve in 2022?",
+        "Answer": "Audi Sport GmbH achieved success at all levels, including race victories, sales figures, and announced its entry into Formula 1 from 2026.",
+        "OriginalText": "Audi Sport achieved success at all levels in 2022 – from sales figures to countless race victories and titles. Audi is now taking on a new challenge and will be competing in Formula 1 from 2026.",
+        "chunk_id": "2022---27"
+    },
+    "129": {
+        "Question": "What major development in digitalization did Audi focus on in 2022?",
+        "Answer": "In 2022, Audi focused on ensuring data privacy and cybersecurity, alongside integrating digital services into its models.",
+        "OriginalText": "Responsible digitalization is a central topic for our customers and the company and sets the brands in the Premium brand group apart from the competition. […] The company continually enhances its security systems to prevent attacks on the IT infrastructure.",
+        "chunk_id": "2022---27"
+    },
+    "130": {
+        "Question": "What was Audi's stance on the risk of fires in electric cars compared to combustion vehicles in 2022?",
+        "Answer": "Audi stated that there was no increased risk of fire in electric cars compared to combustion vehicles in the event of an accident.",
+        "OriginalText": "Do you think there is an increased risk of fire in the event of an accident with an electric car compared with a vehicle with combustion engine? Without question: no, not at all!",
+        "chunk_id": "2022---27"
+    },
+    "131": {
+        "Question": "How does Audi ensure data privacy in its vehicles as of 2022?",
+        "Answer": "Audi treats data privacy as a high priority, ensuring that customers can decide which personal data to disclose and who can use it.",
+        "OriginalText": "Audi treats data privacy as a high priority. This is true in respect of all IT solutions and starts with the development of products and services. The conscientious use of data within the scope of applicable legislation is therefore regarded as an integral part of corporate responsibility.",
+        "chunk_id": "2022---27"
+    },
+    "132": {
+        "Question": "What role does Audi's battery testing center in Gaimersheim play in ensuring safety in electric cars in 2022?",
+        "Answer": "Audi's battery testing center in Gaimersheim conducts crash and overcharge tests, simulates service life, and ensures product safety for electric vehicles.",
+        "OriginalText": " The Premium brand group can rely in this respect on the know-how of its own battery testing center in Gaimersheim. Here, the individual cells and the battery system as a whole have to pass numerous intensive tests. ",
+        "chunk_id": "2022---27"
+    },
+    "133": {
+        "Question": "What process does Audi recommend for fire safety after an accident involving an electric car in 2022?",
+        "Answer": "Audi recommends using water to extinguish fires in electric cars, as it is the best means to cool the battery and prevent re-ignition.",
+        "OriginalText": "Water is and clearly remains the best means of extinguishing a fire. The advantage: water is available almost everywhere, unlike firefighting foam.",
+        "chunk_id": "2022---27"
+    },
+    "134": {
+        "Question": "How many vehicles did Audi Sport deliver in 2022, and how does this compare to the previous year?",
+        "Answer": "Audi Sport delivered 45,515 vehicles in 2022, marking a 15.6% increase compared to the previous year.",
+        "OriginalText": "In 2022, we delivered a total of 45,515 vehicles – an increase of 15.6 percent compared with the prior year.",
+        "chunk_id": "2022---28"
+    },
+    "135": {
+        "Question": "How did  Audi RS Q e-tron vehicles perform in the 2022 Dakar Rally?",
+        "Answer": "The Audi RS Q e-tron participated in the 2022 Dakar Rally, achieving four stage victories on its debut.",
+        "OriginalText": "The Audi RS Q e-tron managed to cross the finish line of the world’s toughest desert rally at the very first attempt on its 2022 debut, scoring four stage victories along the way.",
+        "chunk_id": "2022---28"
+    },
+    "136": {
+        "Question": "In 2022, how many Audi exclusive R and RS special editions did the company realize, and what proportion of Audi R8 vehicles were customized?",
+        "Answer": "Audi exclusive realized ten R and RS special editions in 2022, and customized one in four Audi R8 vehicles.",
+        "OriginalText": "In 2022, Audi exclusive realized ten R and RS special editions and customized one in four Audi R8 vehicles.",
+        "chunk_id": "2022---28"
+    },
+    "137": {
+        "Question": "What is the fuel consumption range for the Audi RS 7 Sportback in 2022, according to the report?",
+        "Answer": "The fuel consumption of the Audi RS 7 Sportback in 2022 ranged from 12.5 to 12.0 liters per 100 km.",
+        "OriginalText": "fuel consumption (combined) in l/100 km: 12.5–12.0",
+        "chunk_id": "2022---28"
+    },
+    "138": {
+        "Question": "What was the customer racing department's milestone in 2022 regarding the Audi R8 LMS GT3?",
+        "Answer": "In 2022, the customer racing department produced the 300th Audi R8 LMS GT3, bringing the total number of race cars built to 750.",
+        "OriginalText": "In 2022, the customer racing department produced the 300th Audi R8 LMS GT3, bringing the total number of race cars built over the course of 14 years to 750.",
+        "chunk_id": "2022---28"
+    },
+    "139": {
+        "Question": "What significant achievement did Audi Sport customer racing accomplish in 2022 concerning titles?",
+        "Answer": "Audi Sport customer racing achieved a record 76 titles in 2022, an increase of 11 titles from the previous year.",
+        "OriginalText": "In 2022, we topped our previous record from the year before by an impressive 11 titles, for a total of 76.",
+        "chunk_id": "2022---28"
+    },
+    "140": {
+        "Question": "What is the maximum drive power of the Audi RS Q e-tron used in the Dakar Rally in 2022?",
+        "Answer": "The maximum drive power of the Audi RS Q e-tron in the 2022 Dakar Rally is 263 kW.",
+        "OriginalText": "Its maximum drive power is 263 kW.",
+        "chunk_id": "2022---28"
+    },
+    "141": {
+        "Question": "What was the success rate for Audi Sport customer racing teams in 2022, and how many races did they participate in?",
+        "Answer": "Audi Sport customer racing teams achieved a 36% success rate in over 800 races in 2022.",
+        "OriginalText": "The teams achieved a victory rate of 36 percent in more than 800 races.",
+        "chunk_id": "2022---28"
+    },
+    "142": {
+        "Question": "In which event did the Audi RS Q e-tron make its debut in 2022?",
+        "Answer": "The Dakar Rally",
+        "OriginalText": "Since 2022, the Dakar Rally has been the flagship event in the Audi brand’s motorsport activities.  The Audi RS Q e-tron managed to cross the finish line of the world’s toughest desert rally at the very first attempt on its 2022 debut.",
+        "chunk_id": "2022---29"
+    },
+    "143": {
+        "Question": "How many stage victories did the Audi RS Q e-tron achieve in the 2022 Dakar Rally?",
+        "Answer": "Four",
+        "OriginalText": "The Audi RS Q e-tron managed to cross the finish line of the world’s toughest desert rally at the very first attempt on its 2022 debut, scoring four stage victories along the way.",
+        "chunk_id": "2022---29"
+    },
+    "144": {
+        "Question": "How did the war in Ukraine affect Audi's Mission:Zero environmental program in 2022?",
+        "Answer": "The war in Ukraine impacted Audi's Mission:Zero environmental program by forcing the company to reconsider its energy supply concepts and develop contingency plans.",
+        "OriginalText": "The war in Ukraine is also impacting our work.  It was a new experience for us to face the question of whether we would actually be supplied with gas.  In response to this energy crisis, we developed contingency plans and had to revise our existing energy supply concepts.",
+        "chunk_id": "2022---30"
+    },
+    "145": {
+        "Question": "By what percentage did Audi reduce its energy intensity per vehicle produced in 2022 compared to 2021?",
+        "Answer": "Audi reduced its energy intensity per vehicle produced in 2022 by 12.74% compared to 2021.",
+        "OriginalText": "The energy intensity of the Group relating to automotive production including component manufacturing was 2.74 MWh per vehicle in the year under review.    That is 12.74 percent (0.4 MWh/vehicle) less than in 2021.",
+        "chunk_id": "2022---30"
+    },
+    "146": {
+        "Question": "How much CO₂ emissions did Audi cut annually by switching from road to rail for cell module transportation to the Brussels plant in 2022?",
+        "Answer": "Audi cut just under 3,800 metric tons of CO₂ emissions annually by switching to rail for cell module transportation to the Brussels plant in 2022.",
+        "OriginalText": "One measure stands out in particular: the switch in cell module transportation to the Audi plant in Brussels, which is now to take place as a rule by rail and no longer by road.    This has cut CO₂ emissions by just under 3,800 metric tons each year.",
+        "chunk_id": "2022---30"
+    },
+    "147": {
+        "Question": "What percentage of Audi's energy consumption came from renewable sources in 2022?",
+        "Answer": "In 2022, approximately 69.01% of Audi's energy consumption came from renewable sources.",
+        "OriginalText": "The share of energy from renewable sources increased year-on-year by around 5.89 percent to 69.01 percent.",
+        "chunk_id": "2022---30"
+    },
+    "148": {
+        "Question": "What was Audi’s energy consumption per vehicle in MWh in 2022 and how does it compare to the previous year?",
+        "Answer": "Audi's energy consumption per vehicle in 2022 was 2.74 MWh, a reduction of 0.4 MWh (12.74%) compared to 2021.",
+        "OriginalText": "The energy intensity of the Group relating to automotive production including component manufacturing was 2.74 MWh per vehicle in the year under review.    That is 12.74 percent (0.4 MWh/vehicle) less than in 2021.",
+        "chunk_id": "2022---30"
+    },
+    "149": {
+        "Question": "What is the target carbon intensity per vehicle for Audi in 2022?",
+        "Answer": "Audi's carbon intensity per vehicle produced in 2022 was 203.73 kg of CO₂.",
+        "OriginalText": "The intensity quotient – the intensity of greenhouse gas emissions related to automotive production including component manufacture – amounted to 203.73 kg CO₂ per vehicle in the year under review.",
+        "chunk_id": "2022---30"
+    },
+    "150": {
+        "Question": "By how much did the share of renewable energy increase in Audi's total energy consumption in 2022?",
+        "Answer": "The share of renewable energy increased by around 5.89% to 69.01% in 2022.",
+        "OriginalText": "The share of energy from renewable sources increased year-on-year by around 5.89 percent to 69.01 percent.",
+        "chunk_id": "2022---31"
+    },
+    "151": {
+        "Question": "What reduction in wastewater change per vehicle did Audi achieve in 2022 compared to the previous year?",
+        "Answer": "The volume of wastewater per vehicle decreased in 2022.",
+        "OriginalText": "The volume of wastewater, measured in m³ per vehicle, decreased in 2022.",
+        "chunk_id": "2022---31"
+    },
+    "152": {
+        "Question": "What was the total volume of metallic waste generated by the Audi Group in 2022, and what was its recycling destination?",
+        "Answer": "In 2022, the Audi Group generated 274,118 metric tons of metallic waste, all of which was destined for recycling.",
+        "OriginalText": "In the year under review, 274,118 metric tons of metallic waste were generated throughout the Group, all of which is destined for recycling.",
+        "chunk_id": "2022---32"
+    },
+    "153": {
+        "Question": "Which Audi production sites were included in the biodiversity index that tracks 58 biodiversity parameters in 2022?",
+        "Answer": "The biodiversity index tracked 58 biodiversity parameters at five Audi production sites in 2022.",
+        "OriginalText": "The biodiversity index is a joint development with Volkswagen and records 58 biodiversity parameters for five Audi production sites.",
+        "chunk_id": "2022---32"
+    },
+    "154": {
+        "Question": "How much plastic waste did Audi reduce in 2022 through optimization measures in the supply chain?",
+        "Answer": "Audi reduced plastic waste by just under 550 metric tons in 2022 through optimization measures in the supply chain.",
+        "OriginalText": "Thanks to a large number of optimization measures in conjunction with suppliers, the team responsible for resource efficiency in the supply chain reduced plastic waste by just under 550 metric tons in the year under review.",
+        "chunk_id": "2022---32"
+    },
+    "155": {
+        "Question": "What percentage of recyclable waste was generated from the total volume of waste excluding metallic waste in 2022?",
+        "Answer": "In 2022, 97.24 percent of the waste excluding metallic waste was recyclable.",
+        "OriginalText": "Of which 97.24 percent is recyclable.",
+        "chunk_id": "2022---32"
+    },
+    "156": {
+        "Question": "What was the reason of the ‘Zero Impact Factory Award’ that Audi won in 2022, and what specific achievement contributed to it?",
+        "Answer": "Audi won the ‘Zero Impact Factory Award’ in 2022 for reducing plastic waste by just under 550 metric tons through supply chain optimization measures.",
+        "OriginalText": "Thanks to a large number of optimization measures in conjunction with suppliers, the team responsible for resource efficiency in the supply chain reduced plastic waste by just under 550 metric tons in the year under review. This won the project the 'Zero Impact Factory Award' from the Volkswagen Group.",
+        "chunk_id": "2022---32"
+    },
+    "157": {
+        "Question": "Which sites are considered in the environmental data for Audi’s car production according to the 2022 report?",
+        "Answer": "The environmental data for Audi’s car production includes the sites in Ingolstadt, Münchsmünster, Neckarsulm, Brussels, Győr, San José Chiapa, Crewe (since 2022), and Sant’Agata Bolognese.",
+        "OriginalText": "The environmental data for car production (Ingolstadt, Münchsmünster, Neckarsulm, Brussels, Győr, San José Chiapa, Crewe (since 2022) and Sant’ Agata Bolognese sites) including San Jose Chiapa is also shown separately for better comprehensibility.",
+        "chunk_id": "2022---33"
+    },
+    "158": {
+        "Question": "Which environmental management systems are used at Audi's sites according to the 2022 report?",
+        "Answer": "Audi’s sites use environmental management systems accredited according to ISO 14001, ISO 50001, and the EMAS standard.",
+        "OriginalText": "The Audi production sites in Germany and abroad have management systems accredited according to DIN EN ISO 14001 or DIN EN ISO 50001. The European sites, in particular, are validated additionally in accordance with the EMAS.",
+        "chunk_id": "2022---33"
+    },
+    "159": {
+        "Question": "How many end-of-life vehicles were involved in Audi's MaterialLoop pilot project launched in 2022?",
+        "Answer": "100",
+        "OriginalText": "With a total of 100 end-of-life vehicles and in collaboration with 15 partners from industry and research...",
+        "chunk_id": "2022---34"
+    },
+    "160": {
+        "Question": "What is the primary goal of Audi's MaterialLoop project as mentioned in the 2022 report?",
+        "Answer": "To return as much material as possible from 100 end-of-life vehicles to the automotive cycle without loss of quality.",
+        "OriginalText": "The goals: first, to return as much material as possible from 100 end-of-life vehicles to the automotive cycle without loss of quality (avoiding downcycling).",
+        "chunk_id": "2022---34"
+    },
+    "161": {
+        "Question": "What is the expected reduction in carbon dioxide emissions when remanufacturing automotive glass according to Audi's 2022 report?",
+        "Answer": "Up to 30 percent less carbon dioxide is emitted.",
+        "OriginalText": "In addition, up to 30 percent less carbon dioxide is emitted during remanufacturing when compared with producing new glass.",
+        "chunk_id": "2022---34"
+    },
+    "162": {
+        "Question": "What is the goal of the PowerCo cell factory in Salzgitter as per Audi's 2022 report?",
+        "Answer": "To manufacture battery cells with a recycling rate of more than 90 percent as part of a raw material closed loop.",
+        "OriginalText": "The objective of PowerCo is to manufacture battery cells with a recycling rate of more than 90 percent as part of a raw material closed loop.",
+        "chunk_id": "2022---34"
+    },
+    "163": {
+        "Question": "How many suppliers had completed an SAQ for the S-Rating by December 31, 2022?",
+        "Answer": "By December 31, 2022, a total of around 16,000 suppliers had completed an SAQ for the S-Rating.",
+        "OriginalText": "By the end of the reporting period on December 31, 2022, a total of around 16,000 suppliers had completed an SAQ for the S-Rating.",
+        "chunk_id": "2022---35"
+    },
+    "164": {
+        "Question": "How many on-site checks were conducted in the Volkswagen Group in 2022 due to deficiencies in the S-Rating?",
+        "Answer": "In 2022, 252 on-site checks were conducted in the Volkswagen Group due to deficiencies in the S-Rating.",
+        "OriginalText": "In the year under review, 252 on-site checks were carried out in the Volkswagen Group.",
+        "chunk_id": "2022---35"
+    },
+    "165": {
+        "Question": "How many suppliers were blocked temporarily for new awards of contract due to serious violations in 2022?",
+        "Answer": "A total of four suppliers were blocked temporarily in 2022.",
+        "OriginalText": "A total of four suppliers were blocked temporarily for new awards of contract due to serious violations.",
+        "chunk_id": "2022---36"
+    },
+    "166": {
+        "Question": "In 2022, how many participants completed the Act4Impact sustainability training?",
+        "Answer": "Around 3,000 participants completed the training in 2022.",
+        "OriginalText": "From this target group, around 3,000 participants completed this training in 2022 alone.",
+        "chunk_id": "2022---36"
+    },
+    "167": {
+        "Question": "Which AI technology did Audi use in 2022 to assess potential sustainability risks in the supply chain?",
+        "Answer": "Audi used AI developed by the company Prewave to assess sustainability risks in the supply chain.",
+        "OriginalText": "Intelligent algorithms are used, for example, to check early on whether there are potential sustainability risks in the supply chain. For instance, the AI developed by the company Prewave analyzes publicly accessible news from more than 150 countries in over 50 languages in real time.",
+        "chunk_id": "2022---36"
+    },
+    "168": {
+        "Question": "In 2022, which program did Audi participate in to promote social businesses in the supply chain?",
+        "Answer": "Audi participated in the 'Unusual Partners' program to promote social businesses in the supply chain.",
+        "OriginalText": "Audi has entered into a partnership with Yunus Social Business, the global organization for social innovation. As a participant in its 'Unusual Partners' program, Audi is advocating for greater integration of social businesses in the value chain.",
+        "chunk_id": "2022---36"
+    },
+    "169": {
+        "Question": "How much CO₂ did Audi reduce in 2022 through supply chain measures with its suppliers?",
+        "Answer": "In 2022, Audi was able to reduce net carbon emissions by more than 375,000 metric tons through measures taken in the supply chain with its suppliers.",
+        "OriginalText": "In 2022, Audi was able to reduce net carbon emissions by more than 375,000 metric tons by means of measures taken in the supply chain together with suppliers.",
+        "chunk_id": "2022---37"
+    },
+    "170": {
+        "Question": "What is the main source of CO₂ emissions in the supply chain for electric vehicles according to Audi’s findings in 2022?",
+        "Answer": "The main source of CO₂ emissions in the supply chain for electric vehicles is the high-voltage battery, followed by parts made of aluminum and steel.",
+        "OriginalText": "The biggest emissions driver in the supply chain for an electric vehicle is the high-voltage battery, followed by parts made of aluminum and steel.",
+        "chunk_id": "2022---37"
+    },
+    "171": {
+        "Question": "How many oak trees were planted by the Audi Environmental Foundation as of 2022?",
+        "Answer": "More than 100,000 oak trees.",
+        "OriginalText": "The internationalization of this research approach has already seen more than 100,000 oak trees planted at various sites worldwide.",
+        "chunk_id": "2022---38"
+    },
+    "172": {
+        "Question": "What percentage of women made up the Supervisory Board of AUDI AG as of December 31, 2022?",
+        "Answer": "40 percent.",
+        "OriginalText": "Women made up 40 percent of the Supervisory Board as of December 31, 2022.",
+        "chunk_id": "2022---38"
+    },
+    "173": {
+        "Question": "How many supplier companies does Audi work with as of 2022?",
+        "Answer": "Over 14,000 supplier companies.",
+        "OriginalText": "Audi works with over 14,000 supplier companies from 60 countries.",
+        "chunk_id": "2022---38"
+    },
+    "174": {
+        "Question": "What initiative is Michael Hügel associated with at Audi as of 2022?",
+        "Answer": "Greenovation project, supporting energy storage systems using used battery modules.",
+        "OriginalText": "The current Greenovation project finds Michael Hügel and his team supporting German-Indian start-up company Nunam, whose work includes developing energy storage systems based on used battery modules from test vehicles.",
+        "chunk_id": "2022---38"
+    },
+    "175": {
+        "Question": "How much of Audi's workforce participated in hybrid work between October and December 2022?",
+        "Answer": "Around two-thirds of employees with variable working hours models.",
+        "OriginalText": "Between October and December 2022, around two-thirds of all employees with variable working hours models participated in hybrid work.",
+        "chunk_id": "2022---38"
+    },
+    "176": {
+        "Question": "How much did Audi's Premium brand group spend on corporate citizenship in 2022?",
+        "Answer": "Audi's Premium brand group spent a total of EUR 50.5 million on corporate citizenship in 2022.",
+        "OriginalText": "In 2022, the Premium brand group spent a total of EUR 50.5 million on corporate citizenship.",
+        "chunk_id": "2022---39"
+    },
+    "177": {
+        "Question": "How did the COVID-19 pandemic affect Audi's working environment in 2022?",
+        "Answer": "The COVID-19 pandemic catalyzed the shift to hybrid working models at Audi, where employees continued to work from home alongside returning to the office.",
+        "OriginalText": "The coronavirus pandemic and the resulting changes to day-to-day working have been and remain a not insignificant catalyst for this development. Although it is now possible to return to work in the office, the benefits of hybrid working continue to be used.",
+        "chunk_id": "2022---39"
+    },
+    "178": {
+        "Question": "How many Health Guides were active at Audi's Ingolstadt site in 2022?",
+        "Answer": "There were more than 70 Health Guides active at Audi's Ingolstadt site in 2022.",
+        "OriginalText": "There are currently more than 70 Health Guides from all divisions active at the Ingolstadt site.",
+        "chunk_id": "2022---39"
+    },
+    "179": {
+        "Question": "How many employees had Audi trained by the end of 2022 in preparation for the ramp-up of Q6 e-tron production?",
+        "Answer": "By the end of 2022, Audi had trained 200 employees for the ramp-up of Q6 e-tron production.",
+        "OriginalText": "Since 2021, some 200 employees are being trained, or have already completed their training, for the ramp-up of production of the Q6 e-tron family.",
+        "chunk_id": "2022---40"
+    },
+    "180": {
+        "Question": "What transformation process is described in the Audi Annual Report of 2022 that involves changing vehicle manufacturing focus from internal combustion engines to electric mobility?",
+        "Answer": "The transformation process involves Audi switching its focus from internal combustion engines to electric mobility, with the last internal combustion engines being phased out by 2023.",
+        "OriginalText": "By 2023, production of the last internal combustion engines will have been phased out.",
+        "chunk_id": "2022---40"
+    },
+    "181": {
+        "Question": "How much did Audi realize from its Audi Transformation Plan (ATP) in 2022?",
+        "Answer": "Audi realized more than EUR 4 billion in 2022 from the Audi Transformation Plan (ATP).",
+        "OriginalText": "The ATP proved to be an effective instrument for safeguarding our profitability. Many of the measures have a long-lasting impact and have already been implemented in daily business. In the year under review, measures totaling more than EUR 4 billion were realized.",
+        "chunk_id": "2022---41"
+    },
+    "182": {
+        "Question": "What was the total realization from the Audi Transformation Plan from 2018 to 2022?",
+        "Answer": "From 2018 to 2022, the Audi Transformation Plan realized around EUR 14.4 billion.",
+        "OriginalText": "Since the beginning of the ATP in 2018, the program therefore realized around EUR 14.4 billion and thus fell just short of the target of EUR 15 billion due to the lower sales volume on account of the pandemic and supply limitations.",
+        "chunk_id": "2022---41"
+    },
+    "183": {
+        "Question": "How many participants were involved in Audi's leadership and collaborative culture modules in 2022?",
+        "Answer": "More than 6,000 participants.",
+        "OriginalText": "More than 6,000 participants in modules on leadership and collaborative culture in 2022.",
+        "chunk_id": "2022---42"
+    },
+    "184": {
+        "Question": "What measure related to childcare did Audi intensify planning for in 2022?",
+        "Answer": "Audi intensified planning for expanding childcare offers at the Ingolstadt and Neckarsulm sites.",
+        "OriginalText": "Intensification of planning with regard to the expansion of childcare offers at the Ingolstadt and Neckarsulm sites.",
+        "chunk_id": "2022---42"
+    },
+    "185": {
+        "Question": "How did Audi address employee work-life balance in 2022?",
+        "Answer": "Audi executed three themed weeks focusing on the topic of professional life and care.",
+        "OriginalText": "Execution of three themed weeks strengthens the focus on the topic of professional life and care, which is highly relevant in society.",
+        "chunk_id": "2022---42"
+    },
+    "186": {
+        "Question": "What significant change took place in Audi’s CO₂ emissions reporting in 2022?",
+        "Answer": "Audi began reporting emissions under the WLTP standard starting in January 2022, replacing the previous NEDC standard.",
+        "OriginalText": "The WLTP test cycle replaced the NEDC test cycle fully on January 1, 2022.",
+        "chunk_id": "2022---43"
+    },
+    "187": {
+        "Question": "What is the period covered by the selected key figures in the Audi sustainability report 2022?",
+        "Answer": "The period covered by the selected key figures in the Audi sustainability report 2022 is from January 1, 2022 to December 31, 2022.",
+        "OriginalText": "The period from 1 January to 31 December 2022 (hereafter the 'report').",
+        "chunk_id": "2022---44"
+    },
+    "188": {
+        "Question": "What was the result of the assurance procedures performed on Audi's 2022 sustainability report?",
+        "Answer": "The assurance procedures performed on Audi's 2022 sustainability report concluded that the selected key figures and disclosures were prepared in all material respects according to the GRI criteria.",
+        "OriginalText": "Based on the assurance procedures performed and the evidence obtained, nothing has come to our attention that causes us to believe that the selected key figures and disclosures that are marked with the symbol $\\because\\angle^{\\prime\\prime}$ in the report from 1 January to 31 December 2022 have not been prepared in all material aspects, in accordance with the GRI criteria.",
+        "chunk_id": "2022---44"
+    },
+    "189": {
+        "Question": "What specific measurement cycle was used after January 1, 2022, to report fuel consumption and CO2 emissions for new vehicles?",
+        "Answer": "After January 1, 2022, the WLTP test cycle was used to report fuel consumption and CO2 emissions for new vehicles.",
+        "OriginalText": "The WLTP test cycle replaced the NEDC test cycle fully on January 1, 2022.",
+        "chunk_id": "2022---44"
+    },
+    "190": {
+        "Question": "Which auditing standards were followed for the assurance engagement in Audi's 2022 sustainability report?",
+        "Answer": "The assurance engagement for Audi's 2022 sustainability report was conducted in accordance with International Standard on Assurance Engagements (ISAE) 3000 (Revised).",
+        "OriginalText": "We conducted our assurance engagement in accordance with International Standard on Assurance Engagements (ISAE) 3000 (Revised): 'Assurance Engagements other than Audits or Reviews of Historical Financial Information' issued by the IAASB.",
+        "chunk_id": "2022---44"
+    },
+    "191": {
+        "Question": "What new standard was added to Audi's stakeholder perspective in 2022?",
+        "Answer": "In 2022, an impact assessment in accordance with the new standards of the GRI was added to the stakeholder perspective.",
+        "OriginalText": "An impact assessment in accordance with the new standards of the GRI was added to the stakeholder perspective in 2022.",
+        "chunk_id": "2022---45"
+    },
+    "192": {
+        "Question": "What key topics are included under the material topics in the GRI 2 section of Audi's report for 2022?",
+        "Answer": "The material topics under the GRI 2 section of Audi's 2022 report include compliance and integrity, sustainable corporate governance, circular economy and sustainable materials, and fair working conditions and modern working forms.",
+        "OriginalText": "Material topics: compliance and integrity; sustainable corporate governance, circular economy and sustainable materials, fair working conditions and modern working forms.",
+        "chunk_id": "2022---45"
+    },
+    "193": {
+        "Question": "What is the website link provided for Audi's investor relations in the 2022 report?",
+        "Answer": "The website link for Audi's investor relations in the 2022 report is www.audi.com/investor-relations.",
+        "OriginalText": "www.audi.com/investor-relations AUDI AG.",
+        "chunk_id": "2022---45"
+    },
+    "194": {
+        "Question": "What is the significance of the QR code in the Audi 2022 report?",
+        "Answer": "The QR code in the Audi 2022 report directs readers to the report's website and a survey to provide feedback.",
+        "OriginalText": "The QR code will take you to the website of the Audi Report and to a survey. Your feedback is important to us!",
+        "chunk_id": "2022---45"
+    },
+    "195": {
+        "Question": "Which audit firm conducted the assurance engagement for Audi's 2022 report?",
+        "Answer": "Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft conducted the assurance engagement for Audi's 2022 report.",
+        "OriginalText": "Munich, 8 March 2023 Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft.",
+        "chunk_id": "2022---45"
+    },
+    "196": {
+        "Question": "What was the date of the publication of Audi's 2022 report?",
+        "Answer": "Audi's 2022 report was published on March 8, 2023.",
+        "OriginalText": "Munich, 8 March 2023 Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft.",
+        "chunk_id": "2022---45"
+    }
+}

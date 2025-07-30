@@ -1,0 +1,50 @@
+{
+    "1": {
+        "Question": "What was the average CO2 emission for new vehicles sold in the European Union in 2013?",
+        "Answer": "Around 134 g/km.",
+        "OriginalText": "According to provisional calculations, the average CO2 emissions of new vehicles sold in the European Union (EU 28) in 2013 was around 134 g/km.",
+        "chunk_id": "2013---1"
+    },
+    "2": {
+        "Question": "Which Audi plants participated in the statutory electronic verification procedure for waste management in 2013?",
+        "Answer": "All Audi plants participated.",
+        "OriginalText": "Our plants participate in the statutory electronic verification procedure for waste management (eANV). Hazardous waste is not mixed with non-hazardous waste; the recycling and disposal of hazardous waste is monitored by the eANV.",
+        "chunk_id": "2013---1"
+    },
+    "3": {
+        "Question": "What percentage of women did Audi target among newly hired academics every year as of 2013?",
+        "Answer": "Audi aimed for a target quote of 30% women among newly hired academics every year.",
+        "OriginalText": "The target quote of 30% women amongst newly hired academics is strived for every year and consequently an ongoing target.",
+        "chunk_id": "2013---1"
+    },
+    "4": {
+        "Question": "What was the purpose of the employee fundraising campaign in the Audi works council in 2013?",
+        "Answer": "The campaign raised money for social and charitable causes in the Ingolstadt and Neckarsulm regions.",
+        "OriginalText": "The annual Christmas donation is an employee fundraising campaign initiated by the Works Council which is topped up by the Company. The money raised goes towards social and charitable causes in the Ingolstadt and Neckarsulm regions.",
+        "chunk_id": "2013---1"
+    },
+    "5": {
+        "Question": "Which locations did Audi's practitioners visit as part of the inspection process for collecting sustainability data in 2013?",
+        "Answer": "Audi practitioners visited the Ingolstadt and Neckarsulm plants in Germany.",
+        "OriginalText": "Performance of site visits as part of the inspection of processes for collecting, analyzing and aggregating selected data at   \n$\\leftrightharpoons$ AUDI AG, plant Ingolstadt (Germany),   \n• • AUDI AG, plant Neckarsulm (Germany).",
+        "chunk_id": "2013---2"
+    },
+    "6": {
+        "Question": "What was the date of the conclusion issued by PricewaterhouseCoopers regarding the Audi Corporate Responsibility Report - Update 2013?",
+        "Answer": "The conclusion was issued on May 20, 2014.",
+        "OriginalText": "Munich, May 20, 2014 PricewaterhouseCoopers Aktiengesellschaft | Wirtschaftsprüfungsgesellschaft Klaus Schuster Michael Werner.",
+        "chunk_id": "2013---2"
+    },
+    "7": {
+        "Question": "What is the role of Dr. Peter F. Tropschuh at Audi AG as of 2013?",
+        "Answer": "Dr. Peter F. Tropschuh is the Head of Corporate Responsibility at Audi AG.",
+        "OriginalText": "Dr. Peter F. Tropschuh Head of Corporate Responsibility AUDI AG",
+        "chunk_id": "2013---2"
+    },
+    "8": {
+        "Question": "What are the main components of the responsibilities involved in preparing the Audi Corporate Responsibility Report - Update 2013?",
+        "Answer": "The responsibilities include selecting appropriate methods, applying assumptions for sustainability disclosures, designing and implementing relevant systems, and maintaining processes for data collection and reporting.",
+        "OriginalText": "This responsibility includes the selection and application of appropriate methods to prepare the Audi Corporate Responsibility Report - Update 2013: CR Program and Key Figures and the use of assumptions and estimates for individual sustainability disclosures which are reasonable in the circumstances.",
+        "chunk_id": "2013---2"
+    }
+}

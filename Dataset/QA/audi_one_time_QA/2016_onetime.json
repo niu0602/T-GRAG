@@ -1,0 +1,788 @@
+{
+    "1": {
+        "Question": "What milestone in Audi's production occurred in San José Chiapa, Mexico, in 2016?",
+        "Answer": "Audi began production at the San José Chiapa plant in September 2016.",
+        "OriginalText": "For example, in time for the production start at San José Chiapa (Mexico) in September 2016, we trained around 170 suppliers as partners of the Audi Group.",
+        "chunk_id": "2016---1"
+    },
+    "2": {
+        "Question": "What percentage of purchased parts were sourced from suppliers in North America for the San José Chiapa plant in 2016?",
+        "Answer": "Over 70%.",
+        "OriginalText": "We source over 70 percent of the purchased parts from suppliers in North America.",
+        "chunk_id": "2016---1"
+    },
+    "3": {
+        "Question": "What major collaborative action was taken by the Volkswagen Group, including Audi, in 2016 for charging infrastructure in Europe?",
+        "Answer": "The Volkswagen Group, Audi, and Porsche signed a declaration of intent to establish fast charging stations on Europe’s most important transport routes.",
+        "OriginalText": "In 2016, the Volkswagen Group with the brands Audi and Porsche as well as other automotive manufacturers signed a declaration of intent in order to establish fast charging stations on Europe’s most important transport routes.",
+        "chunk_id": "2016---1"
+    },
+    "4": {
+        "Question": "What percentage of Audi Group employees were covered by collective bargaining agreements in 2016?",
+        "Answer": "100%.",
+        "OriginalText": "All Audi Group production sites have collective bargaining agreements.",
+        "chunk_id": "2016---1"
+    },
+    "5": {
+        "Question": "How many suppliers were trained as partners of the Audi Group for the San José Chiapa plant in 2016?",
+        "Answer": "Around 170 suppliers.",
+        "OriginalText": "For example, in time for the production start at San José Chiapa (Mexico) in September 2016, we trained around 170 suppliers as partners of the Audi Group.",
+        "chunk_id": "2016---1"
+    },
+    "6": {
+        "Question": "What global guidelines did Audi follow for the first time in its 2016 Sustainability Report?",
+        "Answer": "Audi followed the G4 guidelines of the Global Reporting Initiative (GRI).",
+        "OriginalText": "For the first time, we have structured the Sustainability Report pursuant to the G4 guidelines of the Global Reporting Initiative (GRI).",
+        "chunk_id": "2016---1"
+    },
+    "7": {
+        "Question": "What measure did Audi take in 2016 to ensure responsible sourcing within its supply chain?",
+        "Answer": "Audi increased supplier capacities and developed new local suppliers at its sites.",
+        "OriginalText": "To guarantee the quality and availability of our purchased parts, we are increasing the capacities of existing suppliers, and identifying and developing new local suppliers at our sites.",
+        "chunk_id": "2016---1"
+    },
+    "8": {
+        "Question": "What percentage of Audi AG's share capital is controlled by Volkswagen AG in 2016?",
+        "Answer": "Volkswagen AG controls approximately 99.55 percent of Audi AG's share capital in 2016.",
+        "OriginalText": "Volkswagen AG is the major shareholder of AUDI AG and controls approximately 99.55 percent of the share capital.",
+        "chunk_id": "2016---2"
+    },
+    "9": {
+        "Question": "Which Audi production site began operations in September 2016?",
+        "Answer": "The Audi production site in San José Chiapa, Mexico, began operations in September 2016.",
+        "OriginalText": "For example, in time for the production start at San José Chiapa (Mexico) in September 2016, we trained around 170 suppliers as partners of the Audi Group.",
+        "chunk_id": "2016---2"
+    },
+    "10": {
+        "Question": "How much investment did Audi make in the San José Chiapa production site in 2016?",
+        "Answer": "Audi invested over EUR 1 billion in the San José Chiapa production site in 2016.",
+        "OriginalText": "In total, the Audi Group has invested over EUR 1 billion in the production site, which will build up to 150,000 units of the Audi Q5 annually for the world market.",
+        "chunk_id": "2016---2"
+    },
+    "11": {
+        "Question": "What is the expected annual production capacity at the new Audi plant in San José Chiapa, Mexico?",
+        "Answer": "The new Audi plant in San José Chiapa, Mexico, is expected to produce up to 150,000 units of the Audi Q5 annually.",
+        "OriginalText": "In total, the Audi Group has invested over EUR 1 billion in the production site, which will build up to 150,000 units of the Audi Q5 annually for the world market.",
+        "chunk_id": "2016---2"
+    },
+    "12": {
+        "Question": "What major environmental initiatives does Audi endorse as of 2016?",
+        "Answer": "Audi endorses several major environmental initiatives including the United Nations Global Compact and the Sustainable Development Goals (2016).",
+        "OriginalText": "Audi endorses and subscribes to the following charters, principles and initiatives: ... Sustainable Development Goals (2016).",
+        "chunk_id": "2016---2"
+    },
+    "13": {
+        "Question": "Which major change occurred in Audi's supply chain in 2016?",
+        "Answer": "Audi increased the capacities of existing suppliers and trained around 170 suppliers for its production site in San José Chiapa, Mexico, in 2016.",
+        "OriginalText": "We are increasing the capacities of existing suppliers, and identifying and developing new local suppliers at our sites. For example, in time for the production start at San José Chiapa (Mexico) in September 2016, we trained around 170 suppliers as partners of the Audi Group.",
+        "chunk_id": "2016---2"
+    },
+    "14": {
+        "Question": "What sustainability topics did Audi increase the relevance of during its internal assessment in 2016?",
+        "Answer": "In 2016, Audi increased the relevance of alternative drive technologies, fuel consumption and emissions, resources and environmental footprint, the future of mobility, promotion of voluntary work, and corporate governance and compliance.",
+        "OriginalText": "In 2016, we increased the relevance of the following aspects as part of an internal assessment. The reason is provided in brackets in each case: Alternative drive technologies (core future-oriented topic in the Audi Strategy 2025), Fuel consumption and emissions (legal regulations, CO2 limits), Resources and environmental footprint (circular economy as new element in the Audi Strategy 2025), Future of mobility (transformation in the automotive industry), Promotion of voluntary work/corporate volunteering, Corporate governance and compliance (core topic in clarifying the diesel issue).",
+        "chunk_id": "2016---3"
+    },
+    "15": {
+        "Question": "How many stakeholder assessments were incorporated into Audi's materiality analysis by 2016?",
+        "Answer": "By 2016, some 1,800 individual assessments by stakeholders were incorporated into Audi's materiality analysis.",
+        "OriginalText": "Since 2012, some 1,800 individual assessments by our stakeholders have been incorporated into the materiality analysis.",
+        "chunk_id": "2016---3"
+    },
+    "16": {
+        "Question": "What was the primary focus of the first Stakeholder Forum held at Audi's San José Chiapa site in 2016?",
+        "Answer": "The focus was on fostering dialogue about the regional development of the San José Chiapa site and providing insight into Audi México's sustainability activities.",
+        "OriginalText": "At our new site in Mexico, the first Stakeholder Forum was held in Puebla in 2016. Guests included academics, politicians, San José Chiapa local residents and Audi employees. The event aimed to foster dialogue on the regional development of the San José Chiapa site and provide participants with an insight into the various areas covered by sustainability activities at Audi México.",
+        "chunk_id": "2016---3"
+    },
+    "17": {
+        "Question": "What sustainability event took place in Brussels in November 2016?",
+        "Answer": "Audi held a Stakeholder Forum in Brussels in November 2016, focusing on electric mobility and the requirements for a future based on electric mobility in Europe.",
+        "OriginalText": "In November 2016 in Brussels, Audi along with some 100 stakeholders looked at the issue of electric mobility and the requirements that will have to be met for a future in Europe based on electric mobility.",
+        "chunk_id": "2016---3"
+    },
+    "18": {
+        "Question": "In what location did the first general meeting of the Aluminium Stewardship Initiative take place?",
+        "Answer": "The first general meeting of the Aluminium Stewardship Initiative took place in April 2016 at the Audi Forum in Ingolstadt.",
+        "OriginalText": "The first ASI general meeting was held in the Audi Forum in Ingolstadt in April 2016.",
+        "chunk_id": "2016---3"
+    },
+    "19": {
+        "Question": "What were the key dialogue tools Audi used to engage stakeholders in 2016?",
+        "Answer": "Audi used stakeholder conferences, discussions with individual stakeholder groups, multi-stakeholder initiatives, and surveys as key dialogue tools in 2016.",
+        "OriginalText": "Our main dialogue tools at a glance: Stakeholder conferences, Discussions with individual stakeholder groups, Multi-stakeholder and industry initiatives, Stakeholder surveys (surveys and interviews).",
+        "chunk_id": "2016---3"
+    },
+    "20": {
+        "Question": "What are the three primary topics integrated into the Audi Strategy 2025 as assessed in the 2016 sustainability strategy audit?",
+        "Answer": "The primary topics integrated into the Audi Strategy 2025 are sustainability, digitalization, and urbanization.",
+        "OriginalText": "In the first-mentioned management approach, the integration of sustainability in the Audi Strategy 2025 was assessed in particular. Besides digitalization and urbanization, sustainability is stipulated as a key pillar for Audi’s future success as part of this strategy.",
+        "chunk_id": "2016---3"
+    },
+    "21": {
+        "Question": "How many visits did the Audi internal platform 'Forum Responsibility' generate in 2016?",
+        "Answer": "The platform generated 37,000 visits in 2016.",
+        "OriginalText": "In 2016, the platform generated 37,000 visits; on average, approximately 900 people accessed the site at least once a month.",
+        "chunk_id": "2016---4"
+    },
+    "22": {
+        "Question": "What specific topic was discussed in Audi's 'Responsibility Perspective' lecture series in 2016?",
+        "Answer": "The topics of digitalization of automobiles, electric mobility, and other future drives were discussed in the 2016 lecture series.",
+        "OriginalText": "The lecture series, which always promotes an intense debate among participants, has been held at the Ingolstadt and Neckarsulm sites four to five times a year since 2013. The topics of digitalization of the automobile as well as electric mobility and other future drives provided the key areas in 2016.",
+        "chunk_id": "2016---4"
+    },
+    "23": {
+        "Question": "How does Audi incorporate stakeholder concerns into its sustainability strategy, according to the 2016 report?",
+        "Answer": "Audi incorporates stakeholder concerns into its sustainability strategy by analyzing the results of stakeholder engagement, which are then translated into specific actions and measures in the materiality matrix.",
+        "OriginalText": "The key issues and concerns that arise through the involvement of stakeholders are fed into our sustainability strategy through the materiality analysis.  The results of the materiality process are combined in a materiality matrix.",
+        "chunk_id": "2016---4"
+    },
+    "24": {
+        "Question": "What is the composition of Audi's Board of Management in 2016?",
+        "Answer": "The Audi Board of Management consisted of seven members in 2016.",
+        "OriginalText": "At the time of publication, the AUDI AG Board of Management consisted of seven members.",
+        "chunk_id": "2016---5"
+    },
+    "25": {
+        "Question": "Which firm provided external assurance for the 2016 Audi Sustainability Report?",
+        "Answer": "PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft provided external assurance for the 2016 Audi Sustainability Report.",
+        "OriginalText": "PricewaterhouseCoopers GmbH Wirtschaftsprüfungs­ gesellschaft has performed a limited assurance engagement on selected data and management approaches in the German version of the 2016 Sustainability Report.",
+        "chunk_id": "2016---5"
+    },
+    "26": {
+        "Question": "What role does the Sustainability department play at Audi in 2016?",
+        "Answer": "In 2016, the Sustainability department coordinates sustainability-related topics and prepares decisions for the Sustainability Board, which includes members of the Board of Management.",
+        "OriginalText": "The Sustainability department coordinates all sustainability-related topics and prepares strategically relevant decisions for the Sustainability Board. Members of the Sustainability Board are the members of the Board of Management of AUDI AG.",
+        "chunk_id": "2016---5"
+    },
+    "27": {
+        "Question": "What was the main focus of the Supervisory Board's work in 2016?",
+        "Answer": "The main focus was on the diesel issue, particularly concerning the V6 3.0 TDI diesel engine and related processes in countries like the United States, South Korea, Japan, and Australia.",
+        "OriginalText": "The diesel issue accounted for a significant portion of the Supervisory Board’s work in 2016. The Supervisory Board was kept constantly informed by the Board of Management, both in writing and orally. This applies in particular to the V6 3.0 TDI diesel engine developed by Audi and concerns the associated processes in the United States and other countries around the globe, such as South Korea, Japan or Australia.",
+        "chunk_id": "2016---6"
+    },
+    "28": {
+        "Question": "What was the role of the Audit Committee in reviewing risk management in 2016?",
+        "Answer": "The Audit Committee dealt with the effectiveness of the Internal Control System, the Risk Management System, and the Internal Audit System.",
+        "OriginalText": "The Audit Committee, which is formed by the Supervisory Board, deals with the effectiveness of the Internal Control System, the Risk Management System and the Internal Audit System.",
+        "chunk_id": "2016---6"
+    },
+    "29": {
+        "Question": "What standards and norms of behavior are set out in Audi's Code of Conduct in 2016?",
+        "Answer": "Audi's Code of Conduct sets out values, principles, standards, and norms of behavior and is part of the entry program for new employees.",
+        "OriginalText": "Our values, principles and standards of behavior are set out in the Audi Code of Conduct, which all Audi employees can consult on the Audi intranet. The Audi Code of Conduct also forms part of the entry program for new employees.",
+        "chunk_id": "2016---6"
+    },
+    "30": {
+        "Question": "What measures were taken to handle reports of unethical or illegal behavior in 2016?",
+        "Answer": "Employees could report unethical or illegal behavior to line managers, the Works Council, the Compliance and Integrity department, or neutral ombudsmen.",
+        "OriginalText": "Various channels exist for reporting concerns relating to unethical or illegal behavior. The respective line manager is a point of contact for our employees with issues or uncertainty surrounding the Code of Conduct. Employees can also turn to the Works Council. The Compliance and Integrity department (email: compliance@audi.de) along with the neutral ombudsmen are also on hand to provide assistance.",
+        "chunk_id": "2016---6"
+    },
+    "31": {
+        "Question": "What governance body approved the Audi Sustainability Report in 2016?",
+        "Answer": "The Board of Management of AUDI AG approved the Sustainability Report.",
+        "OriginalText": "The Board of Management of AUDI AG examines the Sustainability Report and approves it.",
+        "chunk_id": "2016---6"
+    },
+    "32": {
+        "Question": "What criteria influence the remuneration levels for Audi Board members in 2016?",
+        "Answer": "Criteria include the tasks of the individual Board member, personal performance, the Company's economic situation, performance, and future prospects.",
+        "OriginalText": "Criteria include the tasks of the individual Board member, the member’s personal performance, the Company’s economic situation, performance and future prospects.",
+        "chunk_id": "2016---6"
+    },
+    "33": {
+        "Question": "What was the profit transferred by AUDI AG to Volkswagen AG in the fiscal year 2016?",
+        "Answer": "AUDI AG transferred a profit of EUR 918 million to Volkswagen AG in 2016.",
+        "OriginalText": "For the 2016 fiscal year, AUDI AG transferred to Volkswagen AG a profit in the amount of EUR 918 million (2015: EUR 2,752 million).",
+        "chunk_id": "2016---7"
+    },
+    "34": {
+        "Question": "What strategy did Audi present on July 20, 2016, and what was its vision?",
+        "Answer": "Audi presented its corporate strategy 2025 with the vision of becoming a provider of sustainable, individual premium mobility.",
+        "OriginalText": "It was against this background that Audi presented its new corporate strategy 2025 on July 20, 2016. The new vision: To become a provider of sustainable, individual premium mobility and to use that role to delight customers worldwide.",
+        "chunk_id": "2016---7"
+    },
+    "35": {
+        "Question": "How much did Audi Group contribute to Germany’s statutory pension insurance in 2016?",
+        "Answer": "Audi contributed EUR 362 million to Germany’s statutory pension insurance in 2016.",
+        "OriginalText": "In the case of the Audi Group, they totaled EUR 389 million in 2016 (2015: EUR 368 million). Of this, contributions of EUR 362 million were paid in Germany toward statutory pension insurance in 2016 (2015: EUR 343 million).",
+        "chunk_id": "2016---7"
+    },
+    "36": {
+        "Question": "What proportion of automobiles did Audi aim to make electrically powered by 2025, according to its 2016 strategy?",
+        "Answer": "Audi aimed to make one-third of its automobiles electrically powered by 2025.",
+        "OriginalText": "$\\searrow1/3$ 1/3 of the automobiles produced are electrically powered.",
+        "chunk_id": "2016---7"
+    },
+    "37": {
+        "Question": "What were the key aspects Audi aimed to scale up in sustainability by 2025 as per its 2016 report?",
+        "Answer": "Audi aimed to scale up g-tron models, e-fuels/e-power, sustainability in supplier management, and implement circular economy principles.",
+        "OriginalText": "$\\searrow$ Scaling up Audi g-tron models $\\searrow$ Scaling up Audi e-fuels/e-power, so that all Audi tron customers can drive without impacting the climate $\\searrow$ Upscaling sustainability in supplier management $\\searrow$ Circular economy in value creation and in commerce.",
+        "chunk_id": "2016---7"
+    },
+    "38": {
+        "Question": "What responsibility does Audi assign to its suppliers in its 2016 procurement policy?",
+        "Answer": "Audi expects suppliers to meet its quality requirements and comply with sustainability standards as defined in Volkswagen Group requirements.",
+        "OriginalText": "The aim of AUDI AG’s procurement policy is to select suppliers who meet the Company’s quality requirements in all areas. These sustainability requirements are clearly defined in the 'Volkswagen Group requirements regarding sustainability in its relationships with business partners' and have been anchored in supplier contracts since 2014.",
+        "chunk_id": "2016---7"
+    },
+    "39": {
+        "Question": "How did regulatory CO2 limits impact Audi's development costs in 2016?",
+        "Answer": "Regulatory CO2 limits increased costs due to the need to reduce weight, fuel consumption, and emissions while pursuing alternative drive concepts like hydrogen and electric models.",
+        "OriginalText": "Regulatory requirements on CO2 limits in the various markets have a direct impact on the development, manufacturing and sale of vehicles. Our automotive development work incurs costs, on the one hand because we steadily reduce weight, fuel consumption and vehicle emissions.  On the other hand, the Audi Group pur­ sues a product and powertrain strategy that emphasizes alternative drive concepts with hydrogen, synthetic ­fuels and above all the electrification of our models, in addition to conventional combustion engines.",
+        "chunk_id": "2016---7"
+    },
+    "40": {
+        "Question": "How does Audi ensure economic performance aligns with sustainability, as reported in 2016?",
+        "Answer": "Audi integrates sustainability into its Strategy 2025 and monitors project progress through mentors and managers responsible for clear objectives and measurability.",
+        "OriginalText": "To achieve our goals which we set out in Strategy 2025, we have defined specific projects. The projects have mentors on the Board of Management and a project manager at top or senior management level who is responsible for its implementation. The status of the projects is reported on continuously at closed strategy meetings of the Board of Management.",
+        "chunk_id": "2016---7"
+    },
+    "41": {
+        "Question": "What economic impact did Audi face due to its relationship with Volkswagen AG in 2016?",
+        "Answer": "Audi transferred a profit of EUR 918 million to Volkswagen AG under the control and profit transfer agreement.",
+        "OriginalText": "A control and profit transfer agreement exists between AUDI AG and Volkswagen AG, Wolfsburg, as the controlling company. For the 2016 fiscal year, AUDI AG transferred to Volkswagen AG a profit in the amount of EUR 918 million.",
+        "chunk_id": "2016---7"
+    },
+    "42": {
+        "Question": "What was the total number of ad-hoc cases identified through sustainability audits conducted by an external service provider for Volkswagen Group in 2016?",
+        "Answer": "A total of 19 ad-hoc cases were identified in 2016.",
+        "OriginalText": "In 2016, an independent, external service provider conducted a total of 45 audits for the ­Volkswagen Group, resulting in 19 ad-hoc cases.",
+        "chunk_id": "2016---8"
+    },
+    "43": {
+        "Question": "How does Audi address sustainability compliance in its supply chain as of 2016?",
+        "Answer": "Audi uses a sustainability rating (S rating) to assess suppliers' compliance with sustainability requirements through self-assessment questionnaires and on-site checks.",
+        "OriginalText": "Audi has developed a sustainability rating (S rating) to determine on the basis of a standardized self-assessment (NQC questionnaire) and an on-site check the level of compliance with the sustainability requirements in the supply chain.",
+        "chunk_id": "2016---8"
+    },
+    "44": {
+        "Question": "What percentage of major suppliers to Volkswagen Group had a certified environmental management system in 2016?",
+        "Answer": "87 percent of major suppliers had a certified environmental management system in 2016.",
+        "OriginalText": "The main suppliers are required to put in place a certified environmental management system in accordance with ISO 14001 and/or EMAS. 87 percent of the major suppliers have documented this.",
+        "chunk_id": "2016---8"
+    },
+    "45": {
+        "Question": "What sustainability training was mandatory for new Procurement employees at Audi in 2016?",
+        "Answer": "All new Procurement employees were trained on 'Sustainability in the Supply Chain' as part of their induction program.",
+        "OriginalText": "For example, the topic “Sustainability in the Supply Chain” is an integral component of the com­ petence profile of each employee. At Audi, all new Pro­ curement employees are qualified in this area as part of an induction program. ",
+        "chunk_id": "2016---8"
+    },
+    "46": {
+        "Question": "What global initiative did Audi contribute to regarding aluminum sustainability in 2016?",
+        "Answer": "Audi participated in the Aluminium Stewardship Initiative to define environmental, ethical, and social criteria across all stages of aluminum production and processing.",
+        "OriginalText": "Audi is involved with other companies in the Aluminium Stewardship Initiative. For this initiative, environmental, ethical and social criteria are defined that will apply to all stages of raw material extraction, production and processing.",
+        "chunk_id": "2016---8"
+    },
+    "47": {
+        "Question": "What actions are taken if a supplier fails to comply with sustainability requirements, as seen in 2016?",
+        "Answer": "If violations are found, Audi collaborates with the supplier to create an action plan for improvement. In severe cases, supplier relationships may be terminated.",
+        "OriginalText": "If the audit reveals violations or potential for development, Audi will work together with the supplier to develop an action plan for improving the situation. In the event of grave suspicions or of violations on the part of a supplier, an ad-hoc case is opened. Supplier relationships can also be terminated immediately, if warranted.",
+        "chunk_id": "2016---8"
+    },
+    "48": {
+        "Question": "What e-learning tool did Volkswagen Group provide to suppliers for sustainability training in 2016?",
+        "Answer": "Volkswagen Group provided an electronic learning (e-learning) module on sustainability, which included a final test.",
+        "OriginalText": "The Volkswagen Group makes an electronic learning (e-learning) module on sustainability available to all suppliers in all of the languages of the defined risk markets. After completing this task, the supplier has to perform a final test.",
+        "chunk_id": "2016---8"
+    },
+    "49": {
+        "Question": "How many suppliers submitted responses to the Volkswagen Group's sustainability questionnaire by the end of 2016?",
+        "Answer": "By the end of 2016, 21,067 suppliers submitted responses to the Volkswagen Group's sustainability questionnaire.",
+        "OriginalText": "By the end of 2016, 21,067 of the Volkswagen Group’s suppliers had submitted responses to our questionnaire.",
+        "chunk_id": "2016---9"
+    },
+    "50": {
+        "Question": "What is the total procurement volume of the Volkswagen Group in 2016?",
+        "Answer": "The total procurement volume of the Volkswagen Group in 2016 was EUR 166.5 billion.",
+        "OriginalText": "In the reporting year, our procurement volume totaled EUR 166.5 billion.",
+        "chunk_id": "2016---9"
+    },
+    "51": {
+        "Question": "What percentage of the Volkswagen Group’s procurement volume was covered by supplier responses to the sustainability questionnaire by 2016?",
+        "Answer": "88 percent of the total procurement volume was covered by supplier responses to the sustainability questionnaire by 2016.",
+        "OriginalText": "This covers 88 percent of the total procurement volume.",
+        "chunk_id": "2016---9"
+    },
+    "52": {
+        "Question": "What percentage of Volkswagen Group Procurement was distributed to Europe/Other markets in 2016?",
+        "Answer": "65 percent of Volkswagen Group Procurement was distributed to Europe/Other markets in 2016.",
+        "OriginalText": "The volume of Volkswagen Group Procurement by region was distributed as follows in 2016: Europe/Other markets: 65 percent.",
+        "chunk_id": "2016---9"
+    },
+    "53": {
+        "Question": "In 2016, how many external audits were conducted for the Volkswagen Group regarding supplier sustainability performance?",
+        "Answer": "In 2016, an independent, external service provider conducted a total of 45 audits for the Volkswagen Group regarding supplier sustainability performance.",
+        "OriginalText": "In 2016, an independent, external service provider conducted a total of 45 audits for the Volkswagen Group.",
+        "chunk_id": "2016---9"
+    },
+    "54": {
+        "Question": "What are the three primary focuses of Audi's environmental policy as of 2016?",
+        "Answer": "As of 2016, the three primary focuses of Audi's environmental policy are protecting the climate, conserving resources, and protecting health.",
+        "OriginalText": "The primary objective is to reduce energy consumption and thus the associated greenhouse gas emissions as well as to efficiently use valuable resources such as water. Audi closes material loops as much as possible in order to reduce waste.",
+        "chunk_id": "2016---9"
+    },
+    "55": {
+        "Question": "How many honey bees moved into their new home on Audi grounds in Münchsmünster in 2016?",
+        "Answer": "A good 20,000 honey bees moved into their new home on the Audi grounds in Münchsmünster in 2016.",
+        "OriginalText": "A good 20,000 honey bees moved into their new home on the Audi grounds in Münchsmünster in 2016.",
+        "chunk_id": "2016---10"
+    },
+    "56": {
+        "Question": "Which Audi site opened in September 2016 and what was its main focus in terms of resource use?",
+        "Answer": "The Audi site in San José Chiapa, Mexico, opened in September 2016, and it focused on using resources efficiently in manufacturing the new Audi Q5.",
+        "OriginalText": "At our San José Chiapa site in Mexico, which we opened in September 2016, modern equipment enables us to use resources efficiently in manufacturing the new Audi Q5.",
+        "chunk_id": "2016---10"
+    },
+    "57": {
+        "Question": "What environmental project was awarded the UN Prize for Biological Diversity in 2016?",
+        "Answer": "The environmental project involving the conversion of disused transformer towers into 'towers of biodiversity' was awarded the UN Prize for Biological Diversity in 2016.",
+        "OriginalText": "The joint project of the Audi Environmental Foundation and the 'Artenschutz in Franken®' (association for species protection in Franconia) was awarded the UN Prize for Biological Diversity in 2016.",
+        "chunk_id": "2016---10"
+    },
+    "58": {
+        "Question": "In what year was the first sustainability workshop series held for apprentices at Audi's Ingolstadt site?",
+        "Answer": "The first sustainability workshop series for apprentices was held at Audi's Ingolstadt site in the summer of 2016.",
+        "OriginalText": "This workshop series was held for an entire class of apprentices for the first time at the Ingolstadt site in summer 2016.",
+        "chunk_id": "2016---10"
+    },
+    "59": {
+        "Question": "What percentage of the electricity requirements at Ducati's Bologna site was met by its trigen­eration plant in 2016?",
+        "Answer": "80 percent",
+        "OriginalText": "Ducati has also been using a trigen­eration plant at its headquarters in Bologna since last year. The plant generated 10,700 MWh of electric power in 2016, thereby covering 80 percent of the electricity requirements at the site.",
+        "chunk_id": "2016---11"
+    },
+    "60": {
+        "Question": "What percentage of a car developed by Audi can be recycled as of 2016?",
+        "Answer": "95 percent",
+        "OriginalText": "Today all of the cars developed by Audi can be up to 95 percent recycled.",
+        "chunk_id": "2016---11"
+    },
+    "61": {
+        "Question": "What new water-saving technology was introduced at the Ingolstadt plant in 2016?",
+        "Answer": "A membrane bioreactor",
+        "OriginalText": "Audi is building a membrane bioreactor at its Ingolstadt plant to save water. Three treatment stages turn wastewater into hygienically safe process water.",
+        "chunk_id": "2016---11"
+    },
+    "62": {
+        "Question": "How many MWh of electric power was generated by Ducati's trigen­eration plant in 2016?",
+        "Answer": "10,700 MWh",
+        "OriginalText": "Ducati has also been using a trigen­eration plant at its headquarters in Bologna since last year. The plant generated 10,700 MWh of electric power in 2016.",
+        "chunk_id": "2016---11"
+    },
+    "63": {
+        "Question": "How many metric tons of CO2 emissions were saved in 2016 due to carbon-neutral rail transport between Ingolstadt and the port of loading in Emden?",
+        "Answer": "7,529 metric tons",
+        "OriginalText": "Between Ingolstadt and the port of loading in Emden: 7,529 metric tons",
+        "chunk_id": "2016---12"
+    },
+    "64": {
+        "Question": "How much CO2 was saved in 2016 from carbon-neutral rail transport between Neckarsulm and the port of loading in Emden?",
+        "Answer": "4,072 metric tons",
+        "OriginalText": "Between Neckarsulm and the port of loading in Emden: 4,072 metric tons",
+        "chunk_id": "2016---12"
+    },
+    "65": {
+        "Question": "What percentage of waste is recycled at Audi's San José Chiapa site in Mexico in 2016?",
+        "Answer": "91 percent",
+        "OriginalText": "91 percent of the waste arising at our San José Chiapa site in Mexico is recycled.",
+        "chunk_id": "2016---12"
+    },
+    "66": {
+        "Question": "How many Audi models had CO2 emissions of 100g/km or less in 2016?",
+        "Answer": "28 models",
+        "OriginalText": "28 (2015: 24) Audi models had combined $\\mathsf{C O}_{2}$ emissions of $100\\;\\mathfrak{g}/\\mathsf{k m}$ or less.",
+        "chunk_id": "2016---12"
+    },
+    "67": {
+        "Question": "How many Audi models were available in 2016 with CO2 emissions averaging up to 140g/km?",
+        "Answer": "195 models",
+        "OriginalText": "As of the end of the 2016 reporting year, there were 195 Audi models available with $\\mathsf{C O}_{2}$ emissions averaging up to $140\\,\\mathfrak{g}/\\mathsf{k m}$ in the combined cycle.",
+        "chunk_id": "2016---12"
+    },
+    "68": {
+        "Question": "Which Audi site introduced a new paint shop in 2016 that is considered one of the most environmentally compatible in the world?",
+        "Answer": "Ingolstadt",
+        "OriginalText": "One example of emissions reduction in the area of ­production is the paint shop that Audi opened at the Ingolstadt site in 2016 which is considered one of the most environmentally compatible in the world.",
+        "chunk_id": "2016---12"
+    },
+    "69": {
+        "Question": "What percentage of the waste at the Ingolstadt site is recycled as of 2016?",
+        "Answer": "95 percent",
+        "OriginalText": "At the Ingolstadt site, for example, virtually no waste requiring disposal is produced anymore. More than 95 percent of the waste is recycled.",
+        "chunk_id": "2016---12"
+    },
+    "70": {
+        "Question": "What percentage of raw materials used for vehicle installation at Audi in 2016 was steel and ferrous materials?",
+        "Answer": "55%",
+        "OriginalText": "Raw materials used for installation in vehicle: 2.9 million metric tons in 2016 (of which all rounded): Steel and ferrous materials: 55 percent",
+        "chunk_id": "2016---13"
+    },
+    "71": {
+        "Question": "What was the total energy consumption figure for Audi’s plants in 2016 composed of?",
+        "Answer": "Electricity and heat consumption, fuel gases for production processes, and externally supplied refrigeration.",
+        "OriginalText": "The figure 'total energy consumption' is made up of electricity and heat consumption as well as the use of fuel gases for production processes and externally supplied refrigeration at the plants.",
+        "chunk_id": "2016---13"
+    },
+    "72": {
+        "Question": "How much of Audi’s vehicle components are made from recycled input materials in 2016?",
+        "Answer": "30 to 37%",
+        "OriginalText": "Depending on the model, the cars comprise 30 to 37 percent recyclate.",
+        "chunk_id": "2016---13"
+    },
+    "73": {
+        "Question": "In 2016, how many production sites did Audi report as part of its environmental management system?",
+        "Answer": "Nine production sites",
+        "OriginalText": "The scope of the environmental key figures relates to the production sites of the Audi Group. Unless otherwise indicated, these are the following sites: Ingolstadt, Münchsmünster, Neckarsulm, Brussels, Győr, San José Chiapa (since 2016), Sant’Agata Bolognese (Lamborghini), Bologna (Ducati).",
+        "chunk_id": "2016---13"
+    },
+    "74": {
+        "Question": "In 2016, which new Audi site began participating in the environmental management system?",
+        "Answer": "San José Chiapa",
+        "OriginalText": "The scope of the environmental key figures relates to the production sites of the Audi Group. Unless otherwise indicated, these are the following sites: ... San José Chiapa (since 2016).",
+        "chunk_id": "2016---13"
+    },
+    "75": {
+        "Question": "How much was Audi’s raw material consumption in 2016 in terms of total weight?",
+        "Answer": "2.9 million metric tons",
+        "OriginalText": "Raw materials used for installation in vehicle: 2.9 million metric tons in 2016",
+        "chunk_id": "2016---13"
+    },
+    "76": {
+        "Question": "Which environmental key figures are provisional in 2016 and replaced in the following year?",
+        "Answer": "The environmental key figures for the respective current year are provisional data, which are replaced by the final result in the following year.",
+        "OriginalText": "The environmental key figures for the respective current year are provisional data, which are replaced by the final result in the following year.",
+        "chunk_id": "2016---14"
+    },
+    "77": {
+        "Question": "What methodology is used for the calculation of indirect greenhouse gas emissions (Scope 2) in 2016?",
+        "Answer": "Indirect greenhouse gas emissions (Scope 2) are calculated based on the procurement of energy such as electrical energy and district heat.",
+        "OriginalText": "In accordance with the requirements of Volkswagen standard 98000, indirect greenhouse gas emissions are indicated in metric tons of CO2.  This figure is made up of CO2 emissions from external power plants, combined heat and power plants and boiler houses outside the sites as the result of the procurement of energy (e.g. electrical energy, district heat).",
+        "chunk_id": "2016---14"
+    },
+    "78": {
+        "Question": "How are the emissions from VOC, NOx, SOx, and other air pollutants calculated for Audi Group’s production sites in 2016?",
+        "Answer": "The emissions are made up of VOC emissions from paint shops, test rigs, and other facilities, along with direct NOx emissions, PM, and SO2 emissions from power generation facilities, paint shops, and test rigs.",
+        "OriginalText": "VOC emissions (volatile organic compounds): This figure is made up of emissions from the paint shops, test rigs and other facilities.  Direct NOx emissions, PM (total particulate matter) and SO2 emissions: This figure is made up of NOx emissions generated by the power generation facilities at the plant, paint shops and by the operation of test rigs.",
+        "chunk_id": "2016---14"
+    },
+    "79": {
+        "Question": "How were greenhouse gas emissions calculated for the Audi Group in 2016?",
+        "Answer": "Greenhouse gas emissions were calculated based on the sum of direct and indirect CO2 emissions at the automobile and component plants, divided by the number of automobiles produced at the sites.",
+        "OriginalText": "This figure refers to automotive production (including component manufacturing).  The sum of direct and indirect CO2 emissions (indicated in tons CO2) of the automobile and component plants (Ingolstadt, Münchsmünster, Neckarsulm, Brussels, Győr, and Sant’Agata Bolognese;  including San José Chiapa since 2016) is divided by the number of automobiles produced at the sites.",
+        "chunk_id": "2016---14"
+    },
+    "80": {
+        "Question": "How many countries are Audi's production operations located in as of 2016?",
+        "Answer": "As of 2016, Audi has production operations in 12 countries.",
+        "OriginalText": "The Audi Group now has production operations at 16 sites in 12 countries.",
+        "chunk_id": "2016---15"
+    },
+    "81": {
+        "Question": "What responsibility does Audi emphasize for its employees in its corporate activities in 2016?",
+        "Answer": "Audi emphasizes the responsibility to develop perspectives for its employees and establish security and trust.",
+        "OriginalText": "Audi has a responsibility as it conducts its corporate activity to develop perspectives for its employees and establish security and trust.",
+        "chunk_id": "2016---15"
+    },
+    "82": {
+        "Question": "Which plant started using biomethane-powered trucks in September 2016, and how many trucks were involved?",
+        "Answer": "The Neckarsulm plant started using two biomethane-powered trucks in September 2016.",
+        "OriginalText": "A freight forwarder has been transporting shipments at the Neckarsulm plant since September 2016 using two biomethane-powered trucks.",
+        "chunk_id": "2016---16"
+    },
+    "83": {
+        "Question": "What percentage of employee suggestions were implemented in 2016 as part of the Audi Ideas Program?",
+        "Answer": "In 2016, 55.1 percent of employee suggestions were implemented.",
+        "OriginalText": "In 2016, 55.1 percent of the suggestions submitted were implemented.",
+        "chunk_id": "2016---16"
+    },
+    "84": {
+        "Question": "How many temporary workers did Audi take on as permanent staff in 2016, and how does this compare to 2015?",
+        "Answer": "In 2016, Audi took on 433 temporary workers as permanent staff, compared to 394 in 2015.",
+        "OriginalText": "In 2016, AUDI AG took on 433 (2015: 394) temporary workers as permanent staff members.",
+        "chunk_id": "2016---16"
+    },
+    "85": {
+        "Question": "What was Audi's work-related accident rate per million hours worked in 2016?",
+        "Answer": "In 2016, Audi's work-related accident rate was 4.0 per million hours worked.",
+        "OriginalText": "In 2016, there were 4.0 work-related accidents per million hours worked.",
+        "chunk_id": "2016---16"
+    },
+    "86": {
+        "Question": "How many countries did Audi have production operations in by the end of 2016?",
+        "Answer": "By the end of 2016, Audi had production operations in 12 countries.",
+        "OriginalText": "The Audi Group now has production operations at 16 sites in 12 countries.",
+        "chunk_id": "2016---16"
+    },
+    "87": {
+        "Question": "What percentage of Audi employees participated in the Audi Checkup program in 2016?",
+        "Answer": "Around 90 percent of Audi employees participated in the Audi Checkup program in 2016.",
+        "OriginalText": "Around 90 percent of our employees already take part in the program.",
+        "chunk_id": "2016---16"
+    },
+    "88": {
+        "Question": "What key focus did Audi's HR strategy emphasize in 2016 regarding its workforce?",
+        "Answer": "In 2016, Audi's HR strategy focused on strengthening competences, making work attractive and flexible, promoting responsibility, and ensuring future viability.",
+        "OriginalText": "The human resources strategy focuses on the following points: Strengthening competences, Making work attractive and flexible, Promoting responsibility, Ensuring future viability.",
+        "chunk_id": "2016---16"
+    },
+    "89": {
+        "Question": "What percentage of suggestions were implemented in 2016 through the Audi Ideas Program, and what financial savings did this result in?",
+        "Answer": "55.1 percent of suggestions were implemented in 2016, resulting in savings of EUR 88 million.",
+        "OriginalText": "In 2016, 55.1 percent of the suggestions submitted were implemented, achieving savings in the amount of EUR 88 million.",
+        "chunk_id": "2016---16"
+    },
+    "90": {
+        "Question": "What was the employee attendance rate at Audi in 2016?",
+        "Answer": "The employee attendance rate in 2016 was 95.9 percent.",
+        "OriginalText": "The employee attendance rate of 95.9 percent (previous year: 96.0 percent) remained at the same high level.",
+        "chunk_id": "2016---17"
+    },
+    "91": {
+        "Question": "What new initiative did Audi introduce in 2016 to support flexible working hours for its employees?",
+        "Answer": "In 2016, Audi introduced a general right for employees to work flexibly and independently of time and place, provided it is compatible with their tasks.",
+        "OriginalText": "In 2016, management and the General Works Council reached an agreement on binding criteria for this. For the first time, employees have a general right to work flexibly and independently of place and time, if it is compatible with their actual tasks.",
+        "chunk_id": "2016---17"
+    },
+    "92": {
+        "Question": "How many new hires were made at Audi Group in 2016?",
+        "Answer": "7,308 new hires.",
+        "OriginalText": "There were 7,308 (2015: 7,415) new hires at the Audi Group in 2016.",
+        "chunk_id": "2016---18"
+    },
+    "93": {
+        "Question": "What was the turnover rate at AUDI AG in 2016?",
+        "Answer": "The turnover rate was 0.8% at AUDI AG in 2016.",
+        "OriginalText": "The turnover rate at AUDI AG in 2016 was 0.8 percent (2015: 0.5 percent).",
+        "chunk_id": "2016---18"
+    },
+    "94": {
+        "Question": "Which Audi locations were awarded the 'TOP EMPLOYER of the year' quality seal in 2016?",
+        "Answer": "The Audi locations in Győr, Brussels, and Lamborghini in Sant’Agata Bolognese were awarded the 'TOP EMPLOYER of the year' quality seal in 2016.",
+        "OriginalText": "Companies in the Audi Group rank among the top employers in countries outside of Germany, too: The Audi locations in Győr and Brussels as well as Lamborghini in Sant’Agata Bolognese were awarded the 'TOP EMPLOYER of the year' quality seal in 2016.",
+        "chunk_id": "2016---18"
+    },
+    "95": {
+        "Question": "How many employees participated in Audi’s 2016 'Sie und Audi' program series?",
+        "Answer": "Roughly 80 employees participated in the 'Sie und Audi' program series in 2016.",
+        "OriginalText": "Roughly 80 employees took part in 2016.",
+        "chunk_id": "2016---18"
+    },
+    "96": {
+        "Question": "What was the average qualification time per employee at AUDI AG in 2016 for indirect employees?",
+        "Answer": "The average qualification time for indirect employees at AUDI AG in 2016 was 20.5 hours.",
+        "OriginalText": "Indirect employees: 20.5",
+        "chunk_id": "2016---18"
+    },
+    "97": {
+        "Question": "How many apprentices were hired by AUDI AG in 2016, and how many were women?",
+        "Answer": "2,623 apprentices were hired by AUDI AG in 2016, with 580 being women.",
+        "OriginalText": "2,623 (2015: 4,182) thereof were hired at AUDI AG. The gender breakdown was 2,043 men and 580 women.",
+        "chunk_id": "2016---18"
+    },
+    "98": {
+        "Question": "How many employees at AUDI AG participated in the 'Stimmungsbarometer' employee survey in 2016?",
+        "Answer": "More than 40,500 employees at AUDI AG participated in the 'Stimmungsbarometer' survey in 2016.",
+        "OriginalText": "In 2016, more than 40,500 employees (70 percent) at the German sites took part in the AUDI AG 'Stimmungsbarometer.'",
+        "chunk_id": "2016---18"
+    },
+    "99": {
+        "Question": "How many employees participated in German language training in 2016 at Audi’s new site in Mexico?",
+        "Answer": "Over 600 Mexican employees.",
+        "OriginalText": "For our new site in Mexico, for example, over 600 Mexican employees also took part in training in German.",
+        "chunk_id": "2016---19"
+    },
+    "100": {
+        "Question": "How many young people will begin the cooperative education program at Audi’s Ingolstadt and Neckarsulm sites in 2016?",
+        "Answer": "24 young people at Ingolstadt and 18 at Neckarsulm.",
+        "OriginalText": "24 young people at the Ingolstadt site will be beginning a cooperative education program, with 18 doing the same in Neckarsulm.",
+        "chunk_id": "2016---19"
+    },
+    "101": {
+        "Question": "How many training seminars were conducted at AUDI AG in 2016?",
+        "Answer": "13,500 training seminars.",
+        "OriginalText": "Some 13,500 training seminars were conducted in 2016.",
+        "chunk_id": "2016---19"
+    },
+    "102": {
+        "Question": "What was Audi's social involvement focus in 2016, specifically in relation to local communities?",
+        "Answer": "Audi focused on education, technology, and support in case of disasters in 2016.",
+        "OriginalText": "Audi places special emphasis in its involvement on the following areas: Education (projects that support the education and advancement of children, young people and adults), Technology (projects conceived to provide solutions to technical and social problems related to mobility), Support in the case of disasters.",
+        "chunk_id": "2016---19"
+    },
+    "103": {
+        "Question": "How much did Audi Group provide for social involvement in 2016?",
+        "Answer": "EUR 18.7 million.",
+        "OriginalText": "In 2016, the Audi Group provided roughly EUR 18.7 million (2015: EUR 22.9 million) for social involvement (not including sponsoring).",
+        "chunk_id": "2016---20"
+    },
+    "104": {
+        "Question": "What did Audi provide for the local communities around its locations in 2016?",
+        "Answer": "Targeted location development measures and social involvement, including projects in education, technology, and disaster support.",
+        "OriginalText": "Audi places special emphasis in its involvement on the following areas: Education (projects that support the education and advancement of children, young people and adults), Technology (projects conceived to provide solutions to technical and social problems related to mobility), Support in the case of disasters.",
+        "chunk_id": "2016---20"
+    },
+    "105": {
+        "Question": "Which company received the best mark of A+ from oekom Corporate Rating for community involvement in 2016?",
+        "Answer": "Audi AG.",
+        "OriginalText": "oekom Corporate Rating gave AUDI AG the best mark of A+ in the area 'community involvement.'",
+        "chunk_id": "2016---20"
+    },
+    "106": {
+        "Question": "What was the focus of Audi's social involvement in the local community in 2016?",
+        "Answer": "Education, technology, and support in the case of disasters.",
+        "OriginalText": "Audi places special emphasis in its involvement on the following areas: Education (projects that support the education and advancement of children, young people and adults), Technology (projects conceived to provide solutions to technical and social problems related to mobility), Support in the case of disasters.",
+        "chunk_id": "2016---20"
+    },
+    "107": {
+        "Question": "How many compliance officers support Audi's compliance function at material participations in 2016?",
+        "Answer": "26 compliance officers.",
+        "OriginalText": "The Compliance/Integrity area is in charge of compliance activities across the Group as a whole and is led by the Chief Compliance Officer, who reports to the Board Member for Finance. He is supported in this function by 26 compliance officers at the material participations.",
+        "chunk_id": "2016---20"
+    },
+    "108": {
+        "Question": "What new web-based training module was introduced at Audi in 2016, and how many employees completed it?",
+        "Answer": "A new interactive web-based training module was introduced in 2016, with over 15,000 employees completing it.",
+        "OriginalText": "A new interactive web-based training module (WBT) was rolled out to every division at AUDI AG during the reporting period. Over 15,000 employees completed the WBT in 2016.",
+        "chunk_id": "2016---21"
+    },
+    "109": {
+        "Question": "What were the key values highlighted in Audi's communication campaign in 2016?",
+        "Answer": "The key values highlighted in Audi's 2016 communication campaign were team spirit, responsibility, respect, trust, honesty, and fairness.",
+        "OriginalText": "To sensitize the employees further to compliance and integrity matters, a communication campaign was carried out in the 2016 fiscal year. The campaign revolved around the values of team spirit, responsibility, respect, trust, honesty and fairness.",
+        "chunk_id": "2016---21"
+    },
+    "110": {
+        "Question": "What measures did Audi take in 2016 regarding supplier relationships, and when were these measures introduced?",
+        "Answer": "Since 2014, Audi has placed stronger emphasis on topics like anti-corruption, money laundering, import/export controls, and competition law in supplier relationships, requiring suppliers to confirm their compliance with sustainability standards.",
+        "OriginalText": "Before submitting a bid, our suppliers also must actively confirm that they satisfy the “Volkswagen Group requirements regarding sustainability in its relationships with business partners” (Code of Conduct for Business Partners). The Group-wide concept is being continuously developed further: In addition to the previously valid environmental and social standards, agreements concluded since 2014 also contain auditing rights as well as a right to extraordinary termination in the case of violations.",
+        "chunk_id": "2016---21"
+    },
+    "111": {
+        "Question": "What type of action did Audi take in response to corruption cases detected in 2016?",
+        "Answer": "In 2016, Audi detected one case of corruption, resulting in one human resources action and the termination of one employment relationship.",
+        "OriginalText": "Audi Auditing confirmed it had detected one case of corruption through its auditing activities in 2016 (2015: one). One human resources action was taken as the result of allegations of corruption in the 2016 reporting period (2015: one). In addition, one employment relationship was terminated as the result of corruption allegations in the 2016 reporting period (2015: one).",
+        "chunk_id": "2016---21"
+    },
+    "112": {
+        "Question": "What are the key topics that were considered most relevant in Audi's product responsibility in 2016?",
+        "Answer": "The most relevant topics in Audi's product responsibility in 2016 were fuel consumption and emissions, alternative drive technologies, and resource conservation and life cycle assessment.",
+        "OriginalText": "The greatest relevance was attributed to the topics 'fuel consumption and emissions,' 'alternative drive technologies' and 'resource conservation and life cycle assessment.'",
+        "chunk_id": "2016---22"
+    },
+    "113": {
+        "Question": "What is Audi's primary investment in product development in 2016?",
+        "Answer": "Audi's primary investment in 2016 was in the development of innovative drive technologies.",
+        "OriginalText": "Our primary investment is in the development of innovative drive technologies.",
+        "chunk_id": "2016---22"
+    },
+    "114": {
+        "Question": "What are the key driver assistance systems developed by Audi in 2016?",
+        "Answer": "Key driver assistance systems developed by Audi in 2016 include Audi pre sense, adaptive cruise control with Stop&Go function, and the night vision assistant.",
+        "OriginalText": "The driver assistance systems include, among others, Audi pre sense (a warning system for greater safety in acute hazard situations), the automatic distance control system adaptive cruise control with Stop&Go function, and the night vision assistant.",
+        "chunk_id": "2016---22"
+    },
+    "115": {
+        "Question": "What is Audi's approach to data security in its vehicles in 2016?",
+        "Answer": "In 2016, Audi focused on transparency, self-determination, and high data security, taking these factors into account during the development process.",
+        "OriginalText": "Audi accords high priority to data security in automobiles, taking it into account even during the development process. The Company protects sensitive data with recognized and tested embedded security mechanisms and standards.",
+        "chunk_id": "2016---22"
+    },
+    "116": {
+        "Question": "What other possibilities did Audi research for environmentally compatible drive systems?",
+        "Answer": "In 2016, Audi was researching the development of synthetic fuel, Audi e-gas, produced using renewable energy from water and CO2 or from organic residual materials like straw and plant clippings.",
+        "OriginalText": "Besides fuel cells operated with hydrogen, this work is focusing on gas-powered automobiles, particularly in conjunction with the synthetic fuel Audi e-gas.",
+        "chunk_id": "2016---22"
+    },
+    "117": {
+        "Question": "How many Audi models received the top score of five stars in safety tests in 2016?",
+        "Answer": "In 2016, two Audi models received the top score of five stars in safety tests.",
+        "OriginalText": "In 2016, two Audi models received the top score of five stars, making them among the safest cars in their class.",
+        "chunk_id": "2016---23"
+    },
+    "118": {
+        "Question": "How did Audi address the legal issues related to the diesel engines in 2016?",
+        "Answer": "In 2016, Audi reached settlement agreements with the U.S. Department of Justice related to the alleged use of defeat device software in diesel engines.",
+        "OriginalText": " In June and December 2016 as well as in January 2017, Volkswagen AG, Volkswagen Group of America, Inc. and certain affiliates, including AUDI AG, reached settlement agreements in the USA with the U.S. Department of Justice on behalf of the EPA, the CARB and the California Attorney General, as well as the U.S. Federal Trade Commission and private plain­ tiffs represented by a Plaintiffs’ Steering Committee in the Multi-District Litigation pending in California.",
+        "chunk_id": "2016---23"
+    },
+    "119": {
+        "Question": "What major event occurred on January 4, 2016, concerning Audi's legal challenges?",
+        "Answer": "On January 4, 2016, the U.S. Department of Justice filed a civil complaint against Audi and other affiliates related to the alleged use of defeat device software in diesel engines.",
+        "OriginalText": "On January 4, 2016, the U.S. Department of Justice, on behalf of the EPA, filed a civil complaint against Volkswagen AG, Volkswagen Group of America, Inc. and certain affiliates, including AUDI AG.",
+        "chunk_id": "2016---23"
+    },
+    "120": {
+        "Question": "What were the core areas of Audi's Sustainability Program as of December 31, 2016?",
+        "Answer": "As of December 31, 2016, Audi's Sustainability Program focused on Business & Integrity, Products & Services, Value Creation & Production, and Employees & Society.",
+        "OriginalText": "The Audi Sustainability Program combines strategic goals in the area of sustainability with concrete measures. It is organized into the following areas of action: Business & Integrity, Products & Services, Value Creation & Production, and Employees & Society.",
+        "chunk_id": "2016---23"
+    },
+    "121": {
+        "Question": "What was the name of the head of Sustainability at Audi in 2016?",
+        "Answer": "Prof. Dr.-Ing. Peter F. Tropschuh",
+        "OriginalText": "Prof. Dr.-Ing. Peter F. Tropschuh\nHead of Sustainability",
+        "chunk_id": "2016---24"
+    },
+    "122": {
+        "Question": "What type of report did PricewaterhouseCoopers GmbH perform for Audi in 2016, and what was its focus?",
+        "Answer": "PricewaterhouseCoopers GmbH performed a limited assurance engagement on Audi's Corporate Responsibility Report for 2016, focusing on sustainability information and selected management approaches.",
+        "OriginalText": "PricewaterhouseCoopers GmbH has performed a limited assurance engagement on the German version of the Corporate Responsibility Report of AUDI AG 2016 and issued an independent assurance report.",
+        "chunk_id": "2016---24"
+    },
+    "123": {
+        "Question": "What was the purpose of the independent assurance engagement by PricewaterhouseCoopers in 2016?",
+        "Answer": "The purpose was to perform a limited assurance engagement on the sustainability information in Audi's 2016 Corporate Responsibility Report, focusing on three selected management approaches.",
+        "OriginalText": "PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft has performed a limited assurance engagement on the German version of the Corporate Responsibility Report of AUDI AG 2016 and issued an independent assurance report.",
+        "chunk_id": "2016---24"
+    },
+    "124": {
+        "Question": "Which three management approaches were evaluated during the 2016 assurance engagement?",
+        "Answer": "The three management approaches evaluated were sustainability strategy, corporate environmental protection, and CO2 fleet emissions.",
+        "OriginalText": "The three selected management approaches involve the management approaches on sustainability strategy, corporate environmental protection and CO2 fleet emissions.",
+        "chunk_id": "2016---24"
+    },
+    "125": {
+        "Question": "What was the conclusion of the limited assurance engagement regarding Audi's sustainability information for 2016?",
+        "Answer": "The conclusion was that nothing indicated the sustainability information had not been prepared in accordance with the GRI-Criteria for 2016.",
+        "OriginalText": "Based on our limited assurance engagement, nothing has come to our attention that causes us to believe that the sustainability information marked with “√“ in the Report as well as the three selected management approaches of the Company for the period January 1st to December 31st 2016 have not been prepared, in all material respects, in accordance with the GRI-Criteria.",
+        "chunk_id": "2016---25"
+    },
+    "126": {
+        "Question": "What was one of the recommendations made for Audi's sustainability management in 2016?",
+        "Answer": "One recommendation was the formalization and standardization of data collection processes and internal control systems, particularly for determining CO2 fleet emissions.",
+        "OriginalText": "Formalization and standardization of the data collection processes and the related internal control systems, especially in terms of the determination of the CO2 fleet emissions.",
+        "chunk_id": "2016---25"
+    },
+    "127": {
+        "Question": "Who were the auditors responsible for the limited assurance engagement for Audi's 2016 report?",
+        "Answer": "The auditors responsible were Michael Conrad and Nicolette Behncke, both German Public Auditors.",
+        "OriginalText": "Michael Conrad Wirtschaftsprüfer (German Public Auditor) ppa. Nicolette Behncke Wirtschaftsprüfer (German Public Auditor)",
+        "chunk_id": "2016---25"
+    },
+    "128": {
+        "Question": "What aspect of Audi's sustainability management did the auditors not assess in their 2016 report?",
+        "Answer": "The auditors did not assess the description of the materiality analysis used for determining the report’s contents and boundaries.",
+        "OriginalText": "The assessment of the description of the materiality analysis used for the determination of the Report’s contents and boundaries of its aspects was not part of the assurance engagement.",
+        "chunk_id": "2016---25"
+    },
+    "129": {
+        "Question": "What specific information was compared with the official documents in Audi's 2016 sustainability report?",
+        "Answer": "The fleet emissions and fuel consumption data were compared with official fuel consumption and emissions type approval values from the German Federal Motor Transport Authority.",
+        "OriginalText": "Inquiries of personnel responsible for the information on fleet emissions and fuel consumption contained in the Report as well as comparison of these information with the official fuel consumption and emissions type approval values of the German Federal Motor Transport Authority.",
+        "chunk_id": "2016---25"
+    },
+    "130": {
+        "Question": "What was the scope of the selected management approaches assessed in the 2016 Audi Corporate Responsibility Report?",
+        "Answer": "The scope of the selected management approaches assessed included sustainability strategy, corporate environmental protection, and CO2 fleet emissions.",
+        "OriginalText": "The three selected management approaches involve the management approaches on sustainability strategy, corporate environmental protection and CO2 fleet emissions.",
+        "chunk_id": "2016---25"
+    },
+    "131": {
+        "Question": "When was the limited assurance engagement report for Audi's 2016 Corporate Responsibility Report issued?",
+        "Answer": "The report was issued on May 15th, 2017.",
+        "OriginalText": "Frankfurt, 15th May 2017",
+        "chunk_id": "2016---25"
+    }
+}

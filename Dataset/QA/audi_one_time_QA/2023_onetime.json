@@ -1,0 +1,1178 @@
+{
+    "1": {
+        "Question": "Who became the Chairman of the Board of Management of the Audi Group in 2023?",
+        "Answer": "Gernot Döllner became the Chairman of the Board of Management of the Audi Group in September 2023.",
+        "OriginalText": "I became the Chairman of the Board of Management of the Audi Group and its four brands Audi, Bentley, Lamborghini and Ducati in September 2023.",
+        "chunk_id": "2023---1"
+    },
+    "2": {
+        "Question": "What were the operating profit and operating return on sales for Audi in 2023?",
+        "Answer": "In 2023, Audi reported an operating profit of EUR 6.3 billion and an operating return on sales of 9.0 percent.",
+        "OriginalText": "With an operating profit of EUR 6.3 billion and an operating return on sales of 9.0 percent, we posted robust figures for the Audi Group in 2023.",
+        "chunk_id": "2023---1"
+    },
+    "3": {
+        "Question": "Which new electric vehicle models did Audi launch in 2023?",
+        "Answer": "In 2023, Audi launched the Audi Q6 e-tron model line and the Audi A6 e-tron family.",
+        "OriginalText": "As evidenced by our many new e-models, such as the Audi Q6 e-tron model line followed by the Audi A6 e-tron family.",
+        "chunk_id": "2023---1"
+    },
+    "4": {
+        "Question": "Which regions does Audi plan to focus on strengthening in 2023?",
+        "Answer": "In 2023, Audi focused on strengthening its brand in Europe, China, and North America.",
+        "OriginalText": "We will also concentrate on strengthening the Audi brand in our three core regions – Europe, China and North America.",
+        "chunk_id": "2023---1"
+    },
+    "5": {
+        "Question": "What is Audi’s long-term return ambition for 2023?",
+        "Answer": "Audi aims for a long-term return of 14 percent for its alliance with Bentley, Lamborghini, and Ducati, with a 13 percent return for the Audi brand.",
+        "OriginalText": "Our ambition: we want to achieve a longterm return of 14 percent for Audi in its alliance with Bentley, Lamborghini and Ducati – this will mean a return of 13 percent for the Audi brand.",
+        "chunk_id": "2023---1"
+    },
+    "6": {
+        "Question": "How many employees worked for the Audi Group globally as of December 31, 2023?",
+        "Answer": "As of December 31, 2023, 87,736 employees worked for the Audi Group globally.",
+        "OriginalText": "As of December 31, 2023, 87,736 (87,996) employees were working for the Audi Group all over the world.",
+        "chunk_id": "2023---1"
+    },
+    "7": {
+        "Question": "How many Audi Group production sites were there globally in 2023?",
+        "Answer": "In 2023, Audi operated 22 production sites globally.",
+        "OriginalText": "The Audi Group operated at 22 (22) sites in 13 (13) countries in 2023 with its production partners.",
+        "chunk_id": "2023---1"
+    },
+    "8": {
+        "Question": "What was the total number of vehicles produced at Audi's Ingolstadt plant in 2023?",
+        "Answer": "Audi’s Ingolstadt plant produced 403,874 vehicles in 2023.",
+        "OriginalText": "403,874 Ingolstadt, Germany AUDI AG A3 Sedan, S3 Sedan, RS 3 Sedan A3 Sportback, S3 Sportback, RS 3 Sportback A4 allroad quattro A4 Avant, S4 Avant, RS 4 Avant A4 Sedan, S4 Sedan A5 Coupé, S5 Coup",
+        "chunk_id": "2023---1"
+    },
+    "9": {
+        "Question": "How many motorcycles did Audi Group produce in 2023?",
+        "Answer": "In 2023, Audi Group produced 45,621 motorcycles.",
+        "OriginalText": "Motorcycles produced: 45,621 Key Vehicles produced in 2023",
+        "chunk_id": "2023---1"
+    },
+    "10": {
+        "Question": "What historic achievement did Audi accomplish in 2023, and which vehicle was involved?",
+        "Answer": "Audi won its first Dakar Rally in 2023, becoming the first manufacturer to win with an electric drive system using the Audi RS Q e-tron.",
+        "OriginalText": "Audi has won its first Dakar Rally – after 12 stages and 4,600 kilometers racing over sand, rocks and gravel. Audi is the first manufacturer ever to win the world’s toughest rally with an electric drive system.",
+        "chunk_id": "2023---2"
+    },
+    "11": {
+        "Question": "What was the total number of motorcycles produced by Audi in 2023, and in which location were the most motorcycles produced?",
+        "Answer": "Audi produced 45,621 motorcycles in 2023, with the highest production in Bologna, Italy.",
+        "OriginalText": "Motorcycles produced: 45,621. Bologna, Italy Ducati Motor Holding S.p.A. DesertX, Diavel, Hypermotard, Monster, Multistrada, Panigale (Superbike), Scrambler, Streetfighter, SuperSport",
+        "chunk_id": "2023---2"
+    },
+    "12": {
+        "Question": "What is the total number of vehicles produced in China by FAW-Volkswagen in 2023 and which specific models were produced?",
+        "Answer": "FAW-Volkswagen produced 471,705 vehicles in Changchun, China in 2023, including the A4 L Sedan, A6 L Sedan, e-tron, Q5 L, and Q5 L Sportback.",
+        "OriginalText": "471,705 Changchun, China FAW-Volkswagen Automotive Co., Ltd. A4 L Sedan A6 L Sedan e-tron Q5 L Q5 L Sportback",
+        "chunk_id": "2023---2"
+    },
+    "13": {
+        "Question": "What was the target operating return on sales for the Audi brand in 2023?",
+        "Answer": "The target operating return on sales for the Audi brand in 2023 was 13 percent.",
+        "OriginalText": "In the long term, we are aiming to achieve an operating return on sales of 13 percent with the Audi brand.",
+        "chunk_id": "2023---3"
+    },
+    "14": {
+        "Question": "Which vehicle models were key to Audi’s production strategy in 2023?",
+        "Answer": "Key models produced by Audi in 2023 included the Q6 e-tron, A6 e-tron, A5, A6, and Q5.",
+        "OriginalText": "In the product area, the primary focus in recent months has been on making final adjustments to the Audi Q6 e-tron to satisfy customer requirements. Production started at the end of 2023. Preparations are now underway for the market launch. The next step is to finalize other important new products for 2024: especially the Audi A6 e-tron, Audi A5 and Audi Q5.",
+        "chunk_id": "2023---3"
+    },
+    "15": {
+        "Question": "What were the primary areas of focus for Audi in 2023 as part of the Audi Agenda?",
+        "Answer": "The primary areas of focus for Audi in 2023 were product, technology, and brand, especially in electric mobility, digital experience, and drive efficiency.",
+        "OriginalText": "At its core, the Audi Agenda focuses on what is important to customers: the product, technology and the brand.",
+        "chunk_id": "2023---3"
+    },
+    "16": {
+        "Question": "How does Audi's 2023 agenda plan to transform its model development approach?",
+        "Answer": "Audi's 2023 agenda plans to transform its model development approach by focusing on 'software first,' creating software-defined vehicles (SDVs).",
+        "OriginalText": "Audi is undergoing a paradigm shift in the development of new models toward 'software first' and will in the future offer vehicles that are developed around the software – these are referred to as software-defined vehicles (SDVs).",
+        "chunk_id": "2023---3"
+    },
+    "17": {
+        "Question": "What specific new models did Audi plan to launch in 2024 according to their 2023 report?",
+        "Answer": "Audi planned to launch the A6 e-tron, A5, and Q5 in 2024, according to their 2023 report.",
+        "OriginalText": "Preparations are now underway for the market launch. The next step is to finalize other important new products for 2024: especially the Audi A6 e-tron, Audi A5 and Audi Q5.",
+        "chunk_id": "2023---3"
+    },
+    "18": {
+        "Question": "Which new model did Audi launch in 2023 as a successor to the Audi e-tron?",
+        "Answer": "In 2023, Audi launched the Audi Q8 e-tron as the successor to the Audi e-tron.",
+        "OriginalText": "In 2023, the company already launched the Audi Q8 e‑tron on the market. It is the successor to the brand’s electric pioneer, the Audi e‑tron.",
+        "chunk_id": "2023---4"
+    },
+    "19": {
+        "Question": "How many electric drive systems had been produced in Győr by 2023?",
+        "Answer": "In 2018, the electric drive production facility in Győr, Hungary, produced electric drive systems. By 2023, more than 400,000 electric drive systems had been produced there.",
+        "OriginalText": "In addition, there is the electric drive production facility in Győr (Hungary), where more than 400,000 electric drive systems have been produced since 2018.",
+        "chunk_id": "2023---4"
+    },
+    "20": {
+        "Question": "How many suppliers does Audi work with and in how many countries, according to the 2023 report?",
+        "Answer": "Audi works with around 14,000 suppliers in more than 60 countries.",
+        "OriginalText": "We work with around 14,000 suppliers in more than 60 countries.",
+        "chunk_id": "2023---5"
+    },
+    "21": {
+        "Question": "What percentage of recycled automotive glass is used in the production of windshields for the Audi Q4 e-tron, as of 2023?",
+        "Answer": "Up to 30 percent of damaged and irreparable automotive glass is used in the production of windshields for the Audi Q4 e-tron.",
+        "OriginalText": "For instance, we already use up to 30 percent damaged and irreparable automotive glass in the production of windshields for the Audi Q4 e-tron.",
+        "chunk_id": "2023---5"
+    },
+    "22": {
+        "Question": "Which key features of Audi's future vehicles will distinguish them from competitors, as stated in the 2023 report?",
+        "Answer": "Audi's future vehicles will be distinguished by efficiency, sporty performance, and quattro combination, along with automated driving functions and sustainably designed interiors.",
+        "OriginalText": "Certain models will additionally be created to stand out from the competition through a combination of sporty performance in conjunction with quattro... selected models are also expected to set themselves apart by offering automated driving functions and providing passengers with completely new ways of spending their time in the vehicle.",
+        "chunk_id": "2023---5"
+    },
+    "23": {
+        "Question": "What is the significance of the collaboration between Audi, CARIAD, and the Volkswagen brand in 2023?",
+        "Answer": "Audi, CARIAD, and the Volkswagen brand have established a project house to develop cutting-edge software-defined vehicles (SDVs).",
+        "OriginalText": "Together with the Group software unit CARIAD and the Volkswagen brand, Audi has established a project house and put together an initial team of Audi experts. The aim of this collaboration is to develop cutting-edge software-defined vehicles for Audi.",
+        "chunk_id": "2023---5"
+    },
+    "24": {
+        "Question": "What is Audi's target for the use of recycled materials in its vehicles, according to the 2023 report?",
+        "Answer": "Audi aims to continuously increase the amount of recycled materials in its vehicles wherever technically possible, ecologically worthwhile, and economically viable.",
+        "OriginalText": "Our goal is to continuously increase the amount of recycled materials in our vehicles – wherever this is technically possible, ecologically worthwhile and economically viable.",
+        "chunk_id": "2023---5"
+    },
+    "25": {
+        "Question": "How many vehicles did Audi deliver in China in 2023, and what was the percentage increase compared to 2022?",
+        "Answer": "Audi delivered 729,042 vehicles in China in 2023, a 13% increase compared to 2022.",
+        "OriginalText": "In 2023, the Four Rings delivered a total of 729,042 (2022: 642,548) vehicles in China – 13 percent more than in the previous year.",
+        "chunk_id": "2023---6"
+    },
+    "26": {
+        "Question": "By what percentage did Audi's deliveries in the USA increase in 2023?",
+        "Answer": "Audi's deliveries in the USA increased by 22% in 2023.",
+        "OriginalText": "In 2023, Audi achieved a new record in the USA as deliveries rose by 22 percent to 228,550 (2022: 186,875) vehicles.",
+        "chunk_id": "2023---7"
+    },
+    "27": {
+        "Question": "How many vehicles did Audi produce at its San José Chiapa plant in Mexico in 2023?",
+        "Answer": "Audi produced approximately 175,000 vehicles at its San José Chiapa plant in Mexico in 2023.",
+        "OriginalText": "The predecessor, produced at the San José Chiapa plant in Mexico since 2016, rolled off the production line some 175,000 times in 2023.",
+        "chunk_id": "2023---7"
+    },
+    "28": {
+        "Question": "What new Audi models will be produced in the new Changchun factory starting in late 2024?",
+        "Answer": "The new Changchun factory will produce the Audi Q6 e‑tron and A6 e‑tron models starting in late 2024.",
+        "OriginalText": "In the future, the plant will produce three models from the Audi A6 e‑tron and Audi Q6 e‑tron families for the Chinese market.",
+        "chunk_id": "2023---7"
+    },
+    "29": {
+        "Question": "What is the range of the Audi Q6 e-tron quattro according to the 2023 report?",
+        "Answer": "The Audi Q6 e-tron quattro has a range of up to 625 kilometers according to the WLTP.",
+        "OriginalText": "The range of up to 625 kilometers (according to WLTP) of the Audi Q6 e-tron quattro is primarily thanks to the high-performance, compact and highly efficient electric motors as well as a newly developed lithium-ion battery consisting of 12 modules and 180 prismatic cells with a total gross capacity of 100 kWh (94.9 kWh net).",
+        "chunk_id": "2023---8"
+    },
+    "30": {
+        "Question": "What innovative feature is introduced in the Audi Q6 e-tron regarding lighting technology in 2023?",
+        "Answer": "The Audi Q6 e-tron features the first active digital light signature, allowing headlights and rear lights to create a lifelike appearance through movement.",
+        "OriginalText": "The Audi Q6 e-tron is the first model to feature an active digital light signature. This gives the headlights and rear lights a lifelike appearance through movement.",
+        "chunk_id": "2023---8"
+    },
+    "31": {
+        "Question": "What feature in the Audi Q6 e-tron supports interaction between the car and its occupants, as reported in 2023?",
+        "Answer": "The Audi Q6 e-tron features a dynamic interaction light (IAL) that supports communication between the car and its occupants.",
+        "OriginalText": "In addition, the Audi Q6 e-tron features a dynamic interaction light (IAL), which offers a range of communication functions and thus supports interaction between the car and its occupants.",
+        "chunk_id": "2023---8"
+    },
+    "32": {
+        "Question": "How much energy does the Audi SQ6 e-tron consume per 100 km, according to the 2023 report?",
+        "Answer": "The Audi SQ6 e-tron consumes between 18.4 and 17.5 kWh per 100 km (combined).",
+        "OriginalText": "Audi SQ6 e-tron: electric power consumption in kWh/100 km (combined): 18.4–17.5.",
+        "chunk_id": "2023---8"
+    },
+    "33": {
+        "Question": "What is the electric power consumption of the Audi SQ6 e-tron (combined) in kWh/100 km according to the 2023 report?",
+        "Answer": "18.4–17.5 kWh/100 km.",
+        "OriginalText": "Audi SQ6 e-tron: electric power consumption (combined) in kWh/100 km: 18.4–17.5.",
+        "chunk_id": "2023---9"
+    },
+    "34": {
+        "Question": "How many units of the Ducati Diavel for Bentley were produced as a limited edition in 2023?",
+        "Answer": "550 units.",
+        "OriginalText": "The Diavel for Bentley was produced as a limited and numbered edition of just 500+50 units, with units 501 to 550 reserved exclusively for Bentley customers.",
+        "chunk_id": "2023---9"
+    },
+    "35": {
+        "Question": "How much did Bentley's solar output increase in 2023, and what is its equivalent in terms of the number of households it could power?",
+        "Answer": "In 2023, Bentley increased its solar output to 10 megawatts, which can supply electricity to more than 2,370 households each year.",
+        "OriginalText": "Installation of additional solar panels in 2023 increased solar output at the plant premises to 10 megawatts. This corresponds to the amount of energy needed to supply electricity to more than 2,370 households each year.",
+        "chunk_id": "2023---10"
+    },
+    "36": {
+        "Question": "What was the specific achievement of Ducati in the motorcycle racing world in 2023?",
+        "Answer": "In 2023, Ducati dominated the world of motorcycle racing, with Francesco Bagnaia winning the MotoGP world championship for the second time and Álvaro Bautista defending his title in the Superbike World Championship.",
+        "OriginalText": "As in the previous year, Ducati dominated the world of motorcycle racing in 2023. Francesco Bagnaia was crowned MotoGP world champion for the second time on the Desmosedici GP for the Ducati Lenovo Team. Álvaro Bautista successfully defended his title in the Superbike World Championship on his Panigale V4 R.",
+        "chunk_id": "2023---10"
+    },
+    "37": {
+        "Question": "What new model was introduced by Lamborghini in 2023, and what are its key specifications?",
+        "Answer": "In 2023, Lamborghini introduced the Revuelto, the world’s first supercar with a V12 plug-in hybrid engine, delivering 1,015 PS with a combination of a V12 engine and three electric motors.",
+        "OriginalText": "The Lamborghini Revuelto, the world’s first supercar with V12 plug-in hybrid, kicked off the hybridization phase in the year under review. This successor to the Aventador is powered by a V12 naturally aspirated engine and three electric motors, which combine to deliver 1,015 PS.",
+        "chunk_id": "2023---10"
+    },
+    "38": {
+        "Question": "How many electric vehicles were delivered by Audi in 2023?",
+        "Answer": "Audi delivered 178,000 electric vehicles in 2023.",
+        "OriginalText": "178 thousand electric vehicles",
+        "chunk_id": "2023---10"
+    },
+    "39": {
+        "Question": "What was the percentage increase in Audi's operating profit in 2023?",
+        "Answer": "Audi's operating profit increased by 17.1% in 2023.",
+        "OriginalText": "Significant increase due to improved supply situation and strong market demand (+17.1%)",
+        "chunk_id": "2023---10"
+    },
+    "40": {
+        "Question": "What new collaboration did Ducati establish in 2023 for the FIM Enel MotoE World Championship?",
+        "Answer": "In 2023, Ducati became the sole supplier of motorcycles for the FIM Enel MotoE World Championship, producing 18 motorcycles for the event.",
+        "OriginalText": "In 2023, Ducati successfully completed its first season as the sole supplier of the FIM Enel MotoE World Championship. Less than two years after the V21L prototype’s first laps on the race track, Ducati has developed and produced 18 powerful and reliable motorcycles.",
+        "chunk_id": "2023---10"
+    },
+    "41": {
+        "Question": "What was the main purpose of Bentley's sustainability council established in 2023?",
+        "Answer": "Bentley's sustainability council, established in 2023, aims to promote the sustainable transformation of the company by supporting the development of sustainability strategies and evaluating measures.",
+        "OriginalText": "Bentley established a sustainability council in order to promote the sustainable transformation of the company. This council includes three experts to support Bentley in further developing the strategy and in making decisions in the future on promoting sustainability.",
+        "chunk_id": "2023---10"
+    },
+    "42": {
+        "Question": "How much did the total production of vehicles increase in 2023 compared to 2022 for the Brand Group Progressive?",
+        "Answer": "The total production increased by 14.1%, from 1,717,896 vehicles in 2022 to 1,960,597 vehicles in 2023.",
+        "OriginalText": "In the reporting period, the Brand Group Progressive manufactured 1,960,597 (1,717,896) cars, an increase of 14.1 percent compared with the previous year.",
+        "chunk_id": "2023---11"
+    },
+    "43": {
+        "Question": "What was the percentage increase in the production of Audi vehicles in 2023 compared to 2022?",
+        "Answer": "Audi's production increased by 14.5%, from 1,691,586 vehicles in 2022 to 1,937,342 vehicles in 2023.",
+        "OriginalText": "The Audi brand built 1,937,342 (1,691,586) vehicles and therefore 14.5 percent more than in the year before.",
+        "chunk_id": "2023---11"
+    },
+    "44": {
+        "Question": "What was the production of fully electric vehicles (BEVs) in 2023, and how did it change compared to 2022?",
+        "Answer": "The production of fully electric vehicles increased by 53.2%, from 128,359 units in 2022 to 196,657 units in 2023.",
+        "OriginalText": "The Brand Group Progressive again increased the production of fully electric vehicles (battery electric vehicles – BEVs) significantly in 2023, manufacturing 196,657 (128,359) BEVs for an increase of 53.2 percent.",
+        "chunk_id": "2023---11"
+    },
+    "45": {
+        "Question": "Which Audi vehicle model saw the highest production increase in 2023?",
+        "Answer": "The Audi Q4 e-tron and Audi Q8 e-tron recorded the highest percentage increases in production in 2023.",
+        "OriginalText": "The highest percentage increases were recorded for the Audi Q4 e-tron and Audi Q8 e-tron.",
+        "chunk_id": "2023---11"
+    },
+    "46": {
+        "Question": "How many fully electric Audi Q4 e-tron vehicles were produced in 2023?",
+        "Answer": "101,145 fully electric Audi Q4 e-tron vehicles were produced in 2023.",
+        "OriginalText": "During the reporting period, a total of 101,145 (51,685) fully electric models of the Audi Q4 e-tron line were produced at the Volkswagen multi-brand site in Zwickau, an increase of 95.7 percent compared with 2022.",
+        "chunk_id": "2023---11"
+    },
+    "47": {
+        "Question": "What was the production trend for Bentley vehicles in 2023 compared to 2022?",
+        "Answer": "Bentley’s production decreased by 19.2%, from 16,385 vehicles in 2022 to 13,241 vehicles in 2023.",
+        "OriginalText": "The Bentley luxury brand produced 13,241 (16,385) vehicles in the period under review, a decline of –19.2 percent compared with 2022.",
+        "chunk_id": "2023---11"
+    },
+    "48": {
+        "Question": "How did Ducati's motorcycle production in 2023 compare to 2022?",
+        "Answer": "Ducati produced 55,226 motorcycles in 2023, a decrease of 21.4% compared to 70,295 motorcycles in 2022.",
+        "OriginalText": "In addition, 55,226 (70,295) motorcycles of the Ducati brand were produced, a decrease of –21.4 percent compared with the record achieved in 2022, which was due to positive pandemic-related recovery effects.",
+        "chunk_id": "2023---11"
+    },
+    "49": {
+        "Question": "What was the global production figure for Audi vehicles at German sites in 2023?",
+        "Answer": "In 2023, Audi produced 667,753 vehicles at its German sites, a 25.1% increase compared to 533,793 in 2022.",
+        "OriginalText": "In 2023, a total of 667,753 (533,793) vehicles were produced at the German sites, a substantial increase of 25.1 percent compared with the previous year.",
+        "chunk_id": "2023---11"
+    },
+    "50": {
+        "Question": "How many vehicles were produced at the Ingolstadt site in 2023?",
+        "Answer": "403,874 vehicles were produced at the Ingolstadt site in 2023, an increase from 332,981 vehicles in 2022.",
+        "OriginalText": "Of these, 403,874 (332,981) vehicles were produced at the Ingolstadt site.",
+        "chunk_id": "2023---11"
+    },
+    "51": {
+        "Question": "How much did the production of fully electric vehicles (BEVs) increase in 2023 compared to 2022?",
+        "Answer": "The production of fully electric vehicles (BEVs) increased by 53.2% in 2023, with 196,657 BEVs produced compared to 128,359 in 2022.",
+        "OriginalText": "The Brand Group Progressive again increased the production of fully electric vehicles (battery electric vehicles – BEVs) significantly in 2023, manufacturing 196,657 (128,359) BEVs for an increase of 53.2 percent.",
+        "chunk_id": "2023---12"
+    },
+    "52": {
+        "Question": "What was the total number of vehicles produced at the German sites in 2023?",
+        "Answer": "A total of 667,753 vehicles were produced at the German sites in 2023, representing a 25.1% increase compared to 2022.",
+        "OriginalText": "In 2023, a total of 667,753 (533,793) vehicles were produced at the German sites, a substantial increase of 25.1 percent compared with the previous year.",
+        "chunk_id": "2023---12"
+    },
+    "53": {
+        "Question": "How many fully electric models of the Audi Q4 e-tron were produced in 2023 at the Zwickau site?",
+        "Answer": "In 2023, a total of 101,145 fully electric Audi Q4 e-tron models were produced at the Zwickau site, marking a 95.7% increase compared to 2022.",
+        "OriginalText": "During the reporting period, a total of 101,145 (51,685) fully electric models of the Audi Q4 e-tron line were produced at the Volkswagen multi-brand site in Zwickau, an increase of 95.7 percent compared with 2022.",
+        "chunk_id": "2023---12"
+    },
+    "54": {
+        "Question": "What was the percentage increase in car deliveries by the Audi brand in 2023 compared to 2022?",
+        "Answer": "The Audi brand delivered 1,895,240 vehicles in 2023, reflecting a 17.4% increase compared to 2022.",
+        "OriginalText": "With deliveries of 1,895,240 (1,614,231) vehicles, the Audi brand achieved an increase of 17.4 percent compared with the previous year.",
+        "chunk_id": "2023---12"
+    },
+    "55": {
+        "Question": "What was the total number of vehicles delivered by the Brand Group Progressive in 2023?",
+        "Answer": "The Brand Group Progressive delivered a total of 1,918,912 vehicles in 2023, a 17.1% increase compared to 2022.",
+        "OriginalText": "In fiscal year 2023, the Brand Group Progressive delivered a total of 1,918,912 (1,638,638) cars and outperformed the market overall with growth of 17.1 percent.",
+        "chunk_id": "2023---12"
+    },
+    "56": {
+        "Question": "How much did the deliveries of high-performance models by Audi Sport GmbH increase in 2023?",
+        "Answer": "Deliveries of high-performance models by Audi Sport GmbH increased by 5.0% in 2023, with 47,768 vehicles delivered.",
+        "OriginalText": "Deliveries of high-performance models by Audi Sport GmbH of 47,768 (45,515) vehicles in the 2023 reporting year also exceeded the previous year (+5.0 percent).",
+        "chunk_id": "2023---12"
+    },
+    "57": {
+        "Question": "What percentage of the total car production of the Brand Group Progressive in 2023 was made up of fully electric vehicles (BEVs)?",
+        "Answer": "In 2023, fully electric vehicles (BEVs) accounted for 10.0% of the total car production of the Brand Group Progressive.",
+        "OriginalText": "The share of fully electric vehicles as a percentage of total car production of the Brand Group Progressive thus amounted to 10.0 percent.",
+        "chunk_id": "2023---12"
+    },
+    "58": {
+        "Question": "What was the change in production of Audi vehicles in China in the first quarter of 2023 compared to the same period in 2022?",
+        "Answer": "In the first quarter of 2023, production of Audi vehicles in China decreased by 1.7% compared to the same period in 2022.",
+        "OriginalText": "While production at the plants in China decreased by –1.7 percent year-on-year in the first three months of 2023, volumes grew again as the year progressed for an increase of 10.5 percent.",
+        "chunk_id": "2023---12"
+    },
+    "59": {
+        "Question": "How many vehicles did Audi deliver in China in 2023, and what was the percentage increase compared to 2022?",
+        "Answer": "Audi delivered 732,893 vehicles in China in 2023, marking a 13.2% increase compared to 2022.",
+        "OriginalText": "In China – the world’s largest single market – the brand group ended 2023 with 732,893 (647,221) vehicles delivered in a challenging market environment for growth of 13.2 percent.",
+        "chunk_id": "2023---12"
+    },
+    "60": {
+        "Question": "How much did the Audi Group increase its total revenue in 2023 compared to 2022?",
+        "Answer": "The Audi Group's total revenue increased by 13.1 percent in 2023, reaching EUR 69,865 million, up from EUR 61,753 million in 2022.",
+        "OriginalText": "The Audi Group generated total revenue of EUR 69,865 (61,753) million in the 2023 fiscal year. The 13.1 percent increase compared with the previous year was largely due to higher vehicle sales resulting from strong demand and a more stable supply situation.",
+        "chunk_id": "2023---13"
+    },
+    "61": {
+        "Question": "How much did Audi Group's operating profit decline in 2023 compared to 2022?",
+        "Answer": "Audi Group's operating profit declined by EUR 1,270 million in 2023, from EUR 7,550 million in 2022 to EUR 6,280 million in 2023.",
+        "OriginalText": "As a result, the operating profit of the Audi Group amounted to EUR 6,280 (7,550) million, which was significantly below the previous year’s record value.",
+        "chunk_id": "2023---13"
+    },
+    "62": {
+        "Question": "In 2023, what was the total revenue from the Audi brand's car sales compared to the previous year?",
+        "Answer": "Revenue from the sale of Audi brand cars increased to EUR 49,091 million in 2023, compared to EUR 41,081 million in 2022, reflecting strong year-on-year growth.",
+        "OriginalText": "Revenue from the sale of cars of the Audi brand increased to EUR 49,091 (41,081) million.",
+        "chunk_id": "2023---13"
+    },
+    "63": {
+        "Question": "What was the total revenue growth percentage for the Lamborghini brand in 2023 compared to 2022?",
+        "Answer": "The Lamborghini brand's revenue grew by 12.4 percent in 2023, reaching EUR 2,466 million, up from EUR 2,193 million in 2022.",
+        "OriginalText": "During the reporting period, the Lamborghini brand increased revenue from the vehicle business by 12.4 percent to EUR 2,466 (2,193) million.",
+        "chunk_id": "2023---13"
+    },
+    "64": {
+        "Question": "What was the change in equity of the Audi Group at the end of 2023 compared to the previous year?",
+        "Answer": "The equity of the Audi Group increased to EUR 33,839 million at the end of 2023, up from EUR 31,582 million in 2022, resulting in an equity ratio of 46.1 percent.",
+        "OriginalText": "As of December 31, 2023, the equity of the Audi Group increased to EUR 33,839 (31,582) million, giving an equity ratio of 46.1 (44.6) percent.",
+        "chunk_id": "2023---13"
+    },
+    "65": {
+        "Question": "How much did the equity of the Audi Group increase in 2023, and what was the equity ratio by December 31, 2023?",
+        "Answer": "The equity of the Audi Group increased to EUR 33,839 million in 2023, resulting in an equity ratio of 46.1%.",
+        "OriginalText": "As of December 31, 2023, the equity of the Audi Group increased to EUR 33,839 (31,582) million, giving an equity ratio of 46.1 (44.6) percent.",
+        "chunk_id": "2023---14"
+    },
+    "66": {
+        "Question": "What was the increase in the net cash flow of the Audi Group in 2023 compared to the previous year?",
+        "Answer": "The net cash flow of the Audi Group in 2023 remained on par with the previous year at EUR 4,740 million.",
+        "OriginalText": "Net cash flow of the Audi Group in the year under review came to EUR 4,740 (4,808) million, which was on a par with the strong prior-year level.",
+        "chunk_id": "2023---14"
+    },
+    "67": {
+        "Question": "What was the total amount of capital expenditures for the Audi Group in 2023, and how did it change from the previous year?",
+        "Answer": "Capital expenditures for the Audi Group in 2023 amounted to EUR 3,251 million, a significant increase from EUR 2,590 million in 2022.",
+        "OriginalText": "Capital expenditures rose significantly to EUR –3,251 (–2,590) million. The change is especially attributable to investments for new products based on the fully electric Premium Platform Electric (PPE) and on the Premium Platform Combustion (PPC).",
+        "chunk_id": "2023---14"
+    },
+    "68": {
+        "Question": "What was the impact on the operating profit of the Bentley, Lamborghini, and Ducati brands in 2023?",
+        "Answer": "Bentley, Lamborghini, and Ducati brands performed well, with Lamborghini and Ducati posting an increase in operating profit, while Bentley's operating profit decreased.",
+        "OriginalText": "Good performance by the Bentley, Lamborghini and Ducati brands. Operating profit for Lamborghini increased by 17.8%, while Ducati's operating profit grew by 2.3%. Bentley’s operating profit dropped by 21.7%.",
+        "chunk_id": "2023---14"
+    },
+    "69": {
+        "Question": "What was the total amount of cash flow from operating activities for the Audi Group in 2023, and how did it compare to the previous year?",
+        "Answer": "Cash flow from operating activities for the Audi Group in 2023 was EUR 11,135 million, an increase from EUR 10,028 million in the previous year.",
+        "OriginalText": "In the 2023 fiscal year, the Audi Group generated cash flow from operating activities of EUR 11,135 (10,028) million.",
+        "chunk_id": "2023---14"
+    },
+    "70": {
+        "Question": "What was the total revenue of the Audi Group in 2023?",
+        "Answer": "The total revenue of the Audi Group in 2023 was EUR 69.9 billion.",
+        "OriginalText": "Revenue of the Audi Group in 2023 totaled EUR 69.9 (61.8) billion.",
+        "chunk_id": "2023---15"
+    },
+    "71": {
+        "Question": "What percentage of Audi Group's revenue in 2023 was generated from the manufacture of low-carbon technologies for transport and automotive components?",
+        "Answer": "84.9% of Audi Group's revenue in 2023 was attributable to these activities.",
+        "OriginalText": "Of this amount, EUR 59.3 (51.6) billion, or 84.9 (83.5) percent, was attributable to the economic activities 'Manufacture of low-carbon technologies for transport' and 'Manufacture of automotive and mobility components.'",
+        "chunk_id": "2023---15"
+    },
+    "72": {
+        "Question": "How much did Audi Group spend on capital expenditure for fully electric vehicles in 2023?",
+        "Answer": "Audi Group spent EUR 2.6 billion on capital expenditure for fully electric vehicles in 2023.",
+        "OriginalText": "Taxonomy-aligned capital expenditure included EUR 2.6 (1.7) billion, or 40.3 (34.3) percent, for these vehicles.",
+        "chunk_id": "2023---15"
+    },
+    "73": {
+        "Question": "How much of Audi's capital expenditure in 2023 was taxonomy-eligible?",
+        "Answer": "100% of Audi's capital expenditure in 2023 was taxonomy-eligible.",
+        "OriginalText": "Taxonomy-eligible capital expenditure thus totaled EUR 6.4 (5.1) billion or 100 percent.",
+        "chunk_id": "2023---15"
+    },
+    "74": {
+        "Question": "What percentage of Audi Group's operating expenditure in 2023 was taxonomy-aligned?",
+        "Answer": "41.0% of Audi Group's operating expenditure in 2023 was taxonomy-aligned.",
+        "OriginalText": "taxonomy-aligned operating expenditure: EUR 1.3 (1.0) billion or 41.0 (36.1) percent",
+        "chunk_id": "2023---15"
+    },
+    "75": {
+        "Question": "What was the amount of revenue from sales of fully electric vehicles (BEVs) for Audi Group in 2023?",
+        "Answer": "Revenue from fully electric vehicles (BEVs) amounted to EUR 8.3 billion in 2023.",
+        "OriginalText": "In the case of fully electric models only, this applied to EUR 8.3 (6.1) billion or 11.9 (9.8) percent of Audi Group revenue.",
+        "chunk_id": "2023---15"
+    },
+    "76": {
+        "Question": "How much did Audi Group invest in property, plant, and equipment in 2023?",
+        "Answer": "Audi Group invested EUR 3.3 billion in property, plant, and equipment in 2023.",
+        "OriginalText": "EUR 3.3 (2.7) billion from property, plant and equipment",
+        "chunk_id": "2023---15"
+    },
+    "77": {
+        "Question": "What percentage of Audi Group's total capital expenditure in 2023 was related to the manufacture of low-carbon technologies for transport?",
+        "Answer": "100% of Audi Group's capital expenditure in 2023 was related to the manufacture of low-carbon technologies for transport.",
+        "OriginalText": "All capital expenditure attributable to the vehicle-related business was associated with the economic activity 'Manufacture of low-carbon technologies for transport.'",
+        "chunk_id": "2023---15"
+    },
+    "78": {
+        "Question": "How much capital expenditure was taxonomy-aligned for Audi in 2023, and what percentage of total capital expenditure does this represent?",
+        "Answer": "In 2023, EUR 2.8 billion of capital expenditure was taxonomy-aligned, representing 43.2% of total capital expenditure.",
+        "OriginalText": "Capital expenditure relating to vehicles that meet the screening criteria amounted to EUR 2.8 (2.0) billion. Taking into account the DNSH criteria and minimum safeguards, 43.2 (39.3) percent of total capital expenditure was taxonomy-aligned in 2023.",
+        "chunk_id": "2023---16"
+    },
+    "79": {
+        "Question": "What is the expected investment amount Audi is earmarking for electrification and digitalization between 2024 and 2028, and how does this compare to the total investment for the same period?",
+        "Answer": "Audi is earmarking EUR 29.5 billion for electrification and digitalization between 2024 and 2028, which is nearly two-thirds of the total investment of around EUR 41 billion.",
+        "OriginalText": "The brand group is earmarking investments of around EUR 29.5 billion for electrification and digitalization for the period 2024 to 2028. With a total investment of around EUR 41 billion, almost two-thirds of the upfront expenditure is going into these future-oriented topics.",
+        "chunk_id": "2023---16"
+    },
+    "80": {
+        "Question": "What percentage of Audi's taxonomy-aligned operating expenditure in 2023 was related to fully electric vehicles?",
+        "Answer": "In 2023, EUR 1.2 billion, or 39.2% of the taxonomy-aligned operating expenditure, was related to fully electric vehicles.",
+        "OriginalText": "In the case of fully electric vehicles, a total of EUR 1.2 (0.9) billion, or 39.2 (32.8) percent, is included in the taxonomy-aligned operating expenditure.",
+        "chunk_id": "2023---16"
+    },
+    "81": {
+        "Question": "What percentage of Audi's operating expenditure was taxonomy-aligned in 2023, and what was the total amount of taxonomy-eligible operating expenditure?",
+        "Answer": "In 2023, 41.0% of Audi's operating expenditure was taxonomy-aligned, amounting to EUR 1.3 billion.",
+        "OriginalText": "taxonomy-aligned operating expenditure: EUR 1.3 (1.0) billion or 41.0 (36.1) percent",
+        "chunk_id": "2023---16"
+    },
+    "82": {
+        "Question": "What challenges did Audi face in 2023 regarding product program implementation and the ramp-up of new vehicle models?",
+        "Answer": "Audi faced risks of delays in the ramp-up of new vehicle models in 2023, largely due to the introduction of new platforms for electric and combustion models and increasing software complexity.",
+        "OriginalText": "The most significant risks at present relate to the implementation of the ambitious product program, which could subsequently lead to delays in the ramp-up of new vehicle models and thus result in negative financial effects.",
+        "chunk_id": "2023---17"
+    },
+    "83": {
+        "Question": "What is the primary objective of Audi’s sustainability efforts as outlined in its 2023 report?",
+        "Answer": "The primary objective is to reduce Audi's ecological footprint, manage CO₂ emissions, and contribute to sustainability goals in alignment with the Paris Climate Agreement.",
+        "OriginalText": "Audi is committed to the Paris Climate Agreement and its goals... The decarbonization of the entire value chain is an integral part of the Volkswagen Group’s 'goTOzero' environmental mission statement.",
+        "chunk_id": "2023---18"
+    },
+    "84": {
+        "Question": "What is the target year for Audi to achieve net carbon neutrality across all its production sites, as stated in the 2023 Annual Report?",
+        "Answer": "2025",
+        "OriginalText": "Audi production sites¹ are expected to be net carbon-neutral² by 2025, while the entire company should have achieved net carbon neutrality² by no later than 2050.",
+        "chunk_id": "2023---19"
+    },
+    "85": {
+        "Question": "Which environmental program is outlined in Audi's 2023 Annual Report to reduce the ecological footprint in production and logistics?",
+        "Answer": "Mission:Zero",
+        "OriginalText": "The Mission:Zero environmental program combines all the company’s initiatives for reducing the ecological footprint in production and logistics.",
+        "chunk_id": "2023---19"
+    },
+    "86": {
+        "Question": "By what percentage does Audi aim to reduce CO₂ emissions per vehicle model by 2025, compared to the baseline year 2015, according to the 2023 Annual Report?",
+        "Answer": "30%",
+        "OriginalText": "The goal is to reduce $\\mathsf{C O}_{2}$ emissions by 30 percent per vehicle model on a fleet basis⁸ over the entire life cycle by 2025 compared with the baseline year 2015.",
+        "chunk_id": "2023---19"
+    },
+    "87": {
+        "Question": "Which Audi production site became net carbon-neutral starting January 1, 2024, as mentioned in the 2023 Annual Report?",
+        "Answer": "Ingolstadt",
+        "OriginalText": "In the year under review, the company set an important course: production operations at the plant in Ingolstadt have been net carbon-neutral² since January 1, 2024.",
+        "chunk_id": "2023---19"
+    },
+    "88": {
+        "Question": "What does the decarbonization index (DCI) measure in the context of Audi's 2023 Annual Report?",
+        "Answer": "It measures the progress made toward decarbonization for the individual Volkswagen Group brands and the Group as a whole, quantified in terms of CO₂ emissions per vehicle.",
+        "OriginalText": "The decarbonization index $(\\mathsf{D C l})^{3}$ is used to measure the progress made toward decarbonization for the individual Volkswagen Group brands and the Group as a whole.",
+        "chunk_id": "2023---19"
+    },
+    "89": {
+        "Question": "Which factor in Audi's supply chain is identified as the biggest driver of CO₂ emissions for electric vehicles in the 2023 Annual Report?",
+        "Answer": "The high-voltage battery",
+        "OriginalText": "The biggest emissions driver in the supply chain for an electric vehicle is the high-voltage battery, followed by parts made of aluminum and steel.",
+        "chunk_id": "2023---19"
+    },
+    "90": {
+        "Question": "According to the 2023 Annual Report, what were the net CO₂ savings achieved in Audi's supply chain in 2023 through the Aluminum Closed Loop and other measures?",
+        "Answer": "More than 450,000 metric tons of CO₂",
+        "OriginalText": "In 2023 alone, the Aluminum Closed Loop process as well as other measures delivered net savings in the supply chain of more than 450,000 metric tons of $\\mathsf{C O}_{2}$.",
+        "chunk_id": "2023---19"
+    },
+    "91": {
+        "Question": "What percentage of CO₂ emissions in the life cycle of an Audi BEV model is attributable to production, as stated in the 2023 Annual Report?",
+        "Answer": "50%",
+        "OriginalText": "In this case, an average of around 50 percent of $\\mathsf{C O}_{2}$ emissions are attributable to production (assuming production in the EU) and roughly 50 percent to the utilization phase.",
+        "chunk_id": "2023---19"
+    },
+    "92": {
+        "Question": "What initiative did Audi launch in 2018 to reduce CO₂ emissions in its supply chain, according to the 2023 Annual Report?",
+        "Answer": "The Audi CO₂ program",
+        "OriginalText": "The Audi $\\underline{{\\mathsf{C O}_{2}}}$ program was launched for this purpose in 2018. In cooperation with supplier companies, it identifies $\\mathsf{C O}_{2}$ mitigation measures and optimization potential throughout the entire production process for materials and components.",
+        "chunk_id": "2023---19"
+    },
+    "93": {
+        "Question": "What was the primary reason for the slight increase in CO₂ emissions at Audi's Ingolstadt plant in 2023?",
+        "Answer": "The use of heating oil during the natural gas shortage.",
+        "OriginalText": "The figure for Ingolstadt deteriorated slightly in 2023 compared with 2022. The main reason for this was that heating oil that had been purchased during the natural gas shortage had to be used and burned in boiler houses at the site.",
+        "chunk_id": "2023---20"
+    },
+    "94": {
+        "Question": "Which Audi production sites were already net carbon-neutral by the end of 2023?",
+        "Answer": "Brussels, Győr, and Böllinger Höfe.",
+        "OriginalText": "Brussels (Belgium, 2018), Győr (Hungary, 2020) and Böllinger Höfe (production site near Neckarsulm, 2020) have already achieved net carbon neutrality.²",
+        "chunk_id": "2023---20"
+    },
+    "95": {
+        "Question": "In 2023, how much additional photovoltaic surface area was under construction or planned at the Ingolstadt plant?",
+        "Answer": "41,000 square meters.",
+        "OriginalText": "Roughly 41,000 square meters are currently under construction or at the planning stage.",
+        "chunk_id": "2023---20"
+    },
+    "96": {
+        "Question": "What is Audi's target for energy savings at its production sites, according to the 2023 Annual Report?",
+        "Answer": "At least two percent annually.",
+        "OriginalText": "Audi has set itself an annual energy-saving target of at least two percent compared with the consumption values from the previous year.",
+        "chunk_id": "2023---20"
+    },
+    "97": {
+        "Question": "How much solar power does the Audi plant in Győr generate from its photovoltaic facility in 2023?",
+        "Answer": "12 megawatts peak output.",
+        "OriginalText": "The Audi plant in Hungary has a photovoltaic facility that covers an area of around 160,000 square meters. 36,000 solar cells deliver a peak output of 12 megawatts.",
+        "chunk_id": "2023---20"
+    },
+    "98": {
+        "Question": "What is the expected total photovoltaic surface area at the Brussels plant after the planned expansion in 2023?",
+        "Answer": "117,000 square meters.",
+        "OriginalText": "Extending across an area of over 100,000 square meters, this is the largest photovoltaic plant in the region. Expansion of the plant by a further 17,000 square meters was commenced in 2023.",
+        "chunk_id": "2023---20"
+    },
+    "99": {
+        "Question": "What was the reduction in energy intensity per vehicle in 2023 compared to 2022?",
+        "Answer": "The energy intensity per vehicle in 2023 was 10 percent lower than in 2022, amounting to 2.46 MWh/vehicle.",
+        "OriginalText": "The energy intensity of the Group relating to automotive production including component manufacturing was 2.46 MWh per vehicle in the year under review. That is approx. 10 percent (0.28 MWh/veh.) less than in 2022.",
+        "chunk_id": "2023---21"
+    },
+    "100": {
+        "Question": "How many kilowatt hours of electricity did Audi customers charge using Audi charging services by December 13, 2023?",
+        "Answer": "Audi customers charged more than 17 million kilowatt hours using Audi charging services by December 13, 2023.",
+        "OriginalText": "From the beginning of 2023, Audi customers charged more than 17 million kilowatt hours with Audi charging (as at December 13, 2023).",
+        "chunk_id": "2023---21"
+    },
+    "101": {
+        "Question": "How many kilowatt-hours were charged by Audi customers through the Audi charging service by December 13, 2023?",
+        "Answer": "Audi customers charged more than 17 million kilowatt-hours with Audi charging by December 13, 2023.",
+        "OriginalText": "From the beginning of 2023, Audi customers charged more than 17 million kilowatt hours with Audi charging¹⁰ (as at December 13, 2023).",
+        "chunk_id": "2023---22"
+    },
+    "102": {
+        "Question": "Which new locations were added to Audi's network of fast-charging stations in 2023?",
+        "Answer": "In addition to Zurich and Nuremberg, new charging points were added in Salzburg, Berlin, and Munich in 2023.",
+        "OriginalText": "The Audi network of fast-charging stations, or Audi charging hubs as they are known, was expanded in 2023. In addition to Zurich and Nuremberg, further charging points were added in Salzburg, Berlin and Munich in the reporting period.",
+        "chunk_id": "2023---22"
+    },
+    "103": {
+        "Question": "What is the expected participation rate of the worldwide dealer and service network in the goTOzero RETAIL certification program,according to the 2023 Annual Report ?",
+        "Answer": "The goTOzero RETAIL certification program is expected to have 95 percent participation from the worldwide dealer and service network in the coming years.",
+        "OriginalText": "It is expected that 95 percent of the worldwide dealer and service network will participate in the certification globally in the coming years.",
+        "chunk_id": "2023---22"
+    },
+    "104": {
+        "Question": "Which electric vehicle model from Audi had a range increase to up to 600 kilometers in 2023?",
+        "Answer": "The Audi Q8 e-tron had a range increase to up to 600 kilometers in 2023.",
+        "OriginalText": "The Audi Q8 e-tron, with a resulting increase in range to up to 600 kilometers (according to WLTP).",
+        "chunk_id": "2023---23"
+    },
+    "105": {
+        "Question": "What is the total amount of metallic waste generated by the Audi Group in 2023, and what was the main reason for the increase compared to the previous year?",
+        "Answer": "In 2023, the Audi Group generated 302,817 metric tons of metallic waste, with the increase compared to the previous year mainly due to more equipment being dismantled or demolished.",
+        "OriginalText": "In the 2023 reporting year, 302,817 metric tons of metallic waste were generated throughout the Group, all of which is destined for recycling. The main reason for this increase compared with the previous year: more equipment was dismantled or demolished.",
+        "chunk_id": "2023---24"
+    },
+    "106": {
+        "Question": "How many parts did Audi sell in 2023 as part of its sustainable initiatives?",
+        "Answer": "Audi sold approximately 33,500 sustainable parts in 2023.",
+        "OriginalText": "Audi sustainable parts in 2023 Parts sold: approx. 33,500 parts",
+        "chunk_id": "2023---25"
+    },
+    "107": {
+        "Question": "What was the volume of secondary raw materials recovered by Audi in 2023?",
+        "Answer": "Audi recovered approximately 3,000 metric tons of secondary raw materials in 2023.",
+        "OriginalText": "Secondary raw materials recovered: approx. 3,000 metric tons",
+        "chunk_id": "2023---25"
+    },
+    "108": {
+        "Question": "Which Audi model started using windshields made from recycled glass in September 2023?",
+        "Answer": "The Audi Q4 e-tron started using windshields made from recycled glass in September 2023.",
+        "OriginalText": "Since September 2023, windshields made from recycled material are being used in the series production of the Audi Q4 e-tron.",
+        "chunk_id": "2023---25"
+    },
+    "109": {
+        "Question": "How many vehicles did Audi scrap in 2023, according to its report?",
+        "Answer": "Audi scrapped 2,146 vehicles in 2023.",
+        "OriginalText": "Scrapped vehicles: 2,146 (certificates of destruction issued)",
+        "chunk_id": "2023---25"
+    },
+    "110": {
+        "Question": "In 2023, which raw material was recycled to produce components of the exterior skin of the Audi Q6 e-tron?",
+        "Answer": "Steel scrap was recycled to produce components of the exterior skin of the Audi Q6 e-tron.",
+        "OriginalText": "Steel: Steel scrap is partly used in the Audi Q6 e-tron to produce a component of the exterior skin of the body.",
+        "chunk_id": "2023---25"
+    },
+    "111": {
+        "Question": "Which specific project, starting in August 2023, is Audi working on related to the recycling of end-of-life vehicles?",
+        "Answer": "Audi began a follow-on project in August 2023 to develop a business model for scaling the technical feasibility of recycling materials from end-of-life vehicles.",
+        "OriginalText": "In the follow-on project (start date: August 2023), Audi is currently working on developing a business model to enable realization of the technical feasibility in the future on a larger scale.",
+        "chunk_id": "2023---26"
+    },
+    "112": {
+        "Question": "Which Audi production sites are included in the reported sustainability key figures for 2023?",
+        "Answer": "The Audi production sites included in the reported sustainability key figures for 2023 are Ingolstadt, Münchsmünster, Neckarsulm, Brussels, Győr, San José Chiapa, Crewe (Bentley), Sant’Agata Bolognese (Lamborghini), Bologna (Ducati), and Amphur Pluakdaeng (Ducati).",
+        "OriginalText": "Figures refer to the Ingolstadt, Münchsmünster, Neckarsulm, Brussels, Győr, San José Chiapa, Crewe (Bentley) since 2022, Sant’Agata Bolognese (Lamborghini), Bologna (Ducati), Amphur Pluakdaeng (Ducati) sites.",
+        "chunk_id": "2023---26"
+    },
+    "113": {
+        "Question": "In 2023, which Audi production facility became the first to be certified by the Alliance for Water Stewardship (AWS) for its responsible use of water?",
+        "Answer": "The Audi production facility in San José Chiapa, Mexico.",
+        "OriginalText": "In the year under review, the production facility in San José Chiapa (Mexico) was the first car manufacturing plant in the world to be certified by the AWS for its considerate use of this natural resource.",
+        "chunk_id": "2023---27"
+    },
+    "114": {
+        "Question": "How many trees does Audi México plan to plant in the reforestation project launched in 2023 near the Audi site in San José Chiapa?",
+        "Answer": "42,900 trees.",
+        "OriginalText": "In 2023, Audi México launched an ambitious reforestation project. In a wooded area near the Audi site in San José Chiapa, known as Santa Cruz del Bosque, the company plans to successively plant 42,900 trees over an area of 39 hectares.",
+        "chunk_id": "2023---27"
+    },
+    "115": {
+        "Question": "How much did Audi's total fresh water consumption decrease by in 2023 compared to the previous year?",
+        "Answer": "Audi's total fresh water consumption fell by 1.14 percent in 2023 compared with the previous year.",
+        "OriginalText": "The total fresh water consumption of the Audi Group fell by 1.14 percent in 2023 compared with the previous year.",
+        "chunk_id": "2023---27"
+    },
+    "116": {
+        "Question": "What major step did Audi take in 2023 to further optimize its water management at production sites?",
+        "Answer": "Audi joined the Alliance for Water Stewardship (AWS) in 2023, becoming the first premium car manufacturer to do so.",
+        "OriginalText": "Since 2023, the Four Rings have been the first premium car manufacturer to become a member of the Alliance for Water Stewardship (AWS).",
+        "chunk_id": "2023---27"
+    },
+    "117": {
+        "Question": "Which area is Audi focusing on to improve its water consumption management, as highlighted in its Mission:Zero program in 2023?",
+        "Answer": "Audi is focusing on process optimization, water recycling, reducing drinking water use, and using rainwater.",
+        "OriginalText": "The company is concentrating on four key levers: Process optimization, Expansion of water cycles, Drinking water-free production, Use of rainwater.",
+        "chunk_id": "2023---27"
+    },
+    "118": {
+        "Question": "What was the focus of Audi's water management initiatives in 2023?",
+        "Answer": "Audi focused on sustainable water management through process optimization, expansion of water cycles, drinking water-free production, and rainwater use.",
+        "OriginalText": "In the reporting year, Audi drove forward various measures for sustainable water management. The following projects are currently underway: Audi Brussels, together with its Belgian partner company Hydria, is investing in the 'Re-use' project to integrate the Brussels South wastewater treatment plant into the production site’s water supply. This will create a closed water cycle that will save around 100,000 cubic meters of drinking water per year. The plant’s production processes will thus become completely free of drinking water.",
+        "chunk_id": "2023---28"
+    },
+    "119": {
+        "Question": "What is the expected reduction in energy and water consumption for the new paint shop technology being implemented by Audi in 2023?",
+        "Answer": "The new paint shop technology being implemented by Audi in 2023 is expected to consume around 20% less energy and water compared to current levels.",
+        "OriginalText": "The very latest, water-efficient technology. This technology is expected to consume around 20 percent less energy and water compared with current levels.",
+        "chunk_id": "2023---28"
+    },
+    "120": {
+        "Question": "How is Audi addressing water stress in its supply chain in 2023?",
+        "Answer": "Audi analyzes regions with high water stress and identifies materials requiring large water volumes, working with suppliers to develop effective solutions for these hotspots in 2023.",
+        "OriginalText": "Audi analyzes which regions are subject to high levels of water stress and identifies the materials that require particularly large amounts of water to produce. Based on the intersection between these regions and materials, Audi identifies hotspots. For these, effective solution approaches are to be developed in the next step together with the relevant suppliers.",
+        "chunk_id": "2023---28"
+    },
+    "121": {
+        "Question": "What are the core focus areas Audi AG emphasized in its 2023 report to boost employer attractiveness?",
+        "Answer": "Audi AG focused on training and development, work-life balance, and modernizing the working world to boost employer attractiveness.",
+        "OriginalText": "In its efforts to boost its attractiveness as an employer, AUDI AG focuses on three core topics: training and development, work-life balance and modernizing the working world.",
+        "chunk_id": "2023---29"
+    },
+    "122": {
+        "Question": "Which new training platform did Audi launch in 2023, and what features does it offer?",
+        "Answer": "Audi launched the Audi Learning Experience (Audi LXP) in 2023, which consolidates over 25,000 learning opportunities and includes live online training, e-learning, and self-motivated learning.",
+        "OriginalText": "With the launch of the Audi Learning Experience (Audi LXP) in 2023, it created a central, digital entry point for qualification. Audi LXP consolidates over 25,000 learning opportunities from both internal and external providers.",
+        "chunk_id": "2023---29"
+    },
+    "123": {
+        "Question": "What is the significance of the 'Training' works agreement that came into force in 2023 at Audi?",
+        "Answer": "The 'Training' works agreement, effective in 2023, emphasizes the importance of learning within Audi and provides more flexible opportunities for advanced training.",
+        "OriginalText": "For example, the 'Training' works agreement that came into force in 2023 emphasizes the significance of learning within the company and offers more flexible opportunities for advanced training.",
+        "chunk_id": "2023---29"
+    },
+    "124": {
+        "Question": "How does Audi support work-life balance for employees in 2023?",
+        "Answer": "Audi supports work-life balance with flexible working time models, mobile working, sabbaticals, and childcare services, including 274 daycare places near key sites in 2023.",
+        "OriginalText": "The company offers a range of benefits, including flexible working time models, mobile working, sabbaticals, help with caring for family members and childcare (during school breaks). For this reason, AUDI AG already provides 274 places in several daycare centers close to the Ingolstadt and Neckarsulm sites.",
+        "chunk_id": "2023---29"
+    },
+    "125": {
+        "Question": "What modernization measures for employee workspaces were tested in 2023 at Audi?",
+        "Answer": "In 2023, Audi tested a new office environment with a desk-sharing model, booking apps, and modern technological equipment to improve team collaboration.",
+        "OriginalText": "A new office environment was successfully tested in 2023, featuring a desk-sharing model and accompanying booking apps as well as modern technological equipment at the work stations and in areas for collaboration.",
+        "chunk_id": "2023---29"
+    },
+    "126": {
+        "Question": "What percentage of Audi's training programs in 2023 focused on digitalization-related professions?",
+        "Answer": "In 2023, over 25% of Audi's total training programs focused on digitalization-related professions.",
+        "OriginalText": "Professions in the field of digitalization already account for more than 25 percent of the total training on offer.",
+        "chunk_id": "2023---29"
+    },
+    "127": {
+        "Question": "What job security promises did Audi make to its employees in 2023?",
+        "Answer": "Audi guaranteed job security to its employees until 2029, with no operational redundancies and permanent employment contracts.",
+        "OriginalText": "Employees are also guaranteed job security until 2029 – regardless of their training or profession. This means that there will be no operational redundancies during this period.",
+        "chunk_id": "2023---29"
+    },
+    "128": {
+        "Question": "What support does Audi offer to employees who act as carers in 2023?",
+        "Answer": "Audi offers individual care advice, online presentations, leave of absence up to three years, and re-employment options for employees acting as carers in 2023.",
+        "OriginalText": "Moreover, AUDI AG goes beyond the statutory provisions by offering its employees a full or partial leave of absence of up to three years to care for relatives, with the option of subsequently extending the care leave on the basis of a pledge of re-employment.",
+        "chunk_id": "2023---29"
+    },
+    "129": {
+        "Question": "What significant development regarding employee workspaces did Audi successfully test in 2023?",
+        "Answer": "Audi successfully tested a new office environment in 2023, featuring a desk-sharing model, booking apps, and modern technological equipment for collaboration.",
+        "OriginalText": "To this end, a new office environment was successfully tested in 2023, featuring a desk-sharing model and accompanying booking apps as well as modern technological equipment at the work stations and in areas for collaboration.",
+        "chunk_id": "2023---30"
+    },
+    "130": {
+        "Question": "Which Audi safety feature was available on the Audi Q8 e-tron in 2023 and what did it aim to reduce?",
+        "Answer": "The Audi Q8 e-tron featured around 40 driver assist systems in 2023, including systems designed to reduce the risk of collisions.",
+        "OriginalText": "For example, the Audi Q8 e-tron features around 40 driver assist systems. Some of these come as standard – including the Audi pre sense basic and Audi pre sense front safety systems for reducing the risk of collisions.",
+        "chunk_id": "2023---30"
+    },
+    "131": {
+        "Question": "How much did Audi invest in the new Vehicle Safety Center in 2023, and what is its primary focus?",
+        "Answer": "Audi invested EUR 100 million in the new Vehicle Safety Center in 2023, focusing on enhancing passive safety.",
+        "OriginalText": "The opening of the new Vehicle Safety Center in the year under review underscores the importance Audi attaches to vehicle safety: the facility, in which around EUR 100 million was invested, contributes to consistently improving the passive safety of vehicles.",
+        "chunk_id": "2023---30"
+    },
+    "132": {
+        "Question": "Which safety recognition did Audi receive for eight of its models in the 2023 reporting year in the US?",
+        "Answer": "In the 2023 reporting year, Audi received the IIHS 'TOP SAFETY PICK' award for eight of its models, including six in the 'TOP SAFETY PICK+' category.",
+        "OriginalText": "In the 2023 reporting year, eight Audi models were honored with an IIHS 'TOP SAFETY PICK' award from the US Insurance Institute for Highway Safety (IIHS), including six Audi models (four of which were electric) that were distinguished in the highest 'TOP SAFETY PICK+' category.",
+        "chunk_id": "2023---30"
+    },
+    "133": {
+        "Question": "What is the primary aim of Audi's Accident Research Unit (AARU) as described in 2023?",
+        "Answer": "The AARU aims to understand the causes, circumstances, and consequences of accidents to enhance road safety.",
+        "OriginalText": "The Audi Accident Research Unit (AARU) is committed to understanding causes, circumstances and consequences of accidents in order to develop proposals and measures to enhance road safety.",
+        "chunk_id": "2023---30"
+    },
+    "134": {
+        "Question": "In 2023, how much did Audi invest in the new Vehicle Safety Center located in Ingolstadt?",
+        "Answer": "Audi invested around EUR 100 million in the new Vehicle Safety Center in Ingolstadt in 2023.",
+        "OriginalText": "Audi invested around EUR 100 million in the new Vehicle Safety Center on the grounds of the incampus technology park in Ingolstadt in order to progressively develop passive safety.",
+        "chunk_id": "2023---31"
+    },
+    "135": {
+        "Question": "What new regulations concerning corporate responsibility for supply chains came into effect in Germany in 2023?",
+        "Answer": "The Supply Chain Due Diligence Act (LkSG) came into effect in Germany on January 1, 2023.",
+        "OriginalText": "In Germany, for example, the Supply Chain Due Diligence Act (LkSG), which came into force on January 1, 2023, governs corporate responsibility for compliance with human rights and environmental due diligence obligations in global supply chains.",
+        "chunk_id": "2023---31"
+    },
+    "136": {
+        "Question": "Which initiative did Audi take in 2023 to enhance road safety, and what is the goal of the initiative?",
+        "Answer": "Audi contributed to the Vision Zero strategy in 2023, aiming to eliminate all traffic fatalities and severe injuries.",
+        "OriginalText": "Audi supports the Vision Zero strategy of road safety organizations in many countries around the world to continually enhance the safety of customers and road users globally. The primary goal is to eliminate all traffic fatalities and severe injuries.",
+        "chunk_id": "2023---31"
+    },
+    "137": {
+        "Question": "What percentage of Audi's direct suppliers had an S-Rating (A and B rating) in 2023, and how does it affect procurement volume?",
+        "Answer": "79 percent of Audi's direct suppliers had an S-Rating (A and B rating) in 2023, corresponding to 79 percent of the total procurement volume.",
+        "OriginalText": "The revenue share of direct suppliers with a positive S-Rating (A and B rating) is equivalent to 79 percent of the total procurement volume.",
+        "chunk_id": "2023---31"
+    },
+    "138": {
+        "Question": "How does Audi contribute to accident research in 2023, and which university collaborates with Audi in this initiative?",
+        "Answer": "Audi contributes to accident research in 2023 through collaboration with the University Medical Center in Regensburg, aiming to improve road safety.",
+        "OriginalText": "In addition to continually enhancing its active and passive driver safety systems, AUDI AG also contributes actively to accident research as part of an interdisciplinary research project in collaboration with the University Medical Center in Regensburg.",
+        "chunk_id": "2023---31"
+    },
+    "139": {
+        "Question": "What is the function of the new Vehicle Safety Center opened by Audi in 2023, and where is it located?",
+        "Answer": "The new Vehicle Safety Center, opened by Audi in 2023, enhances passive safety testing and is located at the incampus technology park in Ingolstadt.",
+        "OriginalText": "The opening of the new Vehicle Safety Center in the year under review underscores the importance Audi attaches to vehicle safety: the facility, in which around EUR 100 million was invested, contributes to consistently improving the passive safety of vehicles.",
+        "chunk_id": "2023---31"
+    },
+    "140": {
+        "Question": "How many active suppliers completed the SAQ for the S-Rating by the end of the reporting period in 2023?",
+        "Answer": "14,953 active suppliers completed the SAQ for the S-Rating by the end of the reporting period in 2023.",
+        "OriginalText": "A total of 14,953 active suppliers of the Volkswagen Group had completed an SAQ for the S-Rating by the end of the reporting period.",
+        "chunk_id": "2023---32"
+    },
+    "141": {
+        "Question": "How many suppliers managed to improve their sustainability performance as a result of taking relevant measures in 2023?",
+        "Answer": "9,357 suppliers managed to improve their sustainability performance in 2023.",
+        "OriginalText": "In the year under review, according to the feedback received, 9,357 suppliers managed to improve their sustainability performance as a result of taking relevant measures.",
+        "chunk_id": "2023---32"
+    },
+    "142": {
+        "Question": "How many audits were carried out worldwide in 2023 within the scope of the S-Rating?",
+        "Answer": "89 audits were carried out worldwide in 2023 within the scope of the S-Rating.",
+        "OriginalText": "A total of 89 audits were carried out worldwide in 2023 within the scope of the S-Rating.",
+        "chunk_id": "2023---32"
+    },
+    "143": {
+        "Question": "Which system did AUDI AG use to evaluate human rights and environmental risks in the supply chain in 2023?",
+        "Answer": "AUDI AG used the Human Rights Focus System (HRFS) to evaluate human rights and environmental risks in the supply chain in 2023.",
+        "OriginalText": "One such measure is the Human Rights Focus System (HRFS), which is used to evaluate aggregated data from the Supply Chain Grievance Mechanism as well as information from studies, NGO reports and discussions with stakeholders.",
+        "chunk_id": "2023---32"
+    },
+    "144": {
+        "Question": "How many countries did AUDI AG pilot activities with social businesses in 2023 under the 'Procurement with Purpose' program?",
+        "Answer": "AUDI AG piloted activities with social businesses in eight countries in 2023.",
+        "OriginalText": "Together with its partner Yunus Social Business (YSB), AUDI AG piloted activities with social businesses in a total of eight countries of the Audi Group in 2023.",
+        "chunk_id": "2023---32"
+    },
+    "145": {
+        "Question": "What role did Daniel Patnaik assume at the Audi Group in 2023?",
+        "Answer": "Daniel Patnaik assumed the role of Human Rights Officer at the Audi Group in 2023.",
+        "OriginalText": "Since the beginning of 2023, Daniel Patnaik has been monitoring and overseeing the observance of human rights within the Audi Group and along the supply chain in his new role as Human Rights Officer.",
+        "chunk_id": "2023---32"
+    },
+    "146": {
+        "Question": "What is the total procurement volume share of direct suppliers with a positive S-Rating (A and B rating) in 2023?",
+        "Answer": "The revenue share of direct suppliers with a positive S-Rating (A and B rating) is equivalent to 79 percent of the total procurement volume in 2023.",
+        "OriginalText": "The revenue share of direct suppliers with a positive S-Rating (A and B rating) is equivalent to 79 percent of the total procurement volume.",
+        "chunk_id": "2023---32"
+    },
+    "147": {
+        "Question": "How does the S-Rating influence the awarding of contracts to suppliers in 2023?",
+        "Answer": "The S-Rating directly influences the awarding of contracts, with suppliers rated A or B being eligible for contracts, while those rated C are generally not eligible.",
+        "OriginalText": "As a result of the S-Rating, suppliers are placed into one of three categories: suppliers with an A or B rating fulfill the requirements of the Volkswagen Group to a sufficient extent and are therefore eligible for being awarded contracts. If a supplier company does not meet the requirements for compliance with sustainability standards (C rating), it is generally not eligible to be awarded a contract.",
+        "chunk_id": "2023---32"
+    },
+    "148": {
+        "Question": "How many countries did Audi pilot activities with social businesses in 2023?",
+        "Answer": "Eight countries",
+        "OriginalText": "AUDI AG piloted activities with social businesses in a total of eight countries of the Audi Group in 2023 (including Brazil, Hungary, Italy and Mexico).",
+        "chunk_id": "2023---33"
+    },
+    "149": {
+        "Question": "What was the main achievement of Audi's health program in 2023 regarding occupational health certification?",
+        "Answer": "Audi became the first automotive company to be awarded the gold level German Seal of Corporate Health for both its German sites, Ingolstadt and Neckarsulm.",
+        "OriginalText": "In 2023, following a comprehensive analysis of occupational health management in the form of an external audit, AUDI AG became the first automotive company to be awarded the gold level German Seal of Corporate Health for both German sites, Ingolstadt and Neckarsulm.",
+        "chunk_id": "2023---33"
+    },
+    "150": {
+        "Question": "How did Audi contribute to the improvement of employee mental health in 2023?",
+        "Answer": "Audi expanded its mental health support through the introduction of the Mental Health Checkup and destigmatization campaign.",
+        "OriginalText": "In 2023, with the Audi Checkup and the Mental Health Checkup, AUDI AG achieved the targets it had set itself as part of the sustainability program: to expand its support offerings and to establish a network of medical practices providing further treatment and comprehensive health care structures for physical and mental health.",
+        "chunk_id": "2023---33"
+    },
+    "151": {
+        "Question": "In 2023, what initiative did Audi launch to improve employee mental health and what was its main outcome?",
+        "Answer": "In 2023, Audi launched the Mental Health Checkup, which successfully reduced typical stress symptoms among participants. It was developed by Audi's mental health experts and evaluated with the Technical University of Chemnitz.",
+        "OriginalText": "The Mental Health Checkup was developed by mental health experts at AUDI AG and was evaluated in collaboration with the Technical University of Chemnitz. The result: it has proved possible to reduce significantly the typical stress symptoms of those people taking part.",
+        "chunk_id": "2023---34"
+    },
+    "152": {
+        "Question": "How many employees participated in Audi's 'Stimmungsbarometer' survey in 2023?",
+        "Answer": "In 2023, 71% of Audi employees participated in the 'Stimmungsbarometer' survey.",
+        "OriginalText": "In 2023, 71 percent of employees took part in the 'Stimmungsbarometer' survey conducted by AUDI AG.",
+        "chunk_id": "2023---34"
+    },
+    "153": {
+        "Question": "Which major diversity initiative did Audi participate in during 2023 to promote sexual orientation and gender identity diversity in its supply chain?",
+        "Answer": "In 2023, Audi joined the European LGBTIQ+ Chamber of Commerce (EGLCC) and the WEConnect International network to promote diversity in its supply chain.",
+        "OriginalText": "For example, the company joined the European LGBTIQ+ Chamber of Commerce (EGLCC) in the reporting year, making it the first German member. AUDI AG has also joined the WEConnect International network, which campaigns for fairer opportunities for women in business.",
+        "chunk_id": "2023---34"
+    },
+    "154": {
+        "Question": "What percentage of the Audi Supervisory Board was made up of women as of December 31, 2023?",
+        "Answer": "As of December 31, 2023, women made up 40% of the Audi Supervisory Board.",
+        "OriginalText": "As of December 31, 2023, women made up 40 percent of the Supervisory Board.",
+        "chunk_id": "2023---34"
+    },
+    "155": {
+        "Question": "Which external recognition did Audi receive for its occupational health management in 2023?",
+        "Answer": "In 2023, Audi became the first automotive company to be awarded the gold level German Seal of Corporate Health for its German sites, Ingolstadt and Neckarsulm.",
+        "OriginalText": "In 2023, following a comprehensive analysis of occupational health management in the form of an external audit, AUDI AG became the first automotive company to be awarded the gold level German Seal of Corporate Health for both German sites, Ingolstadt and Neckarsulm.",
+        "chunk_id": "2023---34"
+    },
+    "156": {
+        "Question": "How many ideas did Audi employees submit in the 'Idea Program' in 2023, and what was the realized benefit in EUR?",
+        "Answer": "In 2023, Audi employees submitted 10,230 ideas, and the total realized benefit was EUR 68.8 million.",
+        "OriginalText": "10,230 ideas submitted; EUR 68.8 million total benefit.",
+        "chunk_id": "2023---34"
+    },
+    "157": {
+        "Question": "In 2023, how many employees participated in Audi's inclusion survey, and what was its purpose?",
+        "Answer": "Almost 9,000 Audi employees participated in the inclusion survey in 2023, aimed at understanding different perspectives within the Group.",
+        "OriginalText": "An inclusion survey conducted throughout the Audi Group. The aim of the survey was to get a picture of the different perspectives held by people within the Group. Almost 9,000 AUDI AG employees took part in the survey.",
+        "chunk_id": "2023---34"
+    },
+    "158": {
+        "Question": "In the 2023 Audi report, how many digital sessions were held globally as part of the 'We.Together: International Diversity & Inclusion Days'?",
+        "Answer": "In 2023, a total of 72 digital sessions in seven languages were held globally as part of the 'We.Together: International Diversity & Inclusion Days'.",
+        "OriginalText": "A total of 72 digital sessions in seven languages were offered as part of the 'We.Together: International Diversity & Inclusion Days.'",
+        "chunk_id": "2023---34"
+    },
+    "159": {
+        "Question": "How many years has Audi gone without a fatal industrial accident, as of 2023?",
+        "Answer": "As of 2023, Audi has gone five years without a fatal industrial accident.",
+        "OriginalText": "The success of efforts in the area of occupational safety was also clear to see in 2023: there has not been a single fatal industrial accident within AUDI AG for five years.",
+        "chunk_id": "2023---34"
+    },
+    "160": {
+        "Question": "How many women were on the Board of Management of Audi at the end of 2023?",
+        "Answer": "At the end of 2023, there were two women on the Board of Management of Audi.",
+        "OriginalText": "There were two women on the Board of Management of AUDI AG at the end of 2023.",
+        "chunk_id": "2023---35"
+    },
+    "161": {
+        "Question": "What significant event did Audi participate in during 2023 in Berlin related to sustainability?",
+        "Answer": "In 2023, Audi participated in the GREENTECH FESTIVAL in Berlin, one of Europe’s largest sustainability forums, where it presented the Audi SQ8 e-tron model.",
+        "OriginalText": "Audi at the GREENTECH FESTIVAL in Berlin: AUDI AG engaged directly with stakeholders at one of Europe’s largest sustainability forums again in 2023 and presented the Audi SQ8 e-tron model.",
+        "chunk_id": "2023---35"
+    },
+    "162": {
+        "Question": "What was the main finding from the Decarbonization Roundtable in Seattle in 2023?",
+        "Answer": "The main finding from the Decarbonization Roundtable in Seattle in 2023 was that electric mobility is the right path toward the automotive future.",
+        "OriginalText": "At the Decarbonization Roundtable in Seattle (USA), which was led by the Sustainable Transportation Lab of the University of Washington with support from Audi, experts gathered together to discuss carbon-neutral transportation systems. The most important finding of the community work: electric mobility is the right path toward the automotive future.",
+        "chunk_id": "2023---35"
+    },
+    "163": {
+        "Question": "What was the significant stakeholder event Audi held in Berlin in 2023?",
+        "Answer": "In 2023, Audi held the Stakeholder Dialogue event in Berlin, where Audi's Human Rights Officer and other representatives discussed the company’s human rights strategy with experts from various sectors.",
+        "OriginalText": "At the Stakeholder Dialogue event in Berlin (Germany), the Audi Human Rights Officer and other Audi representatives discussed the company’s human rights strategy with 15 experts from various businesses, universities and non-governmental organizations.",
+        "chunk_id": "2023---35"
+    },
+    "164": {
+        "Question": "How many employees and scholarship holders did Audi delegate to the One Young World Summit in Belfast in 2023?",
+        "Answer": "Audi delegated 34 employees and scholarship holders to the One Young World Summit in Belfast in 2023.",
+        "OriginalText": "AUDI AG, Bentley, the Volkswagen subsidiary Elli and the Audi Environmental Foundation delegated 34 employees and scholarship holders to the One Young World Summit in Belfast...",
+        "chunk_id": "2023---36"
+    },
+    "165": {
+        "Question": "What was the Trust & Like Score for Audi in Germany in 2023?",
+        "Answer": "The Trust & Like Score for Audi in Germany in 2023 was 70 percent.",
+        "OriginalText": "In the reporting year, Audi reached a score of 70 percent for the German market among 10,432 people surveyed...",
+        "chunk_id": "2023---36"
+    },
+    "166": {
+        "Question": "How many stakeholders participated in the Stakeholder Dialogue event in Berlin, and what was the main focus of the event in 2023?",
+        "Answer": "The Stakeholder Dialogue event in Berlin in 2023 had 15 experts participating, and the focus was on discussing Audi’s human rights strategy.",
+        "OriginalText": "At the Stakeholder Dialogue event in Berlin (Germany), the Audi Human Rights Officer and other Audi representatives discussed the company’s human rights strategy with 15 experts...",
+        "chunk_id": "2023---36"
+    },
+    "167": {
+        "Question": "What sustainability initiative did Audi support at the GREENTECH FESTIVAL in 2023, and where were the events held?",
+        "Answer": "In 2023, Audi supported the GREENTECH FESTIVAL, with events held in Berlin, Los Angeles, Singapore, and London.",
+        "OriginalText": "In 2023, Audi once again supported the GREENTECH FESTIVAL as a partner at events in Berlin, Los Angeles, Singapore and London.",
+        "chunk_id": "2023---36"
+    },
+    "168": {
+        "Question": "What was the outcome of Audi’s participation in the One Young World Summit in Belfast in 2023?",
+        "Answer": "At the One Young World Summit in Belfast in 2023, over 2,000 young people discussed social challenges, with Audi representatives actively participating.",
+        "OriginalText": "At the One Young World Summit in Belfast (pictured on the right), more than 2,000 young people discussed the social challenges of our time. Also there: Xavier Ros (center), Audi Board Member for Human Resources, and a group of employees.",
+        "chunk_id": "2023---36"
+    },
+    "169": {
+        "Question": "How many employees at Audi participated in the Social Day volunteer event in June 2023?",
+        "Answer": "Around 1,000 employees at all five Audi production locations participated in the Social Day volunteer event in June 2023.",
+        "OriginalText": "In June the same year with the Social Day. Around 1,000 employees at all five Audi production locations got involved for a good cause.",
+        "chunk_id": "2023---36"
+    },
+    "170": {
+        "Question": "How many employees and stakeholders provided feedback through Audi’s Customer Experience Management system in 2023?",
+        "Answer": "In 2023, Audi received feedback from around 1 million customers through its Customer Experience Management system.",
+        "OriginalText": "In the reporting year, we received feedback from around 1 million customers, which is being used to further develop our products and services.",
+        "chunk_id": "2023---36"
+    },
+    "171": {
+        "Question": "What notable collaboration did Audi have in 2023 related to social impact startups?",
+        "Answer": "Audi collaborated with the Social Impact Startup Academy (SISTAC e.V) in 2023, where Audi employees assisted the African startup eWAKA Mobility Limited in Kenya and Rwanda to develop a B2B platform for efficient electric bike-based transport.",
+        "OriginalText": "Of particular note in the reporting year was the cooperation with the Social Impact Startup Academy (SISTAC e.V). The academy organizes learning cooperation activities between employees of established companies and social startups to facilitate mutual learning and a positive social impact on both sides. As part of the cooperation, a number of AUDI AG employees have been assisting the African startup eWAKA Mobility Limited since the end of 2023, a company that offers last-mile electric transport of deliveries and people in Kenya and Rwanda.",
+        "chunk_id": "2023---37"
+    },
+    "172": {
+        "Question": "What is the aim of Audi's collaboration with the TU Bergakademie Freiberg in 2023?",
+        "Answer": "In 2023, Audi's collaboration with the TU Bergakademie Freiberg focused on researching methods to recover valuable technology metals from waste, aiming to keep these metals within the circular system.",
+        "OriginalText": "In the year under review, for example, the foundation collaborated with the TU Bergakademie Freiberg to carry out research into ways of recovering selected technology metals (such as indium, gallium, tin) from waste.",
+        "chunk_id": "2023---37"
+    },
+    "173": {
+        "Question": "What environmental initiative did Audi support in 2023 involving electric mobility?",
+        "Answer": "In 2023, Audi supported the GREENTECH FESTIVAL as a partner at events in Berlin, Los Angeles, Singapore, and London, focusing on sustainability projects like the circular economy and supply chain sustainability.",
+        "OriginalText": "In 2023, Audi once again supported the GREENTECH FESTIVAL as a partner at events in Berlin, Los Angeles, Singapore, and London. The sustainability conferences focused on projects relating to the circular economy and sustainability in the supply chain.",
+        "chunk_id": "2023---37"
+    },
+    "174": {
+        "Question": "What was the ISS ESG rating for Audi in 2023 and how does it compare to other automotive manufacturers?",
+        "Answer": "In 2023, Audi received an ISS ESG rating of C+, significantly above the industry average, ranking it among the best-rated automotive manufacturers.",
+        "OriginalText": "The result of the 2023 ISS ESG rating – with 2022 as the reference year – shows that, compared with other companies in the automotive sector, Audi is among the best-rated manufacturers. ISS ESG rated the performance of AUDI AG significantly above the industry average in each case.",
+        "chunk_id": "2023---37"
+    },
+    "175": {
+        "Question": "What was the focus of Bentley's sustainability initiatives in 2023?",
+        "Answer": "In 2023, Bentley launched its first Sustainability Report and established the Sustainability Council as part of its sustainability initiatives.",
+        "OriginalText": "Bentley launched two important initiatives in the 2023 reporting year: the publication of the first Bentley Sustainability Report and the establishment of the Sustainability Council.",
+        "chunk_id": "2023---37"
+    },
+    "176": {
+        "Question": "What is the significance of Audi's Trust & Like Score for the German market in 2023?",
+        "Answer": "In 2023, Audi's Trust & Like Score for the German market was 70%, based on a survey of 10,432 people.",
+        "OriginalText": "In the reporting year, Audi reached a score of 70 percent for the German market among 10,432 people surveyed (international: 74 percent).",
+        "chunk_id": "2023---37"
+    },
+    "177": {
+        "Question": "How many charging points did Audi commission at the Neckarsulm site in 2023?",
+        "Answer": "Audi commissioned 72 additional charging points for electric vehicles at the Neckarsulm site in 2023.",
+        "OriginalText": "Audi commissioned 72 additional charging points for electric vehicles at the Neckarsulm site last year.",
+        "chunk_id": "2023---38"
+    },
+    "178": {
+        "Question": "Which two countries does Audi currently offer its 'Audi on demand subscribe' service in as of 2023?",
+        "Answer": "'Audi on demand subscribe' is currently available in Germany and France as of 2023.",
+        "OriginalText": "Audi on demand subscribe (available in Germany and France, rollout planned in other markets)",
+        "chunk_id": "2023---38"
+    },
+    "179": {
+        "Question": "What is the expected global market volume for new mobility services by 2030, according to Audi's 2023 report?",
+        "Answer": "The expected global market volume for new mobility services is roughly EUR 100 billion by 2030.",
+        "OriginalText": "The Group is therefore unlocking a rapidly expanding source of income with an expected global market volume of roughly EUR 100 billion in 2030.",
+        "chunk_id": "2023---38"
+    },
+    "180": {
+        "Question": "Which regions did Audi offer its 'Audi on demand rent' service in 2023, and what is its core feature?",
+        "Answer": "'Audi on demand rent' was available in Germany in 2023, offering short-term rentals (1 to 28 days) of Audi vehicles with customizable features like model and color.",
+        "OriginalText": "With Audi on demand rent (available in Germany, rollout planned in other markets) customers can find the right Audi for a short-term rental of between one and 28 days.",
+        "chunk_id": "2023---38"
+    },
+    "181": {
+        "Question": "What was Audi's approach to expanding mobility services within the Volkswagen Group in 2023?",
+        "Answer": "Audi supported the Volkswagen Group’s initiative to combine all brands' mobility services on one platform, aiming to make automated driving and new mobility concepts a key part of the future business model.",
+        "OriginalText": "In the coming years, the Volkswagen Group wants to combine all of its brands’ mobility services on one platform. The aim is that automated driving together with new mobility concepts will enable the Group’s transition to a leading provider of new mobility in the future.",
+        "chunk_id": "2023---38"
+    },
+    "182": {
+        "Question": "How many reports of potential violations did Audi receive in 2023, and what was the increase compared to the previous year?",
+        "Answer": "Audi received 547 reports of potential violations in 2023, representing an increase from 461 reports in 2022.",
+        "OriginalText": "In 2023, AUDI AG received 547 reports of potential violations, of which 33 were of relevance in the context of the Supply Chain Due Diligence Act (LkSG). This represents a slight increase compared with the previous year when there were 461 reported violations.",
+        "chunk_id": "2023---39"
+    },
+    "183": {
+        "Question": "How many T4I Perception Workshops were conducted in 2023 as part of the Together4Integrity program?",
+        "Answer": "A total of 27 T4I Perception Workshops were conducted in 2023.",
+        "OriginalText": "In 2023, the Volkswagen Group handed over responsibility for managing the T4I program within the Audi brand group to AUDI AG. The program supports a total of 40 companies and more than 90,000 employees within the Audi Group in 21 countries worldwide. Some 27 workshops, referred to as T4I Perception Workshops, were conducted in 2023.",
+        "chunk_id": "2023---39"
+    },
+    "184": {
+        "Question": "What was the electric power consumption range of the Audi Q8 e-tron edition Dakar in 2023?",
+        "Answer": "The electric power consumption of the Audi Q8 e-tron edition Dakar ranged from 25.1 to 24.7 kWh/100 km in 2023.",
+        "OriginalText": "Audi Q8 e-tron edi-tion Dakar: electric power consumption (combined) in kWh/100 km: 25.1–24.7 (with summer tires, without roof basket); $\\mathsf{C O}_{2}$ emissions (combined) in g/km: 0; $\\mathsf{C O}_{2}$ class: A.",
+        "chunk_id": "2023---39"
+    },
+    "185": {
+        "Question": "What specific compliance mechanism did Audi use to monitor violations in 2023, and how many severe violations were identified?",
+        "Answer": "Audi used a Whistleblower System to monitor violations in 2023, identifying 12 severe violations.",
+        "OriginalText": "In 2023, AUDI AG received 547 reports of potential violations...A total of 12 cases were categorized as severe violations in 2023.",
+        "chunk_id": "2023---39"
+    },
+    "186": {
+        "Question": "How many reports of potential corruption were submitted to Audi in 2023, and how many are still under investigation?",
+        "Answer": "Two reports, one under investigation.",
+        "OriginalText": "In 2023, two reports of potential corruption were submitted. In one case (passive corruption), no violation could be identified. The second case (active corruption) is currently still under investigation.",
+        "chunk_id": "2023---40"
+    },
+    "187": {
+        "Question": "What percentage of non-production employees and Audi's Board of Management completed the anti-corruption web-based training (WBT) in 2023?",
+        "Answer": "99.23% participation rate.",
+        "OriginalText": "All non-production employees as well as the Board of Management of AUDI AG successfully completed the specially designed web-based training (WBT) on anti-corruption and dealing with public officials in the period under review with a participation rate of 99.23 percent.",
+        "chunk_id": "2023---40"
+    },
+    "188": {
+        "Question": "In 2023, what role does Audi's Statement of Principle on Artificial Intelligence emphasize as important in dealing with AI?",
+        "Answer": "Respect, security, and transparency.",
+        "OriginalText": "With the Statement of Principle on Artificial Intelligence at AUDI AG, the company undertakes to act responsibly in its dealings with AI. Respect, security and transparency are particularly important in this context.",
+        "chunk_id": "2023---40"
+    },
+    "189": {
+        "Question": "In 2023, how many national and international participations were supported in the area of anti-corruption by Audi?",
+        "Answer": "56 participations.",
+        "OriginalText": "In the year under review, a total of 56 national and international participations were supported in the area of anti-corruption in the course of consultancy inquiries, the implementation of policies and the  \n\n  \n\nexecution of training programs.",
+        "chunk_id": "2023---40"
+    },
+    "190": {
+        "Question": "What new functionality was introduced to the Audi Q4 e-tron in March 2023?",
+        "Answer": "In March 2023, Audi introduced over-the-air software updates for the Audi Q4 e-tron.",
+        "OriginalText": "One example from the reporting year is an update in March 2023, which has enabled new functions for the Audi Q4 e-tron. For the first time, software updates are possible via an over-the-air interface.",
+        "chunk_id": "2023---41"
+    },
+    "191": {
+        "Question": "Which international information security standards does Audi comply with in 2023?",
+        "Answer": "In 2023, Audi complies with the ISO/IEC 27000 series for information security management.",
+        "OriginalText": "Furthermore, Audi is bound by international information security standards – for example, the ISO/IEC 27000 series, with the help of which Audi has implemented an effective Information Security Management System (ISMS).",
+        "chunk_id": "2023---41"
+    },
+    "192": {
+        "Question": "What are the timeframes for the assurance engagement conducted by EY in Audi's 2023 Annual Report?",
+        "Answer": "The assurance engagement covers the period from January 1, 2023, to December 31, 2023, with additional information on CO2 savings in logistics for the period from January 1, 2022, to December 31, 2022.",
+        "OriginalText": "We have performed a limited assurance engagement on selected sustainability key figures for the year 2023 in the 'Audi Report | Combined annual and sustainability report' of the AUDI Aktiengesellschaft, Ingolstadt, (hereinafter the 'Company'), which have been marked with the symbol $\\because\\angle^{\\prime\\prime}$ in the report for the period from 1 January to 31 December 2023 (hereinafter the 'report'). In addition, the information on $\\mathsf{C O}_{2}$-savings in logistics for the period from 1 January to 31 December 2022 was subject to our assurance engagement.",
+        "chunk_id": "2023---42"
+    },
+    "193": {
+        "Question": "What time period does the Audi Group report cover in the 2023 Annual Report?",
+        "Answer": "The Audi Group report covers the period from January 1, 2023, to December 31, 2023.",
+        "OriginalText": "The Audi Group reported on the period from January 1, 2023 to December 31, 2023 in accordance with the GRI Standards.",
+        "chunk_id": "2023---43"
+    },
+    "194": {
+        "Question": "Which organization reviewed Audi's GRI content index for the 2023 Annual Report?",
+        "Answer": "The GRI Services organization reviewed Audi's GRI content index for the 2023 Annual Report.",
+        "OriginalText": "For the Content Index – Essentials Service, GRI Services reviewed that the GRI content index has been presented in a way consistent with the requirements for reporting in accordance with the GRI Standards.",
+        "chunk_id": "2023---43"
+    },
+    "195": {
+        "Question": "What is the publication date of Audi's 2023 Annual Report, as stated in the auditor’s confirmation?",
+        "Answer": "The publication date of Audi's 2023 Annual Report is confirmed as March 11, 2024.",
+        "OriginalText": "Stuttgart, 11 March 2024",
+        "chunk_id": "2023---43"
+    },
+    "196": {
+        "Question": "Where is Audi’s headquarters located according to the 2023 Annual Report?",
+        "Answer": "Audi's headquarters is located in Ingolstadt, Germany.",
+        "OriginalText": "Auto-Union-Straße 1 85045 Ingolstadt Germany",
+        "chunk_id": "2023---43"
+    }
+}

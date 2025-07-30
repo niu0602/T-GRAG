@@ -1,0 +1,1052 @@
+{
+    "1": {
+        "Question": "What was the main challenge faced by Audi in 2020?",
+        "Answer": "The main challenge faced by Audi in 2020 was the impact of the coronavirus pandemic, which significantly affected day-to-day business and global markets.",
+        "OriginalText": "The coronavirus pandemic significantly impacted day-to-day business in markets throughout the world, presenting great economic as well as emotional challenges.",
+        "chunk_id": "2020---1"
+    },
+    "2": {
+        "Question": "Which new Audi model was introduced as the brand's first all-electric model manufactured in Germany in 2020?",
+        "Answer": "The Audi e-tron GT quattro was introduced as the brand’s first all-electric model manufactured in Germany in 2020.",
+        "OriginalText": "The Audi e-tron GT quattro is one example of this. As the brand’s progressive new spearhead, it is our first all-electric model manufactured in Germany.",
+        "chunk_id": "2020---1"
+    },
+    "3": {
+        "Question": "In 2020, Audi published a combined report for the first time. What does this report integrate?",
+        "Answer": "The combined report integrates financial perspectives and issues related to ESG (Environment, Social, and Governance).",
+        "OriginalText": "Now more than ever, our future success requires that we have a holistic understanding of sustainability, comprising the economy, environment and society. That is why we are also integrating the financial perspectives and issues related to ESG – Environment, Social and Governance – into our reporting and are publishing a combined annual and sustainability report this year for the first time. Even following last year’s acquisition of all Audi shares by Volkswagen AG, this approach will allow us to uphold transparency as well as explain and classify correlations.",
+        "chunk_id": "2020---1"
+    },
+    "4": {
+        "Question": "When was the Audi Report 2020 published?",
+        "Answer": "The Audi Report 2020 was published on March 18, 2021.",
+        "OriginalText": "Publication March 18, 2021",
+        "chunk_id": "2020---1"
+    },
+    "5": {
+        "Question": "What was the reporting period for Audi's combined annual and sustainability report for 2020?",
+        "Answer": "The reporting period for Audi's combined annual and sustainability report for 2020 was from January 1 to December 31, 2020.",
+        "OriginalText": "Reporting period Fiscal year 2020 January 1 to December 31, 2020",
+        "chunk_id": "2020---1"
+    },
+    "6": {
+        "Question": "What was the significant milestone for Audi in July 2020 related to its shareholding structure?",
+        "Answer": "In July 2020, the Audi Annual General Meeting voted on the squeeze-out resolution, resulting in the transfer of all remaining Audi shares to Volkswagen AG, which already held 99.64% of the share capital.",
+        "OriginalText": "On July 31, the Audi Annual General Meeting votes on the squeeze-out according to stock corporation law. This resolution results in the transfer of all the Audi shares of the remaining shareholders to Volkswagen AG, which already holds 99.64 percent of the share capital of AUDI AG.",
+        "chunk_id": "2020---2"
+    },
+    "7": {
+        "Question": "What record did Audi achieve in China in August 2020?",
+        "Answer": "In August 2020, Audi delivered 70,616 vehicles in China, marking the strongest August in its over 30-year history in the country.",
+        "OriginalText": "With 70,616 vehicles delivered to customers, Audi enjoyed the best-ever August in its over 30-year history in China.",
+        "chunk_id": "2020---2"
+    },
+    "8": {
+        "Question": "What new project did Audi launch in 2020 to develop a pioneering electric car, and what is its goal?",
+        "Answer": "Audi launched the Artemis project in 2020 to design competition-beating technologies, aiming to develop a long-distance electric car within four years.",
+        "OriginalText": "The Audi Group launches the Artemis project, which is tasked with designing competition-beating technologies for the mobility of the future. The team... has four years to achieve its goal of putting a pioneering electric car capable of driving long distances onto the road.",
+        "chunk_id": "2020---2"
+    },
+    "9": {
+        "Question": "How did the coronavirus pandemic impact Audi's production operations in 2020?",
+        "Answer": "Due to the coronavirus pandemic, Audi partially suspended production worldwide, implemented short-time work at German sites, and gradually resumed production with health measures in place.",
+        "OriginalText": "The coronavirus pandemic has a substantial impact... Audi partially suspends production worldwide... Audi gradually ramps up production again at its European sites.",
+        "chunk_id": "2020---2"
+    },
+    "10": {
+        "Question": "What initiative did Audi take to expand its digital services in 2020?",
+        "Answer": "In 2020, Audi integrated e-commerce solutions into its dealerships, allowing online sales of new and used cars in more markets, including Germany.",
+        "OriginalText": "Audi focuses even more on digital offers for its customers... The online sale of new cars in stock at dealerships has started in Germany.",
+        "chunk_id": "2020---2"
+    },
+    "11": {
+        "Question": "What role did Markus Duesmann assume in addition to being Audi’s CEO in 2020?",
+        "Answer": "In 2020, Markus Duesmann took over responsibility for Technical Development, Product Lines, and business in China.",
+        "OriginalText": "In addition to his role as CEO, Markus Duesmann takes over the position of Board Member for Technical Development and Product Lines as well as responsibility for business in China.",
+        "chunk_id": "2020---2"
+    },
+    "12": {
+        "Question": "What was Audi's goal for electrified car sales in China by 2025, as stated in 2020?",
+        "Answer": "By 2025, Audi aimed to achieve around one-third of its sales in China with electrified cars.",
+        "OriginalText": "By 2025, Audi wants to achieve around one-third of sales in China with electrified cars.",
+        "chunk_id": "2020---2"
+    },
+    "13": {
+        "Question": "What was Audi’s approach to ensuring employee safety during the coronavirus pandemic in 2020?",
+        "Answer": "Audi implemented measures such as social distancing, partition walls, mandatory masks, and preventive health services to ensure employee safety during the pandemic.",
+        "OriginalText": "Examples include social distancing, installation of partition walls and mandatory mask-wearing to ensure conformity with coronavirus regulations.",
+        "chunk_id": "2020---2"
+    },
+    "14": {
+        "Question": "How many employees were working for Audi worldwide as of December 31, 2020?",
+        "Answer": "86,860 employees were working for Audi worldwide as of December 31, 2020.",
+        "OriginalText": "86,860 (90,640) people were working for the company all over the world as of December 31, 2020, 59,817 (62,377) of them in Germany.",
+        "chunk_id": "2020---3"
+    },
+    "15": {
+        "Question": "What was the total number of vehicles Audi delivered in 2020, including cars, sports cars, and motorcycles?",
+        "Answer": "In 2020, Audi delivered a total of 1,692,773 cars, 7,430 sports cars, and 48,042 motorcycles.",
+        "OriginalText": "In 2020, the Audi Group delivered 1,692,773 (1,845,573) cars of the Audi brand, 7,430 (8,205) sports cars of the Lamborghini brand and 48,042 (53,183) motorcycles of the Ducati brand to customers.",
+        "chunk_id": "2020---3"
+    },
+    "16": {
+        "Question": "How many new apprentices and students joined Audi in September 2020?",
+        "Answer": "In September 2020, 650 apprentices and 38 students pursuing a dual course of study joined Audi at the German sites in Ingolstadt and Neckarsulm.",
+        "OriginalText": "In September, 650 apprentices and 38 students pursuing a dual course of study embark on their professional careers at Audi at the German sites in Ingolstadt and Neckarsulm.",
+        "chunk_id": "2020---3"
+    },
+    "17": {
+        "Question": "What were the results of the Audi Annual General Meeting vote on July 31, 2020?",
+        "Answer": "The Audi Annual General Meeting on July 31, 2020, voted on the squeeze-out, resulting in the transfer of all Audi shares of remaining shareholders to Volkswagen AG, which already held 99.64 percent of Audi’s share capital.",
+        "OriginalText": "On July 31, the Audi Annual General Meeting votes on the squeeze-out according to stock corporation law. This resolution results in the transfer of all the Audi shares of the remaining shareholders to Volkswagen AG, which already holds 99.64 percent of the share capital of AUDI AG.",
+        "chunk_id": "2020---3"
+    },
+    "18": {
+        "Question": "How many vehicles did Audi Group deliver in total in 2020?",
+        "Answer": "1,692,773 vehicles of the Audi brand.",
+        "OriginalText": "In 2020, the Audi Group delivered 1,692,773 (1,845,573) cars of the Audi brand, 7,430 (8,205) sports cars of the Lamborghini brand and 48,042 (53,183) motorcycles of the Ducati brand to customers.",
+        "chunk_id": "2020---4"
+    },
+    "19": {
+        "Question": "How many employees were working for Audi globally as of December 31, 2020?",
+        "Answer": "86,860 employees.",
+        "OriginalText": "86,860 (90,640) people were working for the company all over the world as of December 31, 2020, 59,817 (62,377) of them in Germany.",
+        "chunk_id": "2020---4"
+    },
+    "20": {
+        "Question": "How many vehicles did Audi manufacture in Kaluga, Russia in 2020?",
+        "Answer": "2,477 vehicles.",
+        "OriginalText": "Audi manufactured a total of 2,477 (2,556) vehicles using the semi-knocked-down procedure in Kaluga in 2020.",
+        "chunk_id": "2020---4"
+    },
+    "21": {
+        "Question": "What was the combined electric power consumption for the Audi e-tron GT quattro in 2020?",
+        "Answer": "19.6–18.8 kWh/100 km.",
+        "OriginalText": "Audi e-tron GT quattro: combined electric power consumption in kWh/100 km: 19.6–18.8 (NEDC); combined CO₂ emissions in g/km: 0.",
+        "chunk_id": "2020---4"
+    },
+    "22": {
+        "Question": "How many employees did Audi Sport GmbH have at the Neckarsulm site in 2020?",
+        "Answer": "Audi Sport GmbH had 1,779 employees at the Neckarsulm site in 2020.",
+        "OriginalText": "This Italian brand is a fully owned subsidiary of AUDI AG. Sant’Agata Bolognese is home to its headquarters and main plant. A total of 1,779 (1,787) employees work here.",
+        "chunk_id": "2020---4"
+    },
+    "23": {
+        "Question": "How many vehicles did Audi produce at the Bratislava plant in 2020?",
+        "Answer": "103,932 vehicles.",
+        "OriginalText": "In 2020, 103,932 (108,198) vehicles left the plant.",
+        "chunk_id": "2020---5"
+    },
+    "24": {
+        "Question": "What was the total number of vehicles produced at the FAW-Volkswagen Automotive Company site in Changchun, China in 2020?",
+        "Answer": "469,070 vehicles.",
+        "OriginalText": "In 2020, 469,070 (443,905) cars were manufactured here for the Chinese market.",
+        "chunk_id": "2020---5"
+    },
+    "25": {
+        "Question": "Which Audi models were produced at the Aurangabad plant in India in 2020?",
+        "Answer": "A4 Sedan and A6 Sedan.",
+        "OriginalText": "Audi models produced at the site: A4 Sedan, A6 Sedan",
+        "chunk_id": "2020---5"
+    },
+    "26": {
+        "Question": "How many motorcycles did Ducati produce in Thailand in 2020?",
+        "Answer": "7,534 motorcycles.",
+        "OriginalText": "In 2020, Ducati manufactured a total of 7,534 (8,038) motorcycles at its assembly plant in Rayong Province, Thailand.",
+        "chunk_id": "2020---5"
+    },
+    "27": {
+        "Question": "Which Audi models were manufactured in the Qingdao, China site in 2020?",
+        "Answer": "A3 Sportback and A3 Sedan.",
+        "OriginalText": "The first models produced at the manufacturing site in 2020 were the A3 Sportback and the A3 Sedan.",
+        "chunk_id": "2020---5"
+    },
+    "28": {
+        "Question": "How many vehicles did Audi produce at the San José Chiapa plant in Mexico in 2020?",
+        "Answer": "124,298 vehicles.",
+        "OriginalText": "In 2020, this Audi production site manufactured a total of 124,298 (156,995) vehicles.",
+        "chunk_id": "2020---5"
+    },
+    "29": {
+        "Question": "What are the key challenges for the automotive sector mentioned by Markus Duesmann in the 2020 Audi Annual Report?",
+        "Answer": "Digitalization, electric mobility, and regulation.",
+        "OriginalText": "Digitalization, electric mobility and regulation – all the established car manufacturers are currently facing the same challenges.",
+        "chunk_id": "2020---5"
+    },
+    "30": {
+        "Question": "How many electric models did Audi plan to introduce by 2025, according to Hildegard Wortmann's statement in the 2020 report?",
+        "Answer": "More than 30 electrified models, of which around 20 will be all-electric",
+        "OriginalText": "We plan to introduce more than 30 electrified models onto the market by 2025, of which around 20 will be all-electric.",
+        "chunk_id": "2020---6"
+    },
+    "31": {
+        "Question": "What percentage of vehicles did Audi deliver fewer to customers in the first half of 2020 compared to the previous year?",
+        "Answer": "22% fewer vehicles",
+        "OriginalText": "During the first half of the year, Audi delivered 22 percent fewer vehicles to customers.",
+        "chunk_id": "2020---6"
+    },
+    "32": {
+        "Question": "How many deliveries did Audi make in the fourth quarter of 2020, setting a record for the company?",
+        "Answer": "More than 500,000 deliveries",
+        "OriginalText": "The fourth quarter of 2020 was even the most successful quarter in our history, with more than 500,000 deliveries.",
+        "chunk_id": "2020---6"
+    },
+    "33": {
+        "Question": "What was Audi's financial target return over the next few years as mentioned in the 2020 report?",
+        "Answer": "Nine to eleven percent",
+        "OriginalText": "Audi has set itself the ambitious target return of nine to eleven percent over the next few years.",
+        "chunk_id": "2020---6"
+    },
+    "34": {
+        "Question": "What percentage increase in sales of electric vehicles did Audi achieve in 2020 compared to the previous year?",
+        "Answer": "Almost double the sales of electric models",
+        "OriginalText": "We were able to practically double sales of our electric models in 2020 compared with the previous year.",
+        "chunk_id": "2020---6"
+    },
+    "35": {
+        "Question": "What significant production-related challenge did Audi face in the first quarter of 2021, as mentioned in the 2020 report?",
+        "Answer": "Supply shortages of semiconductor components",
+        "OriginalText": "The task of supplying semiconductor components poses a serious challenge in the first quarter of 2021.",
+        "chunk_id": "2020---7"
+    },
+    "36": {
+        "Question": "What was the main focus of Dr. Sabine Maassen's work at Audi after joining in April 2020?",
+        "Answer": "The transformation of Audi to a digital car company and strategic HR planning.",
+        "OriginalText": "The transformation of Audi to a digital car company is a top priority... We have also been working intensively over the past nine months on strategic HR planning.",
+        "chunk_id": "2020---7"
+    },
+    "37": {
+        "Question": "What is Audi's strategy for ensuring that its production sites are prepared for electric mobility by the end of 2020?",
+        "Answer": "Audi is intensively preparing the Ingolstadt site for the production of electric models, including the pre-series production of PPE-based vehicles and in-house battery assembly for the first time at a German Audi site.",
+        "OriginalText": "We are already preparing intensively for the production of electric models at the Ingolstadt site: We already have the first PPE-based vehicles in pre-series production, and in-house battery assembly will also take place at a German Audi site for the first time.",
+        "chunk_id": "2020---8"
+    },
+    "38": {
+        "Question": "How did Audi's compliance and integrity program evolve in 2020 after the diesel scandal?",
+        "Answer": "In 2020, Audi successfully completed the Monitorship, strengthening its compliance and integrity processes, and implemented measures to prevent violations of anti-fraud and environmental laws.",
+        "OriginalText": "Audi reached an important milestone in terms of compliance, integrity and corporate values in 2020: the successful conclusion of the Monitorship.",
+        "chunk_id": "2020---8"
+    },
+    "39": {
+        "Question": "What were the economic impacts on Audi in the first half of 2020 due to government restrictions and supply chain disruptions?",
+        "Answer": "Government restrictions and interruptions in the supply chain led to production stops and short-time work, resulting in a global drop in sales volume in the first half of 2020.",
+        "OriginalText": "Government restrictions and interruptions in the supply chain led to production stops and short-time work at Audi sites, especially in the first six months, which resulted in a global drop in sales volume.",
+        "chunk_id": "2020---8"
+    },
+    "40": {
+        "Question": "What was Audi's market performance in the second half of 2020?",
+        "Answer": "In the second half of 2020, Audi experienced a market recovery starting with China, achieving solid operating performance and record figures in the fourth quarter.",
+        "OriginalText": "Market recovery starting with China and solid operating performance in the second half of the year as well as record figures in the fourth quarter.",
+        "chunk_id": "2020---8"
+    },
+    "41": {
+        "Question": "What major change did Audi implement as part of the Monitorship settlement in 2020?",
+        "Answer": "Audi successfully completed the Monitorship in September 2020, meeting its obligations to revise and further develop its compliance program as part of the diesel issue settlement with the U.S. Department of Justice.",
+        "OriginalText": "Independent Compliance Monitor Larry D. Thompson has confirmed that AUDI AG, as part of the Volkswagen Group, has met its obligations under the diesel issue settlement with the U.S. Department of Justice to extensively revise and further develop its compliance program. The successful completion of the Monitorship was certified by Larry D. Thompson in September 2020.",
+        "chunk_id": "2020---9"
+    },
+    "42": {
+        "Question": "What were the main focuses of the Together4Integrity program in 2020 at Audi?",
+        "Answer": "The Together4Integrity program focused on continuing to implement the Group-wide compliance and integrity measures, supporting the Audi Board of Management in fulfilling their declarations of commitment, and complying with the EPA Administrative Agreement.",
+        "OriginalText": "Specifically, my team and I are concentrating on four priorities: We’ll continue to implement the Group-wide compliance and integrity program Together4Integrity until 2025. We’ll advise and support the members of our Board of Management in fulfilling their personal declarations of commitment. We’ll continue to comply with our obligations under the EPA Administrative Agreement.",
+        "chunk_id": "2020---9"
+    },
+    "43": {
+        "Question": "What did Audi focus on in its corporate strategy regarding human rights in 2020?",
+        "Answer": "In 2020, Audi focused on ensuring respect for human rights in all corporate processes, including preventing discrimination, forced labor, and child labor, and actively participating in the German government’s National Action Plan for Business and Human Rights.",
+        "OriginalText": "Audi is also actively involved in the ‘Automotive Industry Dialogue’ as part of the German government’s National Action Plan (NAP) for Business and Human Rights.",
+        "chunk_id": "2020---9"
+    },
+    "44": {
+        "Question": "How many employees did Audi have worldwide in 2020, and what is the significance of this number?",
+        "Answer": "In 2020, Audi had almost 87,000 employees worldwide, which emphasizes the company's responsibility to uphold human rights and maintain ethical standards across a large workforce.",
+        "OriginalText": "Audi has more than 40 entities worldwide with almost 87,000 employees and tens of thousands of business partners – this means the company has an extremely high level of responsibility.",
+        "chunk_id": "2020---9"
+    },
+    "45": {
+        "Question": "What is the role of product integrity at Audi, as described in the 2020 report?",
+        "Answer": "Product integrity at Audi in 2020 was a corporate responsibility focused on ensuring product safety and product conformity, meeting both legal and internal specifications.",
+        "OriginalText": "Product integrity is a legal obligation, and we are committed to complying with the applicable legal and official provisions of the respective countries of export and import. The same applies to specifications resulting from internal and external standards.",
+        "chunk_id": "2020---9"
+    },
+    "46": {
+        "Question": "What was the effect of the COVID-19 pandemic on Audi's sales in the first half of 2020?",
+        "Answer": "The COVID-19 pandemic led to a global drop in Audi's sales volume, particularly in the first half of 2020, due to government restrictions and interruptions in the supply chain.",
+        "OriginalText": "The coronavirus pandemic has a significant impact in the fiscal year – strong second half Government restrictions and interruptions in the supply chain led to production stops and short-time work at Audi sites, especially in the first six months, which resulted in a global drop in sales volume.",
+        "chunk_id": "2020---10"
+    },
+    "47": {
+        "Question": "How much did Audi's deliveries drop in 2020 compared to the previous year?",
+        "Answer": "Audi's deliveries dropped by 8% in 2020, with 1,692,773 vehicles delivered compared to 1,845,573 in 2019.",
+        "OriginalText": "Deliveries of cars of the Audi brand to customers: Audi: –8 percent 1,692,773 (1,845,573).",
+        "chunk_id": "2020---10"
+    },
+    "48": {
+        "Question": "What was the main reason for Audi's recovery in sales during the second half of 2020?",
+        "Answer": "Audi's sales recovery in the second half of 2020 was due to active crisis management and stronger demand in all markets, especially in China.",
+        "OriginalText": "Deliveries even above prior year   \nthanks to active crisis   \nmanagement and stronger   \ndemand in all markets  \n\nMarket recovery starting with China and solid operating performance in the second half of the year as well as record figures in the fourth quarter  \n",
+        "chunk_id": "2020---10"
+    },
+    "49": {
+        "Question": "How much did Audi's operating return on sales decrease in 2020 compared to 2019?",
+        "Answer": "Audi's operating return on sales decreased from 8.1% in 2019 to 5.5% in 2020.",
+        "OriginalText": "Operating return on sales before special items: 5.1 % still high net liquidity: EUR 22.4 (21.8) billion before special items: 5.5 % (8.1 %).",
+        "chunk_id": "2020---10"
+    },
+    "50": {
+        "Question": "What was the global market volume for passenger cars in 2020 and how much did it decrease compared to the previous year?",
+        "Answer": "The global market volume for passenger cars in 2020 was 67.7 million units, down 15.2% from the previous year.",
+        "OriginalText": "At 67.7 million units, the global market volume for passenger cars in the 2020 fiscal year fell significantly short of the prioryear level (–15.2 percent)",
+        "chunk_id": "2020---11"
+    },
+    "51": {
+        "Question": "What was the overall economic growth in Europe in 2020 and what caused it?",
+        "Answer": "Europe's economy contracted by 6.7% in 2020, primarily due to national measures to contain the pandemic and severe restrictions on public life.",
+        "OriginalText": "The economy in Europe recorded a sharp contraction of –6.7 (1.5) percent overall in 2020. This was due, among other things, to national measures to contain the pandemic.",
+        "chunk_id": "2020---11"
+    },
+    "52": {
+        "Question": "What was the GDP growth of Germany in 2020, and how did it compare to the previous year?",
+        "Answer": "Germany's GDP declined by 5.3% in 2020, compared to a 0.6% growth in 2019.",
+        "OriginalText": "At $-5.3$ (0.6) percent, Germany’s economic growth in the year under review was well into negative territory.",
+        "chunk_id": "2020---11"
+    },
+    "53": {
+        "Question": "How much did the production of Audi vehicles in China increase in 2020 compared to the previous year?",
+        "Answer": "Production of Audi vehicles in China increased by 9.3% in 2020 compared to the previous year.",
+        "OriginalText": "By the end of 2020 there was actually a cumulative year-on-year rise of 9.3 percent.",
+        "chunk_id": "2020---11"
+    },
+    "54": {
+        "Question": "What was the total number of vehicles produced by the Audi Group in 2020?",
+        "Answer": "1,664,265 vehicles",
+        "OriginalText": "The Audi Group produced a total of 1,664,265 (1,802,073) vehicles in the year under review.",
+        "chunk_id": "2020---11"
+    },
+    "55": {
+        "Question": "By what percentage did Audi’s output increase between July and December 2020?",
+        "Answer": "12.2%",
+        "OriginalText": "The situation in the Audi production network continued to stabilize in the second half of 2020, and output increased by 12.2 percent year-on-year between July and December 2020.",
+        "chunk_id": "2020---12"
+    },
+    "56": {
+        "Question": "How much did Audi's deliveries decline in 2020 compared to the previous year?",
+        "Answer": "8.3%",
+        "OriginalText": "The Audi Group delivered a total of 1,700,258 (1,853,833) vehicles in the 2020 fiscal year. The pandemic-induced decline of –8.3 percent was significantly less pronounced than the drop of –15.2 percent in overall market demand.",
+        "chunk_id": "2020---12"
+    },
+    "57": {
+        "Question": "What was the percentage increase in deliveries of Audi e-tron vehicles in 2020?",
+        "Answer": "79.5%",
+        "OriginalText": "One particularly successful aspect in 2020 was the year-on-year increase in deliveries to customers in certain product lines, with rises of 79.5 percent for the Audi e-tron product line.",
+        "chunk_id": "2020---12"
+    },
+    "58": {
+        "Question": "What was the revenue generated by the Lamborghini brand in 2020?",
+        "Answer": "EUR 1,569 million",
+        "OriginalText": "The Lamborghini brand generated revenue from automotive business of EUR 1,569 (1,743) million in the reporting period.",
+        "chunk_id": "2020---12"
+    },
+    "59": {
+        "Question": "What was the combined electric power consumption in kWh/100 km for the Audi Q2 L e-tron in 2020?",
+        "Answer": "13.9 kWh/100 km",
+        "OriginalText": "Audi Q2 L e-tron: combined electric power consumption in kWh/100 km: 13.9 (NEDC); combined CO₂ emissions in g/km: 0.",
+        "chunk_id": "2020---12"
+    },
+    "60": {
+        "Question": "What percentage of the total production of Audi brand vehicles increased by new energy vehicles (NEVs) in 2020?",
+        "Answer": "6.8%",
+        "OriginalText": "The New Energy Vehicle (NEV) share – in other words, fully electric and plug-in hybrid vehicles as a proportion of total production of Audi brand vehicles – increased by 6.8 (3.5) percent in 2020.",
+        "chunk_id": "2020---12"
+    },
+    "61": {
+        "Question": "How much did the number of Audi employees decrease by in 2020?",
+        "Answer": "3,780 employees",
+        "OriginalText": "As of December 31, 2020, the Audi Group’s workforce decreased by –3,780 to 86,860 (90,640) employees.",
+        "chunk_id": "2020---12"
+    },
+    "62": {
+        "Question": "In which quarter of 2020 did Audi achieve its highest-ever number of deliveries in a quarter?",
+        "Answer": "Fourth quarter",
+        "OriginalText": "Audi recorded 505,583 (488,471) deliveries in the fourth quarter, making it the most successful quarter in the company’s history.",
+        "chunk_id": "2020---12"
+    },
+    "63": {
+        "Question": "What was the research and development ratio for Audi Group in 2020?",
+        "Answer": "The research and development ratio was 7.3 percent in 2020.",
+        "OriginalText": "The research and development ratio 13 was 7.3 (7.9) percent in the year under review.",
+        "chunk_id": "2020---13"
+    },
+    "64": {
+        "Question": "What was the operating result for the Audi Group in the fourth quarter of 2020?",
+        "Answer": "The operating result was EUR 2,456 million in the fourth quarter of 2020.",
+        "OriginalText": "The operating result was EUR 2,456 (1,271) million in this period.",
+        "chunk_id": "2020---13"
+    },
+    "65": {
+        "Question": "What was the operating return on sales for the Audi Group in 2020?",
+        "Answer": "The operating return on sales was 5.1 percent in 2020.",
+        "OriginalText": "The operating return on sales of EUR 2,569 (4,509) million. This represents an operating return on sales of 5.1 (8.1) percent.",
+        "chunk_id": "2020---13"
+    },
+    "66": {
+        "Question": "How much income did Audi Group receive from the sale of Autonomous Intelligent Driving GmbH in 2020?",
+        "Answer": "Audi Group received EUR 495 million from the sale of Autonomous Intelligent Driving GmbH in 2020.",
+        "OriginalText": "Year-on-year, positive factors affecting other operating result included income of EUR 495 million from the sale of Autonomous Intelligent Driving GmbH, Munich, within the Volkswagen Group.",
+        "chunk_id": "2020---13"
+    },
+    "67": {
+        "Question": "What was the profit before tax for the Audi Group in the fourth quarter of 2020?",
+        "Answer": "The profit before tax was EUR 2,985 million in the fourth quarter of 2020.",
+        "OriginalText": "The Audi Group reported a profit before tax of EUR 2,985 (1,555) million in the fourth quarter of 2020.",
+        "chunk_id": "2020---13"
+    },
+    "68": {
+        "Question": "What was the total capital investment by Audi Group in 2020?",
+        "Answer": "The total capital investment was EUR 3,654 million in 2020.",
+        "OriginalText": "Total capital investments declined to EUR 3,654 (4,223) million in the 2020 fiscal year.",
+        "chunk_id": "2020---13"
+    },
+    "69": {
+        "Question": "What was the Audi Group's return on investment (ROI) in 2020?",
+        "Answer": "The return on investment was 7.4 percent in 2020.",
+        "OriginalText": "The Audi Group’s return on investment $({\\mathsf{R O}}|)^{20}$ was 7.4 (12.7) percent in the 2020 fiscal year.",
+        "chunk_id": "2020---13"
+    },
+    "70": {
+        "Question": "What was the total number of employees at the Audi Group as of December 31, 2020?",
+        "Answer": "86,860",
+        "OriginalText": "As of December 31, 2020, the Audi Group’s workforce decreased by –3,780 to 86,860 (90,640) employees, partly due to the sale of participations.",
+        "chunk_id": "2020---14"
+    },
+    "71": {
+        "Question": "How much did Audi's total capital investments amount to in the 2020 fiscal year?",
+        "Answer": "EUR 3,654 million",
+        "OriginalText": "Total capital investments declined to EUR 3,654 (4,223) million in the 2020 fiscal year as a result of the Audi Group’s investment discipline.",
+        "chunk_id": "2020---14"
+    },
+    "72": {
+        "Question": "How did Audi’s total assets change as of December 31, 2020, compared to the previous year?",
+        "Answer": "They increased to EUR 67,229 million from EUR 66,878 million.",
+        "OriginalText": "Total assets of the Audi Group as of December 31, 2020, rose to EUR 67,229 (66,878) million.",
+        "chunk_id": "2020---14"
+    },
+    "73": {
+        "Question": "How much did Audi's net cash flow total in the 2020 fiscal year?",
+        "Answer": "EUR 4,589 million",
+        "OriginalText": "The net cash flow of the Audi Group totaled EUR 4,589 (3,160) million in the 2020 fiscal year.",
+        "chunk_id": "2020---14"
+    },
+    "74": {
+        "Question": "What was Audi’s equity ratio as of December 31, 2020?",
+        "Answer": "36.1%",
+        "OriginalText": "As of December 31, 2020, the equity ratio was 36.1 (42.5) percent.",
+        "chunk_id": "2020---14"
+    },
+    "75": {
+        "Question": "What was the total amount of research and development activities in the Audi Group in 2020?",
+        "Answer": "EUR 3,662 million",
+        "OriginalText": "At EUR 3,662 (4,426) million, research and development activities also declined; the research and development ratio reached 7.3 (7.9) percent.",
+        "chunk_id": "2020---15"
+    },
+    "76": {
+        "Question": "What was the ratio of capital expenditures (capex) for the Audi Group in 2020?",
+        "Answer": "3.8 percent",
+        "OriginalText": "The ratio of capex was 3.8 (4.9) percent in the 2020 fiscal year.",
+        "chunk_id": "2020---15"
+    },
+    "77": {
+        "Question": "What risk did Audi identify in 2020 regarding global economic growth and key performance indicators?",
+        "Answer": "Audi identified the risk of global economic growth being impacted by the failure to contain the coronavirus pandemic in 2020.",
+        "OriginalText": "AUDI AG sees risks to the positive growth of global economic output, and therefore to the Audi key performance indicators, as lying predominantly in a failure to achieve lasting containment of the coronavirus pandemic.",
+        "chunk_id": "2020---16"
+    },
+    "78": {
+        "Question": "What strategy did Audi employ in response to the semiconductor shortage in 2020?",
+        "Answer": "Audi aimed to minimize the operating impacts of the semiconductor shortage and compensate for it as much as possible during the remainder of the year.",
+        "OriginalText": "Audi is striving to keep the operating impacts of the current undersupply of semiconductors as low as possible and to compensate them as far as possible during the remainder of the year.",
+        "chunk_id": "2020---16"
+    },
+    "79": {
+        "Question": "What progress did Audi make with the diesel issue by 2020?",
+        "Answer": "Audi made material progress since 2015, with settlements achieved in 2020 and consultations largely concluded, although some criminal proceedings and investigations were still pending.",
+        "OriginalText": "AUDI AG has made material progress since 2015 on the many legal and official proceedings in a large number of countries in connection with the diesel issue... Further settlements were achieved in the year under review, the financial impact of which is reflected in the special items described in the explanation of the Audi Group’s financial performance.",
+        "chunk_id": "2020---16"
+    },
+    "80": {
+        "Question": "What major trial involving Audi began in September 2020?",
+        "Answer": "The main trial proceedings that began at the Munich II Regional Court in September 2020 involved a former Chairman of the Board of Management of AUDI AG defending himself against allegations in connection with the diesel issue.",
+        "OriginalText": "The main trial proceedings that began at the Munich II Regional Court in September 2020, where a former Chairman of the Board of Management of AUDI AG is defending himself against allegations in connection with the diesel issue, are particularly noteworthy.",
+        "chunk_id": "2020---16"
+    },
+    "81": {
+        "Question": "What was Audi's approach to sustainability in 2020 for future-proofing the company?",
+        "Answer": "Audi emphasized sustainability as a foundation for the company's future viability, incorporating return on investment after CO2 effects into product decisions and focusing on electric mobility and resource preservation.",
+        "OriginalText": "Sustainable operations are the basis at Audi for future-proofing the company... Audi therefore takes the return on investment (ROI) after CO2 effects into consideration in its product decisions.",
+        "chunk_id": "2020---16"
+    },
+    "82": {
+        "Question": "What risk did Audi associate with the transition to electric mobility in 2020?",
+        "Answer": "Audi identified the risk of failing to meet the stricter CO2 fleet emission targets in the EU, as well as the challenge of slow adoption of electric mobility due to infrastructure delays.",
+        "OriginalText": "Moreover, there are risks in connection with the speed of the general transition to electric mobility and the associated market acceptance of our electric vehicles, partly because of the delayed development of the infrastructure.",
+        "chunk_id": "2020---16"
+    },
+    "83": {
+        "Question": "What impact did the global trade disputes have on Audi's strategy accroding to the 2020 report?",
+        "Answer": "Audi saw an opportunity in the global trade disputes, as they could potentially be defused, allowing the company to increase its market share due to its attractive product portfolio.",
+        "OriginalText": "In addition, the global trade disputes could be defused and the company could increase its market share thanks to its young and attractive product portfolio.",
+        "chunk_id": "2020---16"
+    },
+    "84": {
+        "Question": "What are the combined electric power consumption values of the Audi e-tron GT quattro in kWh/100 km in 2020?",
+        "Answer": "The combined electric power consumption values of the Audi e-tron GT quattro are 19.6–18.8 kWh/100 km (NEDC).",
+        "OriginalText": "Audi e-tron GT quattro: combined electric power consumption in kWh/100 km: 19.6–18.8 (NEDC); combined CO₂ emissions in g/km: 0",
+        "chunk_id": "2020---17"
+    },
+    "85": {
+        "Question": "What is the combined electric power consumption of the Audi RS e-tron GT in kWh/100 km in 2020?",
+        "Answer": "The combined electric power consumption of the Audi RS e-tron GT is 20.2–19.3 kWh/100 km (NEDC).",
+        "OriginalText": "Audi RS e-tron GT: combined electric power consumption in kWh/100 km: 20.2–19.3 (NEDC); combined CO₂ emissions in g/km: 0",
+        "chunk_id": "2020---17"
+    },
+    "86": {
+        "Question": "What was Audi's strategy for the future of electric mobility as described in the 2020 Annual Report?",
+        "Answer": "Audi's strategy for electric mobility in 2020 involved expanding its electric portfolio to eight models by the end of 2021, with a goal of having electric cars in the compact, full-size, and luxury classes. The company aimed to increase the proportion of all-electric and plug-in hybrid models to one-third by 2025, with a EUR 15 billion investment.",
+        "OriginalText": "By the end of 2021, Audi wants to expand its electric portfolio to eight models, by which point it will have electric cars in the compact, full-size and luxury classes. It also plans to add more than ten all-electric cars by 2025. By then, the volume of allelectric and plug-in hybrid models should increase from currently about seven percent (2020) to around one-third. The company is investing some EUR 15 billion in this venture between now and 2025.",
+        "chunk_id": "2020---18"
+    },
+    "87": {
+        "Question": "What was the Audi e-tron’s achievement in 2020?",
+        "Answer": "In 2020, the Audi e-tron was the world's top-selling electric car in its segment.",
+        "OriginalText": "In 2020, the Audi e-tron was the world’s top-selling electric car in its segment.",
+        "chunk_id": "2020---18"
+    },
+    "88": {
+        "Question": "What is the combined electric power consumption range of the Audi RS e-tron GT as reported in 2020?",
+        "Answer": "The combined electric power consumption of the Audi RS e-tron GT is between 20.2 and 19.3 kWh/100 km (NEDC).",
+        "OriginalText": "Audi RS e-tron GT: combined electric power consumption in kWh/100 km: 20.2–19.3 (NEDC); combined CO₂ emissions in g/km: 0.",
+        "chunk_id": "2020---18"
+    },
+    "89": {
+        "Question": "What is the range of the Audi e-tron GT on a single charge, according to its 2020 specifications?",
+        "Answer": "The Audi e-tron GT can cover more than 480 kilometers on a single charge (WLTP).",
+        "OriginalText": "Its long-distance capability rests not merely on its comfort standards; it can also cover more than 480 kilometers (WLTP) on a single charge.",
+        "chunk_id": "2020---19"
+    },
+    "90": {
+        "Question": "What is the maximum charging capacity of the Audi e-tron GT in 2020?",
+        "Answer": "The Audi e-tron GT can achieve a maximum charging capacity of 270 kW in 2020.",
+        "OriginalText": "The Audi e-tron GT even manages a charging capacity as high as 270 kW.",
+        "chunk_id": "2020---19"
+    },
+    "91": {
+        "Question": "How many charging points does the Audi e-tron Charging Service offer in Europe by 2020?",
+        "Answer": "The Audi e-tron Charging Service provides access to over 203,600 charging points across 26 European countries by 2020.",
+        "OriginalText": "The Audi e-tron Charging Service: just one card and one contract for over 203,600 charging points in 26 European countries.",
+        "chunk_id": "2020---19"
+    },
+    "92": {
+        "Question": "What award did Audi win in 2020, and in which category was it recognized?",
+        "Answer": "In 2020, Audi won the AutomotiveINNOVATIONS Award in the Alternative Drives category, sponsored by the Center of Automotive Management (CAM).",
+        "OriginalText": "In 2020, Audi collected an AutomotiveINNOVATIONS Award sponsored by the renowned Center of Automotive Management (CAM), in the Alternative Drives category.",
+        "chunk_id": "2020---19"
+    },
+    "93": {
+        "Question": "By how much did Audi improve its CO2 fleet target for Europe in 2020 compared to 2019?",
+        "Answer": "Audi improved its CO2 fleet target by around 20 percent in 2020 compared to 2019.",
+        "OriginalText": "With a calculated 102.9 g/km, the company improved by around 20 percent compared with the average for the previous year (provisional figure for 2019: 131 g/km).",
+        "chunk_id": "2020---20"
+    },
+    "94": {
+        "Question": "How many plug-in hybrid models did Audi sell in 2020 compared to 2019, and what was the percentage increase?",
+        "Answer": "Audi sold roughly eight times more plug-in hybrid models in 2020 compared to 2019.",
+        "OriginalText": "Last year, the brand with the Four Rings sold roughly eight times more plug-in hybrid models worldwide than in 2019.",
+        "chunk_id": "2020---20"
+    },
+    "95": {
+        "Question": "What is the expected contribution of Audi's fleet emissions reductions to the Paris Climate Agreement’s two-degree goal in 2020?",
+        "Answer": "Audi's fleet emissions reductions contribute to the Paris Climate Agreement's two-degree goal in 2020.",
+        "OriginalText": "The Volkswagen Group is explicitly committed to the goals of the Paris Climate Agreement, which aims to cap the global temperature rise to significantly less than two degrees Celsius.",
+        "chunk_id": "2020---20"
+    },
+    "96": {
+        "Question": "In 2020, how did Audi's fleet consumption in China compare to the previous year?",
+        "Answer": "Audi's fleet consumption in China in 2020 was 7.9 l/100 km, up from 5.9 l/100 km in 2019.",
+        "OriginalText": "Fleet consumption in China (FBU) in 2020 was 7.9 l/100 km (2019: 5.9 l/100 km).",
+        "chunk_id": "2020---20"
+    },
+    "97": {
+        "Question": "How many years of history does Audi’s lighting technology timeline cover in 2020?",
+        "Answer": "The timeline covers 26 years, from 1994 to 2020.",
+        "OriginalText": "The milestones in the history of lighting at Audi: 1994 – Second-generation xenon headlights on the Audi A8... 2020 – Digital OLED technology on the Audi Q5.",
+        "chunk_id": "2020---21"
+    },
+    "98": {
+        "Question": "What is the key benefit of the OLED technology introduced in the Audi Q5's rear lights in 2020?",
+        "Answer": "The key benefit of OLED technology in the Audi Q5's rear lights is that it allows for highly customizable tail light designs, with brightness that can be adjusted infinitely and the potential for enhanced communication through visual signals.",
+        "OriginalText": "The higher segmentation of the digital OLEDs means different tail light designs are now possible. When buying their Audi Q5, customers have three tail light signatures to choose from.",
+        "chunk_id": "2020---21"
+    },
+    "99": {
+        "Question": "What milestone did Audi achieve in 2020 regarding lighting technology in their vehicles?",
+        "Answer": "In 2020, Audi achieved the milestone of introducing digital OLED technology in the Audi Q5 and digital matrix LED headlights in the Audi e-tron and Audi e-tron Sportback.",
+        "OriginalText": "2019 – Digital matrix LED headlights (DML) on the Audi e-tron and Audi e-tron Sportback. 2020 – Digital daytime running light signatures on the Audi A3; digital OLED technology on the Audi Q5.",
+        "chunk_id": "2020---21"
+    },
+    "100": {
+        "Question": "How does Audi's lighting development in 2020 contribute to traffic safety?",
+        "Answer": "Audi's lighting development in 2020 contributes to traffic safety by using innovative lighting technologies like lane lighting and dynamic car-to-X communication to warn and communicate with other road users, enhancing visibility and reducing hazards.",
+        "OriginalText": "Data sharing should increase traffic safety and help traffic to flow more efficiently. Within what is legally permissible, Audi could soon be using light projections to alert drivers to hazards.",
+        "chunk_id": "2020---21"
+    },
+    "101": {
+        "Question": "What was the role of the Massachusetts Institute of Technology (MIT) in Audi's 2020 supercapacitor research?",
+        "Answer": "In 2020, Audi collaborated with MIT on research into supercapacitors, specifically focusing on innovative synthetic materials for a new generation of supercapacitors for high-performance batteries.",
+        "OriginalText": "The area of supercapacitors is being pioneered by the manufacturer in collaboration with the Massachusetts Institute of Technology (MIT). In 2019, they jointly filed a patent application for innovative synthetic materials as the basis for a new generation of supercapacitors.",
+        "chunk_id": "2020---21"
+    },
+    "102": {
+        "Question": "In 2020, how did the Audi e-tron GT's sound system enhance the driving experience?",
+        "Answer": "The Audi e-tron GT's sound system, through its dynamic handling system, adjusts exterior and interior sounds based on driving modes, enhancing the driving experience by providing sounds that reflect the vehicle's identity, from smooth gliding to vibrant, powerful sounds.",
+        "OriginalText": "On the Audi e-tron GT, the acoustic effect perfectly reflects the vehicle’s identity: quiet sounds when gliding smoothly along, and a vibrant sound to evoke electric power.",
+        "chunk_id": "2020---21"
+    },
+    "103": {
+        "Question": "What new supercar feature did Lamborghini introduce in 2020 with the Sián Roadster, and how does it improve performance?",
+        "Answer": "The Lamborghini Sián Roadster introduced supercapacitors in 2020, which are more durable and efficient than lithium-ion batteries, enhancing acceleration and power-to-weight ratio while supporting the car’s electrification.",
+        "OriginalText": "The transmission houses a 34 PS, 48-volt electric motor that keeps the acceleration smooth and enhances traction. The energy for the electric motor is supplied by supercapacitors – a special form of storage battery. They achieve around three times the performance of lithium-ion batteries with the same weight and are more durable, even under high load.",
+        "chunk_id": "2020---21"
+    },
+    "104": {
+        "Question": "What technology did Audi introduce in the Audi e-tron GT to allow customers to define their own acoustic experience in 2020?",
+        "Answer": "The Audi e-tron GT is the first electrically powered Audi model that enables customers to define their own acoustic experience with an optional sound package, featuring enhanced exterior sound and emotional interior sound.",
+        "OriginalText": "In addition to the AVAS that is required by law for the protection of pedestrians, the Audi e-tron GT is available optionally with a sound package with enhanced exterior sound and an emotional interior sound. This makes the Audi e-tron GT the first electrically powered Audi model that enables customers to define their own acoustic experience.",
+        "chunk_id": "2020---22"
+    },
+    "105": {
+        "Question": "In 2020, how does the Audi e-tron GT manage exterior and interior sounds based on driving modes?",
+        "Answer": "In the Audi e-tron GT, the exterior and interior sounds are adjusted based on the Audi drive select dynamic handling system. In efficiency mode, only the AVAS warning sound is active. In comfort mode, the rear exterior loudspeaker plays a larger role, and in dynamic mode, both exterior loudspeakers are involved, enhancing the driving experience up to top speed.",
+        "OriginalText": "In Audi drive select, the car’s dynamic handling system, the driver can set how the e-sound is delivered. In the efficiency mode it is limited to the AVAS warning sound, which basically involves the front loudspeaker playing an appropriate sound for the vehicle up to about 50 to 60 km/h. With the comfort profile, the rear exterior loudspeaker increasingly comes into play. The exterior sound then remains active up to more than 200 km/h because it also serves to enrich the interior driving sound. In the dynamic mode both exterior loudspeakers are involved, and the interior sound now also enhances the dynamic driving experience right up to top speed.",
+        "chunk_id": "2020---22"
+    },
+    "106": {
+        "Question": "What significant impact did the coronavirus pandemic have on Lamborghini's 2020 car deliveries?",
+        "Answer": "Lamborghini delivered 7,430 cars in 2020, a decrease of only nine percent compared to the previous year, primarily due to a 70-day production shutdown caused by the pandemic.",
+        "OriginalText": "Automobili Lamborghini delivered 7,430 cars worldwide in 2020, a decrease of only nine percent compared with the previous year. The slight drop is attributable to the 70-day production shutdown in the spring as a result of the coronavirus pandemic.",
+        "chunk_id": "2020---23"
+    },
+    "107": {
+        "Question": "What was the significance of the Ducati Diavel 1260 Lamborghini launched in November 2020?",
+        "Answer": "The Ducati Diavel 1260 Lamborghini, launched in November 2020, was created from a collaboration between Lamborghini and Ducati, and was inspired by the Lamborghini Sián.",
+        "OriginalText": "In November 2020, the Ducati Diavel 1260 Lamborghini was created from the collaboration between these two prestigious brands that have their roots in the Motor Valley, the Emilia-Romagna region.",
+        "chunk_id": "2020---23"
+    },
+    "108": {
+        "Question": "Which electric car model did Audi Sport GmbH launch in 2020 as its first fully electric RS model?",
+        "Answer": "The Audi RS e-tron GT was launched in 2020 as Audi Sport's first fully electric RS model.",
+        "OriginalText": "It is also the first fully electric RS model. Seebach visibly swells with pride: 'Audi Sport is all about high performance. With the RS e-tron GT, we are taking the RS DNA into the electric age.'",
+        "chunk_id": "2020---23"
+    },
+    "109": {
+        "Question": "What milestone did Audi Sport GmbH achieve in 2020 despite the challenges posed by the coronavirus pandemic?",
+        "Answer": "Audi Sport GmbH delivered over 29,300 R and RS models in 2020, marking a record year with a 16% increase compared to the previous year.",
+        "OriginalText": "With over 29,300 R and RS models delivered, 2020 was a record year for Audi Sport GmbH despite the coronavirus pandemic. That is a clear gain of more than 16 percent on the previous year.",
+        "chunk_id": "2020---24"
+    },
+    "110": {
+        "Question": "How many R and RS models did Audi Sport GmbH have in its portfolio in 2020?",
+        "Answer": "Audi Sport GmbH had 13 R and RS models in its portfolio in 2020.",
+        "OriginalText": "With 13 R and RS models on offer, it now has its youngest and largest portfolio ever.",
+        "chunk_id": "2020---24"
+    },
+    "111": {
+        "Question": "Who took over responsibility for Audi Motorsport in December 2020?",
+        "Answer": "Julius Seebach assumed responsibility for Audi Motorsport on December 1, 2020.",
+        "OriginalText": "In addition, Seebach assumed responsibility for Audi Motorsport on December 1, 2020.",
+        "chunk_id": "2020---24"
+    },
+    "112": {
+        "Question": "What significant step did Audi take in July 2020 regarding its software development?",
+        "Answer": "In July 2020, the Car.Software organization became operational to centralize all software development within the Volkswagen Group.",
+        "OriginalText": "The Volkswagen Group subsidiary has been operational since July 2020 and aims to bring together software expertise throughout the Group.",
+        "chunk_id": "2020---24"
+    },
+    "113": {
+        "Question": "What is Audi's target for in-house software development by 2025, according to the 2020 report?",
+        "Answer": "Audi aims to increase its in-house software development in the car from 10% to more than 60% by 2025.",
+        "OriginalText": "With the Car.Software organization, the Volkswagen Group aims to increase its overall share of in-house software development in the car from 10 percent today to more than 60 percent by 2025.",
+        "chunk_id": "2020---24"
+    },
+    "114": {
+        "Question": "What is the electric range of the Audi RS e-tron GT 3 as mentioned in the 2020 report?",
+        "Answer": "The Audi RS e-tron GT 3 has a range of more than 450 kilometers.",
+        "OriginalText": "A range of more than 450 kilometers and high-performing charging at $270~\\mathsf{k W}$ that keeps stops for charging brief make the Gran Turismo suitable for long-distance driving.",
+        "chunk_id": "2020---24"
+    },
+    "115": {
+        "Question": "What performance characteristics of the Audi RS e-tron GT 3 are highlighted in the 2020 report?",
+        "Answer": "The RS e-tron GT 3 offers intelligent thermal management, air suspension, all-wheel steering, and dynamic handling, making it suitable for high performance and long-distance driving.",
+        "OriginalText": "Already available in the series-production Audi RS e-tron GT: intelligent thermal management for the electric motors. This makes the output highly reproducible so that sporty acceleration without power losses is available at any time and for repeated bursts. Air suspension, controlled damping and all-wheel steering provide the requisite quality of ride comfort.",
+        "chunk_id": "2020---24"
+    },
+    "116": {
+        "Question": "What new technology did Audi incorporate into its electrification strategy for the RS models in 2020?",
+        "Answer": "Audi incorporated mild-hybrid technology based on a 48-volt electrical system into its RS models in 2020, increasing comfort and efficiency.",
+        "OriginalText": "We already offer the Audi RS 6 Avant, RS 7 Sportback and RS Q8 with mild-hybrid technology based on a 48-volt electrical system. The result is increased comfort and efficiency.",
+        "chunk_id": "2020---24"
+    },
+    "117": {
+        "Question": "What was the Volkswagen Group's investment in digitalization in 2020, and how does it compare to the previous planning round?",
+        "Answer": "The Volkswagen Group invested around EUR 27 billion in digitalization in 2020, doubling the amount from the previous planning round.",
+        "OriginalText": "Investments also underscore the great importance attached to digitalization in the Group: The Volkswagen Group is investing around EUR 27 billion in digitalization. Compared with the previous planning round, this figure has doubled.",
+        "chunk_id": "2020---25"
+    },
+    "118": {
+        "Question": "How many vehicles did the Volkswagen Group sell in 2020, and what significance does this number have for the Car.Software organization?",
+        "Answer": "The Volkswagen Group sold more than 9 million vehicles in 2020, which provides significant scale advantages for software development and cost reduction.",
+        "OriginalText": "The Group can profit from this scale advantage, with more than 9 million vehicles having been sold in 2020 alone.",
+        "chunk_id": "2020---25"
+    },
+    "119": {
+        "Question": "What is the significance of Audi receiving the Chain of Custody certificate from the Aluminium Stewardship Initiative (ASI) in 2020?",
+        "Answer": "Audi became the first car manufacturer to receive the Chain of Custody certificate from ASI in 2020, certifying their sustainable aluminum production practices.",
+        "OriginalText": "In 2020, AUDI AG became the first car manufacturer to receive the Chain of Custody certificate of the Aluminium Stewardship Initiative (ASI).",
+        "chunk_id": "2020---25"
+    },
+    "120": {
+        "Question": "Which sites were certified for the Chain of Custody by Audi in 2020, and what is the significance of this certification?",
+        "Answer": "Audi's Ingolstadt and Neckarsulm sites were certified for the Chain of Custody by ASI in 2020, allowing them to input sustainably produced aluminum into closed loops.",
+        "OriginalText": "Recently, the Chain of Custody (CoC) certificate of the Aluminium Stewardship Initiative was awarded for the Ingolstadt and Neckarsulm sites.",
+        "chunk_id": "2020---25"
+    },
+    "121": {
+        "Question": "How many vehicles did Audi deliver in 2020 despite the coronavirus pandemic?",
+        "Answer": "1,692,773 vehicles.",
+        "OriginalText": "In 2020, Audi delivered 1,692,773 vehicles despite the coronavirus pandemic.",
+        "chunk_id": "2020---26"
+    },
+    "122": {
+        "Question": "What was Audi's key focus in 2020 with respect to its sustainability strategy?",
+        "Answer": "Environment, people, and innovation in the supply chain.",
+        "OriginalText": "The company’s commitment to ensuring responsible supply chains follows a clear strategy that can be split into three focal areas: environment, people and innovation.",
+        "chunk_id": "2020---26"
+    },
+    "123": {
+        "Question": "Which Audi plants joined the Aluminum Closed Loop process in 2020?",
+        "Answer": "The Ingolstadt plant joined the Aluminum Closed Loop process in January 2020.",
+        "OriginalText": "In addition to the plant in Neckarsulm, the Ingolstadt plant joined the Aluminum Closed Loop process in January 2020.",
+        "chunk_id": "2020---26"
+    },
+    "124": {
+        "Question": "How many suppliers did Audi interact with in 2020, and how many countries were they from?",
+        "Answer": "Audi interacted with more than 14,000 direct suppliers from more than 60 countries.",
+        "OriginalText": "We interact with more than 14,000 direct suppliers from more than 60 countries.",
+        "chunk_id": "2020---26"
+    },
+    "125": {
+        "Question": "How much CO2 did Audi save in 2020 through the Aluminum Closed Loop?",
+        "Answer": "Audi saved more than 165,000 metric tons of CO2 in 2020 through the Aluminum Closed Loop.",
+        "OriginalText": "Net saving of metric tons of CO2 as a result of the Aluminium Closed Loop in 2020: More than 165,000",
+        "chunk_id": "2020---27"
+    },
+    "126": {
+        "Question": "Which project launched in 2020 by Audi focuses on recycling automotive plastic waste?",
+        "Answer": "The project launched in 2020 is the chemical recycling of mixed plastic waste, in collaboration with the Karlsruhe Institute of Technology (KIT).",
+        "OriginalText": "In 2020, Audi launched a pilot project in 2020 as part of the THINKTANK Industrial Resource Strategies. The objective is to recycle mixed automotive plastic waste in a resource-conserving closed loop.",
+        "chunk_id": "2020---27"
+    },
+    "127": {
+        "Question": "How many employees at supplier companies participated in Audi's online training in 2020?",
+        "Answer": "Over 950 employees at supplier companies participated in Audi's online training in 2020.",
+        "OriginalText": "In 2020, over 950 employees at supplier companies took part in online training.",
+        "chunk_id": "2020---27"
+    },
+    "128": {
+        "Question": "How many direct suppliers does Audi have according to the 2020 report?",
+        "Answer": "Audi has around 14,000 direct suppliers according to the 2020 report.",
+        "OriginalText": "The figure of around 14,000 direct suppliers is already impressive.",
+        "chunk_id": "2020---27"
+    },
+    "129": {
+        "Question": "How much CO2 did Audi save in its supply chain in 2020?",
+        "Answer": "Audi saved more than 335,000 metric tons of CO2 in its supply chain in 2020.",
+        "OriginalText": "Net saving of metric tons of CO2 in the supply chain in 2020: More than 335,000",
+        "chunk_id": "2020---27"
+    },
+    "130": {
+        "Question": "Which Audi site achieved net carbon neutrality in 2020, becoming the second site after Audi Brussels?",
+        "Answer": "Audi Hungaria",
+        "OriginalText": "In 2020, Audi Hungaria became the second Audi site after Audi Brussels in 2018 to achieve net carbon neutrality.",
+        "chunk_id": "2020---28"
+    },
+    "131": {
+        "Question": "Who is the head of the 'Decarbonization of sites' action area at Audi in 2020?",
+        "Answer": "Markus Faigl",
+        "OriginalText": "This task is being enthusiastically undertaken by, among others, Markus Faigl, who heads up the 'Decarbonization of sites' action area.",
+        "chunk_id": "2020---28"
+    },
+    "132": {
+        "Question": "What was the energy intensity of the Audi Group's automotive production, including component manufacturing, in 2020?",
+        "Answer": "2.90 MWh per vehicle",
+        "OriginalText": "The energy intensity of the Group relating to automotive production including component manufacturing was 2.90 MWh per vehicle (MWh/veh.) for the year under review.",
+        "chunk_id": "2020---28"
+    },
+    "133": {
+        "Question": "In 2020, how much did the Audi Group reduce its freshwater consumption compared to 2019?",
+        "Answer": "By 295,909 m³",
+        "OriginalText": "2018 2019 2020   \n4,159,236 3,428,689 3,132,780  \n\nTotal volume of water discharge in m³  \n\n  \n\n2018 2019 2020   \n2,382,498 1,872,285 1,847,735  \n\nThe efficient use of natural resources, such as water, is a key priority in the Audi environmental policy. In 2020, the Audi Group reduced its water consumption in comparison with the previous year. This reduction can be explained primarily by the drop in production owing to the coronavirus.",
+        "chunk_id": "2020---28"
+    },
+    "134": {
+        "Question": "What was the intensity of greenhouse gas emissions (Scope 1 and Scope 2) per vehicle in 2020?",
+        "Answer": "276.10 kg per vehicle",
+        "OriginalText": "The intensity quotient – that is, the intensity of greenhouse gas emissions in relation to automotive production, including component manufacturing – dropped significantly owing to the switch to green electricity and was 276.10 kg per vehicle for the year under review.",
+        "chunk_id": "2020---28"
+    },
+    "135": {
+        "Question": "Which Audi sites increased the sourcing of green electricity in 2020 to reduce CO₂ emissions?",
+        "Answer": "Neckarsulm and San José Chiapa",
+        "OriginalText": "The purchase of energy from renewable sources at the sites progressed further with increased sourcing of green electricity in Neckarsulm and San José Chiapa.",
+        "chunk_id": "2020---28"
+    },
+    "136": {
+        "Question": "What was the total fresh water consumption by the Audi Group in 2020?",
+        "Answer": "3,132,780 m³",
+        "OriginalText": "Fresh water consumption in the Audi Group in m³: 2018: 4,159,236; 2019: 3,428,689; 2020: 3,132,780.",
+        "chunk_id": "2020---28"
+    },
+    "137": {
+        "Question": "How did Audi contribute to reducing carbon emissions in logistics during 2020?",
+        "Answer": "By switching transport to rail, using alternative fuels for trucks, and executing employee training programs on climate protection.",
+        "OriginalText": "We’re utilizing the synergies in the supply chain through close collaboration between the plants and headquarters, working together within the Volkswagen Group and cooperating with external partners. The employees in transport planning, for example, have succeeded in switching transport to rail and making more intensive use of trucks with alternative fuels. In addition, we established and executed extensive training programs to raise awareness among all our employees of the topic of climate and environmental protection in logistics.",
+        "chunk_id": "2020---28"
+    },
+    "138": {
+        "Question": "What new sustainability indicator did Audi introduce in 2020 to evaluate water consumption?",
+        "Answer": "In 2020, Audi introduced the 'KPI water AUDI' to evaluate water consumption in accordance with the different site conditions and relate it to the units produced.",
+        "OriginalText": "A good example of this is the sustainable water KPI introduced additionally throughout Audi in 2020 (KPI water AUDI ). It evaluates water consumption in accordance with the different site conditions and relates this to the units produced.",
+        "chunk_id": "2020---29"
+    },
+    "139": {
+        "Question": "How much waste (excluding scrap) did Audi generate in 2020?",
+        "Answer": "In 2020, Audi generated a total of 98,814 metric tons of waste (excluding scrap).",
+        "OriginalText": "Group-wide, a total of 98,814 metric tons of waste (excluding scrap) were generated in the year under review.",
+        "chunk_id": "2020---29"
+    },
+    "140": {
+        "Question": "How much hazardous waste did Audi manage in 2020, and how did this compare to 2019?",
+        "Answer": "Audi managed 42,074 metric tons of hazardous waste in 2020, a slight increase from 40,782 metric tons in 2019.",
+        "OriginalText": "In relation to the recycling of hazardous waste – 42,074 metric tons in 2020 (2019: 40,782 metric tons).",
+        "chunk_id": "2020---29"
+    },
+    "141": {
+        "Question": "What was the main reason for the reduction in Audi's water consumption in 2020?",
+        "Answer": "The reduction in Audi's water consumption in 2020 was primarily due to the drop in production caused by the coronavirus pandemic.",
+        "OriginalText": "This reduction can be explained primarily by the drop in production owing to the coronavirus.",
+        "chunk_id": "2020---29"
+    },
+    "142": {
+        "Question": "How did the coronavirus pandemic affect Audi's operations in Ingolstadt in 2020?",
+        "Answer": "In 2020, Audi's Ingolstadt site saw a significant reduction in staff during the pandemic, with only about 2,000 employees working during a five-week shutdown, compared to the usual 44,000.",
+        "OriginalText": "Normally there are around 44,000 people at the Ingolstadt site, and suddenly only about 2,000 Audi employees were keeping operations going at the plant. It was pretty eerie! Since then, there have been a lot of changes in production.",
+        "chunk_id": "2020---30"
+    },
+    "143": {
+        "Question": "How did Audi adjust its training programs due to the pandemic in 2020?",
+        "Answer": "Due to the pandemic, Audi transitioned its training programs to digital formats, including live online and web-based training, with a focus on blended learning.",
+        "OriginalText": "We wanted to make our training services available to employees in digital form...The Akademie has focused on blended learning for some time, including a mix of face-to-face measures and digital training programs such as live online or web-based training.",
+        "chunk_id": "2020---30"
+    },
+    "144": {
+        "Question": "What new working model did Audi consider adopting post-pandemic in 2020?",
+        "Answer": "Post-pandemic, Audi considered adopting a hybrid working model, allowing employees to work remotely or in the office on certain days or weeks.",
+        "OriginalText": "Many of my colleagues would like a hybrid model, where they work remotely or away from the office on certain days or during certain weeks.",
+        "chunk_id": "2020---30"
+    },
+    "145": {
+        "Question": "How many people at Audi's Ingolstadt site were affected by the coronavirus lockdown in 2020?",
+        "Answer": "At Audi's Ingolstadt site, only about 2,000 employees were working during the five-week lockdown in 2020, down from the usual 44,000.",
+        "OriginalText": "Normally there are around 44,000 people at the Ingolstadt site, and suddenly only about 2,000 Audi employees were keeping operations going at the plant.",
+        "chunk_id": "2020---30"
+    },
+    "146": {
+        "Question": "What significant organizational change did Audi undergo due to the coronavirus in 2020?",
+        "Answer": "Audi experienced a significant shift towards digital leadership and digital collaboration during the pandemic, accelerating digitalization and introducing mobile working across the company.",
+        "OriginalText": "The coronavirus has accelerated both digitalization in the Group as well as the flexibility of our working world overall...This 'Do it' approach has also proven successful with such a complex issue as the widespread introduction of mobile working.",
+        "chunk_id": "2020---30"
+    },
+    "147": {
+        "Question": "What was the percentage of women on the Supervisory Board of AUDI AG as of December 31, 2020?",
+        "Answer": "Approximately 30%",
+        "OriginalText": "The share of women on the Supervisory Board amounted to approximately 30 percent as of December 31, 2020.",
+        "chunk_id": "2020---31"
+    },
+    "148": {
+        "Question": "How many women were on the Board of Management of AUDI AG by the end of 2020?",
+        "Answer": "Two women",
+        "OriginalText": "There were two women on the Board of Management, also of AUDI AG at the end of 2020.",
+        "chunk_id": "2020---31"
+    },
+    "149": {
+        "Question": "What was the percentage of ideas submitted in 2020 through AUDI AG’s Ideas Program that were implemented?",
+        "Answer": "53.4%",
+        "OriginalText": "53.4% of the ideas submitted in 2020 were implemented.",
+        "chunk_id": "2020---31"
+    },
+    "150": {
+        "Question": "How much savings were achieved as a result of the ideas submitted in 2020 through the AUDI AG Ideas Program?",
+        "Answer": "94.5 million EUR",
+        "OriginalText": "94.5 EUR m savings were achieved as a result.",
+        "chunk_id": "2020---31"
+    },
+    "151": {
+        "Question": "How many training events were held by Audi worldwide in 2020?",
+        "Answer": "Audi held 13,927 training events worldwide in 2020.",
+        "OriginalText": "During the year under review, the Audi Group held 13,927 (20,694) training events worldwide.",
+        "chunk_id": "2020---32"
+    },
+    "152": {
+        "Question": "What was the total number of training events held in Germany by Audi in 2020?",
+        "Answer": "Audi held 7,291 training events in Germany in 2020.",
+        "OriginalText": "In the same period, over 25,000 (over 33,000) employees attended one or more of the 7,291 (10,866) training events in Germany.",
+        "chunk_id": "2020---32"
+    },
+    "153": {
+        "Question": "How did Audi help employees balance family and career in 2020?",
+        "Answer": "Audi offered flexible work models, part-time options, and additional job training for employees on parental leave.",
+        "OriginalText": "Audi is strengthening the work-life balance. Employees can for instance work part-time or take caregiver leave to support family members. Many employees take up the option of parental leave.",
+        "chunk_id": "2020---32"
+    },
+    "154": {
+        "Question": "How much did Audi donate for international emergency aid in 2020?",
+        "Answer": "EUR 5 million",
+        "OriginalText": "In times of need, the world pulls together: Audi has supported medical and social facilities at its sites and provided humanitarian aid throughout the coronavirus crisis. To this end, the company donated EUR 5 million in international emergency aid in 2020.",
+        "chunk_id": "2020---33"
+    },
+    "155": {
+        "Question": "What was the total amount Audi donated to the German hospitals Klinikum Ingolstadt and SLK-Kliniken Heilbronn in 2020?",
+        "Answer": "EUR 600,000",
+        "OriginalText": "Donations totaling EUR 600,000 went to the German hospitals Klinikum Ingolstadt and SLK-Kliniken Heilbronn.",
+        "chunk_id": "2020---33"
+    },
+    "156": {
+        "Question": "Which study did Audi support in Bavaria in 2020 to combat the effects of the coronavirus pandemic?",
+        "Answer": "COVID Kids Bavaria",
+        "OriginalText": "The 'COVID Kids Bavaria' study, funded by the Bavarian Ministry of Science, has been underway since July 2020, focusing on the pandemic situation at childcare facilities in Bavaria.",
+        "chunk_id": "2020---33"
+    },
+    "157": {
+        "Question": "What innovative project did Audi support in Mexico in 2020 related to healthcare workers?",
+        "Answer": "Audi Mexico provided vehicles for doctors and nursing staff to commute between their homes and workplaces.",
+        "OriginalText": "Audi Mexico spontaneously agreed to provide vehicles for doctors and nursing staff, enabling them to commute between their homes and workplaces.",
+        "chunk_id": "2020---33"
+    },
+    "158": {
+        "Question": "How many employees participated in training events in Germany in 2020?",
+        "Answer": "Over 25,000",
+        "OriginalText": "In the same period, over 25,000 (over 33,000) employees attended one or more of the 7,291 (10,866) training events in Germany.",
+        "chunk_id": "2020---33"
+    },
+    "159": {
+        "Question": "What initiative did Audi of America support in 2020 to aid restaurants and small farmers?",
+        "Answer": "The LEE Initiative, which received USD 750,000 from Audi of America.",
+        "OriginalText": "In the USA, Audi of America gave its support to two economic groups that were particularly badly affected by the coronavirus pandemic: restaurants and small farmers. As well as providing vehicles to support the 'LEE Relief Kitchens,' the company donated USD 750,000 to the LEE Initiative.",
+        "chunk_id": "2020---33"
+    },
+    "160": {
+        "Question": "How many face shields did Audi produce for healthcare workers in 2020?",
+        "Answer": "10,000",
+        "OriginalText": "Moreover, Audi produced 10,000 face shields for use in the healthcare sector.",
+        "chunk_id": "2020---33"
+    },
+    "161": {
+        "Question": "How much did Audi donate to the 'COVID Kids Bavaria' study in 2020?",
+        "Answer": "EUR 50,000",
+        "OriginalText": "Audi made a donation of EUR 50,000 here to help combat the pandemic in Bavaria and beyond.",
+        "chunk_id": "2020---33"
+    },
+    "162": {
+        "Question": "What was the role of the Audi Environmental Foundation in 2020?",
+        "Answer": "The foundation promoted green innovations for a livable future, focusing on sustainability and environmental protection.",
+        "OriginalText": "For ten years now, the Audi Environmental Foundation has been making an active contribution to environmental protection, thus shaping new paths for sustainable activity.",
+        "chunk_id": "2020---34"
+    },
+    "163": {
+        "Question": "What was the Audi Environmental Foundation’s project related to electronic waste in 2020?",
+        "Answer": "The project involved recycling electronic waste through the startup Nunam, which manufactures stationary energy storage systems from discarded batteries.",
+        "OriginalText": "The 2020 reporting year saw a noteworthy technology project related to the recycling of electronic waste: the German-Indian startup Nunam, which is funded by the Audi Environmental Foundation. Nunam manufactures stationary energy storage systems from discarded batteries.",
+        "chunk_id": "2020---34"
+    },
+    "164": {
+        "Question": "Which country was Audi's Nunam project aimed at providing green electricity in 2020?",
+        "Answer": "India",
+        "OriginalText": "Its aim is to supply rural areas of India, in particular, with green electricity.",
+        "chunk_id": "2020---34"
+    },
+    "165": {
+        "Question": "What new feature did Audi launch in calendar week 48/2020 related to electric vehicle charging?",
+        "Answer": "The launch of a smart charging system with an initial configuration of smart charging functions.",
+        "OriginalText": "The connect charging system was launched in calendar week 48/2020 with a starting configuration of smart charging functions.",
+        "chunk_id": "2020---34"
+    },
+    "166": {
+        "Question": "Which sustainability goals did Audi focus on in 2020 according to the United Nations SDGs?",
+        "Answer": "Audi focused on five Sustainable Development Goals (SDGs) in 2020, as identified through internal workshops and a materiality analysis comparing SDG priorities with the company’s core business.",
+        "OriginalText": "Internal workshops were conducted to identify the SDGs to which Audi can make the greatest contribution with its core business. As a result, the following five SDGs have been pinpointed: ...",
+        "chunk_id": "2020---35"
+    },
+    "167": {
+        "Question": "What is the significance of the NEDC and WLTP in Audi’s sustainability efforts, particularly in vehicle emissions and fuel consumption in 2020?",
+        "Answer": "In 2020, Audi adhered to the Worldwide Harmonized Light Vehicles Test Procedure (WLTP) for measuring fuel consumption and CO₂ emissions, replacing the NEDC to provide more realistic data.",
+        "OriginalText": "Since September 1, 2017, type approval for certain new vehicles has been performed in accordance with the Worldwide Harmonized Light Vehicles Test Procedure (WLTP)...Since September 1, 2018, the WLTP has gradually replaced the New European Driving Cycle (NEDC).",
+        "chunk_id": "2020---35"
+    },
+    "168": {
+        "Question": "What external assurance did Audi’s sustainability reporting undergo for 2020?",
+        "Answer": "Audi’s 2020 sustainability reporting underwent a limited assurance engagement by Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft to verify selected sustainability key figures for the year.",
+        "OriginalText": "Auditing firm Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft performed a limited assurance engagement on selected sustainability key figures for 2020 in the overview for the period from January 1, 2020, to December 31, 2020.",
+        "chunk_id": "2020---35"
+    },
+    "169": {
+        "Question": "In what time period did the assurance engagement for Audi's 2020 report primarily take place?",
+        "Answer": "The assurance engagement was primarily conducted between November 2020 and February 2021.",
+        "OriginalText": "Within the scope of our assurance engagement, which has been mainly conducted between November 2020 and February 2021...",
+        "chunk_id": "2020---36"
+    },
+    "170": {
+        "Question": "Which companies were involved in the data collection and assurance procedures for the Audi 2020 report?",
+        "Answer": "The companies involved were AUDI AG (Ingolstadt, Germany), AUDI AG (Neckarsulm, Germany), and Audi Brussels S.A./N.V. (Brussels, Belgium).",
+        "OriginalText": "AUDI AG (Ingolstadt, Germany), AUDI AG (Neckarsulm, Germany) Audi Brussels S.A./N.V. (Brussels, Belgium)",
+        "chunk_id": "2020---36"
+    },
+    "171": {
+        "Question": "What was the main objective of the assurance engagement performed by Ernst & Young for Audi's 2020 sustainability report?",
+        "Answer": "The main objective was to express a limited assurance conclusion on selected key figures marked with the symbol 'A' for the period from 1 January 2020 to 31 December 2020.",
+        "OriginalText": "Our responsibility is to express a limited assurance conclusion on the selected key figures that are marked with the symbol 'A' in the report for the period from 1 January 2020 to 31 December 2020.",
+        "chunk_id": "2020---36"
+    },
+    "172": {
+        "Question": "According to the 2020 Audi report, what standards were used to prepare the sustainability report?",
+        "Answer": "The sustainability report was prepared in accordance with the Sustainability Reporting Standards of the Global Reporting Initiative (GRI criteria).",
+        "OriginalText": "The legal representatives of AUDI AG (hereafter: “the Company”) are responsible for the preparation of the report in accordance with the Sustainability Reporting Standards of the Global Reporting Initiative (hereafter “GRI criteria”)...",
+        "chunk_id": "2020---36"
+    },
+    "173": {
+        "Question": "What symbol was used to mark the key figures that were audited in Audi's 2020 sustainability report?",
+        "Answer": "The key figures that were audited were marked with the symbol '$\\mathcal{A}_{\\bigvee}\\mathcal{P}$'.",
+        "OriginalText": "The assured selected key figures are marked with the symbol $\\mathcal{A}_{\\bigvee}\\mathcal{P}$",
+        "chunk_id": "2020---36"
+    },
+    "174": {
+        "Question": "Which report version was used by Ernst & Young for their assurance engagement regarding Audi's 2020 sustainability figures?",
+        "Answer": "The German PDF-version of the 'Audi REPORT | combined annual and sustainability report' was used.",
+        "OriginalText": "The report is published as PDF-version under $\\rightarrow$ www.audi.com/de/company/sustainability.html.",
+        "chunk_id": "2020---36"
+    },
+    "175": {
+        "Question": "What was the outcome of the limited assurance engagement for Audi's 2020 sustainability report?",
+        "Answer": "The outcome was that nothing came to Ernst & Young's attention to suggest the selected key figures for the period from 1 January 2020 to 31 December 2020 were not prepared in accordance with the GRI criteria.",
+        "OriginalText": "Based on our assurance procedures performed and assurance evidence obtained, nothing has come to our attention that causes us to believe that the selected key figures that are marked with the symbol $\\mathcal{A}_{\\bigvee}\\mathcal{N}$ in the report for the period from 1 January 2020 to 31 December 2020 have not been prepared, in all material respects, in accordance with the GRI criteria.",
+        "chunk_id": "2020---36"
+    }
+}

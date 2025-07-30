@@ -1,0 +1,980 @@
+{
+    "1": {
+        "Question": "How many employees did Audi have in 2021?",
+        "Answer": "Audi had around 87,000 employees in 2021.",
+        "OriginalText": "Together, a strong Audi team of around 87,000 employees successfully mastered a difficult 2021...",
+        "chunk_id": "2021---1"
+    },
+    "2": {
+        "Question": "What was Audi's operating profit in 2021?",
+        "Answer": "Audi's operating profit in 2021 was 5.5 billion euros.",
+        "OriginalText": "With an operating profit of 5.5 billion euros and unbroken customer demand...",
+        "chunk_id": "2021---1"
+    },
+    "3": {
+        "Question": "By how much did Audi increase deliveries of electric models compared to the previous year?",
+        "Answer": "Audi increased deliveries of its electric models by more than 50 percent in 2021 compared to the previous year.",
+        "OriginalText": "In 2021, we increased deliveries of our electric models by more than 50 percent compared with the previous year...",
+        "chunk_id": "2021---1"
+    },
+    "4": {
+        "Question": "How many Audi e-tron models were produced by Audi at Audi Brussels in 2021?",
+        "Answer": "Audi produced 43,866 e-tron models at Audi Brussels in 2021.",
+        "OriginalText": "43,866 Audi e-tron models were produced at Audi Brussels in 2021.",
+        "chunk_id": "2021---1"
+    },
+    "5": {
+        "Question": "What was the percentage of new energy vehicles (NEVs) in Audi's total vehicle production in 2021?",
+        "Answer": "In 2021, 10.7% of Audi's total vehicle production were new energy vehicles (NEVs).",
+        "OriginalText": "169,049 Audi models were partially or fully electric, corresponding to a New Energy Vehicle (NEV) share of 10.7 percent.",
+        "chunk_id": "2021---1"
+    },
+    "6": {
+        "Question": "How many criteria did Audi fulfill for initial certification by the Top Employers Institute in 2021?",
+        "Answer": "Audi fulfilled 80% of the 370 criteria for initial certification by the Top Employers Institute in 2021.",
+        "OriginalText": "80% of the total of 370 criteria were fulfilled by AUDI AG for initial certification by the Top Employers Institute.",
+        "chunk_id": "2021---1"
+    },
+    "7": {
+        "Question": "What was the new share of electrified vehicles (NEVs) in Audi's production in 2021 compared to 2020?",
+        "Answer": "Audi increased its proportion of electrified vehicles to 10.7% in 2021, up from 6.8% in 2020.",
+        "OriginalText": "This means that Audi increased its proportion of electrified vehicles compared with 2020 (6.8 percent).",
+        "chunk_id": "2021---1"
+    },
+    "8": {
+        "Question": "How many vehicles in the Volkswagen Group used swarm intelligence in 2021 for improving road safety?",
+        "Answer": "Around 1,700,000 vehicles in the Volkswagen Group used swarm intelligence to improve road safety in 2021.",
+        "OriginalText": "Around 1,700,000 cars in the Volkswagen Group use swarm intelligence to help improve road safety...",
+        "chunk_id": "2021---1"
+    },
+    "9": {
+        "Question": "How many employees participated in the development of Audi's strategy 'Vorsprung 2030' in 2021?",
+        "Answer": "More than 500 employees participated in the development of Audi's 'Vorsprung 2030' strategy in 2021.",
+        "OriginalText": "For the first time in our company’s history, our strategy was developed by more than 500 employees at all levels of the hierarchy...",
+        "chunk_id": "2021---1"
+    },
+    "10": {
+        "Question": "What percentage of NEVs produced by Audi in 2021 were fully electric models?",
+        "Answer": "51% of the NEVs produced by Audi in 2021 were fully electric models.",
+        "OriginalText": "49 percent of NEVs were plug-in hybrids and 51 percent were fully electric models.",
+        "chunk_id": "2021---2"
+    },
+    "11": {
+        "Question": "How many countries were included in Audi's global AI-based sustainability analysis pilot project in 2021?",
+        "Answer": "Around 150 countries were included in Audi's global AI-based sustainability analysis pilot project in 2021.",
+        "OriginalText": "Around 150 countries are currently included in the global pilot project in which Audi is using artificial intelligence (AI) to analyze the extent to which suppliers meet the defined sustainability criteria.",
+        "chunk_id": "2021---2"
+    },
+    "12": {
+        "Question": "What percentage of managers at the first and second management levels at Audi were women by the end of 2021?",
+        "Answer": "By the end of 2021, 8.6% of managers at the first management level and 16.8% at the second management level were women.",
+        "OriginalText": "16.8 percent of managers at the second management level and 8.6 percent at the first management level are women.",
+        "chunk_id": "2021---2"
+    },
+    "13": {
+        "Question": "What was the starting price of the Audi Q4 e-tron in 2021?",
+        "Answer": "The starting price of the Audi Q4 e-tron in 2021 was EUR 41,900.",
+        "OriginalText": "The attractively priced Audi Q4 e-tron, which starts at EUR 41,900, is an entry-level model for the premium electric segment at Audi.",
+        "chunk_id": "2021---2"
+    },
+    "14": {
+        "Question": "How many suppliers were analyzed using AI in Audi's sustainability pilot project in 2021?",
+        "Answer": "More than 4,000 suppliers were analyzed using AI in Audi's sustainability pilot project in 2021.",
+        "OriginalText": "Algorithms evaluate data from digital networks and social media for about more than 4,000 suppliers.",
+        "chunk_id": "2021---2"
+    },
+    "15": {
+        "Question": "What percentage of managers at the second and first management levels at Audi were women by the end of 2021?",
+        "Answer": "By the end of 2021, 16.8% of managers at the second management level and 8.6% at the first management level were women.",
+        "OriginalText": "16.8 percent of managers at the second management level and 8.6 percent at the first management level are women.",
+        "chunk_id": "2021---2"
+    },
+    "16": {
+        "Question": "How many years has Audi been producing vehicles with a five-star rating in the Euro NCAP safety tests as of 2021?",
+        "Answer": "As of 2021, Audi has been producing vehicles with a five-star rating in the Euro NCAP safety tests for over five years.",
+        "OriginalText": "For over five years, all Audi models tested – irrespective of segment or type of drive – have received a five-star rating in the Euro NCAP test.",
+        "chunk_id": "2021---3"
+    },
+    "17": {
+        "Question": "How many solar panels are in operation at the solar park in Mecklenburg-Western Pomerania that Audi built with RWE?",
+        "Answer": "Almost 420,000 solar panels.",
+        "OriginalText": "The facility has been in operation since January 2022.  With almost 420,000 solar panels, it’s one of the largest independent solar parks in Germany.",
+        "chunk_id": "2021---3"
+    },
+    "18": {
+        "Question": "How many new fast-charging points is the IONITY initiative expected to create by 2025?",
+        "Answer": "More than 5,000 new fast-charging points.",
+        "OriginalText": "In Europe, for example, the IONITY initiative is expected to create more than 5,000 new fast-charging points by 2025.",
+        "chunk_id": "2021---4"
+    },
+    "19": {
+        "Question": "What were the total passenger car market sales in China for 2021, and how many were all-electric?",
+        "Answer": "The total passenger car market in 2021 was more than 20 million, with around 2.4 million all-electric.",
+        "OriginalText": "The overall market in 2021 totaled more than 20 million passenger cars, of which around 2.4 million were all-electric.",
+        "chunk_id": "2021---4"
+    },
+    "20": {
+        "Question": "What was the total number of vaccination doses administered by Audi in 2021?",
+        "Answer": "Around 20,000 vaccination doses.",
+        "OriginalText": "In 2021, we administered around 20,000 vaccination doses and conducted around 15,600 tests.",
+        "chunk_id": "2021---4"
+    },
+    "21": {
+        "Question": "In 2021, how did Audi enhance its stakeholder engagement for strategic planning?",
+        "Answer": "Audi actively involved stakeholders in a materiality analysis to determine key issues for strategic planning.",
+        "OriginalText": "Every two years, the company actively involves its stakeholders in a materiality analysis of key issues. This dialogue provides important input for our strategic planning.",
+        "chunk_id": "2021---4"
+    },
+    "22": {
+        "Question": "How many stakeholders participated in Audi's 2021 materiality analysis?",
+        "Answer": "Nearly 2,200 stakeholders",
+        "OriginalText": "The results of the 2021 materiality analysis, in which nearly 2,200 stakeholders took part, confirm that Audi has already set the right strategic priorities with its ‘Vorsprung 2030’ strategy.",
+        "chunk_id": "2021---5"
+    },
+    "23": {
+        "Question": "What is the top issue among stakeholders in Audi's 2021 materiality analysis?",
+        "Answer": "Fair working conditions and modern working forms",
+        "OriginalText": "Top issue 1: 'Fair working conditions and modern working forms' rank first among stakeholders.",
+        "chunk_id": "2021---5"
+    },
+    "24": {
+        "Question": "Which certification did Audi receive in 2021 for its quality as an employer?",
+        "Answer": "Top Employer Germany certification",
+        "OriginalText": "The Top Employers Institute certified Audi for the first time in 2021 as a 'Top Employer Germany.'",
+        "chunk_id": "2021---5"
+    },
+    "25": {
+        "Question": "What major transformation is Audi undergoing according to its strategy in 2021?",
+        "Answer": "Audi is undergoing the biggest transformation process in the company’s history, focusing on electric mobility and sustainability.",
+        "OriginalText": "For Audi, this technological change goes hand in hand with the biggest transformation process in the company’s history.",
+        "chunk_id": "2021---5"
+    },
+    "26": {
+        "Question": "What is the mission statement of Audi's new corporate strategy, 'Vorsprung 2030'?",
+        "Answer": "'Meaningful technology to keep the world in motion.'",
+        "OriginalText": "'Meaningful technology to keep the world in motion – that’s our mission statement.'",
+        "chunk_id": "2021---6"
+    },
+    "27": {
+        "Question": "What was the main focus of the Audi ecosystem for electric cars in 2021?",
+        "Answer": "To provide a holistic customer experience that integrates electric cars into users' everyday lives.",
+        "OriginalText": "Audi wants to make the progressive premium mobility of tomorrow even more attractive. Alongside the vehicle itself, its focus in the future will be on a holistic customer experience and on ways of integrating that experience into the lives of users.",
+        "chunk_id": "2021---6"
+    },
+    "28": {
+        "Question": "Which component of Audi’s ecosystem for electric cars was already implemented successfully by 2021?",
+        "Answer": "Charging options at home wall boxes and a comprehensive charging infrastructure throughout Europe.",
+        "OriginalText": "An elementary component of the ecosystem is charging, which has already been implemented successfully with charging options at home wall boxes, a comprehensive charging infrastructure with charging points throughout Europe and intelligent route planning.",
+        "chunk_id": "2021---6"
+    },
+    "29": {
+        "Question": "In the 2021 Annual Report, how did Martin Vogl contribute to Audi's strategy development?",
+        "Answer": "Martin Vogl got involved on his own initiative, contacting external stakeholders to discuss Audi's corporate purpose and contributing to the development of 'Vorsprung 2030.'",
+        "OriginalText": "Martin Vogl works in Sales Europe. He got involved on his own initiative to help shape 'Vorsprung 2030.' He was especially impressed by the spirit in the Audi 500+ meetings.",
+        "chunk_id": "2021---7"
+    },
+    "30": {
+        "Question": "What is Audi's goal for operating return on sales (ROS) by 2030 according to the 2021 Annual Report?",
+        "Answer": "Audi's goal is to achieve an operating return on sales (ROS) of more than 11 percent by 2030.",
+        "OriginalText": "The goal: 'A strategy from the company for the company.' At the top of the 'Vorsprung 2030' strategy pyramid stands the purpose of Audi: 'Meaningful technology to keep the world in motion.' ... This is backed by clear strategic goals, such as an ROS of more than 11 percent from 2030.",
+        "chunk_id": "2021---7"
+    },
+    "31": {
+        "Question": "How much is Audi planning to invest in research, development, and capex by 2026 as mentioned in the 2021 Annual Report?",
+        "Answer": "Audi is planning a total of EUR 37 billion in research, development, and capex by 2026, with EUR 18 billion earmarked for electrification and hybridization.",
+        "OriginalText": "The Audi Group is planning research and development activities and capex amounting to about EUR 37 billion in total by 2026. As much as EUR 18 billion of this is earmarked for electrification and hybridization.",
+        "chunk_id": "2021---7"
+    },
+    "32": {
+        "Question": "What was the focus for Audi in 2021 with regard to electric mobility?",
+        "Answer": "In 2021, Audi focused on accelerating the transformation toward electric mobility, achieving a strong year in this area.",
+        "OriginalText": "The year 2021 was dominated by electric mobility. We accelerated the transformation with a strong year for electric vehicles.",
+        "chunk_id": "2021---7"
+    },
+    "33": {
+        "Question": "In 2021, what role did the software company CARIAD play in Audi's strategy, according to the Annual Report?",
+        "Answer": "CARIAD was a key technology partner for Audi, focusing on developing joint electronic architectures and a uniform operating system for all Group brands.",
+        "OriginalText": "Software will be our biggest lever for exploiting synergies and innovations in the future. That’s why, as the Volkswagen Group, we have pooled our entire development strength in the software company CARIAD. Joint electronic architectures are being developed here as well as a uniform operating system for all Group brands.",
+        "chunk_id": "2021---7"
+    },
+    "34": {
+        "Question": "Which specific market does Audi see as having enormous potential in the premium segment for electric vehicles in 2021?",
+        "Answer": "Audi sees enormous potential in the Chinese market, especially in the premium segment and with electric vehicles.",
+        "OriginalText": "We see enormous potential in the Chinese market, especially in the premium segment and with electric vehicles.",
+        "chunk_id": "2021---7"
+    },
+    "35": {
+        "Question": "What significant organizational change did Audi make in 2021 regarding its brand management?",
+        "Answer": "In 2021, Audi established a new Premium brand group management, which included Lamborghini, Bentley, and Ducati, allowing Audi to play a more important role in the Volkswagen Group and make decisions more efficiently.",
+        "OriginalText": "udi manages the Premium brand group with Lamborghini, Bentley and Ducati. We have established a new management model with the newly formed Premium brand group. This means that Audi plays an even more important role in the Volkswagen Group.",
+        "chunk_id": "2021---7"
+    },
+    "36": {
+        "Question": "How much did Audi increase deliveries of its fully electric vehicles by in 2021?",
+        "Answer": "57.5%",
+        "OriginalText": "By consistently implementing our Roadmap E, we succeeded in increasing deliveries of our fully electric vehicles by 57.5 percent.",
+        "chunk_id": "2021---8"
+    },
+    "37": {
+        "Question": "How many fully electric models did Audi more than double in 2021?",
+        "Answer": "Audi more than doubled the number of fully electric models in 2021.",
+        "OriginalText": "Last year alone we more than doubled the number of fully electric models.",
+        "chunk_id": "2021---8"
+    },
+    "38": {
+        "Question": "Which electric Audi model was successfully launched in 2021 as the electric spearhead of the portfolio?",
+        "Answer": "Audi e-tron GT",
+        "OriginalText": "We successfully launched the electric spearhead of the portfolio on the market with the Audi e-tron GT.",
+        "chunk_id": "2021---8"
+    },
+    "39": {
+        "Question": "How many vehicles has Audi sold since the market launch of the Audi e-tron and e-tron Sportback as of 2021?",
+        "Answer": "Over 123,000 vehicles",
+        "OriginalText": "Our first fully electric models – the Audi e-tron and Audi e-tron Sportback – have already been successfully established for some time. Over 123,000 vehicles sold since market launch says it all.",
+        "chunk_id": "2021---8"
+    },
+    "40": {
+        "Question": "What is the focus of Audi's 2021 strategy related to ESG (Environmental, Social, and Governance)?",
+        "Answer": "ESG criteria are firmly anchored in Audi’s “Vorsprung 2030” strategy.",
+        "OriginalText": "It is for this reason that we have firmly anchored ESG criteria in our “Vorsprung 2030” strategy.",
+        "chunk_id": "2021---8"
+    },
+    "41": {
+        "Question": "How many nations are represented by Audi employees in Germany as of 2021?",
+        "Answer": "More than 100 nations",
+        "OriginalText": "Employees from more than a hundred nations working for Audi in Germany alone exemplify this diversity.",
+        "chunk_id": "2021---9"
+    },
+    "42": {
+        "Question": "How many electric motors did Audi produce in Győr by the time of the 2021 report?",
+        "Answer": "Audi produced the 250,000th electric motor in Győr by the time of the 2021 report.",
+        "OriginalText": "we recently produced the 250,000th electric motor in Győr",
+        "chunk_id": "2021---10"
+    },
+    "43": {
+        "Question": "What is the specific environmental measure planned for Audi Brussels in 2022 to reduce water consumption?",
+        "Answer": "Audi Brussels plans to reduce drinking-water consumption by about 80 percent by using reprocessed wastewater from a neighboring municipal sewage plant.",
+        "OriginalText": "At Audi Brussels, for instance, our plan is to cease using high-quality drinking water in the future to cover our process water requirements for production. Instead, we will use reprocessed wastewater from the neighboring municipal sewage plant into which our wastewater also flows. This has the potential to reduce the site’s drinking-water consumption by about 80 percent.",
+        "chunk_id": "2021---10"
+    },
+    "44": {
+        "Question": "What budget has Audi allocated for HR transformation through training and development until 2025 according to the 2021 Annual Report?",
+        "Answer": "Audi has allocated a training and development budget of 500 million euros until 2025.",
+        "OriginalText": "Up to 2025, we are providing a training and development budget of as much as 500 million euros.",
+        "chunk_id": "2021---10"
+    },
+    "45": {
+        "Question": "What has been the impact of the semiconductor shortage on Audi’s production in 2021?",
+        "Answer": "The semiconductor shortage caused Audi to cut production and resulted in temporary short-time work at the German sites.",
+        "OriginalText": "Audi consequently also had to cut production, leading to temporary short-time work at the German sites.",
+        "chunk_id": "2021---10"
+    },
+    "46": {
+        "Question": "How many vehicles did Audi plan to produce in 2021, and how was this plan impacted by the semiconductor shortage?",
+        "Answer": "Audi planned to produce a low six-digit number of vehicles in 2021, but the semiconductor shortage prevented this from happening.",
+        "OriginalText": "the Audi Group was unable to produce a low six-digit number of vehicles in 2021 as planned. This also impacted the key figures for 2021.",
+        "chunk_id": "2021---10"
+    },
+    "47": {
+        "Question": "How many vehicles did the Audi Group produce in total in 2021, and what was the percentage change compared to the previous year?",
+        "Answer": "The Audi Group produced 1,581,164 vehicles in 2021, a 5.0% decrease compared to the previous year.",
+        "OriginalText": "The Audi Group produced a total of 1,581,164 (1,664,265) vehicles in 2021, a decline of –5.0 percent compared with the previous year.",
+        "chunk_id": "2021---11"
+    },
+    "48": {
+        "Question": "What was the total production of Audi vehicles at the German sites in 2021, and how did this compare to the previous year?",
+        "Answer": "Audi produced 458,746 vehicles at its German sites in 2021, a 7.4% decrease compared to 2020.",
+        "OriginalText": "Between January and December 2021, 458,746 (495,325) vehicles were produced at the German sites, a decline of –7.4 percent compared with the previous year.",
+        "chunk_id": "2021---11"
+    },
+    "49": {
+        "Question": "How much did Audi's production of fully electric vehicles increase in 2021 compared to 2020, and what was the total number of electric vehicles produced?",
+        "Answer": "Audi's production of fully electric vehicles increased by 81.0% in 2021, with a total of 85,379 electric vehicles produced.",
+        "OriginalText": "This increase was driven principally by an 81.0 percent increase in production of fully electric vehicles to 85,379 (47,174).",
+        "chunk_id": "2021---11"
+    },
+    "50": {
+        "Question": "What impact did semiconductor shortages have on Audi's production in the second half of 2021?",
+        "Answer": "Semiconductor shortages caused a 32.6% drop in Audi's production output in the second half of 2021 compared to the prior-year period.",
+        "OriginalText": "Low availability of semiconductors in the second half of 2021 resulted in a serious drop in production output of -32.6 percent compared with the prior-year period.",
+        "chunk_id": "2021---11"
+    },
+    "51": {
+        "Question": "How many Audi vehicles were produced in China in 2021, and what was the percentage change compared to the previous year?",
+        "Answer": "Audi produced 605,933 vehicles in China in 2021, a 9.7% decrease compared to the previous year.",
+        "OriginalText": "In China, FAW-Volkswagen built 605,933 (671,970) vehicles in 2021. This was a year-on-year drop of -9.7 percent.",
+        "chunk_id": "2021---11"
+    },
+    "52": {
+        "Question": "How much did the production of Audi vehicles in Mexico increase in 2021, and what was the total number of vehicles produced?",
+        "Answer": "Audi's production in Mexico increased by 10.7%, with a total of 137,634 vehicles produced in 2021.",
+        "OriginalText": "The plant in San José Chiapa in Mexico built 137,634 (124,298) vehicles, an increase of 10.7 percent.",
+        "chunk_id": "2021---11"
+    },
+    "53": {
+        "Question": "What was the change in Audi's production share of new energy vehicles (NEV) in 2021, and what was the total number of NEVs produced?",
+        "Answer": "Audi's NEV share increased to 10.7% in 2021, with 85,379 fully electric vehicles produced.",
+        "OriginalText": "The Audi brand’s new energy vehicle (NEV) share increased significantly to 10.7 (6.8) percent in 2021. This increase was driven principally by an 81.0 percent increase in production of fully electric vehicles to 85,379.",
+        "chunk_id": "2021---11"
+    },
+    "54": {
+        "Question": "What were Audi's total vehicle deliveries in 2021, and how did this compare to the previous year?",
+        "Answer": "Audi delivered 1,688,978 vehicles in 2021, which was approximately at the same level as the previous year (-0.7%).",
+        "OriginalText": "The Audi Group delivered a total of 1,688,978 (1,700,258) vehicles in the 2021 fiscal year. The Audi brand handed a total of 1,680,512 (1,692,773) cars over to customers, which was approximately at the previous year’s level (–0.7 percent).",
+        "chunk_id": "2021---11"
+    },
+    "55": {
+        "Question": "What was the percentage increase in Audi's fully electric vehicle deliveries in 2021?",
+        "Answer": "Audi's fully electric vehicle deliveries increased by 57.5% in 2021.",
+        "OriginalText": "A total of 81,894 (52,011) fully electric Audi models were handed over to customers, a year-on-year growth rate of 57.5 percent.",
+        "chunk_id": "2021---12"
+    },
+    "56": {
+        "Question": "How many vehicles did Audi deliver in the USA in 2021, and what was the percentage increase compared to 2020?",
+        "Answer": "Audi delivered 196,038 vehicles in the USA in 2021, a 5.0% increase compared to 2020.",
+        "OriginalText": "The Audi brand increased deliveries to customers in the USA by 5.0 percent year-on-year to 196,038 (186,620) vehicles.",
+        "chunk_id": "2021---12"
+    },
+    "57": {
+        "Question": "In 2021, how many vehicles did Audi deliver in China, and what was the percentage change compared to the previous year?",
+        "Answer": "Audi delivered 701,289 vehicles in China in 2021, a 3.6% decline compared to 2020.",
+        "OriginalText": "In China, Audi delivered 701,289 (727,358) vehicles by the end of 2021. That was a decline of -3.6 percent compared with the record deliveries in 2020.",
+        "chunk_id": "2021---12"
+    },
+    "58": {
+        "Question": "How much did Audi's revenue increase in 2021 compared to 2020, and what was the main reason for the increase?",
+        "Answer": "Audi's revenue increased by 6.2% in 2021, mainly due to strong price enforcement.",
+        "OriginalText": "The Audi Group generated revenue of EUR 53,068 (49,973) million in the 2021 fiscal year. The 6.2 percent increase compared with the previous year despite a drop in the number of vehicles sold was mainly due to strong price enforcement.",
+        "chunk_id": "2021---12"
+    },
+    "59": {
+        "Question": "What was the total number of Lamborghini vehicles delivered in 2021, and how did it compare to 2020?",
+        "Answer": "Lamborghini delivered 8,405 vehicles in 2021, a 13.1% increase compared to 2020.",
+        "OriginalText": "While the Lamborghini brand delivered 8,405 (7,430) vehicles, the Ducati brand handed 59,447 (48,042) motorcycles over to customers.",
+        "chunk_id": "2021---12"
+    },
+    "60": {
+        "Question": "How many vehicles did Audi deliver in Germany in 2021, and what was the percentage decline compared to 2020?",
+        "Answer": "Audi delivered 180,883 vehicles in Germany in 2021, a 15.6% decline compared to 2020.",
+        "OriginalText": "On the German market, the brand with the Four Rings delivered 180,883 (214,427) cars to customers, a drop of –15.6 percent.",
+        "chunk_id": "2021---12"
+    },
+    "61": {
+        "Question": "What was the total revenue generated by Audi Group in the 2021 fiscal year, and how does it compare to the previous year?",
+        "Answer": "The total revenue generated by Audi Group in the 2021 fiscal year was EUR 53,068 million, a 6.2% increase compared to EUR 49,973 million in the previous year.",
+        "OriginalText": "The Audi Group generated revenue of EUR 53,068 (49,973) million in the 2021 fiscal year. The 6.2 percent increase compared with the previous year despite a drop in the number of vehicles sold was mainly due to strong price enforcement.",
+        "chunk_id": "2021---13"
+    },
+    "62": {
+        "Question": "How much revenue did the Lamborghini and Ducati brands generate in 2021?",
+        "Answer": "Lamborghini generated EUR 1,818 million, and Ducati generated EUR 878 million in revenue in 2021.",
+        "OriginalText": "The Lamborghini brand increased revenue from automotive business by 15.9 percent to EUR 1,818 (1,569) million in the reporting period, while the Ducati brand also achieved record revenue of EUR 878 (676) million.",
+        "chunk_id": "2021---13"
+    },
+    "63": {
+        "Question": "What was the impact of semiconductor shortages on Audi's deliveries in the second half of 2021?",
+        "Answer": "The semiconductor shortage led to a 29.1% drop in Audi's deliveries in the second half of 2021 compared to the previous year.",
+        "OriginalText": "Deliveries dropped by –29.1 percent compared with the very strong second half of the previous year. The ongoing semiconductor shortage resulted in massive production losses.",
+        "chunk_id": "2021---13"
+    },
+    "64": {
+        "Question": "What percentage increase in deliveries did Audi experience in the USA in 2021 compared to the previous year?",
+        "Answer": "Audi experienced a 5.0% increase in deliveries in the USA in 2021 compared to the previous year.",
+        "OriginalText": "The Audi brand increased deliveries to customers in the USA by 5.0 percent year-on-year to 196,038 (186,620) vehicles.",
+        "chunk_id": "2021---13"
+    },
+    "65": {
+        "Question": "In 2021, how many fully electric vehicles did Audi deliver, and what was the year-on-year growth rate?",
+        "Answer": "Audi delivered 81,894 fully electric vehicles in 2021, representing a year-on-year growth rate of 57.5%.",
+        "OriginalText": "Audi continued to increase deliveries of BEVs (battery electric vehicles). A total of 81,894 (52,011) fully electric Audi models were handed over to customers, a year-on-year growth rate of 57.5 percent.",
+        "chunk_id": "2021---13"
+    },
+    "66": {
+        "Question": "What was the return on sales (ROS) for Audi Group in the second half of 2021?",
+        "Answer": "The return on sales (ROS) for Audi Group in the second half of 2021 was 10.2%.",
+        "OriginalText": "ROS before special items 10.2 percent thanks to continued strong price enforcement.",
+        "chunk_id": "2021---13"
+    },
+    "67": {
+        "Question": "What was the contribution of the Audi Group’s China business to the financial result in 2021?",
+        "Answer": "EUR 1,140 million.",
+        "OriginalText": "Overall, the Audi Group’s China business contributed EUR 1,140 (1,009) million to the financial result.",
+        "chunk_id": "2021---14"
+    },
+    "68": {
+        "Question": "How much did the Audi Group's profit before tax increase in 2021 compared to the previous year?",
+        "Answer": "EUR 2,742 million, increasing from EUR 4,187 million to EUR 6,929 million.",
+        "OriginalText": "In the 2021 fiscal year, the Audi Group posted a profit before tax of EUR 6,929 (4,187) million.",
+        "chunk_id": "2021---14"
+    },
+    "69": {
+        "Question": "What was the return on investment (ROI) of the Audi Group in 2021?",
+        "Answer": "16.7%.",
+        "OriginalText": "The Audi Group’s return on investment (ROI) was 16.7 (7.4) percent in the 2021 fiscal year.",
+        "chunk_id": "2021---14"
+    },
+    "70": {
+        "Question": "What was the net cash flow of the Audi Group in the 2021 fiscal year?",
+        "Answer": "EUR 7,757 million.",
+        "OriginalText": "The net cash flow of the Audi Group reached a record of EUR 7,757 (4,589) million in the 2021 fiscal year.",
+        "chunk_id": "2021---14"
+    },
+    "71": {
+        "Question": "What was the increase in the Audi Group’s equity in 2021?",
+        "Answer": "EUR 1,759 million, increasing from EUR 24,253 million to EUR 26,012 million.",
+        "OriginalText": "As of December 31, 2021, the equity of the Audi Group increased to EUR 26,012 (24,253) million.",
+        "chunk_id": "2021---14"
+    },
+    "72": {
+        "Question": "How much did the Audi Group invest in total capital in the 2021 fiscal year?",
+        "Answer": "EUR 3,972 million.",
+        "OriginalText": "There was a moderate rise in total capital investments to EUR 3,972 (3,654) million in the 2021 fiscal year.",
+        "chunk_id": "2021---14"
+    },
+    "73": {
+        "Question": "What was the decrease in trade receivables for Audi in 2021?",
+        "Answer": "EUR 1,556 million, decreasing from EUR 5,998 million to EUR 4,442 million.",
+        "OriginalText": "On the assets side, property, plant and equipment fell to EUR 12,221 (13,037) million and trade receivables dropped to EUR 4,442 (5,998) million.",
+        "chunk_id": "2021---14"
+    },
+    "74": {
+        "Question": "Which environmental objectives were included in the EU taxonomy reporting for Audi in the 2021 fiscal year?",
+        "Answer": "In the 2021 fiscal year, Audi's reporting focused on the 'climate change mitigation' and 'climate change adaptation' environmental objectives.",
+        "OriginalText": "The scope of reporting defined by the EU for the 2021 fiscal year covers the 'climate change mitigation' and 'climate change adaptation' environmental objectives.",
+        "chunk_id": "2021---15"
+    },
+    "75": {
+        "Question": "Which Audi model series were considered taxonomy-aligned in terms of CO2 emissions during the 2021 fiscal year?",
+        "Answer": "During the 2021 fiscal year, the Audi Q4 e-tron, e-tron, and e-tron GT⁷ were taxonomy-aligned with CO2 emissions of 0 g/km.",
+        "OriginalText": "During the reporting period, the following Audi model series fulfilled the criterion of CO2 emissions equal to 0 g/km: Q4 e-tron, e-tron, e-tron GT⁷.",
+        "chunk_id": "2021---15"
+    },
+    "76": {
+        "Question": "How did the CO2 emissions of Audi’s plug-in hybrids (PHEVs) perform in relation to the EU taxonomy criteria in 2021?",
+        "Answer": "In 2021, most of Audi's plug-in hybrids (PHEVs), including the A3, Q3, A6, A7, and Q5 models, had CO2 emissions of less than 50 g/km, meeting the EU taxonomy screening criteria.",
+        "OriginalText": "During the reporting period, the following Audi model series fulfilled the criterion of CO2 emissions of less than 50 g/km: PHEVs of the model series A3, Q3, A6, A7 and most of Q5.",
+        "chunk_id": "2021---15"
+    },
+    "77": {
+        "Question": "Which environmental goal did Audi’s vehicle-related business primarily contribute to in 2021 according to the EU taxonomy?",
+        "Answer": "Audi's vehicle-related business in 2021 contributed primarily to the environmental goal of 'climate change mitigation' through the manufacture of low-carbon technologies for transport.",
+        "OriginalText": "Under the 'climate change mitigation' environmental objective, the Audi Group allocates all the itemized activities to the economic activity 'Manufacture of low-carbon technologies for transport.'",
+        "chunk_id": "2021---15"
+    },
+    "78": {
+        "Question": "How many vehicles produced by Audi fulfilled the CO2 emissions requirement of 0 g/km in 2021?",
+        "Answer": "In 2021, Audi produced the Q4 e-tron, e-tron, and e-tron GT⁷ models, all of which fulfilled the CO2 emissions requirement of 0 g/km.",
+        "OriginalText": "During the reporting period, the following Audi model series fulfilled the criterion of CO2 emissions equal to 0 g/km: Q4 e-tron, e-tron, e-tron GT⁷.",
+        "chunk_id": "2021---15"
+    },
+    "79": {
+        "Question": "What percentage of Audi Group's total sales revenue in 2021 was classified as taxonomy-eligible?",
+        "Answer": "80.6%",
+        "OriginalText": "Revenue of the Audi Group in 2021 totaled EUR 53.1 billion. Of this amount, EUR 42.7 billion, or 80.6 percent, was attributable to the economic activity 'Manufacture of low-carbon technologies for transport' and therefore classified as taxonomy-eligible.",
+        "chunk_id": "2021---16"
+    },
+    "80": {
+        "Question": "How much of Audi Group's total capital expenditure in 2021 was taxonomy-aligned?",
+        "Answer": "41.3%",
+        "OriginalText": "Taking into account the DNSH criteria and minimum safeguards, 41.3 percent of total capital expenditure was taxonomy-aligned in 2021.",
+        "chunk_id": "2021---16"
+    },
+    "81": {
+        "Question": "How much revenue did the Audi Group generate from fully electric vehicles (BEV) in 2021 that was taxonomy-aligned?",
+        "Answer": "EUR 4.1 billion",
+        "OriginalText": "In the case of fully electric models only, this applied to EUR 4.1 billion or 7.6 percent of Audi Group revenue.",
+        "chunk_id": "2021---16"
+    },
+    "82": {
+        "Question": "What was the total capital expenditure for Audi Group in 2021 according to the EU taxonomy?",
+        "Answer": "EUR 4.0 billion",
+        "OriginalText": "In fiscal year 2021, additions in the Audi Group amounted to EUR 4.0 billion.",
+        "chunk_id": "2021---16"
+    },
+    "83": {
+        "Question": "What percentage of Audi's total operating expenditure in 2021 was taxonomy-aligned?",
+        "Answer": "33.4%",
+        "OriginalText": "Thus, of the Audi Group’s total operating expenditure: taxonomy-aligned operating expenditure: EUR 0.8 billion or 33.4 percent.",
+        "chunk_id": "2021---16"
+    },
+    "84": {
+        "Question": "What is the total amount of Audi Group's taxonomy-aligned capital expenditure in 2021 related to fully electric vehicles (BEV)?",
+        "Answer": "EUR 1.3 billion",
+        "OriginalText": "In the case of fully electric vehicles (BEV), a total of EUR 1.3 billion, or 33.5 percent, is included in the taxonomy-aligned capital expenditure.",
+        "chunk_id": "2021---16"
+    },
+    "85": {
+        "Question": "In 2021, how much of the Audi Group’s revenue from low-carbon technologies was taxonomy-aligned?",
+        "Answer": "EUR 6.8 billion",
+        "OriginalText": "Of this amount, EUR 6.8 billion, or 12.8 percent, fulfilled the screening criteria (see step 2).",
+        "chunk_id": "2021---16"
+    },
+    "86": {
+        "Question": "What is the total amount of Audi Group's capital expenditure on property, plant, and equipment in 2021?",
+        "Answer": "EUR 1.9 billion",
+        "OriginalText": "In fiscal year 2021, additions in the Audi Group amounted to EUR 1.9 billion from property, plant and equipment.",
+        "chunk_id": "2021---16"
+    },
+    "87": {
+        "Question": "How much capital expenditure in 2021 was allocated to the economic activity 'Manufacture of low-carbon technologies for transport'?",
+        "Answer": "EUR 4.0 billion",
+        "OriginalText": "All capital expenditure attributable to the vehicle-related business was associated with the economic activity 'Manufacture of low-carbon technologies for transport.' Taxonomy-eligible capital expenditure therefore amounted to EUR 4.0 billion.",
+        "chunk_id": "2021---16"
+    },
+    "88": {
+        "Question": "How much of Audi's capital expenditure in 2021 was used for the development of electric vehicles?",
+        "Answer": "More than 40 percent of Audi's total capital expenditure in 2021 was used for the development of electric vehicles.",
+        "OriginalText": "Today already, taxonomy-aligned capital expenditure, especially for development and property, plant and equipment, accounts for more than 40 percent of total capital expenditure in 2021.",
+        "chunk_id": "2021---17"
+    },
+    "89": {
+        "Question": "Which legal issue continued to impact Audi in 2021, involving individual and class action lawsuits in multiple countries?",
+        "Answer": "The diesel issue",
+        "OriginalText": "Individual and class action lawsuits brought by customers and/or environmental and consumer organizations are currently still pending against Volkswagen AG and other Volkswagen Group companies, including AUDI AG, in a number of countries.",
+        "chunk_id": "2021---18"
+    },
+    "90": {
+        "Question": "What was the total number of Lamborghini vehicles delivered worldwide in 2021, and how does it compare to the previous year?",
+        "Answer": "Lamborghini delivered 8,405 vehicles in 2021, a 13% increase compared to the previous year.",
+        "OriginalText": "Lamborghini finished the year 2021 with a remarkable record: 8,405 vehicles were delivered worldwide, an increase of 13 percent on the previous year.",
+        "chunk_id": "2021---19"
+    },
+    "91": {
+        "Question": "What was the operating return on sales (ROS) for Lamborghini in fiscal year 2021, and what is its target for 2030?",
+        "Answer": "Lamborghini's ROS in 2021 was 20.2%, and its target for 2030 is to achieve an ROS of over 25%.",
+        "OriginalText": "In fiscal year 2021, this key performance indicator reached 20.2 (16.2) percent, which is more than twice as high as in 2018. Lamborghini aims to achieve an ROS of over 25 percent from 2030.",
+        "chunk_id": "2021---19"
+    },
+    "92": {
+        "Question": "How much did Lamborghini's revenue increase in 2021 compared to 2020, and how does it compare to 2019?",
+        "Answer": "Lamborghini's revenue in 2021 increased by 19% compared to 2020 and by 4% compared to 2019.",
+        "OriginalText": "Lamborghini achieved record revenue of EUR 1.95 billion in 2021. This represents an increase of 19 percent compared with 2020 and 4 percent compared with 2019.",
+        "chunk_id": "2021---19"
+    },
+    "93": {
+        "Question": "How many vehicles of the Lamborghini Urus were delivered in 2021, and what was the percentage increase compared to the previous year?",
+        "Answer": "5,021 Lamborghini Urus vehicles were delivered in 2021, reflecting a 74% increase compared to the previous year.",
+        "OriginalText": "The most popular model with customers in 2021 was once again the Urus with 5,021 vehicles delivered (+74 percent).",
+        "chunk_id": "2021---19"
+    },
+    "94": {
+        "Question": "What significant milestone did the Lamborghini Huracán achieve in 2021, and what was its percentage increase in deliveries?",
+        "Answer": "The Lamborghini Huracán delivered 2,586 vehicles in 2021, reflecting an 18% increase in deliveries compared to the previous year.",
+        "OriginalText": "Next in line is the Huracán (2,586 vehicles, +18 percent), which saw a sharp rise in sales thanks to the strong impetus provided by the Huracán STO.",
+        "chunk_id": "2021---19"
+    },
+    "95": {
+        "Question": "How much is Audi earmarking for electrification and hybridization in 2021, and what percentage of the total investment does this represent?",
+        "Answer": "Audi earmarked EUR 18 billion for electrification and hybridization in 2021, representing nearly half of the total investment of EUR 37 billion.",
+        "OriginalText": "To drive forward its transformation to a provider of sustainable and connected premium mobility, Audi is earmarking around EUR 18 billion for electrification and hybridization based on the planning round approved at the end of 2021. With a total investment of around EUR 37 billion, almost half of the upfront expenditure is going into these future-oriented topics.",
+        "chunk_id": "2021---19"
+    },
+    "96": {
+        "Question": "What was Lamborghini's revenue in 2021, and how did it compare to 2020?",
+        "Answer": "Lamborghini's revenue in 2021 was EUR 1,948 million, a 19.4% increase compared to EUR 1,631 million in 2020.",
+        "OriginalText": "1,948 (2020: 1,631) $+19.4\\%$ EUR million",
+        "chunk_id": "2021---20"
+    },
+    "97": {
+        "Question": "What major environmental initiative did Lamborghini implement in 2021 to reduce CO₂ emissions?",
+        "Answer": "In 2021, Lamborghini switched the transportation of Urus bodies to rail, reducing CO₂ emissions by 85% compared to the previous year.",
+        "OriginalText": "Among the key projects was the launch of an initiative for more environmentally compatible logistics, which involved shifting the transportation of Urus bodies entirely to rail. This switch has helped reduce the $\\mathsf{C O}_{2}$ emissions associated with Urus logistics by 85 percent compared with the previous year.",
+        "chunk_id": "2021---20"
+    },
+    "98": {
+        "Question": "Which market was Ducati's second most important in 2021, and how many deliveries did it record there?",
+        "Answer": "Italy was Ducati's second most important market in 2021, with 8,707 deliveries, a 23% increase compared to the previous year.",
+        "OriginalText": "Italy (8,707 deliveries, +23 percent year-on-year)",
+        "chunk_id": "2021---20"
+    },
+    "99": {
+        "Question": "What percentage increase in deliveries did Ducati achieve in the USA in 2021, and how many deliveries were made?",
+        "Answer": "Ducati deliveries in the USA increased by 32%, reaching 9,007 units in 2021.",
+        "OriginalText": "USA (9,007 deliveries, +32 percent year-on-year)",
+        "chunk_id": "2021---20"
+    },
+    "100": {
+        "Question": "What was Ducati's operating return on sales (ROS) in 2021, and how did it compare to the previous year?",
+        "Answer": "Ducati's operating return on sales (ROS) in 2021 was 7.0%, up from 3.6% in 2020.",
+        "OriginalText": "7.0% $(2020;3.6\\%)$ $+3.4$ ppt.",
+        "chunk_id": "2021---20"
+    },
+    "101": {
+        "Question": "What were the key targets of Ducati's ROS from 2021 onwards, and what does the company aim to achieve by 2030?",
+        "Answer": "Ducati's target ROS for 2021-2030 is between 8-10%, with a goal of exceeding 10% by 2030.",
+        "OriginalText": "From 2030: > 10% Until then: 8–10%",
+        "chunk_id": "2021---20"
+    },
+    "102": {
+        "Question": "What was the main reason for the increase in operating profit in Audi's 2021 fiscal year?",
+        "Answer": "The increase in Audi's operating profit in 2021 was mainly due to a strong performance in price enforcement, which offset the impact of semiconductor shortages.",
+        "OriginalText": "Continued fixed-cost discipline in 2021 had a positive effect on the operating result of the Audi Group.  While overhead costs increased only slightly compared with the very low level in the previous year due to the pandemic, depreciation and amortization of property, plant and equipment saw a significant decline.",
+        "chunk_id": "2021---21"
+    },
+    "103": {
+        "Question": "How much did Audi save in CO2 emissions across its supply chain in 2021?",
+        "Answer": "Audi saved more than 480,000 metric tons of CO2 in its supply chain in 2021.",
+        "OriginalText": "A total of more than 480,000 metric tons of CO2 were saved in the supply chain in 2021.",
+        "chunk_id": "2021---22"
+    },
+    "104": {
+        "Question": "How much CO₂ was avoided through aluminum recycling in Audi's production sites in 2021?",
+        "Answer": "More than 195,000 metric tons of CO₂ were avoided through aluminum recycling in 2021.",
+        "OriginalText": "A total of more than 195,000 metric tons of CO₂ was avoided at the sites in Ingolstadt, Neckarsulm, Győr and the multi-brand site in Bratislava in collaboration with the suppliers concerned.",
+        "chunk_id": "2021---23"
+    },
+    "105": {
+        "Question": "What was Audi's CO₂ fleet target in Europe for 2021, and did the company meet this target?",
+        "Answer": "Audi surpassed its CO₂ fleet target for Europe, with a calculated CO₂ value of 122 g/km, which was below the legally prescribed limit of 129 g/km.",
+        "OriginalText": "Based on provisional figures, the company surpassed its CO₂ fleet targets for Europe within the Volkswagen emissions pool in 2021. With a calculated value of 122 g/km, Audi was below the legally prescribed 129 g/km.",
+        "chunk_id": "2021---24"
+    },
+    "106": {
+        "Question": "How did Audi's CO₂ fleet consumption in China change from 2020 to 2021?",
+        "Answer": "Audi's CO₂ fleet consumption in China increased from 7.9 l/100 km in 2020 to 8.4 l/100 km in 2021.",
+        "OriginalText": "Fleet consumption in China (fully built-up (FBU) vehicle for export) in 2021 was 8.4 l/100 km (2020: 7.9 l/100 km).",
+        "chunk_id": "2021---24"
+    },
+    "107": {
+        "Question": "What was the range of the Audi A6 Avant e-tron concept² in 2021, and how quickly can its battery recharge?",
+        "Answer": "The Audi A6 Avant e-tron concept² has a range of up to 700 kilometers (WLTP) and can recharge enough energy for around 300 kilometers in just 10 minutes.",
+        "OriginalText": "The Audi A6 Avant e-tron concept² achieves a range of up to 700 kilometers (WLTP). It takes just 10 minutes to 'fill up' enough energy for around 300 kilometers.",
+        "chunk_id": "2021---25"
+    },
+    "108": {
+        "Question": "What was the driving range of the Audi grandsphere concept in 2021 according to the WLTP standard?",
+        "Answer": "The Audi grandsphere concept had a range in excess of 750 kilometers (WLTP) in 2021.",
+        "OriginalText": "Together with a range in excess of 750 kilometers (WLTP), that makes the Audi grandsphere concept³ unquestionably fit for long-distance driving.",
+        "chunk_id": "2021---26"
+    },
+    "109": {
+        "Question": "Which Audi production sites were already net carbon-neutral in 2021?",
+        "Answer": "In 2021, the Audi production sites in Győr (Hungary) and Brussels were already net carbon-neutral.",
+        "OriginalText": "The plants in Győr (Hungary) and Brussels are already net carbon-neutral,¹ as is production of the Audi e-tron GT quattro² at the Böllinger Höfe site in Neckarsulm.",
+        "chunk_id": "2021---26"
+    },
+    "110": {
+        "Question": "What innovative method did Audi use to produce assembly tools from plastic waste in 2021?",
+        "Answer": "In 2021, Audi used 3D printers to create assembly tools from shredded plastic waste, such as packaging materials.",
+        "OriginalText": "In a pilot project in Neckarsulm, Audi employees are currently producing assembly tools themselves from plastic waste – with the help of 3D printers.",
+        "chunk_id": "2021---26"
+    },
+    "111": {
+        "Question": "How much did Audi reduce the design time for assembly equipment through 3D printing in 2021?",
+        "Answer": "In 2021, Audi reduced design time for assembly equipment by up to 80% through 3D printing.",
+        "OriginalText": "The 3D printing experts at the site have also developed their own software that can cut the design time for assembly equipment by up to 80 percent.",
+        "chunk_id": "2021---26"
+    },
+    "112": {
+        "Question": "How did Audi reduce resource usage in the painting process in 2021, and what is the main benefit of this innovation?",
+        "Answer": "In 2021, Audi implemented overspray-free painting (OFP), allowing two-color paint finishes in one process, reducing paint usage and eliminating the need for masking material.",
+        "OriginalText": "Saving costs and time while also protecting the environment – Audi achieves all this with overspray-free painting (OFP).This enables Audi to save resources and to offer its customers a further customization option through a contrasting paint finish. The paint shop in particular show how important the use of state-of-the-art technologies is for resource-friendly production.",
+        "chunk_id": "2021---26"
+    },
+    "113": {
+        "Question": "What technology did Audi use for the assembly of the Audi e-tron GT quattro in 2021, and what benefits does it offer?",
+        "Answer": "Audi used virtual reality (VR) to test assembly procedures and logistics processes for the Audi e-tron GT quattro in 2021, providing benefits such as time-saving, reduced material costs, and minimized carbon emissions by eliminating physical prototypes and business trips.",
+        "OriginalText": "The Audi e-tron GT quattro,² for example, is the first Audi model for which the assembly procedures and associated logistics processes were tested exclusively virtually and without any physical prototypes. With the help of virtual reality (VR), every work step and every action were simulated in advance in digital space.",
+        "chunk_id": "2021---27"
+    },
+    "114": {
+        "Question": "How much paint does Audi save by using overspray-free painting (OFP) technology in 2021?",
+        "Answer": "Audi saves paint and eliminates the need for masking material by using overspray-free painting (OFP) technology, reducing the thickness of individual paint coats by micrometers.",
+        "OriginalText": "OFP technology not only reduces the amount of paint used; it also eliminates the need for masking material. This enables Audi to save resources and to offer its customers a further customization option through a contrasting paint finish.Audi requires much less material simply because of improved application techniques that reduce the thickness of the individual paint coats by micrometers.",
+        "chunk_id": "2021---27"
+    },
+    "115": {
+        "Question": "What are the two main options Audi offers for the reuse of batteries in 2021, and what are their characteristics?",
+        "Answer": "The two main options Audi offers for the reuse of batteries in 2021 are remanufacturing, where batteries are used as replacement parts in electric vehicles, and second life, where batteries are used in stationary applications such as fast-charging stations.",
+        "OriginalText": "1. Remanufacturing: Due to its good to very good condition, the battery can be remanufactured and then used as a replacement part in an electric vehicle. 2. Second life: Due to its fair to good condition, the battery can have a second life outside an electric vehicle for many years to come, for example as stationary storage in a fast-charging station such as an Audi Charging Hub.",
+        "chunk_id": "2021---27"
+    },
+    "116": {
+        "Question": "How did Audi's CO2 emissions per vehicle change in 2021 compared to the previous year?",
+        "Answer": "Audi's CO2 emissions per vehicle increased slightly in 2021 compared to the previous year, due to factors like a weather-induced increase in natural gas usage and irregular production days.",
+        "OriginalText": "Despite the successful implementation of further $\\mathsf{C O}_{2}$ -reducing measures at the sites...total $\\mathsf{C O}_{2}$ emissions per vehicle (in kg) have risen slightly.",
+        "chunk_id": "2021---27"
+    },
+    "117": {
+        "Question": "What was the CO2 intensity per vehicle for Audi in 2021, and what were its contributing factors?",
+        "Answer": "The CO2 intensity per vehicle for Audi in 2021 was 288.69 kg CO2, influenced by factors like increased natural gas consumption and irregular production due to the coronavirus pandemic.",
+        "OriginalText": "The intensity quotient – the intensity of greenhouse gas emissions related to automotive production including component manufacture – amounted to $288.69\\,\\mathsf{k g}\\,\\mathsf{C}0_{2}$ per vehicle in the year under review.",
+        "chunk_id": "2021---27"
+    },
+    "118": {
+        "Question": "What role did BattMAN ReLife play in Audi's recycling efforts in 2021?",
+        "Answer": "BattMAN ReLife, developed by Audi Brussels in collaboration with Volkswagen Group Components, analyzed the condition of high-voltage batteries, enabling efficient recycling and conserving valuable resources in 2021.",
+        "OriginalText": "The BattMAN (Battery Monitoring Analysis Necessity) ReLife analysis software developed by Audi Brussels in collaboration with recycling experts at Volkswagen Group Components examines the condition of highvoltage batteries in a matter of minutes.",
+        "chunk_id": "2021---27"
+    },
+    "119": {
+        "Question": "In 2021, how much CO2 was avoided by Audi through aluminum recycling, and how does this figure compare to 2020 and 2019?",
+        "Answer": "Audi avoided a total of 195,000 metric tons of CO2 in 2021 through aluminum recycling, up from 165,000 in 2020 and 150,000 in 2019.",
+        "OriginalText": "A net total of more than 195,000 metric tons of CO2 (2020: 165,000; 2019: 150,000) were avoided in 2021.",
+        "chunk_id": "2021---28"
+    },
+    "120": {
+        "Question": "How does Audi ensure the sustainability of its environmental management across its production sites in 2021?",
+        "Answer": "Audi's production sites in Germany and abroad are accredited according to DIN EN ISO 14001 or DIN EN ISO 50001, and European sites are additionally validated under the EMAS standard to improve environmental performance.",
+        "OriginalText": "The Audi production sites in Germany and abroad have management systems accredited according to DIN EN ISO 14001 or DIN EN ISO 50001. The European sites, in particular, are validated additionally in accordance with the EMAS.",
+        "chunk_id": "2021---28"
+    },
+    "121": {
+        "Question": "In 2021, how many parts of the Audi Q4 e-tron contained recycled material, and what was the significance of this?",
+        "Answer": "In 2021, the Audi Q4 e-tron contained more than two dozen parts made from recycled material, highlighting Audi's commitment to sustainability and resource conservation.",
+        "OriginalText": "The Audi Q4 e-tron electric SUV has more than two dozen parts that contain a proportion of recycled material.",
+        "chunk_id": "2021---28"
+    },
+    "122": {
+        "Question": "What is the relationship between recycling plastics and the mechanical processing limits Audi faces in vehicle engineering as of 2021?",
+        "Answer": "Audi faces challenges in recycling plastics due to limits in mechanical processing, especially when mixed plastic waste, adhesives, fillers, or lacquers are used, which reduce the quality with each processing step.",
+        "OriginalText": "This mechanical recycling of plastic usually reaches its limits when mixed plastic waste is processed and different adhesives and fillers (e.g., glass fibers) or lacquers are used.",
+        "chunk_id": "2021---28"
+    },
+    "123": {
+        "Question": "How many Audi employees worldwide were working on the mobility of tomorrow in 2021?",
+        "Answer": "Over 85,000 Audi employees were working on the mobility of tomorrow in 2021.",
+        "OriginalText": "Over 85,000 Audi employees worldwide are working successfully on the mobility of tomorrow.",
+        "chunk_id": "2021---29"
+    },
+    "124": {
+        "Question": "What is the average weight of plastic parts used in an Audi vehicle in 2021?",
+        "Answer": "The average weight of plastic parts used in an Audi vehicle in 2021 is 250 kilograms.",
+        "OriginalText": "Some 250 kilograms of plastic parts are used on average today in an Audi.",
+        "chunk_id": "2021---29"
+    },
+    "125": {
+        "Question": "Which pilot project did Audi successfully complete in 2021 related to plastic recycling?",
+        "Answer": "Audi successfully completed the 'Chemical recycling of plastics in automotive engineering' pilot project in 2021.",
+        "OriginalText": "Audi is working with partner companies from research and industry on this method and successfully completed a pilot project in 2021.",
+        "chunk_id": "2021---29"
+    },
+    "126": {
+        "Question": "What transformation is Audi undergoing in its Technical Development division as of 2021, and who is leading this change?",
+        "Answer": "Audi's Technical Development is transitioning towards electric mobility and digitalization, led by Oliver Hoffmann, Audi's Board Member for Development since March 2021.",
+        "OriginalText": "Audi is setting standards for the company’s transition toward electric mobility and digitalization. Oliver Hoffmann, Audi Board Member for Development since March 2021, is leading this change.",
+        "chunk_id": "2021---29"
+    },
+    "127": {
+        "Question": "What significant shift did Audi's Technical Development undergo in 2021 regarding vehicle design?",
+        "Answer": "In 2021, Audi's Technical Development shifted to designing vehicles from the inside out, focusing on the interior as a living environment for customers.",
+        "OriginalText": "Instead of first designing the exterior, cars in the future will be conceived from the inside out. The interior is set to become a living environment for customers, thus dominating the entire design process.",
+        "chunk_id": "2021---30"
+    },
+    "128": {
+        "Question": "What specific change did Audi introduce in September 2020 to enhance its systems engineering approach?",
+        "Answer": "In September 2020, Audi introduced a formula to breathe life into systems engineering, emphasizing that project leads determine the 'what' and 'when', while Technical Development focuses on the 'who' and 'how'.",
+        "OriginalText": "A formula was devised in September 2020 to breathe life into systems engineering, and it still applies: 'The project leads, the line implements.'",
+        "chunk_id": "2021---30"
+    },
+    "129": {
+        "Question": "How many employees from Audi's Technical Development participated in transformation-related training programs in 2021?",
+        "Answer": "In 2021, around 6,000 employees from Audi's Technical Development participated in transformation-related training programs.",
+        "OriginalText": "In 2021 alone, around 6,000 participants from Technical Development took part in transformation-related training programs.",
+        "chunk_id": "2021---30"
+    },
+    "130": {
+        "Question": "What significant legislative act did the German Bundestag pass in June 2021 that impacted Audi?",
+        "Answer": "In June 2021, the German Bundestag passed the Act on Corporate Due Diligence in Supply Chains, which impacted Audi's operations.",
+        "OriginalText": "In June 2021, the German Bundestag passed the Act on Corporate Due Diligence in Supply Chains.",
+        "chunk_id": "2021---30"
+    },
+    "131": {
+        "Question": "How does Audi’s approach to vehicle development differ from traditional methods, according to their 2021 strategy?",
+        "Answer": "Audi's 2021 strategy emphasizes continuous development over cyclical thinking, ensuring models are continually improved, including through software updates.",
+        "OriginalText": "Instead of working toward individual milestones such as the start of production, the division acts like a tech company: The development of a model is never completed.",
+        "chunk_id": "2021---30"
+    },
+    "132": {
+        "Question": "How did Markus Zimmermann's role change in Audi's Technical Development in 2021?",
+        "Answer": "In 2021, Markus Zimmermann became responsible for battery modules in plug-in hybrids, ensuring that the batteries comply with safety and regulatory standards.",
+        "OriginalText": "Zimmermann is meanwhile responsible for battery modules in plug-in hybrids such as the Audi Q7¹ or Audi Q8.² His task is to ensure that the batteries comply with the requirements and safety regulations outlined in the specifications.",
+        "chunk_id": "2021---30"
+    },
+    "133": {
+        "Question": "How many Technical Development employees had undergone further training by 2021 since 2018, and what was the training focus?",
+        "Answer": "By 2021, about 500 Technical Development employees had pursued further training since 2018, focusing on electric mobility, high-voltage batteries, and other emerging technologies.",
+        "OriginalText": "Since 2018, about 500 Technical Development employees have already pursued further training in areas like electric mobility and high-voltage batteries.",
+        "chunk_id": "2021---30"
+    },
+    "134": {
+        "Question": "What new law did the German Bundestag pass in June 2021, and when will it come into effect?",
+        "Answer": "The German Bundestag passed the Act on Corporate Due Diligence in Supply Chains in June 2021, which will come into effect on January 1, 2023, for companies with at least 3,000 employees.",
+        "OriginalText": "In June 2021, the German Bundestag passed the Act on Corporate Due Diligence in Supply Chains, which will apply from January 1, 2023, to companies with at least 3,000 employees.",
+        "chunk_id": "2021---31"
+    },
+    "135": {
+        "Question": "How did Audi’s use of recycled aluminum impact its net carbon emissions in 2021?",
+        "Answer": "Audi reduced its net carbon emissions by over 195,000 metric tons in 2021 by increasing the use of recycled aluminum in its production.",
+        "OriginalText": "This enabled us to reduce our net carbon emissions by more than 195,000 metric tons in 2021.",
+        "chunk_id": "2021---32"
+    },
+    "136": {
+        "Question": "In 2021, how did Audi’s adoption of AI-assisted monitoring systems enhance the effectiveness of sustainability standards within its supply chain?",
+        "Answer": "Audi implemented AI-assisted monitoring through a system developed with Porsche and Volkswagen, which evaluates news from 150 countries. This system helps detect sustainability risks, enabling Audi to take timely action.",
+        "OriginalText": "For example, we have joined Porsche and Volkswagen in using technology from the Austrian start-up Prewave. The system collects publicly available news items in more than 50 languages from around 150 countries and evaluates them using AI.",
+        "chunk_id": "2021---32"
+    },
+    "137": {
+        "Question": "What progress did Audi make in 2021 in terms of recycling aluminum at its production sites?",
+        "Answer": "Audi made significant progress in recycling aluminum at its Ingolstadt, Neckarsulm, Győr, and Bratislava sites, establishing the Aluminium Closed Loop to increase the share of recycled aluminum.",
+        "OriginalText": "Our Ingolstadt, Neckarsulm and Győr sites and the multi-brand site in Bratislava have all established the Aluminium Closed Loop, with more sites to follow.",
+        "chunk_id": "2021---32"
+    },
+    "138": {
+        "Question": "What strategic initiative did Audi launch in 2022 to enhance diversity in business relationships?",
+        "Answer": "Audi launched the 'Supplier Diversity & Inclusion@ Audi' initiative in 2022 to promote greater variety and openness in its business relationships.",
+        "OriginalText": "With our 'Supplier Diversity & Inclusion@ Audi' initiative, we are promoting greater variety and openness and placing a stronger focus on diversity among our partners.",
+        "chunk_id": "2021---33"
+    },
+    "139": {
+        "Question": "What was the purpose of Audi's internal workshops in 2021 regarding the UN Sustainable Development Goals?",
+        "Answer": "The internal workshops were conducted to identify the SDGs to which Audi could make the greatest contribution with its core business.",
+        "OriginalText": "Internal workshops were conducted to identify the SDGs to which Audi can make the greatest contribution with its core business.",
+        "chunk_id": "2021---33"
+    },
+    "140": {
+        "Question": "Which Audi production sites achieved net carbon neutrality in 2021?",
+        "Answer": "Audi’s production sites in Győr and Brussels achieved net carbon neutrality in 2021.",
+        "OriginalText": "Győr and Brussels already net carbon-neutral.",
+        "chunk_id": "2021---33"
+    },
+    "141": {
+        "Question": "What was Audi's strategic shift regarding synthetic fuel production in 2021?",
+        "Answer": "Audi discontinued its strategic goal of producing synthetic fuels in 2021, with the Audi e-gas plant sold to an external company in March 2021.",
+        "OriginalText": "The production and marketing of synthetic fuels is no longer one of the company's strategic goals... The Audi power-to-gas plant (Audi e-gas plant in Werlte) was sold to an external company in March 2021.",
+        "chunk_id": "2021---33"
+    },
+    "142": {
+        "Question": "How did Audi's sustainability program contribute to the company's social responsibility in 2021?",
+        "Answer": "Audi's sustainability program in 2021 focused on four core topics: operations and integrity, products and services, value creation and production, and employees and society, contributing to its social responsibility.",
+        "OriginalText": "The Audi Sustainability Program combines strategic goals in the area of sustainability with specific measures. It is divided into the four core topics 'Operations and Integrity,' 'Products and Services,' 'Value Creation and Production,' and 'Employees and Society.'",
+        "chunk_id": "2021---33"
+    },
+    "143": {
+        "Question": "What percentage of the first management tier below the Board of Management in Audi met the gender diversity target by the end of 2021?",
+        "Answer": "The gender diversity target for the first management tier was 8.6%, and it was met by the end of 2021.",
+        "OriginalText": "The targets for the target corridor at the end of 2021 of 8.6 percent in the first management tier below the Board of Management and of 16.8 percent in the second management tier were both reached.",
+        "chunk_id": "2021---34"
+    },
+    "144": {
+        "Question": "Which countries were involved in Audi's supply chain for manufacturing vehicles in 2021, and which brands were associated with these operations?",
+        "Answer": "Audi's supply chain in 2021 involved China, where vehicles were manufactured by FAW-Volkswagen in Changchun and by SAIC Volkswagen in Shanghai.",
+        "OriginalText": "Audi vehicles are manufactured locally by the associated companies FAW-Volkswagen Automotive Co., Ltd., Changchun (China) and, from 2021, by SAIC Volkswagen Automotive Co., Ltd., Shanghai (China).",
+        "chunk_id": "2021---34"
+    },
+    "145": {
+        "Question": "What were the expected impacts of Audi's chemical recycling pilot project in 2021, and how does it fit into their sustainability efforts?",
+        "Answer": "Audi's chemical recycling pilot project, implemented as planned in 2021, is part of their broader strategy to accelerate circular economy concepts in the supply chain.",
+        "OriginalText": "Measure implemented as planned in 2021. See chemical recycling pilot project, for example. Circular economy concepts will continue to be accelerated in the supply chain.",
+        "chunk_id": "2021---34"
+    },
+    "146": {
+        "Question": "What is the date of the environmental data for Audi's sustainability key figures in the 2021 report?",
+        "Answer": "The environmental key figures for the current year are data as of January 27, 2022.",
+        "OriginalText": "The environmental key figures for the current year are data as of January 27, 2022.",
+        "chunk_id": "2021---35"
+    },
+    "147": {
+        "Question": "Which Audi sites are considered for the specific key figures in the 2021 sustainability report?",
+        "Answer": "The sites include Ingolstadt, Münchsmünster, Neckarsulm, Brussels, Győr, San José Chiapa, Sant’Agata Bolognese (Lamborghini), Bologna (Ducati), and Amphur Pluakdaeng (Ducati).",
+        "OriginalText": "Figures refer to the Ingolstadt, Münchsmünster, Neckarsulm, Brussels, Győr, San José Chiapa, Sant’Agata Bolognese (Lamborghini), Bologna (Ducati), Amphur Pluakdaeng (Ducati) sites.",
+        "chunk_id": "2021---35"
+    },
+    "148": {
+        "Question": "Which environmental emissions data does Audi report on in the 2021 sustainability figures?",
+        "Answer": "Audi reports on direct CO2 emissions, indirect CO2 emissions, VOC emissions, and direct NOx emissions.",
+        "OriginalText": "Direct CO2 emissions, indirect CO2 emissions, VOC emissions, direct NOx emissions.",
+        "chunk_id": "2021---35"
+    },
+    "149": {
+        "Question": "In the 2021 Audi sustainability report, which emissions are considered direct CO2 emissions?",
+        "Answer": "Direct CO2 emissions include those generated by the use of fuel at the plant and from the operation of test rigs.",
+        "OriginalText": "Direct CO2 emissions: This figure is made up of CO2 emissions generated by the use of fuel at the plant and CO2 emissions produced by the operation of test rigs.",
+        "chunk_id": "2021---35"
+    },
+    "150": {
+        "Question": "What significant process change affected the reporting of CO2 reductions in logistics in Audi's 2021 report?",
+        "Answer": "Since 2020, the CO2 reductions in logistics are reported in the following year due to a change in the reporting process.",
+        "OriginalText": "Since 2020, the key figure CO2 reductions in logistics has only been reported in the following year. The reason for this is the change in the reporting process.",
+        "chunk_id": "2021---35"
+    },
+    "151": {
+        "Question": "What is the total expenditure for Audi’s 'Last Cents' campaign, including the company top-up, in 2021?",
+        "Answer": "The total expenditure for Audi’s 'Last Cents' campaign in 2021, including the company top-up, was €282,904.00.",
+        "OriginalText": "Included in 2021: company top-up to the Christmas donation: €282,904.00.",
+        "chunk_id": "2021---35"
+    },
+    "152": {
+        "Question": "If the CO2 emissions intensity quotient for Audi is 450 kg CO2 per vehicle in 2021, how much total CO2 emissions would result from the production of 10,000 vehicles?",
+        "Answer": "The total CO2 emissions would be 4,500,000 kg CO2 (450 kg CO2 * 10,000 vehicles).",
+        "OriginalText": "Intensity quotients of greenhouse gas emissions: sum total of direct and indirect CO2 emissions per vehicle produced. Stated in kg of CO2 per vehicle.",
+        "chunk_id": "2021---35"
+    },
+    "153": {
+        "Question": "What is the role of Ernst & Young in the 2021 Audi Corporate Annual Report?",
+        "Answer": "Ernst & Young (EY) performed a limited assurance engagement on selected sustainability key figures and disclosures for 2021.",
+        "OriginalText": "The assurance engagement performed by Ernst & Young (EY) relates exclusively to the German version of the annual and sustainability report of Audi AG...for the period from 1 January to 31 December 2021.",
+        "chunk_id": "2021---36"
+    },
+    "154": {
+        "Question": "What is the scope of the assurance engagement by Ernst & Young for the 2021 Audi report?",
+        "Answer": "The engagement exclusively covers disclosures marked with the symbol 'Ω' in the report for 2021.",
+        "OriginalText": "Our engagement exclusively refers to the disclosures marked with the 'Ω' symbol in the German PDF-version of the report.",
+        "chunk_id": "2021---36"
+    },
+    "155": {
+        "Question": "What is the purpose of the limited assurance engagement conducted by Ernst & Young for Audi in 2021?",
+        "Answer": "The purpose is to express a conclusion with limited assurance on selected key figures and disclosures for 2021.",
+        "OriginalText": "Our responsibility is to express a conclusion with limited assurance on the selected key figures and disclosures that are marked with the symbol 'Ω' in the report based on our assurance engagement.",
+        "chunk_id": "2021---36"
+    },
+    "156": {
+        "Question": "What date was the assurance conclusion for the 2021 Audi report issued by Ernst & Young?",
+        "Answer": "The assurance conclusion was issued on March 16, 2022.",
+        "OriginalText": "Munich, 16 March 2022.",
+        "chunk_id": "2021---36"
+    },
+    "157": {
+        "Question": "What key figure disclosure process was part of the assurance procedures for the 2021 Audi report?",
+        "Answer": "Ernst & Young performed site visits and inspections to evaluate the reliability of reported data and processes for key figures.",
+        "OriginalText": "Conducting site visits to evaluate the processes for collecting, aggregating, and validating the data as well as the reliability of the reported data at group level.",
+        "chunk_id": "2021---36"
+    },
+    "158": {
+        "Question": "Which global standard did Audi follow for its sustainability performance in 2021?",
+        "Answer": "Audi followed the Global Reporting Initiative (GRI) Standards for its sustainability performance in 2021.",
+        "OriginalText": "The Audi Group is reporting on its sustainability performance for the year 2021 pursuant to the international standard of the Global Reporting Initiative (GRI).",
+        "chunk_id": "2021---37"
+    },
+    "159": {
+        "Question": "What specific option of the GRI Standards was used in the Audi 2021 report?",
+        "Answer": "The report was prepared in accordance with the 'core' option of the GRI Standards.",
+        "OriginalText": "This report was prepared in accordance with the “core” option of the GRI Standards.",
+        "chunk_id": "2021---37"
+    },
+    "160": {
+        "Question": "Which department within Audi was responsible for managing anti-corruption measures in 2021?",
+        "Answer": "The Compliance AUDI AG/ Management Systems (I/GC-A) department managed anti-corruption measures in 2021.",
+        "OriginalText": "Within the company, the department Compliance AUDI AG/ Management Systems (I/GC-A) helps ensure sustainable prevention of corruption.",
+        "chunk_id": "2021---37"
+    },
+    "161": {
+        "Question": "How many national and international participations did Audi support in its anti-corruption efforts in 2021?",
+        "Answer": "Audi supported 44 national and international participations in its anti-corruption efforts in 2021.",
+        "OriginalText": "In the year under review, 44 national and international participations were supported in the compliance focal area of anti-corruption.",
+        "chunk_id": "2021---37"
+    },
+    "162": {
+        "Question": "What system did Audi implement in late 2021 to help employees prevent corruption?",
+        "Answer": "In late 2021, Audi implemented an IT system to help employees avoid corruption and manage conflicts of interest.",
+        "OriginalText": "In late 2021, AUDI AG implemented an IT system to help employees avoid corruption and deal with conflicts of interest.",
+        "chunk_id": "2021---37"
+    },
+    "163": {
+        "Question": "What is the location and contact information for Audi's Financial Communication/Analytics department as per the 2021 report?",
+        "Answer": "Audi's Financial Communication/Analytics department is located at Auto-Union-Straße 1, 85045 Ingolstadt, Germany. Contact phone: +49 841 89-33985, email: ir@audi.de.",
+        "OriginalText": "AUDI AG Financial Communication/ Analytics, Investor Relations I/FU-23 Auto-Union-Straße 1 85045 Ingolstadt Germany Phone: +49 841 89-33985 email: ir@audi.de",
+        "chunk_id": "2021---37"
+    }
+}

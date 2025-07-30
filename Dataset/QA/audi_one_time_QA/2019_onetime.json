@@ -1,0 +1,872 @@
+{
+    "1": {
+        "Question": "What is Audi's long-term goal for carbon-neutral mobility, as stated in the 2019 Sustainability Report?",
+        "Answer": "Audi's long-term goal is to achieve net zero carbon emissions for the entire company by 2050.",
+        "OriginalText": "In the long term, we are pursuing a vision of carbon-neutral mobility and want to achieve net zero carbon emissions for the entire company by 2050.",
+        "chunk_id": "2019---1"
+    },
+    "2": {
+        "Question": "Who are the two Audi Board Members working toward the vision of zero-carbon mobility in 2019?",
+        "Answer": "Hildegard Wortmann and Peter Kössler are the Audi Board Members working toward the vision of zero-carbon mobility in 2019.",
+        "OriginalText": "They are working toward making the vision of zero-carbon mobility a reality – and ensuring that this reality ultimately bears four rings: Hildegard Wortmann, Board Member for Sales and Marketing, and Peter Kössler, Board Member for Production and Logistics.",
+        "chunk_id": "2019---1"
+    },
+    "3": {
+        "Question": "What role does sustainability play in Audi's corporate culture, according to Peter Kössler in 2019?",
+        "Answer": "Sustainability plays a fundamental role in Audi's new corporate culture, with a strong awareness among employees.",
+        "OriginalText": "There’s a new corporate culture at Audi and the awareness of sustainability plays a fundamental role in it.",
+        "chunk_id": "2019---1"
+    },
+    "4": {
+        "Question": "What is Audi's commitment to the Paris Agreement, as mentioned in the 2019 Sustainability Report?",
+        "Answer": "Audi, along with the entire Volkswagen Group, has committed to the goals of the Paris Agreement, aiming to limit global temperature rise to well below two degrees Celsius compared to pre-industrial levels.",
+        "OriginalText": "Audi, just like the entire Volkswagen Group, has expressly committed itself to the goals of the Paris Agreement, which aim to limit the global rise in temperature to well below two degrees Celsius compared with pre-industrial levels.",
+        "chunk_id": "2019---1"
+    },
+    "5": {
+        "Question": "What is Audi's target year for making all its sites carbon-neutral, as stated in the 2019 Sustainability Report?",
+        "Answer": "Audi aims to make all its sites carbon-neutral by 2025.",
+        "OriginalText": "The goal is to consistently reduce our environmental footprint – for example, with our 'Mission Zero' environmental program. This includes goals such as wanting to make all Audi sites carbon-neutral by 2025.",
+        "chunk_id": "2019---1"
+    },
+    "6": {
+        "Question": "What is the main focus of Audi's sustainability strategy, according to Hildegard Wortmann in 2019?",
+        "Answer": "Audi's sustainability strategy focuses on providing sustainable mobility that can be used with a clear conscience, while balancing social, environmental, and economic goals.",
+        "OriginalText": "Sustainability is much more than just reducing CO2 emissions with each kilometer traveled. This is why we focus on the overall picture at Audi. We act responsibly, transparently and with integrity and reconcile social, environmental and economic goals.",
+        "chunk_id": "2019---1"
+    },
+    "7": {
+        "Question": "How did Peter Kössler describe the importance of sustainability in Audi's corporate culture in 2019?",
+        "Answer": "Peter Kössler emphasized that sustainability is decisive for everyone's future and plays a fundamental role in Audi's new corporate culture.",
+        "OriginalText": "Sustainability isn’t a trendy topic that will just disappear from the agenda at some point. It’s decisive for everyone’s future. We as a brand have to be willing to be measured by that.",
+        "chunk_id": "2019---1"
+    },
+    "8": {
+        "Question": "What was Audi's carbon dioxide savings in 2019 from recycling aluminum?",
+        "Answer": "Audi saved around 150,000 tons of CO2 in 2019 by recycling aluminum.",
+        "OriginalText": "This enabled Audi to save around 150,000 tons of CO₂ on balance in 2019 alone.",
+        "chunk_id": "2019---2"
+    },
+    "9": {
+        "Question": "What is Audi's approach to reducing carbon emissions with its suppliers in 2019?",
+        "Answer": "Audi is working with its suppliers to reduce carbon emissions, especially in high-energy-demand materials like aluminum and steel.",
+        "OriginalText": "Audi is working with its suppliers to develop measures aimed at reducing carbon emissions. The Audi CO₂ program focuses on the production of materials that require a particularly high level of energy – namely aluminum and steel as well as battery components.",
+        "chunk_id": "2019---2"
+    },
+    "10": {
+        "Question": "What significant energy efficiency measures did Audi implement in 2019, and what were the results?",
+        "Answer": "In 2019, Audi implemented energy efficiency measures at various sites, including Ingolstadt, Neckarsulm, Brussels, Győr, and San José Chiapa. These measures saved over 71,300 megawatt hours of electricity and approximately 10,800 tons of CO2 emissions.",
+        "OriginalText": "Throughout the reporting year 2019, decarbonization was promoted through many projects. For example, numerous energy efficiency measures implemented as part of energy management at the sites in Ingolstadt, Neckarsulm, Brussels, Győr and San José Chiapa led to savings of more than 71,300 megawatt hours of electricity and approximately 10,800 tons of CO2 emissions.",
+        "chunk_id": "2019---3"
+    },
+    "11": {
+        "Question": "What new challenges does Audi foresee for dealers and workshops with the advent of electric mobility in 2019?",
+        "Answer": "Audi foresees new challenges for dealers and workshops, especially regarding high-voltage technology, which technicians need to be trained to handle as part of the transition to electric mobility.",
+        "OriginalText": "The advent of electric mobility will pose new challenges for both dealers and workshops. In addition to oil changes and spark plugs, mechatronics technicians must now also be able to handle issues such as high-voltage technology.",
+        "chunk_id": "2019---3"
+    },
+    "12": {
+        "Question": "What role does virtual reality training play in Audi's transition to electric mobility in 2019?",
+        "Answer": "In 2019, Audi used virtual reality training to help technicians familiarize themselves with high-voltage technology and components, such as batteries, to ensure they were well-prepared for the launch of electric vehicles.",
+        "OriginalText": "Thanks to virtual reality training sessions, employees can become acquainted with technologies such as high-voltage batteries in a realistic and safe manner.",
+        "chunk_id": "2019---3"
+    },
+    "13": {
+        "Question": "How did Audi's strategy change in May 2019, and what does it mean for the company's focus on sustainability?",
+        "Answer": "In May 2019, Audi presented its 'consistently Audi' strategy, placing sustainability at the core of its actions. This new strategy emphasized the importance of transparency and adaptability in achieving long-term success.",
+        "OriginalText": "The 'consistently Audi' strategy, which was presented in May 2019, is changing many things. As a result, sustainability has moved to the core of our entrepreneurial action, thus altering the way Audi reports on its activities within the context of 'consistently sustainable'.",
+        "chunk_id": "2019---3"
+    },
+    "14": {
+        "Question": "What is the name of the department responsible for the operationalization of the sustainability strategy at Audi in 2019?",
+        "Answer": "The Sustainability Strategy department.",
+        "OriginalText": "This is why the Sustainability Strategy department, which is responsible for the direction and operationalization of the sustainability strategy and is tasked with preparing this report, decided to adopt a new approach to reporting.",
+        "chunk_id": "2019---4"
+    },
+    "15": {
+        "Question": "What are the three focal points of Audi's Sustainability Roadmap mentioned in the 2019 report?",
+        "Answer": "Health, Climate, Resources.",
+        "OriginalText": "The roadmap’s content has three focal points: Health, Climate, Resources.",
+        "chunk_id": "2019---4"
+    },
+    "16": {
+        "Question": "In 2019, what was the goal of the 'consistently Audi' strategy introduced by Audi?",
+        "Answer": "The goal of the 'consistently Audi' strategy is to position Audi for the future and to play an instrumental role in shaping the transformation towards carbon-neutral mobility in the premium segment.",
+        "OriginalText": "The goal of the strategy is to position the company for the future, to play an instrumental role in shaping the transformation as we head into a new age of mobility and to be a pioneer of carbon-neutral mobility in the premium segment.",
+        "chunk_id": "2019---4"
+    },
+    "17": {
+        "Question": "What is the main purpose of the thematic map developed by Audi in the 2019 Sustainability Report?",
+        "Answer": "The thematic map allows the reader to see at a glance why topics were selected and understand the underlying strategy.",
+        "OriginalText": "To enhance understanding, the Sustainability Strategy department has developed a thematic map that allows the reader to see at a glance why topics were selected and understand the underlying strategy.",
+        "chunk_id": "2019---4"
+    },
+    "18": {
+        "Question": "How many members were in the Audi AG Board of Management at the time of the 2019 report?",
+        "Answer": "The Audi AG Board of Management consisted of seven members at the time of the 2019 report.",
+        "OriginalText": "At the time the report was completed, the AUDI AG Board of Management consisted of seven members.",
+        "chunk_id": "2019---5"
+    },
+    "19": {
+        "Question": "What was Audi's membership status in the UN Global Compact as of 2019?",
+        "Answer": "Audi was no longer a member of the UN Global Compact as of 2015, but it still emphasized its commitment to the principles of the Compact in 2019.",
+        "OriginalText": "In February 2012, AUDI AG joined the United Nations Global Compact as an independent company. The company has signed the Universal Declaration of Human Rights, the principles of the International Labour Organization and of the OECD, the principles of the Rio Declaration on Environment and Development and the UN Convention against Corruption. The company, as a subsidiary of Volkswagen AG, suspended its membership in the UN Global Compact effective November 12, 2015, in light of the diesel crisis.",
+        "chunk_id": "2019---5"
+    },
+    "20": {
+        "Question": "How many multi-stakeholder events did Audi hold in 2019 to engage with stakeholders?",
+        "Answer": "Audi held more than 100 multi-stakeholder events in 2019 to engage with political stakeholders and other key parties.",
+        "OriginalText": "At more than 100 events in 2019, Audi also engaged with political stakeholders from parliamentary authorities, ministries of Germany's Federal Government and Federal States, associations, non-governmental organizations.",
+        "chunk_id": "2019---5"
+    },
+    "21": {
+        "Question": "What specific event did Audi organize in 2019 to discuss its 'consistently Audi' strategy?",
+        "Answer": "Audi organized the Audi Dialog 2020 event in 2019, where more than 50 stakeholders gathered to discuss the 'consistently Audi' strategy.",
+        "OriginalText": "Of the many different events, Audi Dialog 2020 warrants a special mention. Focusing on the 'consistently Audi' strategy that was newly adopted in 2019, an intensive exchange took place with more than 50 stakeholders over two days in the Audi Conference Center at Munich Airport.",
+        "chunk_id": "2019---5"
+    },
+    "22": {
+        "Question": "What was the purpose of the Sustainability Steering Committee at Audi in 2019?",
+        "Answer": "The purpose of the Sustainability Steering Committee at Audi in 2019 was to ensure cross-divisional management of the sustainability strategic field of action and to propose decisions to the Board of Management.",
+        "OriginalText": "The department is also in charge of the Sustainability Steering Committee, which is composed of representatives of all divisions plus one representative from the Works Council. The Sustainability Steering Committee aims to ensure cross-divisional management of the sustainability strategic field of action.",
+        "chunk_id": "2019---5"
+    },
+    "23": {
+        "Question": "What role did the Audi Dialog play in 2019, and how many stakeholders were involved?",
+        "Answer": "The Audi Dialog 2020 was a key event in 2019, where more than 50 stakeholders gathered to exchange views on Audi's transformation towards sustainable mobility. The event took place over two days at the Audi Conference Center at Munich Airport.",
+        "OriginalText": "Of the many different events, Audi Dialog 2020 warrants a special mention. Focusing on the 'consistently Audi' strategy that was newly adopted in 2019, an intensive exchange took place with more than 50 stakeholders over two days in the Audi Conference Center at Munich Airport.",
+        "chunk_id": "2019---6"
+    },
+    "24": {
+        "Question": "What key topics were discussed during the Audi Dialog 2020 event in 2019?",
+        "Answer": "The topics discussed during the Audi Dialog 2020 included charging infrastructure, human rights – complaints mechanisms, digital responsibility, and the circular economy.",
+        "OriginalText": "In small groups of 20 to 25 people, Audi experts discussed four topic areas with relevant stakeholders: the charging infrastructure, human rights – complaints mechanisms, digital responsibility, and the circular economy.",
+        "chunk_id": "2019---6"
+    },
+    "25": {
+        "Question": "What was the focus of the parliamentary breakfast hosted by Audi at the 69th Berlin International Film Festival in 2019?",
+        "Answer": "The focus of the parliamentary breakfast at the 69th Berlin International Film Festival was Audi's electric mobility strategy and discussions on the social compatibility of electric mobility and the necessary actions for ramping up its adoption.",
+        "OriginalText": "A further high point was the parliamentary breakfast hosted as part of the 69th Berlin International Film Festival on the topic of the Audi electric mobility strategy. Discussions with some 70 participants, including members of the German Bundestag, focused critically on topics such as how socially compatible electric mobility can be and what is needed for the imminent ramping up of electric mobility.",
+        "chunk_id": "2019---6"
+    },
+    "26": {
+        "Question": "How many employees participated in the 'Responsibility Perspective' lecture series in 2019?",
+        "Answer": "In 2019, just under 3,000 employees participated in more than 25 lectures in the 'Responsibility Perspective' lecture series, which focused on compliance and sustainability in the working world.",
+        "OriginalText": "A total of just under 3,000 employees have taken part in more than 25 lectures since 2013. The topics of compliance and sustainability in the working world were addressed in 2019.",
+        "chunk_id": "2019---6"
+    },
+    "27": {
+        "Question": "What was the main purpose of the materiality analysis conducted by Audi in 2019?",
+        "Answer": "The main purpose of the 2019 materiality analysis was to identify the most relevant sustainability topics from the perspective of both internal and external stakeholders, which would guide Audi's sustainability strategy moving forward.",
+        "OriginalText": "In the 2019 year under review, Audi asked internal and external stakeholders for their assessment of relevant action areas in relation to sustainability issues (stakeholder relevance). Through this approach, the company identifies those topics that are particularly important – and that have a major impact.",
+        "chunk_id": "2019---6"
+    },
+    "28": {
+        "Question": "What percentage of the participants in Audi's 2019 materiality analysis came from Germany?",
+        "Answer": "In Audi's 2019 materiality analysis, 71% of the 3,206 participants were from Germany.",
+        "OriginalText": "Participants were asked to rate the importance of the topics on a scale of 1 ('very low') to 6 ('very high'). 3,206 opinions from respondents from Germany (71 percent), Europe (6 percent, without Germany), North America (13 percent), South America (3 percent), Asia (3 percent), Africa (1 percent), Australia and 'place of origin not specified' were assessed for the 2019 materiality matrix.",
+        "chunk_id": "2019---6"
+    },
+    "29": {
+        "Question": "What international organizations is Audi a member of in 2019 as part of its sustainability initiatives?",
+        "Answer": "In 2019, Audi was a member of several international organizations including the Aluminium Stewardship Initiative (ASI) in Australia, the Global Battery Alliance (World Economic Forum) in Switzerland, and the Responsible Minerals Initiative.",
+        "OriginalText": "Audi works in a variety of initiatives, associations, and work groups to discuss ecological, economic, and social issues in partnership with stakeholders. The list (right) of memberships and activities exemplifies the company’s dialogue with industry, politics, science, and society. Aluminium Stewardship Initiative (ASI), Australia; Global Battery Alliance (World Economic Forum), Switzerland; Responsible Minerals Initiative.",
+        "chunk_id": "2019---6"
+    },
+    "30": {
+        "Question": "How does Audi's sustainability strategy align business ethics with profitability in 2019?",
+        "Answer": "In 2019, Audi emphasized that ethical operations, including social responsibility and sustainability, are integral to its long-term profitability, aligning business success with ethical and environmental considerations.",
+        "OriginalText": "At Audi, ethical operations mean that the company has a responsibility to society. What follows is value-oriented action geared to sustainability, focusing on humankind, society and the environment. The aim is a win-win situation for all participants. In the long run, Audi will only be successful – and successful means profitable and oriented toward the common good – if the company succeeds in bringing ethics and results, conscience and profit, the environment and sales into constructive alignment.",
+        "chunk_id": "2019---6"
+    },
+    "31": {
+        "Question": "How many employees were reached by the 'Together4Integrity' program by the end of 2019?",
+        "Answer": "85,000 employees were reached by the end of 2019.",
+        "OriginalText": "T4I has already been implemented at over half of these entities, meaning that it has already reached some 85,000 of around 90,000 employees in total.",
+        "chunk_id": "2019---7"
+    },
+    "32": {
+        "Question": "How many reports of possible regulatory violations were received by Audi's whistleblower system in 2019?",
+        "Answer": "Audi's whistleblower system received 694 reports of possible regulatory violations in 2019.",
+        "OriginalText": "In 2019, 694 reports of possible regulatory violations were received.",
+        "chunk_id": "2019---7"
+    },
+    "33": {
+        "Question": "What was the focus of the compliance training measures Audi implemented in 2019?",
+        "Answer": "Training on the Audi Code of Conduct, anti-corruption, and money laundering prevention.",
+        "OriginalText": "Particular emphasis in 2019 was placed on comprehensive mandatory training for the Board of Management and all employees of AUDI AG on the subject of the Audi Code of Conduct as well as the international rollout of the measure to Audi subsidiaries.",
+        "chunk_id": "2019---8"
+    },
+    "34": {
+        "Question": "In 2019, how many compliance training measures were implemented by Audi?",
+        "Answer": "27 measures.",
+        "OriginalText": "The range of training available has more than doubled in the past two years from 11 measures in 2017 to 27 measures at the end of 2019.",
+        "chunk_id": "2019---8"
+    },
+    "35": {
+        "Question": "What was the total number of participants in compliance training sessions at Audi in 2019 compared to 2017?",
+        "Answer": "The number of participants tripled in 2019 compared to 2017.",
+        "OriginalText": "This more than tripled the number of participants who attended compliance training sessions compared to 2017.",
+        "chunk_id": "2019---8"
+    },
+    "36": {
+        "Question": "What was the compliance risk analysis conducted by Audi in 2019 aimed at?",
+        "Answer": "Systematically identifying risks and developing standard compliance measures.",
+        "OriginalText": "A Group-wide compliance risk analysis was carried out in the year under review to systematically identify risks. Standard compliance measures were developed and rolled out to reduce potential risks.",
+        "chunk_id": "2019---8"
+    },
+    "37": {
+        "Question": "How many integrity ambassadors did Audi appoint in 2019, and where were they located?",
+        "Answer": "Over 50 ambassadors in Ingolstadt and Neckarsulm.",
+        "OriginalText": "In 2019, over 50 ambassadors in Ingolstadt and Neckarsulm were selected and suitably empowered for their tasks.",
+        "chunk_id": "2019---8"
+    },
+    "38": {
+        "Question": "What was the significant topic addressed by Audi's Supervisory Board in 2019 related to compliance?",
+        "Answer": "The diesel issue and its transformation process.",
+        "OriginalText": "Resolving the diesel crisis again accounted for a significant portion of the Supervisory Board’s work in 2019.",
+        "chunk_id": "2019---8"
+    },
+    "39": {
+        "Question": "What is the total number of integrity ambassadors selected by Audi in 2019?",
+        "Answer": "Over 50 ambassadors",
+        "OriginalText": "In 2019, over 50 ambassadors in Ingolstadt and Neckarsulm were selected and suitably empowered for their tasks.",
+        "chunk_id": "2019---9"
+    },
+    "40": {
+        "Question": "How many markets participate in Audi's Customer Experience Management (CEM) study as of 2019?",
+        "Answer": "82 markets",
+        "OriginalText": "As many as 82 markets are currently taking part in the Audi CEM study.",
+        "chunk_id": "2019---10"
+    },
+    "41": {
+        "Question": "What percentage of respondents in the CEM survey provided voluntary feedback about the product in 2019?",
+        "Answer": "Around 80%",
+        "OriginalText": "Starting in 2020, a new question on satisfaction with the product was integrated as the final aspect of the CEM survey. In around 80% of all CEM interviews, respondents provide additional voluntary feedback about the product.",
+        "chunk_id": "2019---10"
+    },
+    "42": {
+        "Question": "What does Audi prioritize when developing products and services according to the 2019 report?",
+        "Answer": "Audi prioritizes focusing on customers' wishes and needs.",
+        "OriginalText": "It is no longer solely about what is technically possible. Instead, it is about focusing consistently on the wishes of customers.",
+        "chunk_id": "2019---10"
+    },
+    "43": {
+        "Question": "What is the purpose of the MMI privacy settings introduced by Audi in 2019?",
+        "Answer": "To allow customers to deactivate online services and make targeted decisions on data collection options.",
+        "OriginalText": "In the privacy settings of the MMI, customers can deactivate online services if they do not wish for their data to be collected and used.",
+        "chunk_id": "2019---10"
+    },
+    "44": {
+        "Question": "What is the revenue of Audi in 2019?",
+        "Answer": "EUR 55,680 million",
+        "OriginalText": "Revenue in 2019 This comprises all revenue generated by the Audi Group in the past fiscal year. In particular, these are proceeds from the sale of vehicles, engines and original spare parts.",
+        "chunk_id": "2019---11"
+    },
+    "45": {
+        "Question": "What percentage of Audi's return on investment (ROI) in 2019 was after CO₂ compliance?",
+        "Answer": "12.7%",
+        "OriginalText": "Return on investment The profitability of an investment is reflected in the return on investment (ROI). This key figure describes the percentage-based ratio of operating profit after tax to the company’s invested capital.",
+        "chunk_id": "2019---11"
+    },
+    "46": {
+        "Question": "How many logins did the Audi CEM portal receive per day on average in 2019?",
+        "Answer": "2,300 logins",
+        "OriginalText": "Around 15,000 users at the businesses accessing the CEM portal with the latest customer feedback, amounting to 2,300 logins each day.",
+        "chunk_id": "2019---11"
+    },
+    "47": {
+        "Question": "What was the operating profit of Audi in 2019?",
+        "Answer": "EUR 4,509 million",
+        "OriginalText": "This  \n\n# EUR 4,509 million  \n\nOperating profit 2019 This is the result achieved by Audi after deducting the cost of goods sold, distribution and general administrative expenses, taking into account the other operating result.",
+        "chunk_id": "2019---11"
+    },
+    "48": {
+        "Question": "What is Audi's target operating return on sales in the medium term as mentioned in the Audi 2019 Annual Report?",
+        "Answer": "9 to 11 percent",
+        "OriginalText": "Both programs have paved the way for Audi to once again achieve an operating return on sales in the strategic target corridor of 9 to 11 percent in the medium term.",
+        "chunk_id": "2019---12"
+    },
+    "49": {
+        "Question": "According to the Audi 2019 Annual Report, what is the expected cumulative effect on Audi's earnings by 2029 from the agreement mentioned?",
+        "Answer": "Around six billion euros",
+        "OriginalText": "agreement will produce a cumulative effect on earnings of around six billion euros by 2029.",
+        "chunk_id": "2019---12"
+    },
+    "50": {
+        "Question": "How many employees participated in the AUDI AG 'Stimmungsbarometer' survey in 2019?",
+        "Answer": "40,886 employees",
+        "OriginalText": "40,886 (2018: 42,173) employees took part in the AUDI AG 'Stimmungsbarometer' in 2019.",
+        "chunk_id": "2019---13"
+    },
+    "51": {
+        "Question": "What was the main focus of the Audi Works Council in 2019?",
+        "Answer": "The reduction of stress factors and risks at work, and increasing the overall quality of time spent at the company.",
+        "OriginalText": "The main topics in the period under review were – in addition to the projects described in the chapter “Employees & Society” regarding the handling of the digital transformation as well as co-determination and corporate culture at Audi – the reduction of stress factors and risks at work that impact physical and especially mental health.",
+        "chunk_id": "2019---13"
+    },
+    "52": {
+        "Question": "Which research unit at Audi focused on improving traffic safety in 2019?",
+        "Answer": "Audi Accident Research Unit (AARU)",
+        "OriginalText": "The AARU (Audi Accident Research Unit) carries out important work in the field of accident prevention. Its findings help improve traffic safety.",
+        "chunk_id": "2019---13"
+    },
+    "53": {
+        "Question": "What was the setting of the interdisciplinary case review held in November 2019 by Audi?",
+        "Answer": "A meeting room at Technical Development in Ingolstadt.",
+        "OriginalText": "On this Friday in November 2019, around 20 experts from various fields are sitting in a meeting room at Technical Development in Ingolstadt.",
+        "chunk_id": "2019---13"
+    },
+    "54": {
+        "Question": "How many servers did Audi's carbon-neutral data center in Norway operate with by the end of 2019?",
+        "Answer": "Approximately 2,800 servers",
+        "OriginalText": "At the end of 2019, the data center had approximately 2,800 servers.",
+        "chunk_id": "2019---13"
+    },
+    "55": {
+        "Question": "In 2019, what was the purpose of the interdisciplinary accident analysis involving Audi, the University Hospital Regensburg, and other experts?",
+        "Answer": "To investigate the circumstances of accidents and make mobility and cars safer.",
+        "OriginalText": "They are all working to make mobility in general and cars in particular safer by investigating the circumstances of accidents.",
+        "chunk_id": "2019---13"
+    },
+    "56": {
+        "Question": "What technology did Audi use to analyze accident scenes for better safety in 2019?",
+        "Answer": "Drone photography to create a data cloud of the location.",
+        "OriginalText": "Often, a drone is used to take a lot of photos at the site of the accident, which creates a data cloud of the location.",
+        "chunk_id": "2019---13"
+    },
+    "57": {
+        "Question": "What is the estimated annual CO2 savings from the carbon-neutral data center in Rjukan by the end of 2019?",
+        "Answer": "The data center saves more than 5,800 metric tons of CO2 annually.",
+        "OriginalText": "The plant in Rjukan saves more than 5,800 metric tons of CO2 annually compared with a conventionally operated data center.",
+        "chunk_id": "2019---14"
+    },
+    "58": {
+        "Question": "Which Audi model won the Golden Steering Wheel in the large SUV (C-SUV) category in 2019?",
+        "Answer": "The Audi e-tron won the Golden Steering Wheel.",
+        "OriginalText": "In 2019, the e-tron was awarded the Golden Steering Wheel in the large SUV (C-SUV) category.",
+        "chunk_id": "2019---14"
+    },
+    "59": {
+        "Question": "What was the main achievement for Audi in 2019 concerning internal combustion engines, particularly the 2.0 TFSI engine?",
+        "Answer": "The 2.0 TFSI engine won the 'International Engine of the Year' award in the category of engines with 150 to 250 metric horsepower.",
+        "OriginalText": "In 2019, Audi received the 'International Engine of the Year' award for the 2.0 TFSI in the category of engines with 150 to 250 metric horsepower.",
+        "chunk_id": "2019---14"
+    },
+    "60": {
+        "Question": "How many fast-charging stations were operating in Europe at the end of 2019 through the IONITY network?",
+        "Answer": "130 stations",
+        "OriginalText": "At the end of 2019, 130 stations were operating along Europe’s main transport arteries and highways.",
+        "chunk_id": "2019---15"
+    },
+    "61": {
+        "Question": "What was the expected average CO2 emissions for newly registered Audi vehicles in the European Union in 2019?",
+        "Answer": "131 g/km",
+        "OriginalText": "Based on provisional calculations, the average CO2 emissions of newly registered Audi vehicles in the European Union are expected to be around 131 g/km in 2019.",
+        "chunk_id": "2019---15"
+    },
+    "62": {
+        "Question": "By how much did fleet fuel economy in China improve in 2019 compared to 2018?",
+        "Answer": "1.61 L/100 km",
+        "OriginalText": "Fleet fuel economy in China (FBU) in 2019 was 5.9 L/100 km (2018: 7.51/100 km).",
+        "chunk_id": "2019---15"
+    },
+    "63": {
+        "Question": "What was the focus of Audi's efforts regarding fuel cell technology in 2019?",
+        "Answer": "There was less focus on fuel cell technology in 2019 than on electric drive systems.",
+        "OriginalText": "In 2019, there was less focus on fuel cell technology (h-tron) than on electric drive systems.",
+        "chunk_id": "2019---15"
+    },
+    "64": {
+        "Question": "How many charging points were available through the Audi e-tron Charging Service by the end of 2019 in Europe?",
+        "Answer": "More than 145,000 charging points",
+        "OriginalText": "The network already encompasses 24 European countries with more than 145,000 charging points.",
+        "chunk_id": "2019---15"
+    },
+    "65": {
+        "Question": "In what year does Audi plan to achieve significant reduction in fleet emissions in CO2 emissions, according to its 2019 projections?",
+        "Answer": "2020",
+        "OriginalText": "In 2020, AUDI AG is predicting significant reductions in fleet emissions, primarily through the much higher availability of fully electric models and PHEVs.",
+        "chunk_id": "2019---15"
+    },
+    "66": {
+        "Question": "How many people were surveyed in Audi's study on autonomous driving in 2019?",
+        "Answer": "Audi surveyed 21,000 people in 2019.",
+        "OriginalText": "In a large-scale online study, Audi investigated the readiness of 21,000 people from nine countries on three continents.",
+        "chunk_id": "2019---16"
+    },
+    "67": {
+        "Question": "What percentage of people expressed curiosity about autonomous driving according to the survey in 2019?",
+        "Answer": "62 percent of people expressed curiosity about autonomous driving.",
+        "OriginalText": "there is a great deal of curiosity (62 percent) regarding autonomous driving.",
+        "chunk_id": "2019---16"
+    },
+    "68": {
+        "Question": "In 2019, what percentage of Audi survey participants saw the potential for easier access to mobility with autonomous vehicles?",
+        "Answer": "76 percent of survey participants saw the potential for easier access to mobility with autonomous vehicles.",
+        "OriginalText": "From easier access to mobility (76 percent) to greater comfort (72 percent) to increased safety (59 percent).",
+        "chunk_id": "2019---16"
+    },
+    "69": {
+        "Question": "What is the goal of Audi's involvement in the recycling process, according to the 2019 report?",
+        "Answer": "Audi's goal is to create a circular economy by recycling valuable raw materials from vehicles.",
+        "OriginalText": "The goal is to create a circular economy.  For this to succeed, the recycling phase must be taken into account as early as the development of a new vehicle.",
+        "chunk_id": "2019---16"
+    },
+    "70": {
+        "Question": "In 2019, what new service did Audi launch in Ingolstadt to optimize traffic flows?",
+        "Answer": "Audi launched the Audi traffic light information service in Ingolstadt in 2019.",
+        "OriginalText": "Review, July 2019: In the German city of Ingolstadt, Audi is working with the office for traffic management and geoinformation to optimize traffic flows with the aid of digital tools.",
+        "chunk_id": "2019---17"
+    },
+    "71": {
+        "Question": "How many traffic lights in Ingolstadt were integrated into the Audi traffic light information service by the middle of 2019?",
+        "Answer": "94 of the 160 traffic lights in Ingolstadt were integrated by the middle of 2019.",
+        "OriginalText": "After just a few months, 94 of the 160 traffic lights in the Ingolstadt city area have already been integrated into the V2I service.",
+        "chunk_id": "2019---17"
+    },
+    "72": {
+        "Question": "What was the Human Readiness Index (HRI) for respondents in China according to the 2019 survey on autonomous driving?",
+        "Answer": "The HRI for respondents in China was +5.1.",
+        "OriginalText": "With an HRI of +5.1 the Chinese lead the ranking.",
+        "chunk_id": "2019---17"
+    },
+    "73": {
+        "Question": "What percentage of respondents in the 2019 survey about autonomous driving expressed interest in trying self-driving cars?",
+        "Answer": "More than half of the respondents would like to try autonomous driving.",
+        "OriginalText": "More than half of the respondents would like to try autonomous driving.",
+        "chunk_id": "2019---17"
+    },
+    "74": {
+        "Question": "Which two autonomous concept cars were mentioned in the 2019 report as examples of Audi's progress in self-driving technology?",
+        "Answer": "The Audi AI:ME and Audi AI:CON were mentioned as examples.",
+        "OriginalText": "The Audi AI:ME and Audi AI:CON illustrate impressively how this could work and what it could look like in the future.",
+        "chunk_id": "2019---17"
+    },
+    "75": {
+        "Question": "What percentage of respondents in the 2019 survey on autonomous driving expressed concerns about loss of control?",
+        "Answer": "70 percent of respondents were concerned about loss of control.",
+        "OriginalText": "Many people are clearly concerned, mainly about loss of control (70 percent) and technically unavoidable residual risks (66 percent).",
+        "chunk_id": "2019---17"
+    },
+    "76": {
+        "Question": "In 2019, which American cities had over 1,600 intersections integrated into Audi's vehicle-to-infrastructure service?",
+        "Answer": "Washington, D.C. had over 1,600 intersections integrated into the service by 2019.",
+        "OriginalText": "The service is now available at more than 10,000 intersections in North America, with around 2,000 of those in Manhattan in New York City and more than 1,600 around the US capital, Washington, D.C.",
+        "chunk_id": "2019---17"
+    },
+    "77": {
+        "Question": "In 2019, Audi achieved a significant milestone with the recycling of raw materials from high-voltage batteries. What percentage of cobalt and nickel from the Audi e-tron batteries can be recovered?",
+        "Answer": "Over 90%",
+        "OriginalText": "In the year under review, Audi successfully pursued a strategic research partnership for battery recycling. The result: Over 90 percent of the cobalt and nickel from the high-voltage batteries of the Audi e-tron can be recovered.",
+        "chunk_id": "2019---18"
+    },
+    "78": {
+        "Question": "Which vehicle models manufactured from mid-2019 are required for Audi's traffic light information service?",
+        "Answer": "Audi e-tron, A4, A5, A6, A7, A8, Q3, Q7, and Q8",
+        "OriginalText": "Models: Audi e-tron, A4, A5, A6, A7, A8, Q3, Q7, and Q8 manufactured from the middle of 2019 (“2020 model”).",
+        "chunk_id": "2019---18"
+    },
+    "79": {
+        "Question": "What percentage of an end-of-life vehicle's (ELV) net weight is required to be subject to reuse or recovery, according to the German End-of-Life Vehicle Ordinance in 2019?",
+        "Answer": "At least 95%",
+        "OriginalText": "Since 2015 that, of the average net weight of an end-of-life vehicle (ELV), at least 95 percent be subject to reuse or recovery relative to the total number of ELVs in a given year.",
+        "chunk_id": "2019---18"
+    },
+    "80": {
+        "Question": "Which city was a key location where Audi tested using recycled high-voltage batteries for forklift trucks and tractor units in 2019?",
+        "Answer": "Ingolstadt",
+        "OriginalText": "Among the many potential applications examined by Audi in this regard, in the year under review the company investigated using such batteries in forklift trucks and tractor units at the main plant in Ingolstadt.",
+        "chunk_id": "2019---18"
+    },
+    "81": {
+        "Question": "In 2019, what was one of the key challenges identified by Audi's circular economy (CE) expert Dennis Christian Meinen?",
+        "Answer": "Decoupling economic growth from excessive consumption of resources while increasing quality of life and reducing emissions.",
+        "OriginalText": "One of the key challenges of this century involves decoupling economic growth from excessive consumption of resources – while increasing average quality of life and reducing emissions at the same time.",
+        "chunk_id": "2019---18"
+    },
+    "82": {
+        "Question": "What is Audi's approach to reducing CO2 emissions in the supply chain in 2019?",
+        "Answer": "In 2019, Audi focused on reducing CO2 emissions by improving processes in the supply chain, particularly in the use of steel and aluminum, resulting in savings of 300,000 metric tons of CO2.",
+        "OriginalText": "In the 2019 year under review, the Audi $\\mathsf{C O}_{2}$ program in the supply chain focused on the use of steel and aluminum, since these materials are especially energy-intensive to manufacture. During more than 30 workshops conducted with suppliers, over 50 measures were developed, which together identify a savings potential of 1.2 metric tons of $\\mathsf{C O}_{2}$ per vehicle. Total savings of 300,000 metric tons of $\\mathsf{C O}_{2}$ on balance were achieved in the 2019 year under review, thanks to the actions taken by Audi in the supply chain.",
+        "chunk_id": "2019---19"
+    },
+    "83": {
+        "Question": "How many suppliers were involved in the Carbon Disclosure Project (CDP) Supply Chain Program in 2019?",
+        "Answer": "In 2019, over 280 suppliers participated in the Carbon Disclosure Project (CDP) Supply Chain Program.",
+        "OriginalText": "In 2019, the Group significantly expanded the number of suppliers surveyed as part of the SCP regarding responsibility for climate and water to more than 280 suppliers.",
+        "chunk_id": "2019---19"
+    },
+    "84": {
+        "Question": "How much CO2 emissions did Audi's suppliers reduce by in 2019?",
+        "Answer": "In 2019, Audi’s suppliers reduced their overall CO2 emissions by a total of 8.05 million tons compared to the previous year.",
+        "OriginalText": "According to suppliers’ selfassessments, they reduced their overall emissions by a total of 8.05 million tons of $\\mathsf{C O}_{2}$ compared with the previous year.",
+        "chunk_id": "2019---19"
+    },
+    "85": {
+        "Question": "What is the focus of Audi's CO2 program in 2019 regarding materials?",
+        "Answer": "In 2019, Audi's CO2 program in the supply chain specifically focused on reducing the carbon footprint of steel and aluminum production due to their energy-intensive nature.",
+        "OriginalText": "In the 2019 year under review, the Audi $\\mathsf{C O}_{2}$ program in the supply chain focused on the use of steel and aluminum, since these materials are especially energy-intensive to manufacture.",
+        "chunk_id": "2019---19"
+    },
+    "86": {
+        "Question": "How many suppliers were surveyed by the Volkswagen Group in 2019 as part of the Carbon Disclosure Project (CDP) Supply Chain Program?",
+        "Answer": "In 2019, more than 280 suppliers were surveyed.",
+        "OriginalText": "In 2019, the Group significantly expanded the number of suppliers surveyed as part of the SCP regarding responsibility for climate and water to more than 280 suppliers.",
+        "chunk_id": "2019---20"
+    },
+    "87": {
+        "Question": "What was the total amount of CO2 emissions reduced by suppliers in 2019 according to their self-assessments?",
+        "Answer": "The suppliers reduced their overall emissions by 8.05 million tons of CO2 in 2019.",
+        "OriginalText": "According to suppliers’ selfassessments, they reduced their overall emissions by a total of 8.05 million tons of $\\mathsf{C O}_{2}$ compared with the previous year.",
+        "chunk_id": "2019---20"
+    },
+    "88": {
+        "Question": "What percentage of renewable electrical energy did the suppliers report using in 2019?",
+        "Answer": "The suppliers reported using 23% renewable electrical energy in 2019.",
+        "OriginalText": "The suppliers put the proportion of renewable electrical energy at 23 percent.",
+        "chunk_id": "2019---20"
+    },
+    "89": {
+        "Question": "How many suppliers provided self-assessment information to the Volkswagen Group in 2019?",
+        "Answer": "In 2019, a total of 12,646 suppliers provided self-assessment information.",
+        "OriginalText": "In 2019, a total of 12,646 suppliers already provided the Volkswagen Group with information in this way.",
+        "chunk_id": "2019---20"
+    },
+    "90": {
+        "Question": "What was the total number of sustainability assessor visits conducted by the Volkswagen Group in 2019?",
+        "Answer": "The Volkswagen Group conducted 1,331 sustainability assessor visits in 2019.",
+        "OriginalText": "Such an assessor was deployed on behalf of the VW Group 1,331 times in 2019.",
+        "chunk_id": "2019---20"
+    },
+    "91": {
+        "Question": "What was the impact of the 'Sustainability Talks' held in 2019 on suppliers' S-Rating?",
+        "Answer": "Fifty-five percent of suppliers who received training improved their S-Rating after participating in the 'Sustainability Talks'.",
+        "OriginalText": "Fifty-five percent of the suppliers who received training were able to improve their S-Rating following participation in the “Sustainability Talks.”",
+        "chunk_id": "2019---20"
+    },
+    "92": {
+        "Question": "How much fresh water is saved annually by Audi’s Ingolstadt site through its new process water supply center, which was commissioned in 2019?",
+        "Answer": "Up to 300,000 cubic meters",
+        "OriginalText": "Audi achieved another milestone on the road toward consistently sustainable production of cars at its plant in Ingolstadt, where the company commissioned a new process water supply center in 2019...thus saving up to 300,000 cubic meters of fresh water each year.",
+        "chunk_id": "2019---21"
+    },
+    "93": {
+        "Question": "How does Audi aim to achieve greater transparency in its raw material supply chains, as mentioned in the 2019 report?",
+        "Answer": "By piloting blockchain technology",
+        "OriginalText": "For this reason, the Group is currently piloting the use of blockchain technology, among others, in global and complex supply chains.",
+        "chunk_id": "2019---21"
+    },
+    "94": {
+        "Question": "What milestone did Audi achieve at its Ingolstadt plant in 2019 regarding water usage?",
+        "Answer": "Audi commissioned a new process water supply center at its Ingolstadt plant in 2019, which helps save up to 300,000 cubic meters of fresh water each year.",
+        "OriginalText": "Audi achieved another milestone on the road toward consistently sustainable production of cars at its plant in Ingolstadt, where the company commissioned a new process water supply center in 2019. Together with the former treatment plant, a large proportion of the wastewater generated at the site can be fed into a cycle and treated for reuse, thus saving up to 300,000 cubic meters of fresh water each year.",
+        "chunk_id": "2019---22"
+    },
+    "95": {
+        "Question": "What is the total CO2 emissions for the Audi Group in 2019, and how does this compare to the previous year?",
+        "Answer": "The Audi Group emitted a total of 572,804 metric tons of CO2 in 2019, a reduction of 7.48% compared to the previous year.",
+        "OriginalText": "A total of 572,804 metric tons of CO2 were emitted throughout the Audi Group in 2019. This represents a reduction of 7.48 percent on the previous year.",
+        "chunk_id": "2019---22"
+    },
+    "96": {
+        "Question": "How much energy did the Audi Group consume in total in 2019, and what was the percentage reduction compared to 2018?",
+        "Answer": "Audi Group consumed a total of 2,677,678 MWh of energy in 2019, a 3.52% reduction compared to 2018.",
+        "OriginalText": "In the year under review, absolute energy consumption within the organization amounted to 2,677,678 MWh. Compared with the previous year (2018: 2,775,442 MWh), this represents a reduction of around 3.52 percent.",
+        "chunk_id": "2019---22"
+    },
+    "97": {
+        "Question": "How much CO₂ was emitted by Audi Group in 2019, and how does it compare to 2018?",
+        "Answer": "Audi Group emitted 572,804 metric tons of CO₂ in 2019, a 7.48% reduction compared to 2018.",
+        "OriginalText": "A total of 572,804 metric tons of CO₂ were emitted throughout the Audi Group in 2019. This represents a reduction of 7.48 percent on the previous year.",
+        "chunk_id": "2019---23"
+    },
+    "98": {
+        "Question": "What was Audi Group's energy consumption in 2019, and how does it compare to 2018?",
+        "Answer": "Audi Group's energy consumption in 2019 was 2,677,678 MWh, a reduction of 3.52% compared to 2,775,442 MWh in 2018.",
+        "OriginalText": "In the year under review, absolute energy consumption within the organization amounted to 2,677,678 MWh. Compared with the previous year (2018: 2,775,442 MWh), this represents a reduction of around 3.52 percent.",
+        "chunk_id": "2019---23"
+    },
+    "99": {
+        "Question": "What was the intensity of greenhouse gas emissions in Audi's automotive production in 2019?",
+        "Answer": "The intensity of greenhouse gas emissions in Audi's automotive production, including component manufacturing, was 572.99 kg/veh. in 2019.",
+        "OriginalText": "The intensity of greenhouse gas emissions relating to automotive production including component manufacturing was 572.99 kg/veh. for the year under review.",
+        "chunk_id": "2019---23"
+    },
+    "100": {
+        "Question": "What was Audi's total waste generation in 2019, and how did it change compared to the previous year?",
+        "Answer": "Audi generated 107,389 metric tons of waste in 2019, which was a marginal increase of 0.29% compared to the previous year.",
+        "OriginalText": "Group-wide, a total of 107,389 metric tons of waste (excluding scrap) were generated in the year under review. Year on year, the total volume of waste only increased marginally by 0.29 percent.",
+        "chunk_id": "2019---23"
+    },
+    "101": {
+        "Question": "How much hazardous waste did Audi produce in 2019, and what is its management strategy?",
+        "Answer": "In 2019, Audi produced 40,683 metric tons of hazardous waste, which is managed in compliance with local statutory requirements.",
+        "OriginalText": "Audi is aware of the various conditions and local statutory requirements concerning the recycling of hazardous waste (2019: 40,683 t) and complies with them.",
+        "chunk_id": "2019---23"
+    },
+    "102": {
+        "Question": "How many patents did Audi register in 2019?",
+        "Answer": "Audi registered more than 1,200 patents in 2019.",
+        "OriginalText": "The company registered more than 1,200 patents in the 2019 year under review.",
+        "chunk_id": "2019---23"
+    },
+    "103": {
+        "Question": "What was the significant environmental achievement at Audi's Ingolstadt plant in 2019 regarding water consumption?",
+        "Answer": "Audi's Ingolstadt plant achieved a significant reduction in water consumption in 2019, partly due to the commissioning of a membrane bioreactor.",
+        "OriginalText": "A major issue within Audi’s environmental policy is the efficient use of natural resources such as water. In 2019, the Audi Group reduced water consumption significantly in comparison with previous years. One of the main reasons for this was the commissioning of a membrane bioreactor at the Ingolstadt plant.",
+        "chunk_id": "2019---23"
+    },
+    "104": {
+        "Question": "How many patents did Audi register in 2019?",
+        "Answer": "Audi registered more than 1,200 patents in 2019.",
+        "OriginalText": "The company registered more than 1,200 patents in the 2019 year under review.",
+        "chunk_id": "2019---24"
+    },
+    "105": {
+        "Question": "How many employees attended training events in Germany in 2019?",
+        "Answer": "In Germany, over 33,000 employees attended one or more qualification courses in 2019.",
+        "OriginalText": "In Germany, where there were 10,866 training events, over 33,000 employees attended one or more qualification courses in 2019.",
+        "chunk_id": "2019---25"
+    },
+    "106": {
+        "Question": "What is the total number of training events held by Audi worldwide in 2019?",
+        "Answer": "Audi held 20,694 training events worldwide in 2019.",
+        "OriginalText": "During the year under review, the Audi Group held 20,694 training events worldwide with 1.7 million participant hours.",
+        "chunk_id": "2019---25"
+    },
+    "107": {
+        "Question": "How many participants were trained by Audi Academy for electric mobility in 2019?",
+        "Answer": "The Audi Academy qualified around 8,000 participants worldwide for electric mobility in 2019.",
+        "OriginalText": "In 2019, the Audi Academy qualified around 8,000 participants worldwide for electric mobility.",
+        "chunk_id": "2019---25"
+    },
+    "108": {
+        "Question": "How many employees were newly recruited by Audi Group in 2019?",
+        "Answer": "4,214 employees were newly recruited within the Audi Group in 2019.",
+        "OriginalText": "At the close of 2019, the Audi Group employed a total of 90,640 people (2018: 91,674), with an average of 90,783 employees (2018: 91,477) over the year. This represents a year-on-year decrease of 1,034 employees (year-end figure) or around 0.76 percent (annual average). Of the total of 4,214 (2018: 5,004) employees newly recruited within the Audi Group, 1,310 (2018: 1,628) were taken on by AUDI AG.",
+        "chunk_id": "2019---26"
+    },
+    "109": {
+        "Question": "How many employees attended training courses at the Sustainability Academy in 2019?",
+        "Answer": "Around 900 employees attended training courses at the Sustainability Academy in 2019.",
+        "OriginalText": "Around 900 employees attended training courses at the Sustainability Academy in 2019.",
+        "chunk_id": "2019---26"
+    },
+    "110": {
+        "Question": "How many apprentices were there at Audi Group at the end of 2019?",
+        "Answer": "At the end of 2019, the number of apprentices at Audi Group was 2,585.",
+        "OriginalText": "the number of apprentices was 2,585 (2018: 2,582).",
+        "chunk_id": "2019---26"
+    },
+    "111": {
+        "Question": "What is the proportion of foreign nationals at AUDI AG in 2019?",
+        "Answer": "The proportion of foreign nationals at AUDI AG in 2019 was 8.3%.",
+        "OriginalText": "The proportion of foreign nationals at AUDI AG was 8.3 (2018: 8.4) percent in 2019.",
+        "chunk_id": "2019---26"
+    },
+    "112": {
+        "Question": "What was the turnover rate at AUDI AG in 2019?",
+        "Answer": "The turnover rate at AUDI AG in 2019 was 0.7%.",
+        "OriginalText": "The turnover rate at AUDI AG in 2019 was 0.7 percent (2018: 0.9).",
+        "chunk_id": "2019---26"
+    },
+    "113": {
+        "Question": "How many employees at Audi had part-time contracts at the end of 2019?",
+        "Answer": "At the end of 2019, there were 4,448 employees at Audi with part-time contracts.",
+        "OriginalText": "As of the end of 2019, there were 4,448 (2018: 3,924) employees at Audi with part-time contracts.",
+        "chunk_id": "2019---26"
+    },
+    "114": {
+        "Question": "How many employees were employed in the production area at Audi Group in 2019?",
+        "Answer": "48.5% of Audi Group employees were in the production area at the end of 2019.",
+        "OriginalText": "48.5 (2018: 48.4) percent of Audi Group employees were in the production area and 48.5 (2018: 48.6) percent in the non-production area at the end of 2019.",
+        "chunk_id": "2019---26"
+    },
+    "115": {
+        "Question": "What was the number of temporary employees in Audi Group at the end of 2019?",
+        "Answer": "The number of temporary employees in the Audi Group at the end of 2019 was 1,957.",
+        "OriginalText": "The number of temporary employees in the Audi Group showed a year-on-year decline to 1,957 (2018: 2,527).",
+        "chunk_id": "2019---26"
+    },
+    "116": {
+        "Question": "How many employees at Audi had part-time contracts by the end of 2019?",
+        "Answer": "4,448",
+        "OriginalText": "As of the end of 2019, there were 4,448 (2018: 3,924) employees at Audi with part-time contracts.",
+        "chunk_id": "2019---27"
+    },
+    "117": {
+        "Question": "How many employees at Audi took parental leave in 2019?",
+        "Answer": "3,753",
+        "OriginalText": "In 2019, a total of 3,753 (2018: 3,439) employees took parental leave.",
+        "chunk_id": "2019---27"
+    },
+    "118": {
+        "Question": "How many employees participated in the AUDI AG 'Stimmungsbarometer' survey in 2019?",
+        "Answer": "40,886",
+        "OriginalText": "40,886 (2018: 42,173) employees took part in the AUDI AG 'Stimmungsbarometer' in 2019.",
+        "chunk_id": "2019---27"
+    },
+    "119": {
+        "Question": "How many ideas were realized in the Audi Ideas Program in 2019, and what was the financial savings associated with these ideas?",
+        "Answer": "54.4% of ideas were realized, producing savings of EUR 101.3 million.",
+        "OriginalText": "In 2019, around 54.4 (2018: 55.5) percent of ideas put forward were realized, producing savings of around EUR 101.3 (2018: 109.1) million.",
+        "chunk_id": "2019---27"
+    },
+    "120": {
+        "Question": "What was the average length of parental leave taken by employees at Audi in 2019?",
+        "Answer": "9 months",
+        "OriginalText": "On average, employees took 9 months of parental leave.",
+        "chunk_id": "2019---27"
+    },
+    "121": {
+        "Question": "What was the work-related accident rate at Audi in 2019, and how does it compare to 2018?",
+        "Answer": "6.2 accidents per million hours worked in 2019, compared to 5.6 in 2018.",
+        "OriginalText": "In 2019, there were just 6.2 (2018: 5.6) work-related accidents per million hours worked at AUDI AG.",
+        "chunk_id": "2019---28"
+    },
+    "122": {
+        "Question": "How many Audi employees took part in the Audi Checkup in 2019, and how does this compare to 2018?",
+        "Answer": "Around 10,000 employees took part in 2019, compared to 9,934 in 2018.",
+        "OriginalText": "Around 10,000 employees took advantage of the Audi Checkup in 2019 (2018: 9934).",
+        "chunk_id": "2019---28"
+    },
+    "123": {
+        "Question": "How many young Audi employees attended the One Young World Summit in 2019?",
+        "Answer": "Ten young employees.",
+        "OriginalText": "In 2019, AUDI AG again sent ten young employees from its worldwide locations to the One Young World Summit as delegates.",
+        "chunk_id": "2019---28"
+    },
+    "124": {
+        "Question": "What was the main focus of the 2019 'MQ! Innovation Summit' held by Audi in China?",
+        "Answer": "Social and sustainable mobility, as well as more flexible mobility concepts.",
+        "OriginalText": "The main topics of discussion in 2019 were social and sustainable mobility as well as more flexible mobility concepts.",
+        "chunk_id": "2019---28"
+    },
+    "125": {
+        "Question": "What event took place in October 2019 at the Audi Conference Center in Ingolstadt?",
+        "Answer": "The presentation 'The digital transformation: Who is actually implementing it?' took place in October 2019 at the Audi Conference Center in Ingolstadt.",
+        "OriginalText": "Excerpt from the presentation 'The digital transformation: Who is actually implementing it?' (October 2019, Audi Conference Center Ingolstadt)",
+        "chunk_id": "2019---29"
+    },
+    "126": {
+        "Question": "What is the goal of the Audi Environmental Foundation's Clear Rivers project in 2019?",
+        "Answer": "The Clear Rivers project aimed to develop and install a special plastic collecting basin to prevent plastic from entering the sea through the canal in Brussels.",
+        "OriginalText": "In March 2019 the Audi Environmental Foundation and its project partner developed and installed a special plastic collecting basin. Referred to as a litter trap, it ensures that plastic does not find its way into the open sea through the canal.",
+        "chunk_id": "2019---29"
+    },
+    "127": {
+        "Question": "How much money was raised during Audi's Christmas appeal and 'Last Cents' campaign in 2019?",
+        "Answer": "The Christmas appeal and the 'Last Cents' campaign raised around EUR 1.297 million in 2019.",
+        "OriginalText": "In the year under review, the Christmas appeal and the 'Last Cents' campaign at the sites in Ingolstadt and Neckarsulm raised an amount of around EUR 1.297 million (2018: EUR 1.284 million).",
+        "chunk_id": "2019---29"
+    },
+    "128": {
+        "Question": "In which project did Audi's Environmental Foundation use 3D printing technology in 2019?",
+        "Answer": "In the Clear Rivers project, Audi's Environmental Foundation used 3D printing technology to produce eye-catching benches from collected plastic waste in 2019.",
+        "OriginalText": "Part of the collected waste is recycled and used to produce eye-catching benches by means of innovative 3D printing technology.",
+        "chunk_id": "2019---29"
+    },
+    "129": {
+        "Question": "How many Audi employees volunteered during the 2019 Volunteer Day, and how many social institutions did they help out?",
+        "Answer": "More than 300 Audi employees volunteered at 42 social institutions during the 2019 Volunteer Day.",
+        "OriginalText": "Audi Volunteer Day in May 2019 was also a success: More than 300 Audi employees volunteered to help out at 42 social institutions.",
+        "chunk_id": "2019---30"
+    },
+    "130": {
+        "Question": "In 2019, what environmental fitness trend did Audi bring to Neckarsulm, and what was the purpose of this activity?",
+        "Answer": "Audi brought the environmental fitness trend 'plogging' to Neckarsulm in 2019, with the aim of raising awareness for environmental protection.",
+        "OriginalText": "In 2019, the Audi Environmental Foundation brought the trend activity to Neckarsulm and invited employees and residents of the city to take part in plogging. The aim of the initiative was to raise awareness for environmental protection.",
+        "chunk_id": "2019---30"
+    },
+    "131": {
+        "Question": "How many girls and young women has the Spring Bud project supported in its 30 years of existence, as of 2019?",
+        "Answer": "The Spring Bud project has supported more than 3.6 million girls and young women in its 30 years of existence, as of 2019.",
+        "OriginalText": "The figures are impressive: In the 30 years of its existence, the organization has supported more than 3.6 million girls and young women as well as over 1,800 schools.",
+        "chunk_id": "2019---30"
+    },
+    "132": {
+        "Question": "What is the KiSS program, and which company continued this program in 2019?",
+        "Answer": "The KiSS program stands for 'Keep it Shiny and Sustainable,' and Ducati continued this program in 2019.",
+        "OriginalText": "Ducati continued its KiSS program in 2019. KiSS stands for 'Keep it Shiny and Sustainable.'",
+        "chunk_id": "2019---30"
+    },
+    "133": {
+        "Question": "What was the purpose of the 'Girlstech' program at Italdesign in 2019?",
+        "Answer": "The purpose of the 'Girlstech' program at Italdesign in 2019 was to increase the number of women interested in subjects like mathematics, IT, science, and technology.",
+        "OriginalText": "At Italdesign, the daughters of employees were given the opportunity to explore the working world of the automotive industry. The goal was to increase the number of women interested in the subjects of mathematics, IT, science and technology.",
+        "chunk_id": "2019---30"
+    },
+    "134": {
+        "Question": "How much did Audi AG contribute to the Christmas donation in 2019?",
+        "Answer": "Audi AG contributed EUR 257,984.00 to the Christmas donation in 2019.",
+        "OriginalText": "Included respectively in the year 2019: Company top-up to the Christmas donation EUR 257,984.00.",
+        "chunk_id": "2019---31"
+    },
+    "135": {
+        "Question": "Which Audi sites received the ISO 14001 certification in 2019?",
+        "Answer": "The ISO 14001 certification was awarded to the Neckarsulm, Győr, Brussels, San José Chiapa, Sant’Agata Bolognese, Bologna, and São José dos Pinhais sites in 2019.",
+        "OriginalText": "ISO 14001: Neckarsulm, Győr, Brussels, San José Chiapa, Sant’Agata Bolognese, Bologna and São José dos Pinhais sites.",
+        "chunk_id": "2019---31"
+    },
+    "136": {
+        "Question": "How does Audi calculate energy intensity for automotive production in 2019?",
+        "Answer": "Energy intensity is calculated by dividing the overall energy consumption of the car and component plants by the number of cars built at the sites in 2019.",
+        "OriginalText": "The energy intensity indicated refers to automotive production (incl. component manufacturing). This is calculated by dividing the overall energy consumption of the car and component plants by the number of cars built at the sites.",
+        "chunk_id": "2019---31"
+    },
+    "137": {
+        "Question": "What is the scope of the assurance engagement mentioned in Audi's 2019 Sustainability Report?",
+        "Answer": "The assurance engagement was performed on the disclosures denoted with ‘√’ in the table 'Audi Sustainability Key Figures', as well as on the management approaches on product-related CO2 emissions and employer attractiveness for the period from 1 January to 31 December 2019.",
+        "OriginalText": "We have performed a limited assurance engagement on the disclosures denoted with $^{u}\\nabla^{\\prime}$ in the table “Audi Sustainability Key Figures” as well as on the management approaches on product-related CO2 emissions and employer attractiveness in the Report for the period from 1 January to 31 December 2019.",
+        "chunk_id": "2019---32"
+    },
+    "138": {
+        "Question": "Who conducted the assurance engagement for Audi's Sustainability Report 2019?",
+        "Answer": "PricewaterhouseCoopers GmbH conducted the assurance engagement for Audi's Sustainability Report 2019.",
+        "OriginalText": "PricewaterhouseCoopers GmbH has performed a limited assurance engagement on the German version of the Sustainability Report 2019 of AUDI AG and issued an independent assurance report in German language, which is authoritative.",
+        "chunk_id": "2019---32"
+    },
+    "139": {
+        "Question": "Which professional standards did PricewaterhouseCoopers apply during the assurance engagement for Audi's Sustainability Report 2019?",
+        "Answer": "PricewaterhouseCoopers applied the German professional provisions regarding independence and the Standard on Quality Control 1 published by the Institute of Public Auditors in Germany (IDW).",
+        "OriginalText": "We have complied with the German professional provisions regarding independence as well as other ethical requirements. Our audit firm applies the national legal requirements and professional standards – in particular the Professional Code for German Public Auditors and German Chartered Auditors (“Berufssatzung für Wirtschaftsprüfer und vereidigte Buchprüfer”: “BS WP/vBP”) as well as the Standard on Quality Control 1 published by the Institut der Wirtschaftsprüfer (Institute of Public Auditors in Germany; IDW).",
+        "chunk_id": "2019---32"
+    },
+    "140": {
+        "Question": "What was the purpose of the assurance engagement conducted for Audi's 2019 Sustainability Report?",
+        "Answer": "The purpose was to express a limited assurance conclusion on the disclosures in the 'Audi Sustainability Key Figures' table and the management approaches related to CO2 emissions and employer attractiveness.",
+        "OriginalText": "Our responsibility is to express a limited assurance conclusion on the disclosures denoted with $^{u}\\nabla^{\\prime}$ in the table “Audi Sustainability Key Figures” as well as on the management approaches on product-related CO2 emissions and employer attractiveness in the Report based on the assurance engagement we have performed.",
+        "chunk_id": "2019---32"
+    },
+    "141": {
+        "Question": "What methodology did PricewaterhouseCoopers follow during the assurance procedures for Audi's Sustainability Report 2019?",
+        "Answer": "PricewaterhouseCoopers followed the International Standard on Assurance Engagements (ISAE) 3000 (Revised) during the assurance procedures.",
+        "OriginalText": "We conducted our assurance engagement in accordance with the International Standard on Assurance Engagements (ISAE) 3000 (Revised): 'Assurance Engagements other than Audits or Reviews of Historical Financial Information', issued by the IAASB.",
+        "chunk_id": "2019---32"
+    },
+    "142": {
+        "Question": "What was the conclusion of the assurance procedures conducted by PricewaterhouseCoopers for Audi's 2019 Sustainability Report?",
+        "Answer": "The conclusion was that nothing came to attention that would cause doubt about the proper preparation of the disclosures and management approaches in accordance with the GRI-Criteria for the period from 1 January to 31 December 2019.",
+        "OriginalText": "Based on the assurance procedures performed and assurance evidence obtained, nothing has come to our attention that causes us to believe that the disclosures denoted with $\\mathfrak{v}$ in the table “Audi Sustainability Key Figures” as well as the management approaches on product-related CO2 emissions and employer attractiveness in the Company’s Report for the period from 1 January to 31 December 2019 have not been prepared, in all material aspects, in accordance with the relevant GRI-Criteria.",
+        "chunk_id": "2019---32"
+    },
+    "143": {
+        "Question": "Which type of sustainability reporting was Audi's 2019 report prepared under?",
+        "Answer": "Audi's 2019 report was prepared under the 'core' option of the Global Reporting Initiative (GRI) Standards.",
+        "OriginalText": "The Audi Group is reporting on its sustainability performance for the year 2019 pursuant to the international standard of the Global Reporting Initiative (GRI). This report was prepared in accordance with the 'core' option of the GRI Standards.",
+        "chunk_id": "2019---32"
+    },
+    "144": {
+        "Question": "What was the focus of the materiality analysis performed by Audi for their 2019 Sustainability Report?",
+        "Answer": "The materiality analysis focused on selecting information that was significant for the company’s sustainability performance in 2019.",
+        "OriginalText": "The information in this report was chosen on the basis of a materiality analysis performed in 2019.",
+        "chunk_id": "2019---32"
+    },
+    "145": {
+        "Question": "When was the Assurance Report on Audi's 2019 Sustainability Report published?",
+        "Answer": "The Assurance Report was published on 13 May 2020.",
+        "OriginalText": "Frankfurt am Main, 13 May 2020 PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft",
+        "chunk_id": "2019---32"
+    }
+}

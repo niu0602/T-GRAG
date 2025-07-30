@@ -1,0 +1,722 @@
+{
+    "1": {
+        "Question": "Which international organization did Audi Group join in 2012 to demonstrate its commitment to corporate responsibility?",
+        "Answer": "UN Global Compact",
+        "OriginalText": "In February 2012, AUDI AG joined the UN Global Compact as a sign of its willingness to accept corporate responsibility.",
+        "chunk_id": "2012---1"
+    },
+    "2": {
+        "Question": "What is the time period covered by Audi Group's Corporate Responsibility Report for 2012?",
+        "Answer": " The time period covered by Audi Group's Corporate Responsibility Report for 2012 is from January 1 to December 31, 2012, with supplementary information including significant activities that took place before and after this period, up to the editorial deadline in March 2013.",
+        "OriginalText": "The Audi Corporate Responsibility Report 2012 covers the period from January 1 to December 31, 2012.Supplementary information on signifi cant activities that took place before and after the reporting period, through to the editorial deadline in March 2013, are also included",
+        "chunk_id": "2012---1"
+    },
+    "3": {
+        "Question": "Which auditing firm conducted the independent audit mentioned in Audi Group's 2012 Corporate Responsibility Report?",
+        "Answer": "PricewaterhouseCoopers",
+        "OriginalText": "An independent audit was also conducted by the auditing firm PricewaterhouseCoopers (see p. 72 f.).",
+        "chunk_id": "2012---1"
+    },
+    "4": {
+        "Question": "When and where was the forum with representatives of important social groups mentioned in Audi Group's 2012 Corporate Responsibility Report?",
+        "Answer": "November 2012 at Ingolstadt headquarters",
+        "OriginalText": "We started the ball rolling with a Stakeholder Forum in November 2012, held at our headquarters in Ingolstadt, to which we invited 60 representatives of important social groups.",
+        "chunk_id": "2012---1"
+    },
+    "5": {
+        "Question": "When is the next fully revised version of Audi Group's Corporate Responsibility Report planned to be published, as mentioned in the 2012 report?",
+        "Answer": "First half of 2015",
+        "OriginalText": "A fully revised version of the Audi Corporate Responsibility Report is published every two years. The next report will be published in the first half of 2015.",
+        "chunk_id": "2012---1"
+    },
+    "6": {
+        "Question": "When will the main key figures for 2013 be revised, as mentioned in Audi Group's 2012 Corporate Responsibility Report?",
+        "Answer": "First half of 2014",
+        "OriginalText": "The main key figures for 2013 will be revised in the first half of 2014.",
+        "chunk_id": "2012---1"
+    },
+    "7": {
+        "Question": "What are the five core themes of Audi Group mentioned in the 2012 Corporate Responsibility Report?",
+        "Answer": "Operations, Product, Environment, Employees, and Society",
+        "OriginalText": "The corporate responsibility strategy is implemented on the basis of five core themes. The report is also structured according to the same five themes: Operations, Product, Environment, Employees and Society.",
+        "chunk_id": "2012---1"
+    },
+    "8": {
+        "Question": "What is the GRI Application Level achieved by Audi Group in 2012, as mentioned in the Corporate Responsibility Report?",
+        "Answer": "B+",
+        "OriginalText": "Application Level $\\mathtt{B+}$ is confirmed by the GRI Application Level Check.",
+        "chunk_id": "2012---1"
+    },
+    "9": {
+        "Question": "How did Audi Group expand its product range to include motorcycles as mentioned in the 2012 Corporate Responsibility Report?",
+        "Answer": "By acquiring DUCATI MOTOR HOLDING S.P.A. and its subsidiaries",
+        "OriginalText": "Through the acquisition of DUCATI MOTOR HOLDING S.P.A. and its subsidiaries, the product range was extended in 2012 to include motorcycles.",
+        "chunk_id": "2012---1"
+    },
+    "10": {
+        "Question": "How many Audi models were delivered to customers in 2012, and what percentage increase did this represent compared to the previous year?",
+        "Answer": "1,455,123 Audi models were delivered in 2012, representing an 11.7 percent increase compared to the previous year.",
+        "OriginalText": "In 2012, a total of 1,455,123 Audi models were delivered to customers, 11.7 percent more than in the previous year.",
+        "chunk_id": "2012---2"
+    },
+    "11": {
+        "Question": "Which country was Audi's biggest sales market in 2012 for the second year in a row, and how many vehicles were delivered there?",
+        "Answer": "China (including Hong Kong) was Audi's biggest sales market in 2012, with 405,838 vehicles delivered.",
+        "OriginalText": "China (incl. Hong Kong) was the Audi brand’s biggest sales market for the second time in a row, with deliveries of 405,838 vehicles.",
+        "chunk_id": "2012---2"
+    },
+    "12": {
+        "Question": "What was Audi's revenue in 2012, and by what percentage did it increase from the previous year?",
+        "Answer": "Audi's revenue in 2012 was EUR 48,771 million, representing a 10.6 percent increase from the previous year.",
+        "OriginalText": "The Audi Group improved its revenue in 2012 by 10.6 percent to EUR 48,771 million.",
+        "chunk_id": "2012---2"
+    },
+    "13": {
+        "Question": "How many employees did Audi have in 2012, and how many of them worked at the German sites?",
+        "Answer": "Audi had more than 68,000 employees in 2012, with around 50,000 working at the two German sites in Ingolstadt and Neckarsulm.",
+        "OriginalText": "Of the more than 68,000 Audi Group employees, around 50,000 were employed at the two German sites in Ingolstadt and Neckarsulm in 2012.",
+        "chunk_id": "2012---2"
+    },
+    "14": {
+        "Question": "How did Audi Group participate in the oekom research rating in 2012, and what recognition did it receive?",
+        "Answer": "Audi Group took part in the rating and was awarded 'Corporate Responsibility Prime Status'.",
+        "OriginalText": "In 2012, the Audi Group took part in the renowned oekom research rating. The Company was awarded the distinction of 'Corporate Responsibility Prime Status' in recognition of its above-average contribution to social and environmental compatibility.",
+        "chunk_id": "2012---2"
+    },
+    "15": {
+        "Question": "In which year did Audi Group participate in the oekom research rating?",
+        "Answer": "2012",
+        "OriginalText": "In 2012, the Audi Group took part in the renowned oekom research rating.",
+        "chunk_id": "2012---3"
+    },
+    "16": {
+        "Question": "What distinction did Audi Group receive in 2012 from the oekom research rating?",
+        "Answer": "Corporate Responsibility Prime Status",
+        "OriginalText": "The Company was awarded the distinction of 'Corporate Responsibility Prime Status' in recognition of its above-average contribution to social and environmental compatibility.",
+        "chunk_id": "2012---3"
+    },
+    "17": {
+        "Question": "How many external experts participated in the expert interviews conducted by Audi in 2012?",
+        "Answer": "17",
+        "OriginalText": "The one-hour discussions with 17 external experts and 17 Audi representatives from all divisions were conducted by an independent third party.",
+        "chunk_id": "2012---3"
+    },
+    "18": {
+        "Question": "Which countries were involved in Audi's customer survey in 2012?",
+        "Answer": "China, Germany, and the United States",
+        "OriginalText": "A survey among Audi customers in the markets China, Germany and the United States with a total of 82 participants.",
+        "chunk_id": "2012---3"
+    },
+    "19": {
+        "Question": "What was the response rate to Audi's online survey in 2012?",
+        "Answer": "18.1%",
+        "OriginalText": "A total of 79 persons responded (response rate: 18.1 percent), primarily CR experts, representatives from NGOs and politics as well as business partners.",
+        "chunk_id": "2012---3"
+    },
+    "20": {
+        "Question": "Who participated in the 2012 Audi Stakeholder Forum to emphasize the importance of corporate responsibility?",
+        "Answer": "Board Member Thomas Sigi",
+        "OriginalText": "Board Member Thomas Sigi participated in the Stakeholder Forum, where he gave a welcoming speech and stressed that the Board of Management sees CR as a pillar of Audi’s future success.",
+        "chunk_id": "2012---3"
+    },
+    "21": {
+        "Question": "Which principle-based guidelines did Audi align with in 2012 for its stakeholder management system?",
+        "Answer": "AccountAbility 1000 Stakeholder Engagement Standard (AA1000AS)",
+        "OriginalText": "In 2012, Audi introduced a stakeholder management system aligned with the AccountAbility 1000 Stakeholder Engagement Standard (AA1000AS).",
+        "chunk_id": "2012---3"
+    },
+    "22": {
+        "Question": "Who participated in the Stakeholder Forum in 2012 and what was his role?",
+        "Answer": "Thomas Sigi, a Board Member, participated and gave a welcoming speech.",
+        "OriginalText": "This was underlined by the fact that Board Member Thomas Sigi participated in the Stakeholder Forum, where he gave a welcoming speech and stressed that the Board of Management sees CR as a pillar of Audi’s future success.",
+        "chunk_id": "2012---4"
+    },
+    "23": {
+        "Question": "What was the main topic of the stakeholder survey conducted in 2012?",
+        "Answer": "The main topic was the radical change in mobility.",
+        "OriginalText": "I see Audi’s involvement of its stakeholders as a positive and constructive sign. «Union representative  \n\nWe chose the four workshop topics prior to the forum based on the results of the stakeholder survey, which we conducted in the fi rst half of 2012.The main topic for all of those surveyed was the radical change in mobility.",
+        "chunk_id": "2012---4"
+    },
+    "24": {
+        "Question": "In 2012, how many vehicles did Audi deliver to customers, setting a new record for new deliveries?",
+        "Answer": "More than 1.45 million vehicles.",
+        "OriginalText": "In a challenging market environment, the Audi brand set yet another record for new deliveries in 2012 by handing over more than 1.45 million vehicles to customers.",
+        "chunk_id": "2012---4"
+    },
+    "25": {
+        "Question": "What was Audi's strategy regarding sustainability defined in 2012?",
+        "Answer": "Audi reinforced sustainability in early 2013, defining it as a basic requirement for strategic goals, with a focus on CO2-neutral mobility.",
+        "OriginalText": "In early 2013, we further reinforced the sustainability aspect and defined the subject of 'Sustainability of products and processes' as a basic requirement for our strategic goals.",
+        "chunk_id": "2012---4"
+    },
+    "26": {
+        "Question": "What did Audi’s stakeholders regard as especially relevant in 2012 regarding the company’s operations?",
+        "Answer": "Safeguarding the company’s economic stability and customer orientation.",
+        "OriginalText": "Our stakeholders regard safeguarding the Company’s economic stability and customer orientation as especially relevant.",
+        "chunk_id": "2012---4"
+    },
+    "27": {
+        "Question": "How did Audi ensure its compliance in 2012 for new employees?",
+        "Answer": "New employees were informed about compliance and the Audi Code of Conduct at introductory events.",
+        "OriginalText": "New employees are informed about compliance as well as the Audi Code of Conduct at introductory events.",
+        "chunk_id": "2012---4"
+    },
+    "28": {
+        "Question": "In 2012, Audi faced challenges in which area that was identified as one of its greatest deficits?",
+        "Answer": "Corporate Responsibility (CR) communication.",
+        "OriginalText": "Our greatest deficits were identified in the field of CR communication.",
+        "chunk_id": "2012---4"
+    },
+    "29": {
+        "Question": "How many customer who direct contact to the manufacturer did Audi have in 2012 in the German market alone?",
+        "Answer": "Nearly 700,000.",
+        "OriginalText": "Many people do not go through a car dealership, but instead seek direct contact to the manufacturer. The number of customer contacts in 2012 totaled nearly 700,000 for the German market alone. ",
+        "chunk_id": "2012---5"
+    },
+    "30": {
+        "Question": "What was the first Audi City location opened in 2012, and what made it unique?",
+        "Answer": "It opened in London, and it featured digital presentations of Audi cars on floor-to-ceiling projection surfaces.",
+        "OriginalText": "In July 2012, we opened the first Audi City in downtown London: an innovative sales format for major cities, which supplements the existing dealer network. The digital presentation of Audi cars on floor-to-ceiling projection surfaces provides the main attraction.",
+        "chunk_id": "2012---5"
+    },
+    "31": {
+        "Question": "What was Audi's employment guarantee extension period in 2012?",
+        "Answer": "The employment guarantee was extended to the end of 2018.",
+        "OriginalText": "Expansion of the guarantee of employment initially in effect until 2014 to the end of 2018.",
+        "chunk_id": "2012---5"
+    },
+    "32": {
+        "Question": "In 2012, what was Audi's strategy to handle customer concerns regarding complaints?",
+        "Answer": "Audi set up a 'Kundentisch' (Customer Table) to address and analyze specific customer issues regularly.",
+        "OriginalText": "Just how seriously we take our customers’ concerns is evident in the creation of the 'Kundentisch' (Customer Table), where specific customer issues are analyzed and solved on a regular basis.",
+        "chunk_id": "2012---5"
+    },
+    "33": {
+        "Question": "Which Audi customer service goal was achieved for over 200,000 calls in the German market in 2012?",
+        "Answer": "Answering calls within 20 seconds.",
+        "OriginalText": "Audi Customer Service pursues high goals in the interest of ensuring customer satisfaction. One example is answering calls within 20 seconds. This goal was achieved for more than 200,000 calls in the German market in 2012 – equivalent to 80 percent of all incoming calls. ",
+        "chunk_id": "2012---5"
+    },
+    "34": {
+        "Question": "In 2012, Audi's risk management process included collaboration with which group to monitor suppliers' sustainability practices?",
+        "Answer": "The Volkswagen Group.",
+        "OriginalText": "For the purpose of effective monitoring, the Volkswagen Group developed a cross-departmental process in 2012 in cooperation with the brands and regions of the Group.",
+        "chunk_id": "2012---5"
+    },
+    "35": {
+        "Question": "How many employees did Audi have worldwide by the end of 2012?",
+        "Answer": "69,000 employees.",
+        "OriginalText": "We now have some 69,000 employees worldwide.",
+        "chunk_id": "2012---6"
+    },
+    "36": {
+        "Question": "What was Audi's global delivery goal for the end of the decade set in 2012?",
+        "Answer": "Audi aimed to deliver more than two million cars per year by the end of the decade.",
+        "OriginalText": "And by the end of the decade we aim to be handing over more than two million cars per year to their new owners.",
+        "chunk_id": "2012---6"
+    },
+    "37": {
+        "Question": "What major initiative did Audi’s Works Council support in 2012 to enhance employee benefits?",
+        "Answer": "The introduction of a job ticket for public transportation, flexible childcare, and various donation campaigns.",
+        "OriginalText": "In addition, the employee representatives negotiated the revision of partial retirement arrangements with the Company and supported a series of initiatives such as the introduction of a job ticket for local public transportation, the first Audi Volunteer Day, flexible child care for better compatibility of family and working life as well as various donation campaigns.",
+        "chunk_id": "2012---6"
+    },
+    "38": {
+        "Question": "What innovative project did Audi focus on in 2012 to develop alternative fuels?",
+        "Answer": "The e-gas project.",
+        "OriginalText": "One innovative step for us is the e-gas project for the development of alternative fuels.",
+        "chunk_id": "2012---6"
+    },
+    "39": {
+        "Question": "In 2012, how did Audi's stakeholders rate the importance of product-related topics like fuel consumption and emissions?",
+        "Answer": "Product-related topics were rated the highest in relevance by stakeholders.",
+        "OriginalText": "In 2012, we asked our stakeholders to assess the relevance of primary aspects of product responsibility. In general, product-related topics are afforded the highest relevance by all stakeholders, compared with other areas such as employees or society. Fuel consumption and emissions, innovation and effi  ciency enhancement and alternative drives are very important here. ",
+        "chunk_id": "2012---6"
+    },
+    "40": {
+        "Question": "How does Audi assess the environmental impact of its vehicles, and what is the standard used?",
+        "Answer": "Audi conducts Life Cycle Assessments (LCA) according to the ISO 14040 standard for all new model series and publishes them at market launch.",
+        "OriginalText": "We conduct our LCAs according to the international standard series ISO 14040 ff. We will prepare LCAs for all new model series and publish them at the respective market launch.",
+        "chunk_id": "2012---6"
+    },
+    "41": {
+        "Question": "What was the CO2 emission average for all new Audi cars sold in the EU in 2012?",
+        "Answer": "138 g CO2/km.",
+        "OriginalText": "Based on preliminary calculations, CO2 emissions for all new cars of the Audi brand sold in the European Union in 2012 averaged roughly 138 g CO2/km.",
+        "chunk_id": "2012---7"
+    },
+    "42": {
+        "Question": "How much weight was reduced in the current Audi A3 compared to its predecessor in 2012?",
+        "Answer": "90 kilograms.",
+        "OriginalText": "The weight of the current Audi A3 generation was reduced by as much as 90 kilograms compared with the predecessor.",
+        "chunk_id": "2012---7"
+    },
+    "43": {
+        "Question": "Which technology allowed Audi to save up to 40% in body weight for some models?",
+        "Answer": "Audi Space Frame technology.",
+        "OriginalText": "Audi Space Frame technology saves up to 40 percent in body weight.",
+        "chunk_id": "2012---7"
+    },
+    "44": {
+        "Question": "How much reduction in fuel consumption did the TDI and TFSI engines of the Audi Q5 achieve in 2012 after updates?",
+        "Answer": "Up to 15 percent.",
+        "OriginalText": "When the Q5 was updated in 2012, efficiency measures reduced the consumption of the TDI and TFSI engines by up to 15 percent.",
+        "chunk_id": "2012---7"
+    },
+    "45": {
+        "Question": "What specific development goal did Audi aim for with its engines in 2012, particularly for improving vehicle efficiency?",
+        "Answer": "Rightsizing – smaller, more efficient, yet more powerful engines with high torque.",
+        "OriginalText": "Smaller, more efficient, yet more powerful engines with high torque are the development goal that we call 'rightsizing.'",
+        "chunk_id": "2012---7"
+    },
+    "46": {
+        "Question": "In 2012, how many Audi models had CO2 emissions of 140 g/km or less?",
+        "Answer": "104 models.",
+        "OriginalText": "At the end of 2012, a total of 104 models had CO2 emissions of 140 g/km or less.",
+        "chunk_id": "2012---7"
+    },
+    "47": {
+        "Question": "What is one environmental aspect of the life cycle assessment (LCA) that Audi considers, apart from greenhouse gas emissions?",
+        "Answer": "Effects on eutrophication of water bodies, summer smog formation, acidification potential, and ozone depletion potential.",
+        "OriginalText": "Other aspects considered in the LCA are the effects on eutrophication of water bodies, summer smog formation, acidification potential and ozone depletion potential.",
+        "chunk_id": "2012---7"
+    },
+    "48": {
+        "Question": "According to a 2012 study, which premium manufacturer had the best CO2 balance for its vehicles?",
+        "Answer": "Audi.",
+        "OriginalText": "According to a study by the Center of Automotive Management from October 2012, Audi was the premium manufacturer with the best CO2 balance for its vehicles.",
+        "chunk_id": "2012---7"
+    },
+    "49": {
+        "Question": "Which Audi models were equipped with hybrid technology as of 2012?",
+        "Answer": "Q5, A6, and A8.",
+        "OriginalText": "Audi already offers hybrid models in the Q5, A6 and A8 model lines.",
+        "chunk_id": "2012---8"
+    },
+    "50": {
+        "Question": "Which two concept cars featuring e-tron hybrid technology were unveiled by Audi in 2012?",
+        "Answer": "The A6 L e-tron concept in Beijing and the Audi crosslane coupé concept in Paris.",
+        "OriginalText": " Audi groups these vehicles together under the “e-tron” name. Two cars featuring this technology were unveiled in 2012: the A6 L e-tron concept in Beijing in the spring and the Audi crosslane coupé concept car in Paris in the fall.",
+        "chunk_id": "2012---8"
+    },
+    "51": {
+        "Question": "What is the maximum range of the Audi A3 e-tron scheduled to launch in electric mode as reported in 2012?",
+        "Answer": "50 kilometers.",
+        "OriginalText": "The Audi A3 e-tron reaches a top speed of 130 km/h and has a maximum range of 50 km in electric mode.",
+        "chunk_id": "2012---8"
+    },
+    "52": {
+        "Question": "How much CO2 is emitted by the Audi A3 e-tron in electric mode, as reported by Audi in 2012?",
+        "Answer": "Zero CO2 emissions.",
+        "OriginalText": "Not a single gram of CO2 that would not have been bound previously during the production of the e-gas is generated when the vehicle is driven.",
+        "chunk_id": "2012---8"
+    },
+    "53": {
+        "Question": "What goal did Audi set regarding hybrid vehicles by 2020, as mentioned in the 2012 report?",
+        "Answer": "To offer one electrified vehicle in each large model series by 2020.",
+        "OriginalText": "We want to offer one electrified vehicle in each large model series by 2020.",
+        "chunk_id": "2012---8"
+    },
+    "54": {
+        "Question": "What is the main challenge Audi faces as a carmaker in preparing for the mobility of the future in 2012?",
+        "Answer": "Audi's main challenge is to offer each customer around the world a concept that is just right for them while introducing new technological possibilities for climate protection and resource conservation.",
+        "OriginalText": "One of our major challenges as a carmaker is to offer each of our customers around the world a concept that is just right for them. At the same time, we want to and will present new technological possibilities that open up whole new dimensions when it comes to climate protection and resource conservation.",
+        "chunk_id": "2012---9"
+    },
+    "55": {
+        "Question": "What is the planned launch date of the CNG-powered Audi A3 $\\L9$-tron and Audi e-gas in 2012?",
+        "Answer": "The CNG-powered Audi A3 $\\L9$-tron and Audi e-gas are scheduled to launch in late 2013.",
+        "OriginalText": "In combination with the CNG-powered Audi A3 $\\L9$-tron, which is scheduled to launch in late 2013, the customer will also be able to order our Audi e-gas, a renewable natural gas.",
+        "chunk_id": "2012---9"
+    },
+    "56": {
+        "Question": "What was the weight reduction in the new Audi A3 in 2012 compared to its predecessor?",
+        "Answer": "The new Audi A3 is up to 90 kg lighter than its predecessor.",
+        "OriginalText": "Take the new Audi A3, for example: Although it is bigger, safer and more spacious than its predecessor, it is up to 90 kg lighter.",
+        "chunk_id": "2012---9"
+    },
+    "57": {
+        "Question": "How much has the greenhouse gas balance improved for the A3 1.4 TFSI with a combustion engine in 2012?",
+        "Answer": "The greenhouse gas balance of the A3 1.4 TFSI has improved by nine percent compared to its predecessor.",
+        "OriginalText": "For the A3 1.4 TFSI with a combustion engine, the answer is positive. It has improved by nine percent compared with its predecessor with respect to its greenhouse gas balance over the entire life cycle.",
+        "chunk_id": "2012---9"
+    },
+    "58": {
+        "Question": "What recognition did AUDI HUNGARIA MOTOR Kft. receive in 2012 for its environmental management?",
+        "Answer": "In 2012, AUDI HUNGARIA MOTOR Kft. won the EMAS member states prize for the seventh time and was nominated for the EMAS Award in the 'Large Organization' category.",
+        "OriginalText": "AUDI HUNGARIA MOTOR Kft. won the EMAS member states prize for the seventh time in 2012, and was thus once again nominated for the EMAS Award in the “Large Organization” category.",
+        "chunk_id": "2012---9"
+    },
+    "59": {
+        "Question": "What is the status of Audi's environmental management certification in 2012?",
+        "Answer": "As of 2012, all Audi Group automotive plants are certified under the European Union’s EMAS and the worldwide DIN EN ISO 14001 standard.",
+        "OriginalText": "All Audi Group automotive plants are, for example, certified under the European Union’s EMAS (Eco Management and Audit Scheme), which goes well beyond the minimum standards required.",
+        "chunk_id": "2012---9"
+    },
+    "60": {
+        "Question": "How does Audi's environmental policy assess the product life cycle as of 2012?",
+        "Answer": "Audi's environmental policy assesses all phases of the product life cycle, from development and production to use and disposal, focusing on efficient resource and energy use.",
+        "OriginalText": "The Audi environmental policy assesses the product life cycle  \n\nAll phases in the product life cycle of our automobiles, from development and production to use of the vehicle to disposal, are considered under this aspect.",
+        "chunk_id": "2012---9"
+    },
+    "61": {
+        "Question": "What was the total number of automobiles delivered worldwide by Audi in 2012?",
+        "Answer": "1,634,312",
+        "OriginalText": "The Audi Group delivered 1,634,312 automobiles worldwide in 2012.",
+        "chunk_id": "2012---10"
+    },
+    "62": {
+        "Question": "Which Audi plant was 70% CO₂-neutral in 2012?",
+        "Answer": "The Ingolstadt plant",
+        "OriginalText": "The plant in Ingolstadt is already 70 percent CO₂-neutral and sets standards on the way to energy- and resource-efficient production.",
+        "chunk_id": "2012---10"
+    },
+    "63": {
+        "Question": "In 2012, which Audi location won the EMAS member states prize for the seventh time?",
+        "Answer": "AUDI HUNGARIA MOTOR Kft.",
+        "OriginalText": "AUDI HUNGARIA MOTOR Kft. won the EMAS member states prize for the seventh time in 2012.",
+        "chunk_id": "2012---10"
+    },
+    "64": {
+        "Question": "How much CO₂ emissions did Audi's new data center reduce annually after its opening in November 2012?",
+        "Answer": "9,000 metric tons",
+        "OriginalText": "The new data center we opened in November 2012 is helping us to reduce energy consumption in IT by one third, thus reducing our annual CO₂ emissions by 9,000 metric tons.",
+        "chunk_id": "2012---10"
+    },
+    "65": {
+        "Question": "How many metric tons of steel, copper, and aluminum did Audi save through reconditioning components at the Ingolstadt plant in 2012?",
+        "Answer": "500 metric tons of steel, 48 metric tons of copper, and 76 metric tons of aluminum.",
+        "OriginalText": "The reconditioning of components such as starters and alternators from used vehicles at our Ingolstadt plant saved roughly 500 metric tons of steel, 48 metric tons of copper and 76 metric tons of aluminum in 2012.",
+        "chunk_id": "2012---10"
+    },
+    "66": {
+        "Question": "In which year did Audi open a new data center that helped reduce energy consumption by one third?",
+        "Answer": "2012",
+        "OriginalText": "The new data center we opened in November 2012 is helping us to reduce energy consumption in IT by one third, thus reducing our annual CO₂ emissions by 9,000 metric tons.",
+        "chunk_id": "2012---11"
+    },
+    "67": {
+        "Question": "How many kilograms of CO₂ did Audi save by switching to green trains on the Neckarsulm-Emden shipping route in October 2012?",
+        "Answer": "38 kilograms",
+        "OriginalText": " In October 2012, we also switched the Neckarsulm-Emden line, the most heavily traveled shipping route between Neckarsulm and a port of loading, to green trains. We save even more carbon dioxide per car – 38 kilograms – on the nearly 700 kilometer line. ",
+        "chunk_id": "2012---11"
+    },
+    "68": {
+        "Question": "How many oak seedlings were planted in the trial site near Audi's Belgian plant in Brussels in early 2012?",
+        "Answer": "10,000 oak seedlings",
+        "OriginalText": "The project’s most recent trial site, not far from our Belgian plant in Brussels, was planted with 10,000 oak seedlings at the start of 2012.",
+        "chunk_id": "2012---11"
+    },
+    "69": {
+        "Question": "What is the total number of trees planted in Audi's Oak Forest CO₂ Reservoir project by the start of 2012?",
+        "Answer": "Over 90,000 trees",
+        "OriginalText": "The total number of trees planted to over 90,000.",
+        "chunk_id": "2012---11"
+    },
+    "70": {
+        "Question": "How many metric tons of CO₂ were saved in 2012 by Audi's use of Eco Plus rail transport for vehicle shipments?",
+        "Answer": "7,059 metric tons",
+        "OriginalText": "We save 35 kilograms of CO₂ with each car shipped, which enabled us to decrease emissions by 7,059 metric tons in 2012.",
+        "chunk_id": "2012---11"
+    },
+    "71": {
+        "Question": "Which transportation route did Audi switch to green trains in October 2012, in addition to the Ingolstadt-Emden line?",
+        "Answer": "The Neckarsulm-Emden shipping route",
+        "OriginalText": "In October 2012, we also switched the Neckarsulm-Emden line, the most heavily traveled shipping route between Neckarsulm and a port of loading, to green trains.",
+        "chunk_id": "2012---11"
+    },
+    "72": {
+        "Question": "How many new employees did Audi hire in 2012?",
+        "Answer": "2,951",
+        "OriginalText": "2,951 new employees were hired by AUDI AG in 2012.",
+        "chunk_id": "2012---12"
+    },
+    "73": {
+        "Question": "What percentage of Audi employees agreed with the statement 'I like working at Audi' in the 2012 survey?",
+        "Answer": "95%",
+        "OriginalText": "95 % of Audi employees agree with the statement 'I like working at Audi.'",
+        "chunk_id": "2012---12"
+    },
+    "74": {
+        "Question": "In 2012, how many apprentices and dual-system students were employed by Audi?",
+        "Answer": "2,459",
+        "OriginalText": "As of the end of December 2012, a total of 2,459 apprentices and dual-system students were in employment at AUDI AG.",
+        "chunk_id": "2012---12"
+    },
+    "75": {
+        "Question": "What was the percentage of young women among Audi apprentices and dual-system students in 2012?",
+        "Answer": "24%",
+        "OriginalText": "As of the end of December 2012, a total of 2,459 apprentices and dual-system students were in employment at AUDI AG, around 24 percent of whom were young women. ",
+        "chunk_id": "2012---12"
+    },
+    "76": {
+        "Question": "How many school leavers began their training at Audi in 2012?",
+        "Answer": "698",
+        "OriginalText": "In 2012, 698 school leavers embarked on their training at AUDI AG.",
+        "chunk_id": "2012---12"
+    },
+    "77": {
+        "Question": "What initiative has Audi participated in for eight years as of 2012, focusing on core labor standards?",
+        "Answer": "The Fair Company initiative",
+        "OriginalText": "For eight years, Audi has participated in the Fair Company initiative.",
+        "chunk_id": "2012---12"
+    },
+    "78": {
+        "Question": "How many employees participated in Audi’s 2012 attitude survey?",
+        "Answer": "40,000 employees",
+        "OriginalText": "Around 40,000 employees at AUDI AG made use of the Audi Pulse and gave anonymous feedback.",
+        "chunk_id": "2012---12"
+    },
+    "79": {
+        "Question": "How many apprentices at Audi in 2012 were making use of the opportunity to obtain university entrance qualifications while training as automotive mechatronics technicians or similar roles?",
+        "Answer": "216 apprentices",
+        "OriginalText": " Audi’s dual vocational training program gives apprentices the opportunity to obtain the entrance qualifi cation for a university of applied sciences, while at the same time qualifying as an (automotive) mechatronics technician, electronics technician or tool mechanic. At present, 216 young people are making use of this opportunity.",
+        "chunk_id": "2012---12"
+    },
+    "80": {
+        "Question": "How many part-time employees worked at Audi by the end of 2012?",
+        "Answer": "2,413 employees",
+        "OriginalText": "At the end of 2012, there were a total of 2,413 employees working part-time.",
+        "chunk_id": "2012---13"
+    },
+    "81": {
+        "Question": "How many of Audi's part-time employees had flexible working hours in 2012?",
+        "Answer": "853 employees",
+        "OriginalText": "At the end of 2012, there were a total of 2,413 employees working part-time, around 853 of them with fl exible working hours, i.e. the amount of working time as specifi ed in the contract is between around ten and 34.9 hours per week, with working time being arranged in each individual case between employee and superior.",
+        "chunk_id": "2012---13"
+    },
+    "82": {
+        "Question": "How many young men and women applied for an apprenticeship or dual-study course at Audi in 2012?",
+        "Answer": "10,500 applicants",
+        "OriginalText": "In 2012, a total of around 10,500 young men and women applied for an apprenticeship or a dual-study course.",
+        "chunk_id": "2012---13"
+    },
+    "83": {
+        "Question": "In 2012, how many employees at Audi took part in the Audi Checkup program?",
+        "Answer": "Around 90%",
+        "OriginalText": "Around 90 percent of our employees now take advantage of the Audi Checkup.",
+        "chunk_id": "2012---13"
+    },
+    "84": {
+        "Question": "How many checkups were carried out at Audi's Ingolstadt and Neckarsulm locations by the end of 2012?",
+        "Answer": "51,000 checkups",
+        "OriginalText": "By the end of 2012, company doctors at our locations in Ingolstadt and Neckarsulm had carried out more than 51,000 checkups.",
+        "chunk_id": "2012---13"
+    },
+    "85": {
+        "Question": "How many Audi employees were on parental leave in 2012, and what percentage of them were men?",
+        "Answer": "1,500 employees, 61% of whom were men.",
+        "OriginalText": "In the year under review, 1,500 Audi employees, 61 percent of whom were men, were on parental leave.",
+        "chunk_id": "2012---14"
+    },
+    "86": {
+        "Question": "What was the average length of parental leave taken by men and women at Audi in 2012?",
+        "Answer": "Women took an average of 24 months, and men took an average of 2 months.",
+        "OriginalText": "The average period of leave taken was around ten months, with women taking an average of 24 months and men two months.",
+        "chunk_id": "2012---14"
+    },
+    "87": {
+        "Question": "How many child care places were available in the Ingolstadt and Neckarsulm areas by the end of 2012?",
+        "Answer": "106 places in Ingolstadt and 45 places in Neckarsulm.",
+        "OriginalText": "By the end of 2012, there are now 106 places in the Ingolstadt area; in Neckarsulm, there are currently 45, which are completely filled.",
+        "chunk_id": "2012---14"
+    },
+    "88": {
+        "Question": "How many places for children aged up to three did Audi add in 2012?",
+        "Answer": "36 places.",
+        "OriginalText": "After 36 were added in 2012, there are now 106 places in the Ingolstadt area; in Neckarsulm, there are currently 45,which are completely fi lled.",
+        "chunk_id": "2012---14"
+    },
+    "89": {
+        "Question": "How many fact-finding events on the subject of parental leave were held at Audi in 2012?",
+        "Answer": "Six events.",
+        "OriginalText": "In 2012, a total of six were held at the Ingolstadt and Neckarsulm locations.",
+        "chunk_id": "2012---14"
+    },
+    "90": {
+        "Question": "How many pay-scale employees at Audi's German locations received a profit share in 2012, and what was the average amount?",
+        "Answer": "44,800 employees, with an average profit share of EUR 8,251.",
+        "OriginalText": "In 2012, each of the 44,800 or so pay-scale employees at the German locations received an average of EUR 8,251 as an Audi profit share.",
+        "chunk_id": "2012---14"
+    },
+    "91": {
+        "Question": "What percentage of Audi employees participated in the Audi Checkup program in 2012?",
+        "Answer": "90% of employees.",
+        "OriginalText": "Around 90 percent of our employees now take advantage of the Audi Checkup.",
+        "chunk_id": "2012---14"
+    },
+    "92": {
+        "Question": "What is Audi's commitment to employees who take caregiver leave, according to the 2012 report?",
+        "Answer": "Employees on caregiver leave can leave the company with a reemployment guarantee and care for relatives for up to four additional years.",
+        "OriginalText": "After three years of caregiver leave, employees can leave the Company with a reemployment guarantee and look after their relatives for a further four years.",
+        "chunk_id": "2012---14"
+    },
+    "93": {
+        "Question": "How many strategic university partnerships did Audi have in 2012?",
+        "Answer": "12",
+        "OriginalText": "TThe Audi Group currently pursues 12 strategic university partnerships and an array of other cooperations with research institutes. ",
+        "chunk_id": "2012---15"
+    },
+    "94": {
+        "Question": "What percentage of doctoral students  were recruited to the Audi Group on a permanent employment contract after completing their doctorate in 2012?",
+        "Answer": "Over 75 percent",
+        "OriginalText": "In 2012, over 75 percent of academics who had completed their doctorate were recruited to the Audi Group on a permanent employment contract.",
+        "chunk_id": "2012---15"
+    },
+    "95": {
+        "Question": "What was the total number of Audi job tickets that made new express bus services possible in 2012?",
+        "Answer": "2,500",
+        "OriginalText": "2,500 Audi job tickets make new express bus services possible.",
+        "chunk_id": "2012---15"
+    },
+    "96": {
+        "Question": "How many students were working on their doctorate in cooperation with Audi in 2012?",
+        "Answer": "130",
+        "OriginalText": "130 students are working on their doctorate in cooperation with Audi.",
+        "chunk_id": "2012---15"
+    },
+    "97": {
+        "Question": "What was the main area of concern regarding employee health trends that cannot be remedied in the short term according to Peter Mosch in 2012?",
+        "Answer": "Increased pressure",
+        "OriginalText": "»Peter Mosch: Increased pressure is one such problem.",
+        "chunk_id": "2012---15"
+    },
+    "98": {
+        "Question": "How many Audi locations had environmental management systems that met the DIN EN ISO 50001 standard in 2012?",
+        "Answer": "Five",
+        "OriginalText": "The environmental management systems for the Ingolstadt, Neckarsulm, Győr, Brussels and Sant’Agata Bolognese locations moreover meet the DIN EN ISO 50001 standard.",
+        "chunk_id": "2012---15"
+    },
+    "99": {
+        "Question": "How many Audi employees in Germany actively volunteered in 2012?",
+        "Answer": "Almost 40 percent of Audi employees in Germany.",
+        "OriginalText": "Supporting voluntary work  \n\nIn 2012, the Company launched “Audi Volunteers,” a dedicated corporate volunteering program that systematically supports voluntary work in the community. To ensure the eff ectiveness of the program and to align it with employees’ interests, we conducted a survey into voluntary activities. The fi ndings revealed that almost 40 percent of Audi employees in Germany actively volunteer their time for good causes.",
+        "chunk_id": "2012---16"
+    },
+    "100": {
+        "Question": "What was the total amount Audi donated to social welfare organizations in 2012 through their Christmas fundraising campaign?",
+        "Answer": "EUR 825,000.",
+        "OriginalText": "In 2012, over 99 percent of the workforce contributed to the Christmas fundraising campaign. The Company added the sum of around EUR 237,000, enabling us to donate a total of EUR 825,000 to more than 100 institutions at the Ingolstadt and Neckarsulm sites.",
+        "chunk_id": "2012---16"
+    },
+    "101": {
+        "Question": "Which university did Audi begin cooperating with as a founding member of its university foundation in 2012?",
+        "Answer": "Karlsruhe Institute of Technology (KIT).",
+        "OriginalText": "Since last year, Audi has been involved as a founding member of the university foundation of the Karlsruhe Institute of Technology (KIT) set up in 2012.",
+        "chunk_id": "2012---16"
+    },
+    "102": {
+        "Question": "How much did Audi donate to earthquake victims in the Italian region of Emilia Romagna in 2012?",
+        "Answer": "EUR 150,000.",
+        "OriginalText": "In 2012, for instance, Audi made a donation of EUR 150,000 to earthquake victims in the Italian region of Emilia Romagna.",
+        "chunk_id": "2012---16"
+    },
+    "103": {
+        "Question": "What was the amount of the Audi Urban Future Award in 2012?",
+        "Answer": "EUR 100,000.",
+        "OriginalText": "Audi presented the first-ever Audi Urban Future Award, a biennial accolade, in 2010. With prize money of EUR 100,000, it is Germany’s highest endowed architecture competition. In 2012, five architect teams from the metropolitan regions of Mumbai, Pearl River Delta, Istanbul, São Paulo and Boston/Washington were invited to participate.",
+        "chunk_id": "2012---16"
+    },
+    "104": {
+        "Question": "In 2012, how many hours of voluntary work did Audi employees complete on two Volunteer Days?",
+        "Answer": "4,720 hours.",
+        "OriginalText": "4,720 hours of voluntary work were completed by Audi employees on two Volunteer Days in 2012.",
+        "chunk_id": "2012---16"
+    },
+    "105": {
+        "Question": "What percentage of doctoral students working with Audi in 2012 were preparing their theses in conjunction with a strategic Audi partner university?",
+        "Answer": "Around two-thirds.",
+        "OriginalText": "Around two-thirds of the doctoral theses are being prepared in conjunction with a strategic Audi partner university.",
+        "chunk_id": "2012---16"
+    },
+    "106": {
+        "Question": "How many employees participated in Audi's anti-corruption online training in 2012?",
+        "Answer": "In 2012, 3,025 Audi employees participated in anti-corruption online training.",
+        "OriginalText": "3,025 AUDI AG employees took part in online training on the subject of anti-corruption in 2012.",
+        "chunk_id": "2012---17"
+    },
+    "107": {
+        "Question": "When did Audi officially join the UN Global Compact?",
+        "Answer": "Audi officially joined the UN Global Compact on February 23, 2012.",
+        "OriginalText": "On February 23, 2012, AUDI AG officially joined the UN Global Compact.",
+        "chunk_id": "2012---17"
+    },
+    "108": {
+        "Question": "Which company did Audi acquire in 2012 and what was the date of acquisition?",
+        "Answer": "Audi acquired Ducati Motor Holding S.p.A. in July 2012.",
+        "OriginalText": "Since acquisition of the Ducati Group in July 2012.",
+        "chunk_id": "2012---17"
+    },
+    "109": {
+        "Question": "What was the CO2 emission from new vehicles sold in the European Union in 2012?",
+        "Answer": "In 2012, the average CO2 emissions of new vehicles sold in the European Union was around 138 g/km.",
+        "OriginalText": "According to provisional calculations, the average CO2 emissions of new vehicles sold in the European Union (EU 27) in 2012 was around 138 g/km.",
+        "chunk_id": "2012---17"
+    },
+    "110": {
+        "Question": "How did Audi contribute to the local community in 2012?",
+        "Answer": "In 2012, Audi raised funds through an employee Christmas donation campaign to support social and charitable causes in the Ingolstadt and Neckarsulm regions.",
+        "OriginalText": "The annual Christmas donation is an employee fundraising campaign initiated by the Works Council which is topped up by the Company. The money raised goes towards social and charitable causes in the Ingolstadt and Neckarsulm regions.",
+        "chunk_id": "2012---17"
+    },
+    "111": {
+        "Question": "How did Audi handle waste management in 2012 according to the report?",
+        "Answer": "In 2012, Audi's plants participated in the statutory electronic verification procedure for waste management (eANV).",
+        "OriginalText": "Our plants participate in the statutory electronic verification procedure for waste management (eANV).",
+        "chunk_id": "2012---17"
+    },
+    "112": {
+        "Question": "Which plant locations were included in the audit process for the 2012 CR Report?",
+        "Answer": "The plants in Ingolstadt and Neckarsulm were included in the audit process.",
+        "OriginalText": "Depending on the selected sustainability information, various audit activities are performed at Group and plant level, the following plants are included in the scope: Ingolstadt and Neckarsulm.",
+        "chunk_id": "2012---18"
+    },
+    "113": {
+        "Question": "In terms of fuel consumption, what was the combined fuel consumption for the A3 1.4 TFSI 90 kW in 2012?",
+        "Answer": "The combined fuel consumption for the A3 1.4 TFSI 90 kW was 5.2 l/100 km in 2012.",
+        "OriginalText": "A3 1.4 TFSI 90 kW (6-speed) Fuel consumption: urban: 6.5 l/100 km; extra urban: 4.4 l/100 km; combined: 5.2 l/100 km.",
+        "chunk_id": "2012---18"
+    },
+    "114": {
+        "Question": "When did the first Audi Stakeholder Forum take place?",
+        "Answer": "November 13, 2012",
+        "OriginalText": "The first Audi Stakeholder Forum took place in Ingolstadt on November 13, 2012.",
+        "chunk_id": "2012---18"
+    },
+    "115": {
+        "Question": "What was the energy efficiency class of the Audi A3 1.4 TFSI 103 kW (6-speed) in 2012?",
+        "Answer": "B",
+        "OriginalText": "A3 1.4 TFSI 103 kW (6-speed) Fuel consumption: urban: 5.8 l/100 km;  extra urban: 4.1 l/100 km;  combined: 4.7 l/100 km;  CO₂ emissions: 109 g/km;  energy efficiency class B.",
+        "chunk_id": "2012---18"
+    },
+    "116": {
+        "Question": "What specific improvements were recommended for Audi's stakeholder management in 2012?",
+        "Answer": "Systematization and standardization of stakeholder management, a binding regulatory framework, and greater attention to international stakeholder requirements.",
+        "OriginalText": "Recommendations for stakeholder management: There should be a further organization-wide systematization and standardization of stakeholder management.  A binding regulatory framework (e.g., in the form of a guideline) should be established.  International stakeholder requirements should be taken into greater account by stakeholder management.",
+        "chunk_id": "2012---18"
+    },
+    "117": {
+        "Question": "What was the CO₂ emission for the Audi A4 3.0 TDI clean diesel quattro in 2012?",
+        "Answer": "149 g/km",
+        "OriginalText": "A4 3.0 TDI clean diesel quattro (S tronic, 7-speed) Fuel consumption: urban: 6.8 l/100 km;  extra urban: 5.0 l/100 km;  combined: 5.7 l/100 km;  CO₂ emissions: 149 g/km;  energy efficiency class B.",
+        "chunk_id": "2012---18"
+    },
+    "118": {
+        "Question": "Which standard was used for the assurance engagement of Audi's CR Report 2012?",
+        "Answer": "AA1000 Assurance Standard (AA1000AS) 2008 and ISAE 3000.",
+        "OriginalText": "We conducted our independent assurance engagement in accordance with AA1000 Assurance Standard (AA1000AS) 2008 and also in accordance with the International Standard on Assurance Engagements (ISAE) 3000.",
+        "chunk_id": "2012---18"
+    },
+    "119": {
+        "Question": "What specific recommendation was made for Audi's sustainability reporting in 2012?",
+        "Answer": "Automation of data consolidation, e.g. through using a higher-level IT system for reporting sustainability data.",
+        "OriginalText": "In addition, we recommend: •Promoting further systematization of significant aspects of CR-management through international production locations and subsidiaries. •Intensified integration of sustainability aspects in the existing control and monitoring systems. Systematic integration of sustainability aspects in the core processes of the Company. •Automation of data consolidation, e.g. through using a higher level IT system for reporting sustainability data.",
+        "chunk_id": "2012---18"
+    },
+    "120": {
+        "Question": "What was the topic discussed at the first Audi Stakeholder Forum in 2012?",
+        "Answer": "The topic discussed was corporate responsibility in the Audi Group.",
+        "OriginalText": "Participants discussed the subject of corporate responsibility in the Audi Group.",
+        "chunk_id": "2012---19"
+    }
+}

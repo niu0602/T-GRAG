@@ -1,0 +1,380 @@
+{
+    "1": {
+        "Question": "How many vehicles did the Audi Group deliver in 2015, and what percentage growth did the Audi brand experience in deliveries to customers?",
+        "Answer": "The Audi Group delivered 2,024,881 vehicles in 2015, with the Audi brand experiencing a 3.6% growth in deliveries to customers.",
+        "OriginalText": "The Audi Group delivered a total of 2,024,881 vehicles, comprising 1,803,246 Audi models. That corresponds to a growth rate of 3.6 percent in deliveries of the core brand Audi.",
+        "chunk_id": "2015---1"
+    },
+    "2": {
+        "Question": "What were the operating profit and operating return on sales for Audi in 2015?",
+        "Answer": "Audi's operating profit was EUR 4,836 million, with an operating return on sales of 8.3%.",
+        "OriginalText": "Operating profit reached EUR 4,836 million, with an operating return on sales of EUR 8.3 percent.",
+        "chunk_id": "2015---1"
+    },
+    "3": {
+        "Question": "How many Lamborghini and Ducati vehicles were delivered by the Audi Group in 2015?",
+        "Answer": "The Audi Group delivered 3,245 Lamborghini vehicles and 54,809 Ducati motorcycles in 2015.",
+        "OriginalText": "The Lamborghini brand handed over 3,245 vehicles to customers, Ducati delivered 54,809 motorcycles.",
+        "chunk_id": "2015---1"
+    },
+    "4": {
+        "Question": "What was Audi's response to the UN Global Compact membership issue in 2015, and why?",
+        "Answer": "Audi temporarily suspended its membership in the UN Global Compact due to discussions surrounding emission figures.",
+        "OriginalText": "AUDI AG, as a subsidiary of Volkswagen AG, temporarily suspended its membership of the UN Global Compact at the end of 2015, in light of discussions surrounding emission figures.",
+        "chunk_id": "2015---1"
+    },
+    "5": {
+        "Question": "What innovative technologies does Audi plan to use for climate-friendly production as reported in 2015?",
+        "Answer": "Audi planned to use zero-emission drive units, hydrogen fuel cells, eco-friendly production methods, integral logistics chains, and a comprehensive recycling concept.",
+        "OriginalText": "In the future, we will focus even more closely on the environmental impact of our cars along the value chain. For that reason, zero-emission drive units in electric cars are as much a feature of our agenda as is the advancement of hydrogen fuel cells.We are therefore working on eco- friendly production methods, integral logistics chains, a comprehensive recycling concept and new non-fossil fuels.",
+        "chunk_id": "2015---1"
+    },
+    "6": {
+        "Question": "What mobility data platform did Audi collaborate on in 2015, and what was its purpose?",
+        "Answer": "Audi collaborated with the digital map provider HERE to optimize a real-time platform for mobility data to enable predictive driver assistance systems and new mobility services.",
+        "OriginalText": "Audi is therefore working in partnership with the digital map provider HERE to optimize the real-time platform for mobility data.This platform enables us to use swarm intelligence as the basis for predictive driver assistance systems and new mobility services. ",
+        "chunk_id": "2015---1"
+    },
+    "7": {
+        "Question": "What features will the Audi A8's traffic jam pilot, set to release in 2017, include as mentioned in 2015?",
+        "Answer": "The traffic jam pilot will include lane-keeping, acceleration, and braking at speeds of up to 65 km/h, controlled at the push of a button.",
+        "OriginalText": "We will be bringing out the first fully fledged traffic jam pilot in 2017, initially in the Audi A8. At the push of a button, it will take charge of lane-keeping, accelerating and braking at speeds of up to 65 km/h.",
+        "chunk_id": "2015---1"
+    },
+    "8": {
+        "Question": "How does Audi's Smart Factory address flexibility in the workplace as highlighted in 2015?",
+        "Answer": "Audi's Smart Factory uses robots to assist workers, innovative goggles to project work steps, and 3D printers to accelerate tool manufacturing, focusing on integrating human labor with advanced technology.",
+        "OriginalText": "We are blazing a new trail with our Smart Factory: We are shifting the focus to people. Robots hand components to factory workers, innovative goggles project the next working steps in the wearer’s field of vision, and 3D printers accelerate the process of manufacturing new tools.",
+        "chunk_id": "2015---1"
+    },
+    "9": {
+        "Question": "What potential impact does piloted driving have on road safety as outlined in Audi's 2015 report?",
+        "Answer": "Piloted driving has the potential to reduce accidents and road deaths by up to 90% in the long term.",
+        "OriginalText": "Piloted driving has the potential to cut the number of accidents and road deaths by up to 90 percent in the long term.",
+        "chunk_id": "2015---1"
+    },
+    "10": {
+        "Question": "What were the three main focus areas of Audi's Corporate Responsibility Interim Report in 2015?",
+        "Answer": "The three main focus areas were climate change, digitalization, and the flexibilization of the working environment.",
+        "OriginalText": "We are therefore focusing on three topics in this report which will be decisive for the future viability of Audi: climate change, digitalization and flexibilization of the working environment.",
+        "chunk_id": "2015---1"
+    },
+    "11": {
+        "Question": "What is the role of Audi's Smart Factory as mentioned in the 2015 report?",
+        "Answer": "Audi's Smart Factory integrates robots, innovative goggles, and 3D printers to assist factory workers and create a flexible work environment focused on people.",
+        "OriginalText": "We are blazing a new trail with our Smart Factory: We are shifting the focus to people. Robots hand components to factory workers, innovative goggles project the next working steps in the wearer’s field of vision, and 3D printers accelerate the process of manufacturing new tools.",
+        "chunk_id": "2015---2"
+    },
+    "12": {
+        "Question": "How does Audi plan to humanize autonomous cars according to the 2015 report?",
+        "Answer": "Audi considers adding a 'humanizer button' to autonomous cars to allow user control, such as adjusting the speed for city streets, to build driver confidence.",
+        "OriginalText": "That’s why we should try to humanize autonomous cars – maybe by providing a kind of humanizer button that will also allow us to do $60\\,\\mathsf{k m}/\\mathsf{h}$ on city streets.",
+        "chunk_id": "2015---2"
+    },
+    "13": {
+        "Question": "What is the expected impact of piloted driving on traffic safety as reported in 2015?",
+        "Answer": "Piloted driving is expected to create more defensive traffic behavior and significantly reduce accidents caused by human error.",
+        "OriginalText": "If vehicles drive themselves, traffic will become more defensive and there will be far fewer accidents.",
+        "chunk_id": "2015---2"
+    },
+    "14": {
+        "Question": "What are the two primary areas of focus for piloted driving as per Audi's 2015 strategy?",
+        "Answer": "The two areas are highway driving with increased speed and lane-changing, and low-speed autonomous parking in controlled environments.",
+        "OriginalText": "We are moving towards piloted driving on two levels. One is the autobahn. The other level is piloted driving in the parking garage or on the parking lot.",
+        "chunk_id": "2015---2"
+    },
+    "15": {
+        "Question": "What are the expected benefits of Audi's Car-to-X technologies introduced in 2015?",
+        "Answer": "Car-to-X technologies enable vehicles to share real-time data about hazards and speed limits, providing customized updates to other Audi drivers.",
+        "OriginalText": "They report the speed limits or hazard points they have identified to a server in the cloud, via the mobile communications network. The server collects the data, processes it and makes it available to other Audi drivers.",
+        "chunk_id": "2015---2"
+    },
+    "16": {
+        "Question": "How many traffic alerts does the Munich Traffic Control Center handle daily, as discussed in Audi's 2015 report?",
+        "Answer": "The Munich Traffic Control Center handles approximately 2,000 traffic alerts daily.",
+        "OriginalText": "Here, public-administration and police operators control the traffic 24/7 and have to respond to around 2,000 alerts every day.",
+        "chunk_id": "2015---2"
+    },
+    "17": {
+        "Question": "How many sets of traffic lights are there in Munich as reported in the 2015 Audi Corporate Annual Report?",
+        "Answer": "1,200",
+        "OriginalText": "There are about 1,200 sets of traffic lights in Munich, and most of them work automatically.",
+        "chunk_id": "2015---3"
+    },
+    "18": {
+        "Question": "What is the time it took for the Audi RS 7 piloted driving concept to complete a lap of the FAST Parcmotor circuit near Barcelona in 2015?",
+        "Answer": "2:07.67 min",
+        "OriginalText": "2:07.67 min is the time it took for the Audi RS 7 piloted driving concept to complete a lap of the FAST Parcmotor circuit near Barcelona in 2015.",
+        "chunk_id": "2015---3"
+    },
+    "19": {
+        "Question": "When did Audi plan to start connecting traffic lights with cars in the United States according to the 2015 report?",
+        "Answer": "2017",
+        "OriginalText": "In 2017, traffic lights will start connecting with cars in several U.S. cities.",
+        "chunk_id": "2015---3"
+    },
+    "20": {
+        "Question": "What fuel savings is Audi aiming for in urban traffic with the new service introduced in 2017 for the Q7 and A4?",
+        "Answer": "15 percent",
+        "OriginalText": "The new service can cut fuel consumption in urban traffic by 15 percent.",
+        "chunk_id": "2015---3"
+    },
+    "21": {
+        "Question": "What is the main benefit of Audi's Car-to-X technology as described in 2015?",
+        "Answer": "It increases safety on the road by alerting cars to hazards such as accidents, black ice, or poor visibility.",
+        "OriginalText": "Using the swarm intelligence principle, cars alert each other to hazards such as accidents, black ice or poor visibility. This can appreciably increase safety on the road.",
+        "chunk_id": "2015---3"
+    },
+    "22": {
+        "Question": "According to Prof. Dr. Karsten Lemmer in 2015, how much can automated driving on the autobahn cut fuel consumption by?",
+        "Answer": "20 percent",
+        "OriginalText": "I estimate that automated driving on the autobahn can cut fuel consumption by up to 20 percent.",
+        "chunk_id": "2015---3"
+    },
+    "23": {
+        "Question": "What was the target year for fully automated cars to be in showrooms, as mentioned in the 2015 report?",
+        "Answer": "In ten years' time",
+        "OriginalText": "In ten years' time, there will be fully automated cars in the showroom.",
+        "chunk_id": "2015---3"
+    },
+    "24": {
+        "Question": "What is Audi's approach to data security in its vehicles as discussed in the 2015 report?",
+        "Answer": "Audi ensures data security by designing security features from the start, using firewalls and separate control units in cars' electronics architecture.",
+        "OriginalText": "We talk of security by design – we consider the topic right at the start of development. And we have given the cars’ electronics architecture firewalls and separate control units to prevent a hacker from getting at the brakes, steering and accelerator.",
+        "chunk_id": "2015---3"
+    },
+    "25": {
+        "Question": "How many vehicles did Audi claim were already seamlessly connected with their environment in 2015?",
+        "Answer": "1.3 million",
+        "OriginalText": "1.3 million Vehicles already connect seamlessly with their environment, and will continue to do so in the future.",
+        "chunk_id": "2015---4"
+    },
+    "26": {
+        "Question": "What percentage of traffic measurement points in Germany exceeded maximum NOx levels in 2015?",
+        "Answer": "60 percent",
+        "OriginalText": "Maximum levels were exceeded over the past year at 60 percent of all measurement points in Germany.",
+        "chunk_id": "2015---4"
+    },
+    "27": {
+        "Question": "What is the potential environmental impact of piloted driving in the future, as discussed by Dr. Wiebke Zimmer in 2015?",
+        "Answer": "Piloted driving could offer environmental advantages when people share cars, leading to fewer vehicles on the road and less pollution.",
+        "OriginalText": "More than anything else, piloted driving can offer environmental advantages when people share cars with each other.",
+        "chunk_id": "2015---4"
+    },
+    "28": {
+        "Question": "What challenge does Siegfried Pint mention regarding electric mobility in 2015?",
+        "Answer": "The major challenge for electric mobility is the lack of sufficient charging infrastructure, which needs to be addressed by society or the national economy.",
+        "OriginalText": "In my opinion, the issue of charging is an overriding one and is a duty of society or of the national economy.",
+        "chunk_id": "2015---4"
+    },
+    "29": {
+        "Question": "What was the expected change in Audi's vehicle portfolio in the next 10 years according to Siegfried Pint in 2015?",
+        "Answer": "In ten years, Audi is expected to have a significant share of electric cars in its portfolio.",
+        "OriginalText": "In ten years, we will probably have a significant share of electric cars in our portfolio.",
+        "chunk_id": "2015---4"
+    },
+    "30": {
+        "Question": "What was Dr. Wiebke Zimmer's view on young people's attitude towards cars in 2015?",
+        "Answer": "Young people view cars less as a status symbol and prefer more pragmatic transport options such as cycling or public transport.",
+        "OriginalText": "There is a noticeable trend among a young urban population to view the car less as a status symbol.  If you have to get from A to B, you take a pragmatic approach: You seek out the most convenient way.",
+        "chunk_id": "2015---4"
+    },
+    "31": {
+        "Question": "What was Audi's installed renewable energy capacity in Germany in 2015?",
+        "Answer": "More than 160 gigawatts",
+        "OriginalText": "In Germany, we have more than 160 gigawatts of installed capacity, far exceeding the average load of 70 gigawatts, since only 15 to 20 percent of alternative energy capacities are used, due to their fluctuation.",
+        "chunk_id": "2015---5"
+    },
+    "32": {
+        "Question": "What is the current market trend for the Audi A3 Sportback e-tron in 2015?",
+        "Answer": "The A3 Sportback e-tron is so popular that Audi had to increase the planned volume twice.",
+        "OriginalText": "At the moment, the A3 Sportback e-tron is so popular that we have already had to increase our planned volume twice.",
+        "chunk_id": "2015---5"
+    },
+    "33": {
+        "Question": "What challenge did Siegfried Pint mention regarding the infrastructure for electric vehicles in 2015?",
+        "Answer": "The lack of charging infrastructure is a significant stumbling block to carbon-neutral mobility.",
+        "OriginalText": "I would like to see all of the stakeholders do their homework when it comes to the charging infrastructure, since the lack of this infrastructure is a very clear stumbling block to carbon-neutral mobility.",
+        "chunk_id": "2015---5"
+    },
+    "34": {
+        "Question": "According to Siegfried Pint in 2015, what are the two primary issues with hydrogen as a fuel source for long-distance mobility?",
+        "Answer": "The high cost of the fuel-cell drive system and the cost of providing energy.",
+        "OriginalText": "In our analysis, we come to the conclusion that the fuel cell has the highest cost in national economic terms even over the long term, despite technical improvements. The main factors are the costs of the fuel-cell drive system and the high cost of providing the energy.",
+        "chunk_id": "2015---5"
+    },
+    "35": {
+        "Question": "What did Dr. Wiebke Zimmer argue regarding electric mobility in 2015, particularly concerning its impact on energy consumption?",
+        "Answer": "Electric mobility could increase electricity needs, and there must be consideration of where additional renewable energies will come from.",
+        "OriginalText": "Electric mobility is a central pillar for climate protection, but it’s not the only one – it is also important to reduce energy needs. When electric cars are not efficient enough, electricity needs increase, and we have to consider carefully here where all of these additional renewable energies are supposed to come from.",
+        "chunk_id": "2015---5"
+    },
+    "36": {
+        "Question": "How much lithium production worldwide would be used if all three million cars newly introduced to German roads in 2015 were equipped with electric car batteries similar to Audi's concept car?",
+        "Answer": "Almost 90 percent of the lithium production worldwide would go into these cars.",
+        "OriginalText": "The lithium-ion battery in your concept car is very large. If all three million cars that are newly introduced to German roads each year were similarly equipped electric cars, then almost 90 percent of the lithium production worldwide would go into these cars.",
+        "chunk_id": "2015---6"
+    },
+    "37": {
+        "Question": "What is the expected global total sales figure for carsharing by 2021 according to Audi's 2015 report?",
+        "Answer": "€4,700 million.",
+        "OriginalText": "≈€4,700 million is forecast to be the global total sales figure for carsharing in 2021.",
+        "chunk_id": "2015---6"
+    },
+    "38": {
+        "Question": "How many carsharing vehicles were on the roads worldwide in 2015?",
+        "Answer": "Approximately 90,000 carsharing vehicles.",
+        "OriginalText": "≈90,000 carsharing vehicles were on the roads worldwide in 2015.",
+        "chunk_id": "2015---6"
+    },
+    "39": {
+        "Question": "How many electric cars and plug-in hybrids were in Germany by the end of 2015?",
+        "Answer": "Approximately 47,000 electric cars and plug-in hybrids.",
+        "OriginalText": "≈47,000 all-electric cars and plug-in hybrids were in Germany at the end of 2015.",
+        "chunk_id": "2015---6"
+    },
+    "40": {
+        "Question": "How many charging points were available at publicly accessible charging stations in Germany in mid-2015?",
+        "Answer": "Approximately 5,600 charging points at 2,500 stations.",
+        "OriginalText": "≈5,600 charging points were available at 2,500 publicly accessible charging stations in Germany in mid-2015.",
+        "chunk_id": "2015---6"
+    },
+    "41": {
+        "Question": "What is the range of the Audi e-tron quattro concept car introduced at the IAA 2015?",
+        "Answer": "More than 500 kilometers.",
+        "OriginalText": "The Audi e-tron quattro concept technology study, presented at the IAA 2015, offers a real glimpse of what Audi is planning in the near future... > 500 km range.",
+        "chunk_id": "2015---6"
+    },
+    "42": {
+        "Question": "What is the combined fuel consumption (gasoline) of the Audi A3 Sportback e-tron in 2015?",
+        "Answer": "1.7 – 1.5 liters per 100 kilometers.",
+        "OriginalText": "Audi A3 Sportback e-tron: Combined fuel consumption (gasoline) in 1/100 km: 1.7 – 1.5.",
+        "chunk_id": "2015---6"
+    },
+    "43": {
+        "Question": "What was the performance specification of the Audi e-tron quattro concept, presented at the IAA 2015?",
+        "Answer": "The Audi e-tron quattro concept has a 4.6 sec acceleration from 0 to 100 km/h, a 320 kW power output, a 95 kWh battery capacity, and a range of more than 500 km.",
+        "OriginalText": "The Audi e-tron quattro concept technology study, presented at the IAA 2015, offers a real glimpse of what Audi is planning in the near future. The sporty full-size SUV is an all-electric car. Under its passenger compartment is a large lithium-ion battery that powers three electric motors – one on the front axle and two on the rear axle. 4.6 sec. from 0 to 100 km/h, 320kW power output, 95 kWh battery capacity, >500 km range",
+        "chunk_id": "2015---7"
+    },
+    "44": {
+        "Question": "What trend did Audi observe in its employees' preferences regarding working conditions in 2015?",
+        "Answer": "Audi observed that employees highly valued working practices adapted to individual needs, including flexible work hours and the option for telecommuting.",
+        "OriginalText": "Working practices that are adapted to individual needs are highly prized by employees.",
+        "chunk_id": "2015---7"
+    },
+    "45": {
+        "Question": "What was the notable development in the Audi A4 assembly line involving robots in 2015?",
+        "Answer": "In 2015, a robot named 'Adam' was introduced on the Audi A4 assembly line, working alongside employees without a safety barrier, performing tasks such as handing over expansion tanks.",
+        "OriginalText": "One example at the main plant in Ingolstadt shows that robots could also take on more tasks on the assembly line: There on the Audi A4 assembly line, a robot has been used for more than a year, working hand in hand with the people – without a safety barrier.",
+        "chunk_id": "2015---7"
+    },
+    "46": {
+        "Question": "How did Audi plan to address future skills development with regard to digitalization in 2015?",
+        "Answer": "In 2015, Audi planned to address future skills development by focusing on IT skills and using digital teaching aids, such as providing apprentices with tablets to facilitate connected learning.",
+        "OriginalText": "It is important to develop employees – and ideally with the help of digital teaching aids. This is already reality at Audi: Apprentices receive their course content on a tablet provided to them especially for that purpose.",
+        "chunk_id": "2015---7"
+    },
+    "47": {
+        "Question": "How many expatriates were working at Audi's foreign sites in 2015?",
+        "Answer": "1,406",
+        "OriginalText": "In 2015, a total of 1,406 expatriates worked at a foreign site.",
+        "chunk_id": "2015---8"
+    },
+    "48": {
+        "Question": "What was the total number of employees at AUDI AG in 2015?",
+        "Answer": "56,058",
+        "OriginalText": "AUDI AG (excluding apprentices) Total 49,239 52,132 56,058",
+        "chunk_id": "2015---8"
+    },
+    "49": {
+        "Question": "How many employees took parental leave in 2015 at Audi?",
+        "Answer": "2,362",
+        "OriginalText": "2,362 employees took parental leave – 63% of whom were men.",
+        "chunk_id": "2015---8"
+    },
+    "50": {
+        "Question": "How many employees took a sabbatical at Audi in 2015, and what was the average duration?",
+        "Answer": "616 employees took a sabbatical lasting an average of 8 months.",
+        "OriginalText": "616 employees took a sabbatical lasting an average of 8 months.",
+        "chunk_id": "2015---8"
+    },
+    "51": {
+        "Question": "How many employees at Audi AG belong to Generation Y in 2015?",
+        "Answer": "19,947 employees",
+        "OriginalText": "19,947 employees of AUDI AG belong to Generation Y.",
+        "chunk_id": "2015---8"
+    },
+    "52": {
+        "Question": "In 2015, how many apprentices were there in total at Audi AG?",
+        "Answer": "2,486 apprentices",
+        "OriginalText": "Apprentices Total 2,363 2,421 2,486",
+        "chunk_id": "2015---8"
+    },
+    "53": {
+        "Question": "What was the average length of service at AUDI AG in 2015?",
+        "Answer": "16.1 years",
+        "OriginalText": "Average length of service, AUDI AG Years 17.2 16.6 16.1",
+        "chunk_id": "2015---8"
+    },
+    "54": {
+        "Question": "How many doctoral candidates were pursuing their doctorates in research projects funded by Audi in 2015?",
+        "Answer": "More than 140 doctoral candidates",
+        "OriginalText": "In 2015, more than 140 doctoral candidates pursued their doctorates in research projects funded by Audi.",
+        "chunk_id": "2015---8"
+    },
+    "55": {
+        "Question": "What was the total workforce of the Audi Group in 2015?",
+        "Answer": "82,838",
+        "OriginalText": "Workforce, Audi Group Total 71,781 77,247 82,838",
+        "chunk_id": "2015---9"
+    },
+    "56": {
+        "Question": "What percentage of Audi AG employees were under 30 years old in 2015?",
+        "Answer": "19.9%",
+        "OriginalText": "Age structure, AUDI AG < 30 years Percent 17.9 19.5 19.9",
+        "chunk_id": "2015---9"
+    },
+    "57": {
+        "Question": "What was the proportion of women in management at Audi AG in 2015?",
+        "Answer": "8.9%",
+        "OriginalText": "Proportion of women in management Percent 8.0 8.3 8.9",
+        "chunk_id": "2015---9"
+    },
+    "58": {
+        "Question": "What was the Audi profit share per employee in 2015?",
+        "Answer": "EUR 5,420",
+        "OriginalText": "Audi profit share per employee EUR 6,900 6,540 5,420",
+        "chunk_id": "2015---9"
+    },
+    "59": {
+        "Question": "How much did Audi employees donate in total in 2015?",
+        "Answer": "EUR 1,226,000",
+        "OriginalText": "Employee donations EUR 1,074,000 1,160,000 1,226,000",
+        "chunk_id": "2015---9"
+    },
+    "60": {
+        "Question": "What was the attendance rate of Audi employees in 2015?",
+        "Answer": "96.0%",
+        "OriginalText": "Attendance rate Percent 96.3 96.3 96.0",
+        "chunk_id": "2015---9"
+    },
+    "61": {
+        "Question": "What was the expenditure on corporate citizenship by Audi in 2015?",
+        "Answer": "EUR 22,939,000",
+        "OriginalText": "Expenditure on corporate citizenship EUR –19,500,000 22,939,000",
+        "chunk_id": "2015---9"
+    },
+    "62": {
+        "Question": "What percentage of Audi AG employees were foreign nationals in 2015?",
+        "Answer": "8.3%",
+        "OriginalText": "Proportion of foreign nationals Percent 8.0 8.3 8.3",
+        "chunk_id": "2015---9"
+    },
+    "63": {
+        "Question": "What percentage of Audi AG apprentices were women in 2015?",
+        "Answer": "28.1%",
+        "OriginalText": "Proportion of women apprentices Percent 25.2 26.9 28.1",
+        "chunk_id": "2015---9"
+    }
+}

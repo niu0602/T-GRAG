@@ -1,0 +1,524 @@
+{
+    "1": {
+        "Question": "Who is the Chairman of the Board of Management of Audi AG in 2018?",
+        "Answer": "Bram Schot",
+        "OriginalText": "Chairman of the Board of Management of AUDI AG BRAM SCHOT",
+        "chunk_id": "2018---1"
+    },
+    "2": {
+        "Question": "What is Audi's goal in the Chinese market in terms of annual sales by 2018?",
+        "Answer": "Audi plans to sell more than one million Audi models across China every year in the future.",
+        "OriginalText": "In the future, we plan to sell more than one million Audi models across China every year.",
+        "chunk_id": "2018---1"
+    },
+    "3": {
+        "Question": "What was Audi's commitment to digital services in 2018?",
+        "Answer": "Audi is focusing on digital services and products, including expanding business to include new service products ranging from digital services to intermodal mobility concepts.",
+        "OriginalText": "We are expanding our business to include new service products that range from digital services to intermodal mobility concepts.",
+        "chunk_id": "2018---1"
+    },
+    "4": {
+        "Question": "What is Audi's approach to the transformation of its business model in 2018?",
+        "Answer": "Audi is rethinking its business model by focusing on customer-relevant solutions and digital services, and by investing in electric mobility, autonomous driving, and digital services.",
+        "OriginalText": "We are expanding our business to include new service products that range from digital services to intermodal mobility concepts.  The need for investments in pioneering fields such as electric mobility, autonomous driving and digital services is enormous.",
+        "chunk_id": "2018---1"
+    },
+    "5": {
+        "Question": "What significant change did Audi announce in 2018 regarding its advanced training budget?",
+        "Answer": "Audi increased its advanced training budget to 500 million euros through 2025.",
+        "OriginalText": "Audi has increased its budget for advanced training to 500 million euros through 2025.",
+        "chunk_id": "2018---1"
+    },
+    "6": {
+        "Question": "What was the goal of Audi's Audi Transformation Plan between 2018 and 2022 according to 2018 Annual Report?",
+        "Answer": "The goal was to free up around 15 billion euros between 2018 and 2022 to make the company fit for the future and safeguard its rates of return.",
+        "OriginalText": "With this program of measures, we want to free up around 15 billion euros between 2018 and the end of 2022 to make our company fit for the future and safeguard our rates of return.",
+        "chunk_id": "2018---1"
+    },
+    "7": {
+        "Question": "Which plant started producing the first fully electric Audi in 2018, and what unique feature did it have in terms of production?",
+        "Answer": "Audi Brussels started producing the first fully electric Audi in 2018, using completely carbon-neutral processes.",
+        "OriginalText": "Audi Brussels is a pioneer here: The plant has been manufacturing the first fully electric Audi since 2018 using completely carbon-neutral processes.",
+        "chunk_id": "2018---2"
+    },
+    "8": {
+        "Question": "By the end of which year does Audi plan to invest 14 billion euros in electric mobility, digital services, and autonomous driving, accroding to 2018 Annual Report?",
+        "Answer": "By the end of 2023.",
+        "OriginalText": "By the end of 2023, we will invest 14 billion euros in electric mobility, digital services and autonomous driving.",
+        "chunk_id": "2018---2"
+    },
+    "9": {
+        "Question": "What was Audi's planned increase in productivity by 2025 accroding to 2018 Annual Report?",
+        "Answer": "Audi plans to increase productivity in its plants by an average of 30 percent by 2025 accroding to 2018 Annual Report.",
+        "OriginalText": "For example, we want to increase productivity in our plants by an average of 30 percent by 2025.",
+        "chunk_id": "2018---2"
+    },
+    "10": {
+        "Question": "In 2018, what percentage of newly licensed cars in Norway were electric or plug-in hybrid?",
+        "Answer": "Nearly 50% of newly licensed cars in Norway were electric or plug-in hybrid in 2018.",
+        "OriginalText": "In 2018, nearly half of all newly licensed cars in Norway had an electric or plug-in hybrid drive system.",
+        "chunk_id": "2018---2"
+    },
+    "11": {
+        "Question": "What environmental milestone did Audi's plant in Mexico achieve in 2018?",
+        "Answer": "Audi's plant in Mexico manufactures the Audi Q5 entirely without wastewater.",
+        "OriginalText": "Our site in Mexico, for example, manufactures the Audi Q5 entirely without waste water.",
+        "chunk_id": "2018---2"
+    },
+    "12": {
+        "Question": "In 2018, how much paper and CO2 emissions did Audi reduce annually thanks to new technologies?",
+        "Answer": "Audi reduced paper usage by around ten million pieces per year, saving almost 83,000 kilograms of CO2.",
+        "OriginalText": "We now use around ten million fewer pieces of paper a year, or almost 83,000 kilograms less.",
+        "chunk_id": "2018---2"
+    },
+    "13": {
+        "Question": "What does Audi aim for in terms of the share of electric cars in highly developed markets by the next decade, as stated in the 2018 Annual Report?",
+        "Answer": "Audi aims for the share of electric cars to rise to more than one-third in highly developed markets by the next decade.",
+        "OriginalText": "In the coming decade, the share of electric cars rising to more than one-third, and even higher in highly developed markets.",
+        "chunk_id": "2018---2"
+    },
+    "14": {
+        "Question": "How did Audi plan to reduce its carbon footprint through its suppliers, as mentioned in the 2018 Annual Report?",
+        "Answer": "Audi launched a program with its suppliers to reduce CO2 emissions in the production of parts, focusing on sustainability.",
+        "OriginalText": "We have launched a program with our suppliers and are working together with them on the sustainable mobility of the future.",
+        "chunk_id": "2018---2"
+    },
+    "15": {
+        "Question": "How much has the Audi e-tron SUV been well-received by customers by the end of 2018?",
+        "Answer": "By the end of 2018, there were already just under 20,000 advance orders for the Audi e-tron.",
+        "OriginalText": "At the end of 2018, there were already just under 20,000 advance orders.",
+        "chunk_id": "2018---3"
+    },
+    "16": {
+        "Question": "What key factor besides the car's price and range does Audi consider crucial for the success of electric mobility, according to the 2018 Annual Report?",
+        "Answer": "The charging infrastructure and charging duration are key factors for the success of electric mobility.",
+        "OriginalText": "Aside from the vehicle’s price and range, the charging infrastructure and charging duration are key factors in helping electric mobility become successfully established.",
+        "chunk_id": "2018---3"
+    },
+    "17": {
+        "Question": "How does Audi address the concerns of long charging times accroding to the 2018 Annual Report?",
+        "Answer": "Audi offers the e-tron with charging options at home, work, and in IONITY’s fast-charging network, which allows the battery to be topped up for long drives in around half an hour.",
+        "OriginalText": "With the Audi e-tron, we are offering our customers a car that is efficient and can be charged in quite a variety of ways: in the garage and in transit with alternating current, or in IONITY’s new direct-current charging network – there the battery can be topped up for the next long drive in around half an hour.",
+        "chunk_id": "2018---3"
+    },
+    "18": {
+        "Question": "By which year does Audi expect the full implementation of IONITY's network of fast-charging stations across Europe accroding to the 2018 Annual Report?",
+        "Answer": "IONITY plans to operate a network of around 400 fast-charging stations in 25 European countries by 2020.",
+        "OriginalText": "IONITY is planning to operate a network of around 400 fast-charging stations in 25 European countries by 2020.",
+        "chunk_id": "2018---3"
+    },
+    "19": {
+        "Question": "What is Audi's goal for electric vehicle production capacity by 2025, according to the 2018 Annual Report?",
+        "Answer": "Audi aims to sell around 800,000 electric cars and plug-in hybrids by 2025.",
+        "OriginalText": "By 2025, the company wants to sell around 800,000 electric cars and plug-in hybrids.",
+        "chunk_id": "2018---3"
+    },
+    "20": {
+        "Question": "Which new electric Audi models are planned after the e-tron, as mentioned in the 2018 Annual Report?",
+        "Answer": "After the e-tron, the e-tron Sportback and the Audi Q2 L e-tron for China are planned, followed by the e-tron GT in 2020.",
+        "OriginalText": "The next steps after the Audi e-tron will be the e-tron Sportback and the Audi Q2 L e-tron for China. The series-production version of the e-tron GT concept will follow in 2020.",
+        "chunk_id": "2018---3"
+    },
+    "21": {
+        "Question": "In 2018, what was the main concern Audi aimed to address regarding the electric car charging experience?",
+        "Answer": "Audi aimed to address the concern of lengthy charging times by offering efficient charging solutions like the Audi e-tron Charging Service and quick charging through IONITY.",
+        "OriginalText": "One is definitely the fear of lengthy charging times.  With the Audi e-tron, we are offering our customers a car that is efficient and can be charged in quite a variety of ways...",
+        "chunk_id": "2018---4"
+    },
+    "22": {
+        "Question": "In 2018, how did Audi plan to achieve its electrification targets by 2025?",
+        "Answer": "Audi planned to electrify every segment of its portfolio by 2025, with around 30 electrified models, including the e-tron Sportback and Q2 L e-tron, as well as models like the e-tron GT and compact electrified vehicles in 2020.",
+        "OriginalText": "The Audi e-tron kicks off the rollout of the comprehensive Audi Roadmap E for the coming years.  The goal is to electrify all segments completely or in part by 2025.",
+        "chunk_id": "2018---4"
+    },
+    "23": {
+        "Question": "In 2018, how did Audi aim to enhance its profitability and cost structure for electric vehicle production?",
+        "Answer": "Audi aimed to enhance profitability by tapping into synergies within the Volkswagen Group, utilizing modular assembly platforms, and reducing complexity in production.",
+        "OriginalText": "We will achieve our goals with a competitive cost structure.  For example, we are tapping Group-wide synergies with modular assembly matrixes, platforms and carry-over parts.",
+        "chunk_id": "2018---4"
+    },
+    "24": {
+        "Question": "In 2018, how did Audi plan to address concerns about charging infrastructure and make electric vehicles more accessible?",
+        "Answer": "Audi participated in joint ventures like IONITY to establish fast-charging stations in Europe, expanded Electrify America in the USA, and offered home-based charging solutions.",
+        "OriginalText": "Audi is contributing to the integrated ecosystem – for example, by participating in the cross-OEM joint venture IONITY, through the expansion with Electrify America in the USA or with charging solutions at home.",
+        "chunk_id": "2018---4"
+    },
+    "25": {
+        "Question": "What will the Audi e-tron series production launch in 2020 according to Audi's plans for 2018?",
+        "Answer": "In 2020, the series-production version of the Audi e-tron GT concept.",
+        "OriginalText": "The series-production version of the e-tron GT concept will follow in 2020, and shortly after that we will also be launching an electrified model in the compact segment.",
+        "chunk_id": "2018---4"
+    },
+    "26": {
+        "Question": "According to Audi's 2018 Annual Report, how did the introduction of electric truck lanes on highways benefit rural areas?",
+        "Answer": "The introduction of electric truck lanes provided power grids and set up cell towers, improving internet reception in rural areas.",
+        "OriginalText": "They added the lane for electric trucks to the highway, so they put in a power grid and set up cell towers.",
+        "chunk_id": "2018---5"
+    },
+    "27": {
+        "Question": "What service does Audi offer to manage car rental and deliveries, as highlighted in the 2018 Annual Report?",
+        "Answer": "Audi offers a service where customers can order and finance Audi Approved :plus models around the clock, with delivery at a desired time and place.",
+        "OriginalText": "Customers can already sit on their sofas and order and finance Audi Approved :plus models around the clock, including Germany-wide delivery at a desired time and place.",
+        "chunk_id": "2018---5"
+    },
+    "28": {
+        "Question": "In Audi's 2018 Annual Report, what technology is used to provide immersive entertainment experiences in cars?",
+        "Answer": "Audi uses extended reality technology, developed in collaboration with Disney, to provide immersive in-car entertainment.",
+        "OriginalText": "Audi developed the interactive experience together with Disney Games and Interactive Experiences and presented it in January 2019 at the CES technology show in Las Vegas.",
+        "chunk_id": "2018---5"
+    },
+    "29": {
+        "Question": "What new digital business models is Audi developing, as per their 2018 Annual Report?",
+        "Answer": "Audi is developing new digital business models by transforming vehicles into digital platforms, offering services like interactive entertainment and seamless integration into customers' daily lives.",
+        "OriginalText": "The vehicle is becoming a digital platform... Audi is tapping new business models and sales potential through its digital services.",
+        "chunk_id": "2018---5"
+    },
+    "30": {
+        "Question": "What is the role of the myAudi portal in Audi's digital ecosystem as described in the 2018 Annual Report?",
+        "Answer": "The myAudi portal serves as the central access point where customers can book, manage, and use all of Audi's digital solutions.",
+        "OriginalText": "The myAudi customer portal is the central access point into the digital ecosystem, where all digital solutions can be booked, managed and used via an intuitive interface.",
+        "chunk_id": "2018---5"
+    },
+    "31": {
+        "Question": "What was Audi's approach to integrating digital services for vehicle management and customer interaction, as discussed in their 2018 Annual Report?",
+        "Answer": "Audi is gradually scaling the myAudi portal internationally, adding more services, including electronic vehicle history and transparent used car information.",
+        "OriginalText": "Audi is gradually scaling the platform internationally and is adding services and service products to it... The vehicle history of used cars will also be depicted electronically and transparently.",
+        "chunk_id": "2018---5"
+    },
+    "32": {
+        "Question": "In Audi's 2018 Annual Report, how did Vincent's daughter Hanna react to the autonomous driving technology in their car?",
+        "Answer": "Hanna was amused by her grandmother's initial refusal to drive autonomously, but later she became a fan after watching her favorite show during the trip.",
+        "OriginalText": "At first she refused to drive autonomously... But since the first time we watched her favorite show together while we were traveling, she’s been a big fan.",
+        "chunk_id": "2018---5"
+    },
+    "33": {
+        "Question": "How does Audi's navigation system, as mentioned in the 2018 Annual Report, cater to personal preferences?",
+        "Answer": "Audi's navigation system plans charging stops along with restaurant and café stops tailored to the user's personal preferences.",
+        "OriginalText": "A navigation system that learns, one that plans not just the charging stops on your route, but also stops in restaurants and cafés that meet your personal preferences.",
+        "chunk_id": "2018---5"
+    },
+    "34": {
+        "Question": "What is the core technology behind Audi's new virtual reality driving experience as reported in the 2018 Annual Report?",
+        "Answer": "The core technology behind Audi's virtual reality driving experience is extended reality, which matches virtual content to the movements of the car in real time.",
+        "OriginalText": "Using a virtual reality headset, they were out saving the universe as an 'Avenger.' Extended reality is the key term here. The technology matches virtual content to the movements of the car in real time.",
+        "chunk_id": "2018---6"
+    },
+    "35": {
+        "Question": "When did Audi present their virtual reality interactive experience at the CES technology show, as per the 2018 Annual Report?",
+        "Answer": "Audi presented their virtual reality interactive experience in January 2019 at the CES technology show in Las Vegas.",
+        "OriginalText": "Audi developed the interactive experience together with Disney Games and Interactive Experiences and presented it in January 2019 at the CES technology show in Las Vegas.",
+        "chunk_id": "2018---6"
+    },
+    "36": {
+        "Question": "What is the purpose of Audi's subsidiary Audi Electronics Venture GmbH, as described in the 2018 Annual Report?",
+        "Answer": "Audi Electronics Venture GmbH co-founded the startup holoride to commercialize the technology behind Audi's virtual reality driving experience.",
+        "OriginalText": "To commercialize the technology behind it, the subsidiary Audi Electronics Venture GmbH co-founded the startup holoride.",
+        "chunk_id": "2018---6"
+    },
+    "37": {
+        "Question": "Which mobile communications standard is Audi and Ducati using for their C-V2X assistance systems, as reported in the 2018 Annual Report?",
+        "Answer": "Audi and Ducati are using the 5G mobile communications standard for their C-V2X assistance systems.",
+        "OriginalText": "Using the 5G mobile communications standard, the two companies are moving forward into the digitally connected traffic system of the future.",
+        "chunk_id": "2018---6"
+    },
+    "38": {
+        "Question": "What does the C-V2X technology aim to achieve, as outlined in the 2018 Annual Report?",
+        "Answer": "C-V2X technology aims to enable vehicles, motorcycles, trucks, and other traffic elements to communicate directly with each other to avoid accidents and improve traffic efficiency.",
+        "OriginalText": "The idea is to prevent dangerous situations from arising in the first place. But this requires vehicles that are extensively connected.",
+        "chunk_id": "2018---6"
+    },
+    "39": {
+        "Question": "How is Audi’s digital business model expected to contribute to the company’s operating profit in 2025, according to the 2018 Annual Report?",
+        "Answer": "Audi's digital business models, including connected car, connected data, and connected mobility, are expected to contribute substantially to the company’s operating profit by 2025.",
+        "OriginalText": "Audi is becoming a provider of individual premium mobility... digital business models and services are to contribute substantially to the Audi Group’s operating profit in 2025.The following action areas were defined to reach this goal: connected car, connected data, connected mobility and connected retail.",
+        "chunk_id": "2018---6"
+    },
+    "40": {
+        "Question": "Which car rental service did Audi acquire, and what global network has it helped to establish, as per the 2018 Annual Report?",
+        "Answer": "Audi acquired the car-rental service Silvercar in the United States, helping to create 25 mobility hubs under the 'Silvercar by Audi' name and a global mobility network.",
+        "OriginalText": "Following the acquisition by the Four Rings of the car-rental service Silvercar in the United States, 25 mobility hubs have been created under the 'Silvercar by Audi' name.",
+        "chunk_id": "2018---6"
+    },
+    "41": {
+        "Question": "In which country is Audi’s 5G mobile communications standard expected to be introduced first, according to the 2018 Annual Report?",
+        "Answer": "The 5G mobile communications standard is expected to be introduced first in China to manage urban traffic flows more efficiently.",
+        "OriginalText": "The new mobile communications standard is set to be introduced in China first to manage urban traffic flows more efficiently.",
+        "chunk_id": "2018---6"
+    },
+    "42": {
+        "Question": "What was the financial contribution of the German Ministry of Transport and Digital Infrastructure to the ConVex C-V2X project in 2018?",
+        "Answer": "The German Ministry of Transport and Digital Infrastructure co-funded the ConVex C-V2X project with 1.8 million euros in 2018.",
+        "OriginalText": "It is being co-funded by the German Ministry of Transport and Digital Infrastructure through the program 'Automated and connected driving on digital test fields in Germany' in the amount of 1.8 million euros.",
+        "chunk_id": "2018---7"
+    },
+    "43": {
+        "Question": "What is the expected year of availability for 5G technology, according to Audi's 2018 report?",
+        "Answer": "5G technology is expected to be available in many countries by 2025, as per Audi's 2018 report.",
+        "OriginalText": "The fifth generation of the mobile communications and network technology is currently being developed and is expected to be available in many countries from 2025.",
+        "chunk_id": "2018---7"
+    },
+    "44": {
+        "Question": "What percentage of Audi's vehicles are projected to be electric by 2025, according to the company's 2018 strategy?",
+        "Answer": "By 2025, Audi projects that one-third of its vehicles will be electric.",
+        "OriginalText": "Mobility at Audi is becoming multifaceted: One-third of the company’s vehicles will be electric in 2025.",
+        "chunk_id": "2018---7"
+    },
+    "45": {
+        "Question": "What was the total funding amount for the ConVex C-V2X project, and until when was it scheduled to run in 2018?",
+        "Answer": "The ConVex C-V2X project received a total of 3.3 million euros in funding, and it was scheduled to run until June 2019.",
+        "OriginalText": "The venture will receive a total of 3.3 million euros in funding and will run until June 2019.",
+        "chunk_id": "2018---7"
+    },
+    "46": {
+        "Question": "In 2018, what innovative feature did Audi add to the A1 to appeal to young customers?",
+        "Answer": "In 2018, Audi added an optional Bang & Olufsen sound system to the A1, turning it into a concert hall with 11 loudspeakers and 560 watts of power.",
+        "OriginalText": "The compact car is turned into a concert hall. Quality is large as life here – for young ears, too. Thanks to the optional Bang & Olufsen speakers. The system controls 11 loudspeakers with 560 watts of power and uses the windshield as a reflecting surface to produce a 3D effect.",
+        "chunk_id": "2018---7"
+    },
+    "47": {
+        "Question": "Which models were presented by Audi as part of the new full-size class in 2018?",
+        "Answer": "The models presented were the A6, A7 Sportback, Q8, and the Audi e-tron.",
+        "OriginalText": "Audi continues its model offensive: Following the presentation of the new full-size class in 2018 with models such as the A6, A7 Sportback and Q8 as well as the Audi e-tron, the first volume-built model with fully electric drive...",
+        "chunk_id": "2018---8"
+    },
+    "48": {
+        "Question": "How many new plug-in hybrid models did Audi present at the Geneva Motor Show in 2018?",
+        "Answer": "Audi presented four new plug-in hybrid models at the Geneva Motor Show in 2018.",
+        "OriginalText": "The company therefore presented four new plug-in hybrid models at the first 'all-electric press conference' at the Geneva Motor Show: Q5 TFSIe, A6 L TFSIe, A7 Sportback TFSIe and the A8 L TFSIe.",
+        "chunk_id": "2018---8"
+    },
+    "49": {
+        "Question": "What is Lamborghini's sales volume increase in 2018 compared to the previous year?",
+        "Answer": "Lamborghini boosted its sales volume by 51 percent in 2018 compared to the previous year.",
+        "OriginalText": "In 2018, Lamborghini boosted its sales volume by 51 percent in comparison with the previous year.",
+        "chunk_id": "2018---8"
+    },
+    "50": {
+        "Question": "What was Lamborghini's total sales figure in 2018 for the Huracán, Aventador, and Urus models?",
+        "Answer": "In 2018, Lamborghini sold 3,989 Huracán and Aventador models and 1,761 Urus models.",
+        "OriginalText": "3,989 Huracán and Aventador models were sold in 2018, and 1,761 Urus SUVs have been sold since its market introduction in July.",
+        "chunk_id": "2018---8"
+    },
+    "51": {
+        "Question": "What is the time to market for new Lamborghini models in 2018, and how does it compare to previous years?",
+        "Answer": "In 2018, Lamborghini reduced its time to market for new models to under four years, down from the previous longer times.",
+        "OriginalText": "Time to market has fallen to under four years. The derivatives of new models enter the market in less than three years.",
+        "chunk_id": "2018---8"
+    },
+    "52": {
+        "Question": "How much did Lamborghini expand its production space in Sant'Agata Bolognese in 2018?",
+        "Answer": "Lamborghini expanded its production space in Sant'Agata Bolognese from 80,000 to 160,000 square meters in 2018.",
+        "OriginalText": "The company has not only doubled its production space to 160,000 square meters...",
+        "chunk_id": "2018---8"
+    },
+    "53": {
+        "Question": "Which digital service did Lamborghini launch in September 2018, and what is its purpose?",
+        "Answer": "Lamborghini launched the Lamborghini Unica app in September 2018 to allow customers to experience the Lamborghini lifestyle through news and events.",
+        "OriginalText": "The Lamborghini Unica app, for example, stands for digital products. Presented in September 2018, the service allows customers to experience the Lamborghini lifestyle as 'informal luxury' through news and events.",
+        "chunk_id": "2018---8"
+    },
+    "54": {
+        "Question": "In 2018, how many cars with electric or plug-in hybrid drive were sold in China for the first time?",
+        "Answer": "More than one million cars with electric or plug-in hybrid drive were sold in 2018 in China.",
+        "OriginalText": "In 2018, more than one million cars with electric or plug-in hybrid drive were sold for the first time in China.",
+        "chunk_id": "2018---9"
+    },
+    "55": {
+        "Question": "In 2018, what was the percentage of electric vehicles required by the Chinese government to be produced by car manufacturers by 2020?",
+        "Answer": "By 2020, the Chinese government required car manufacturers to produce 12 percent of vehicles as electric.",
+        "OriginalText": "Starting in 2019, 10 percent of the vehicles they produce in China must be electric, by 2020 the figure must rise to 12 percent.",
+        "chunk_id": "2018---9"
+    },
+    "56": {
+        "Question": "What percentage of Chinese consumers expressed willingness to purchase a self-driving car according to a 2018 study?",
+        "Answer": "According to a 2018 study by the Boston Consulting Group, 83 percent of Chinese consumers expressed willingness to purchase a self-driving car.",
+        "OriginalText": "83 percent of Chinese would in principle buy a self-driving car, according to the Boston Consulting Group.",
+        "chunk_id": "2018---9"
+    },
+    "57": {
+        "Question": "What is the expected annual production capacity of Audi’s Chinese plants based on their flexible plant structure by 2018?",
+        "Answer": "By 2018, Audi’s Chinese plants could potentially produce more than 700,000 cars annually based on their flexible plant structure.",
+        "OriginalText": "Thanks to their flexible plant structure, these locations could soon be producing more than 700,000 cars annually, depending on market demand.",
+        "chunk_id": "2018---9"
+    },
+    "58": {
+        "Question": "What role does the Chinese market play in Audi’s global growth, as described in the 2018 Annual Report?",
+        "Answer": "In the 2018 Annual Report, Audi describes China as its most powerful motor of growth, with a focus on increasing local production and product development.",
+        "OriginalText": "China is the most powerful motor of growth at Audi...  The company is fueling this growth by conducting more research locally, by producing more local models and by intensifying existing partnerships and initiating new ones.",
+        "chunk_id": "2018---9"
+    },
+    "59": {
+        "Question": "How many cars did Audi deliver to customers in China in 2018?",
+        "Answer": "Audi delivered 663,049 cars to customers in China in 2018.",
+        "OriginalText": "In 2018, Audi delivered 663,049 cars to customers in China.",
+        "chunk_id": "2018---10"
+    },
+    "60": {
+        "Question": "Which two cities in China were specifically mentioned as locations where Audi's premium ride-hailing service was launched in 2018?",
+        "Answer": "Audi launched its premium ride-hailing service in Xi'an and Chengdu in 2018.",
+        "OriginalText": "Together with Shouqiyueche, Audi launched a premium ride hailing service in 2018. This chauffeur service is currently offered in Xi’an and Chengdu.",
+        "chunk_id": "2018---10"
+    },
+    "61": {
+        "Question": "By what year does Audi plan to increase the number of models in its Chinese portfolio to 12, as described in the 2018 Annual Report?",
+        "Answer": "Audi plans to increase its local portfolio to 12 models by 2022.",
+        "OriginalText": "Working with its Chinese partner FAW, Audi wants to increase its local portfolio to 12 models by 2022.",
+        "chunk_id": "2018---10"
+    },
+    "62": {
+        "Question": "What year is the Audi e-tron expected to be introduced to the market in China according to the 2018 Annual Report?",
+        "Answer": "The Audi e-tron is expected to be introduced to the market in 2019.",
+        "OriginalText": "The Audi e-tron in particular has great potential: It will be introduced to the market in 2019.",
+        "chunk_id": "2018---10"
+    },
+    "63": {
+        "Question": "What new model of Audi is expected to be produced locally in Changchun starting in 2020 according to the 2018 Annual Report?",
+        "Answer": "The Audi e-tron is expected to be produced locally in Changchun starting in 2020.",
+        "OriginalText": "The Audi e-tron in particular has great potential: It will be introduced to the market in 2019 and will also be produced in Changchun starting in 2020.",
+        "chunk_id": "2018---10"
+    },
+    "64": {
+        "Question": "How many employees is Audi planning to have in its Beijing R&D center by 2023 according to the 2018 Annual Report?",
+        "Answer": "Audi plans to almost triple the number of employees in its Beijing R&D center by 2023.",
+        "OriginalText": "By 2023, the number of employees is planned to almost triple.",
+        "chunk_id": "2018---10"
+    },
+    "65": {
+        "Question": "According to the 2018 Annual Report, what benefits are expected from autonomous driving in smart cities like Wuxi?",
+        "Answer": "Autonomous driving in smart cities like Wuxi is expected to improve road safety, control traffic intelligently, reduce emissions, and increase quality of life.",
+        "OriginalText": "Much of this will be achieved thanks to autonomous driving.  When cars no longer have steering wheels...  premium mobility will be redefined.",
+        "chunk_id": "2018---11"
+    },
+    "66": {
+        "Question": "What key technological trend is Audi focusing on for future success, as mentioned in the 2018 Annual Report?",
+        "Answer": "Audi is focusing on the Internet of Things, where the boundaries between the real and digital world are becoming increasingly blurred.",
+        "OriginalText": "Audi is researching and testing these very technologies because they are the keys to tomorrow’s success.  This all starts with questions: What trends will customers follow tomorrow?",
+        "chunk_id": "2018---11"
+    },
+    "67": {
+        "Question": "What will be the expected impact of autonomous driving on urban mobility according to Audi's 2018 report?",
+        "Answer": "Autonomous driving will improve road safety, control traffic intelligently, reduce emissions, and increase the overall quality of life in cities.",
+        "OriginalText": "Road safety will improve, traffic will be controlled intelligently, mobility will become efficient, emissions will be permanently reduced and people’s overall quality of life will increase.",
+        "chunk_id": "2018---11"
+    },
+    "68": {
+        "Question": "How many percent of vehicles need to be autonomous for noticeable traffic flow improvements, according to Audi's 2018 report?",
+        "Answer": "At least 40 percent of vehicles need to be autonomous for noticeable traffic flow improvements.",
+        "OriginalText": "At least 40 percent of vehicles would have to be controlled autonomously for traffic flow to improve noticeably.",
+        "chunk_id": "2018---11"
+    },
+    "69": {
+        "Question": "What is the technical condition for autonomous driving to improve commuting times as per Audi's 2018 report?",
+        "Answer": "The rollout of an ultra-fast 5G mobile communications network is a technical condition for autonomous driving to improve commuting times.",
+        "OriginalText": "There is another technical condition as well: The ultra-fast 5G mobile communications network, which exchanges data practically in real time, must be rolled out everywhere.",
+        "chunk_id": "2018---11"
+    },
+    "70": {
+        "Question": "What specific autonomous driving function is Audi testing in Wuxi, according to the 2018 report?",
+        "Answer": "Audi is testing 15 different V2X functions in Wuxi.",
+        "OriginalText": "Audi is already testing 15 different V2X functions in Wuxi.",
+        "chunk_id": "2018---11"
+    },
+    "71": {
+        "Question": "What percentage of all vehicles is expected to have Level 4 or higher autonomous driving by 2025, according to the 2018 report?",
+        "Answer": "By 2025, 25 percent of all vehicles are expected to have Level 4 or higher autonomous driving.",
+        "OriginalText": "In 2025, 25 percent of all vehicles will have Level 4 or higher autonomous driving.",
+        "chunk_id": "2018---11"
+    },
+    "72": {
+        "Question": "Which city is a model for smart cities and autonomous driving according to Audi's 2018 report?",
+        "Answer": "Wuxi, China, is a model for smart cities and autonomous driving.",
+        "OriginalText": "Wuxi serves as a model for smart cities all over the world.",
+        "chunk_id": "2018---11"
+    },
+    "73": {
+        "Question": "How much more space can be gained by enabling cars to park autonomously in a new multi-story parking garage, as mentioned in Audi's 2018 report?",
+        "Answer": "Enabling cars to park autonomously in a new multi-story parking garage can result in around 60 percent more space.",
+        "OriginalText": "This helps reduce the distance between vehicles and the room needed to maneuver, and results in around 60 percent more space.",
+        "chunk_id": "2018---11"
+    },
+    "74": {
+        "Question": "How does Audi plan to avoid sluggishness and foster innovation, according to the 2018 Annual Report?",
+        "Answer": "Audi aims to overcome sluggishness by fostering a culture of agility, creativity, and out-of-the-box thinking, emphasizing the importance of the right people and organizational culture.",
+        "OriginalText": "Technology alone is no longer our USP. In this volatile world, the right people and culture are crucial. They allow us to change a lot more than before – the difference between what is conceivable and what is achievable was never as small as it is today.",
+        "chunk_id": "2018---12"
+    },
+    "75": {
+        "Question": "What challenge does Audi face in attracting employees with the right skills, as mentioned in the 2018 Annual Report?",
+        "Answer": "Audi faces the challenge of attracting employees with out-of-the-box skills—those who think creatively and unconventionally without limits. This skillset is becoming increasingly important in the modern automotive industry.",
+        "OriginalText": "The challenge for a CEO is to attract employees with these abilities. Out-of-the-box skills – in other words, the ability to think creatively and unconventionally without limits – are becoming more and more important.",
+        "chunk_id": "2018---12"
+    },
+    "76": {
+        "Question": "What is the key to ensuring Audi employees' support for the company’s transformation, according to the 2018 Annual Report?",
+        "Answer": "Audi ensures employees' support by inspiring them and fostering a shared mindset, focusing on collective intelligence, a flexible organization, and simpler processes.",
+        "OriginalText": "It’s not about changing employees, it’s about inspiring them. Plan, plan, plan must become play, play, play. A shared mindset is the most important thing.",
+        "chunk_id": "2018---12"
+    },
+    "77": {
+        "Question": "What is Audi’s stance on aggressive volume policies in the 2018 Annual Report?",
+        "Answer": "Audi prefers not to pursue aggressive volume policies. Instead, it aims to sell fewer cars but focus on those products that inspire customers and generate higher earnings.",
+        "OriginalText": "I do not want aggressive volume policies. I would rather sell fewer cars but earn more money with exactly those products that inspire customers.",
+        "chunk_id": "2018---12"
+    },
+    "78": {
+        "Question": "What is Audi’s approach to reducing its ecological footprint in production, according to the 2018 Annual Report?",
+        "Answer": "Audi’s approach includes striving for zero waste water production at all sites, with the San José Chiapa site in Mexico serving as a model.",
+        "OriginalText": "The vision is to manufacture vehicles at all Audi sites without producing any waste water at all. The San José Chiapa site in Mexico serves as a model.",
+        "chunk_id": "2018---12"
+    },
+    "79": {
+        "Question": "How does Audi contribute to the circular economy through remanufacturing, as mentioned in the 2018 Annual Report?",
+        "Answer": "Audi promotes remanufacturing by industrially overhauling used parts to produce parts of original quality, which generates both environmental and economic value.",
+        "OriginalText": "Remanufacturing is the industrial overhaul of used parts to produce parts of original quality. This process and the sale of these parts through our spare parts business generates significant added value.",
+        "chunk_id": "2018---12"
+    },
+    "80": {
+        "Question": "How is Audi addressing sustainability challenges in the supply chain, particularly in relation to electric vehicle batteries, as per the 2018 Annual Report?",
+        "Answer": "Audi is working on sustainable recycling concepts and innovations for battery sustainability, in collaboration with the Global Battery Alliance and research groups like Umicore.",
+        "OriginalText": "Audi will focus even more in the future on sustainability along the supply chain and has also joined forces, for instance, with the Global Battery Alliance. The initiative is concerned with sustainable recycling concepts in the sense of a circular economy as well as innovations that promote the sustainability of the battery.",
+        "chunk_id": "2018---12"
+    },
+    "81": {
+        "Question": "What is Audi's goal for the percentage of electric vehicles sold by 2025, as outlined in the 2018 Annual Report?",
+        "Answer": "By 2025, Audi aims to sell one in every three vehicles as electric.",
+        "OriginalText": "By 2025, one in every three Audi vehicles sold will be electric.",
+        "chunk_id": "2018---12"
+    },
+    "82": {
+        "Question": "How much CO₂-equivalent emissions did Audi save in 2018 through its Aluminium Closed Loop project?",
+        "Answer": "Audi saved 70,000 metric tons of CO₂-equivalent emissions in 2018 through the Aluminium Closed Loop project.",
+        "OriginalText": "In 2018 alone, some 70,000 metric tons of CO₂-equivalent emissions were saved this way.",
+        "chunk_id": "2018---13"
+    },
+    "83": {
+        "Question": "By what year does Audi aim to reduce the environmental impact of its Group sites by 35 percent per car produced compared to 2010 according to the 2018 Annual Report?",
+        "Answer": "According to the 2018 Annual Report,Audi aims to reduce the environmental impact of its Group sites by 35 percent per car produced by the end of 2025 compared to 2010.",
+        "OriginalText": "By the end of 2025, Audi wants to reduce the environmental impact of Group sites by 35 percent per car produced compared with the reference year 2010.",
+        "chunk_id": "2018---13"
+    },
+    "84": {
+        "Question": "Which Audi plants have already achieved CO₂-neutral and no wastewater production goals according to the 2018 Annual Report?",
+        "Answer": "According to the 2018 Annual Report,the Brussels plant is CO₂-neutral, and the San José Chiapa plant has no wastewater production goals.",
+        "OriginalText": "The Brussels (CO₂-neutral) and San José Chiapa (no waste water) plants have already achieved this goal.",
+        "chunk_id": "2018---13"
+    },
+    "85": {
+        "Question": "How many retail and service partners does Audi have globally in 2018?",
+        "Answer": "In 2018, Audi had around 5,000 retail and service partners globally.",
+        "OriginalText": "Around 5,000 retail and service partners around the world make the Audi premium brand a living experience.",
+        "chunk_id": "2018---13"
+    },
+    "86": {
+        "Question": "What are the three main action areas shaping Audi's sales strategy in 2018?",
+        "Answer": "The three main action areas shaping Audi's sales strategy in 2018 are digitalization, electric mobility, and mobility services.",
+        "OriginalText": "Digitalization, electric mobility and mobility services are the three action areas that will shape the field of sales more strongly.",
+        "chunk_id": "2018---14"
+    },
+    "87": {
+        "Question": "What new role does Audi's business model create for dealers in 2018?",
+        "Answer": "Audi's business model in 2018 creates new roles for dealers to act as hubs for digitally based mobility services, such as Audi on demand.",
+        "OriginalText": "New roles complement established job profiles.  Audi is training its sales partners to act as hubs for digitally based mobility services such as Audi on demand.",
+        "chunk_id": "2018---14"
+    }
+}

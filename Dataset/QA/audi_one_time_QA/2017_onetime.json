@@ -1,0 +1,854 @@
+{
+    "1": {
+        "Question": "How many cars did Audi deliver to customers in 2017?",
+        "Answer": "1,878,105 cars",
+        "OriginalText": "In 2017, the Audi Group delivered to customers 1,878,105 (2016: 1,867,738) cars of the Audi brand.",
+        "chunk_id": "2017---1"
+    },
+    "2": {
+        "Question": "What was Audi's operating profit in 2017?",
+        "Answer": "EUR 4.7 billion",
+        "OriginalText": "With sales of EUR 60.1 billion (2016: EUR 59.3 billion), the premium manufacturer achieved an operating profit of EUR 4.7 billion (2016: EUR 3.1 billion).",
+        "chunk_id": "2017---1"
+    },
+    "3": {
+        "Question": "How many sports cars of the Lamborghini brand were delivered by Audi in 2017?",
+        "Answer": "3,815 sports cars",
+        "OriginalText": "In 2017, the Audi Group delivered to customers 3,815 (2016: 3,457) sports cars of the Lamborghini brand.",
+        "chunk_id": "2017---1"
+    },
+    "4": {
+        "Question": "How many motorcycles of the Ducati brand were delivered by Audi in 2017?",
+        "Answer": "55,871 motorcycles",
+        "OriginalText": "In 2017, the Audi Group delivered to customers 55,871 (2016: 55,451) motorcycles of the Ducati brand.",
+        "chunk_id": "2017---1"
+    },
+    "5": {
+        "Question": "How much did Audi spend on corporate citizenship activities in 2017?",
+        "Answer": "EUR 20.6 million",
+        "OriginalText": "EUR 20.6 million expended for corporate citizenship activities.",
+        "chunk_id": "2017---1"
+    },
+    "6": {
+        "Question": "How much did Audi reduce carbon emissions in logistics by in 2017?",
+        "Answer": "13,571 tons",
+        "OriginalText": "carbon emissions in logistics reduced by 13,571 tons.",
+        "chunk_id": "2017---1"
+    },
+    "7": {
+        "Question": "How many people worked for Audi globally in 2017, and how many of them were in Germany?",
+        "Answer": "In 2017, Audi employed approximately 90,000 people globally, with more than 60,000 of them based in Germany.",
+        "OriginalText": "At present, approximately 90,000 people currently work for the Company all over the world, more than 60,000 of them in Germany.",
+        "chunk_id": "2017---1"
+    },
+    "8": {
+        "Question": "What percentage of Audi's share capital is controlled by Volkswagen AG?",
+        "Answer": "Volkswagen AG controls approximately 99.55 percent of Audi's share capital.",
+        "OriginalText": "Volkswagen AG is the major shareholder of AUDI AG and controls approximately 99.55 percent of the share capital.",
+        "chunk_id": "2017---1"
+    },
+    "9": {
+        "Question": "How many electrified models does Audi plan to offer by 2025, according to the 2017 report?",
+        "Answer": "Audi aims to offer more than 20 electrified models by 2025, with more than half of them having a fully electric drivetrain.",
+        "OriginalText": "Roland Villinger: Before the end of the year we will be launching the first fully electric Audi.  We are planning electric cars and plug-in hybrids in virtually all segments.  Through 2025 we aim to offer more than 20 electrified models, more than half of them with a fully electric drivetrain.",
+        "chunk_id": "2017---2"
+    },
+    "10": {
+        "Question": "By what year does Audi plan to offer three electric models in its product portfolio, according to the 2017 report?",
+        "Answer": "Audi plans to offer three electric models in its product portfolio by 2020.",
+        "OriginalText": "By 2020 inclusive, we want to offer three electric models in the Audi product portfolio.",
+        "chunk_id": "2017---2"
+    },
+    "11": {
+        "Question": "What is the target for Audi's digital platform myAudi by 2025 as stated in the 2017 report?",
+        "Answer": "By 2025, Audi aims to have 10 million active users on the myAudi digital platform.",
+        "OriginalText": "By 2025 we want to achieve the following: 10 million active users on the digital platform myAudi.",
+        "chunk_id": "2017---2"
+    },
+    "12": {
+        "Question": "What key milestone does Audi aim to reach with its vehicles by 2025 in terms of electric power?",
+        "Answer": "By 2025, Audi aims for one-third of its vehicles produced to be electrically powered.",
+        "OriginalText": "By 2025 we want to achieve: 1/3 of the vehicles produced are electrically powered.",
+        "chunk_id": "2017---2"
+    },
+    "13": {
+        "Question": "What percentage of the global population is expected to be city-dwellers by 2025 according to Audi's 2017 report?",
+        "Answer": "By 2025, an estimated 58% of the global population is expected to be city-dwellers.",
+        "OriginalText": "Urbanization is gathering pace: By 2025, an estimated 58 percent of all people on the planet will be city-dwellers.",
+        "chunk_id": "2017---2"
+    },
+    "14": {
+        "Question": "What goal does Audi have in terms of autonomous driving by 2025 as outlined in the 2017 report?",
+        "Answer": "By 2025, Audi aims to hold a leading position in automated and autonomous driving.",
+        "OriginalText": "By 2025 we want to achieve: Leading position in automated and autonomous driving.",
+        "chunk_id": "2017---2"
+    },
+    "15": {
+        "Question": "What was the total number of members in the Audi AG Supervisory Board as of the report's publication in 2017?",
+        "Answer": "The Audi AG Supervisory Board consisted of 20 members, with 10 shareholder representatives and 10 employee representatives.",
+        "OriginalText": "The Supervisory Board of AUDI AG comprises ten shareholder representatives and ten employee representatives as provided for by law.",
+        "chunk_id": "2017---3"
+    },
+    "16": {
+        "Question": "How does Audi plan to improve road traffic and urban mobility according to their 2017 report?",
+        "Answer": "Audi plans to use technologies such as piloted parking and autonomous driving to improve road traffic safety, environmental compatibility, and use of space.",
+        "OriginalText": "Technologies such as piloted parking and autonomous driving will help to make road traffic safer and more environmentally com­patible, and will use precious space more effectively than at present.",
+        "chunk_id": "2017---3"
+    },
+    "17": {
+        "Question": "What new behavior did Audi's Code of Conduct introduce in October 2017 for its employees?",
+        "Answer": "The new Audi Code of Conduct, introduced in October 2017, provides guidance on correct behavior at the workplace, as a business partner, and as a member of the company, with mandatory training for new employees.",
+        "OriginalText": "The new version of the Code of Conduct provides clear rules on correct conduct, in a transparent and easily understood form and was made accessible to all employees.  A training concept for the new Code of Conduct was also prepared.  All new employees who have joined the Company since October 10, 2017, or are recruited in the future attend mandatory training.",
+        "chunk_id": "2017---3"
+    },
+    "18": {
+        "Question": "Which document was made accessible to all Audi employees to help them understand the new Code of Conduct in 2017?",
+        "Answer": "The brochure explaining the new Code of Conduct was sent to all new recruits along with their employment contract.",
+        "OriginalText": "The brochure explaining the new Code of Conduct is also sent to all new recruits along with their employment contract.",
+        "chunk_id": "2017---3"
+    },
+    "19": {
+        "Question": "How does Audi integrate sustainability within its company, and which department is responsible for its direction in 2017?",
+        "Answer": "Audi integrates sustainability through its 'Sustainability Strategy' department, which consolidates measures across divisions and reports to the Sustainability Board at least twice a year.",
+        "OriginalText": "The 'Sustainability Strategy' department consolidates measures in the divisions and is responsible for the direction of the sustainability strategy.  It reports to the Sustainability Board – the full Board of Management of AUDI AG – at least twice a year.",
+        "chunk_id": "2017---3"
+    },
+    "20": {
+        "Question": "How many employees participated in the 'Responsibility Perspective' lecture series by 2017?",
+        "Answer": "2,581 employees",
+        "OriginalText": "A total of 2,581 employees have taken part in 20 lectures since 2013.",
+        "chunk_id": "2017---4"
+    },
+    "21": {
+        "Question": "What was the total number of participants in the six lectures held in 2017 as part of the 'Responsibility Perspective' series?",
+        "Answer": "864 participants",
+        "OriginalText": "In 2017, there were six lectures on future topics related to Strategy 2025, with eleven external and internal experts speaking at the events and 864 participants attending the lectures in Ingolstadt and Neckarsulm.",
+        "chunk_id": "2017---4"
+    },
+    "22": {
+        "Question": "How many residents participated in the 'Among Neighbors' dialogue forum in 2017?",
+        "Answer": "120 residents",
+        "OriginalText": "On November 20, 2017, some 120 residents who live close to the Audi Neckarsulm site took up the Company’s invitation to the Audi Forum.",
+        "chunk_id": "2017---4"
+    },
+    "23": {
+        "Question": "What was the total number of participants at the 'Region in Dialogue' event in 2017?",
+        "Answer": "70 participants",
+        "OriginalText": "At the various workshops, around 70 participants took the opportunity for in-depth conversations and strengthened the healthy cooperation between the social, public and business sectors in the region.",
+        "chunk_id": "2017---4"
+    },
+    "24": {
+        "Question": "How many external and internal experts spoke at the six lectures in 2017 as part of the 'Responsibility Perspective' lecture series?",
+        "Answer": "Eleven experts",
+        "OriginalText": "In 2017, there were six lectures on future topics related to Strategy 2025, with eleven external and internal experts speaking at the events.",
+        "chunk_id": "2017---4"
+    },
+    "25": {
+        "Question": "In 2017, how many stakeholders were invited to participate in Audi's stakeholder survey to evaluate the relevance of action areas?",
+        "Answer": "Around 150 external stakeholders",
+        "OriginalText": "Around 150 external stakeholders – including customers, suppliers, non-governmental organizations (NGOs) and analysts – were invited to evaluate the relevance of the action areas.",
+        "chunk_id": "2017---4"
+    },
+    "26": {
+        "Question": "What were the five Sustainable Development Goals (SDGs) where Audi had the biggest impact, according to the 2017 stakeholder survey?",
+        "Answer": "SDG 8, SDG 9, SDG 11, SDG 12, SDG 13",
+        "OriginalText": "According to the stakeholder survey, Audi has the biggest effect on or makes the biggest contribution to sustainable development in the following five SDGs: “Decent Work and Economic Growth” (SDG 8), “Industry, Innovation and Infrastructure” (SDG 9), “Sustainable Cities and Communities” (SDG 11), “Responsible Consumption and Production” (SDG 12) and “Climate Action” (SDG 13).",
+        "chunk_id": "2017---4"
+    },
+    "27": {
+        "Question": "In 2017, what initiative did Audi implement to report breaches of rules?",
+        "Answer": "Audi developed the Volkswagen Group's Ombudsman System into a whistleblower system in 2017, allowing employees, business partners, customers, and third parties to report substantiated suspicions of rule breaches.",
+        "OriginalText": "The Ombudsman System of the Volkswagen Group, first introduced in 2006, was developed into a whistleblower system in 2017. Employees, business partners, customers and third parties can use it to report substantiated suspicions of breaches of the rules.",
+        "chunk_id": "2017---5"
+    },
+    "28": {
+        "Question": "What was Audi's key sustainability focus as outlined in its Strategy 2025 during 2017?",
+        "Answer": "Audi focused on emission-free products and sites, aiming to make the entire value chain sustainable while placing emphasis on integrity, responsibility, and added value for society.",
+        "OriginalText": "With the adoption of Strategy 2025 in 2016, Audi has been visibly and systematically demonstrating responsibility for the future. The Company is resolutely working towards emission-free products and sites, and striving to make the entire value chain sustainable.",
+        "chunk_id": "2017---5"
+    },
+    "29": {
+        "Question": "In 2017, how did Audi involve external stakeholders in its sustainability strategy?",
+        "Answer": "Around 150 external stakeholders, including customers, suppliers, NGOs, and analysts, participated in an online survey to evaluate the relevance of 27 sustainability action areas.",
+        "OriginalText": "Around 150 external stakeholders – including customers, suppliers, non-governmental organizations (NGOs) and analysts – were invited to evaluate the relevance of the action areas.",
+        "chunk_id": "2017---5"
+    },
+    "30": {
+        "Question": "How did the 2017 stakeholder survey results influence Audi's materiality matrix?",
+        "Answer": "The survey results were consolidated into a materiality matrix, showing the relevance for Audi and external stakeholders along with the ecological, economic, and social impacts, classified as low, medium, or high.",
+        "OriginalText": "Audi has combined the results of the materiality process in a materiality matrix. This vividly expresses the relevance for Audi (on the x-axis) and the relevance for external stakeholders (on the y-axis) in relation to each other. The degree of direct ecological, economic and social impact is represented in three levels: low, medium and high.",
+        "chunk_id": "2017---5"
+    },
+    "31": {
+        "Question": "What was the role of Larry D. Thompson and his team in Audi's compliance efforts in 2017?",
+        "Answer": "Larry D. Thompson and his team examined compliance with 65 improvement activities in the settlement agreements with the U.S. Department of Justice and provided recommendations for Audi’s compliance and ethics system.",
+        "OriginalText": "Larry D. Thompson and his team examine and evaluate compliance with the 65 improvement activities in the settlement agreements reached with the U.S. Department of Justice at the start of 2017.",
+        "chunk_id": "2017---5"
+    },
+    "32": {
+        "Question": "How did Audi assess the ecological, economic, and social impacts of its sustainability topics in 2017?",
+        "Answer": "The impacts were evaluated as low, medium, or high by the Steering Committee and represented as Harvey Balls ideograms in the materiality matrix.",
+        "OriginalText": "As a third dimension, Audi has visualized the impact assessment in the form of round Harvey Balls ideograms. The degree of direct ecological, economic and social impact of the action areas on the outside world is represented in three levels: low, medium and high.",
+        "chunk_id": "2017---5"
+    },
+    "33": {
+        "Question": "What steps did Audi take in 2017 to enhance its whistleblower system?",
+        "Answer": "Audi created a whistleblower system to allow employees, business partners, customers, and third parties to report suspicions of rule breaches, with strict confidentiality maintained.",
+        "OriginalText": "Employees, business partners, customers and third parties can use it to report substantiated suspicions of breaches of the rules. The identity of the whistleblower is treated in strict confidence.",
+        "chunk_id": "2017---5"
+    },
+    "34": {
+        "Question": "In 2017, what was the total revenue of Audi?",
+        "Answer": "EUR 60,128 million",
+        "OriginalText": "Revenue 2017 EUR 60,128 million",
+        "chunk_id": "2017---6"
+    },
+    "35": {
+        "Question": "What was the operating profit of Audi in 2017?",
+        "Answer": "EUR 4,671 million",
+        "OriginalText": "Operating profit 2017 EUR 4,671 million",
+        "chunk_id": "2017---6"
+    },
+    "36": {
+        "Question": "What was the return on investment (ROI) for Audi in 2017?",
+        "Answer": "14.4%",
+        "OriginalText": "Return on Investment – ROI 2017 14.4 %",
+        "chunk_id": "2017---6"
+    },
+    "37": {
+        "Question": "How many working groups were formed to evaluate the corporate divisions of the Volkswagen Group in 2017?",
+        "Answer": "23 working groups",
+        "OriginalText": "In addition, 23 working groups are forming an overview of the corporate divisions of the Volkswagen Group by interviewing employees and inspecting documents.",
+        "chunk_id": "2017---6"
+    },
+    "38": {
+        "Question": "What was the equity ratio for Audi in 2017?",
+        "Answer": "44.2%",
+        "OriginalText": "A high equity ratio of 44.2 (2016: 41.4) percent reflects the balanced capital structure and underscores the Company’s stability.",
+        "chunk_id": "2017---6"
+    },
+    "39": {
+        "Question": "In 2017, how many cases of corruption did Audi Auditing detect through its auditing activities?",
+        "Answer": "Three cases",
+        "OriginalText": "Audi Auditing confirmed it had detected three cases of corruption through its auditing activities in 2017 (2016: one).",
+        "chunk_id": "2017---7"
+    },
+    "40": {
+        "Question": "How many employees completed the web-based anti-corruption training at Audi in 2017?",
+        "Answer": "4,597 employees",
+        "OriginalText": "4,597 employees completed the web-based training in 2017.",
+        "chunk_id": "2017---7"
+    },
+    "41": {
+        "Question": "What was the purpose of the Integrity Think Tank forum launched in December 2017?",
+        "Answer": "To promote a culture of integrity and engage employees in discussions on integrity and values.",
+        "OriginalText": "To promote a culture of integrity and thus make a contribution towards changing the corporate culture, the 'Integrity Think Tank' forum had its kick-off in December 2017 on the internal social media platform Audi team.",
+        "chunk_id": "2017---7"
+    },
+    "42": {
+        "Question": "In November 2017, Audi launched a fireside chat format on which topic?",
+        "Answer": "The topic of integrity.",
+        "OriginalText": "In November 2017, a fireside chat format on the subject of integrity was also launched.",
+        "chunk_id": "2017---7"
+    },
+    "43": {
+        "Question": "How many HR actions were taken as a result of corruption allegations at Audi in 2017?",
+        "Answer": "Four HR actions",
+        "OriginalText": "Four HR actions were taken as the result of allegations of corruption in the reporting period (2016: one).",
+        "chunk_id": "2017---7"
+    },
+    "44": {
+        "Question": "What was the total number of substantiated reports made via Audi's whistleblower system in 2017?",
+        "Answer": "92 cases",
+        "OriginalText": "In 2017, 92 cases (of which unsub­stantiated reports: 16) were reported via the whistle­blower system.",
+        "chunk_id": "2017---7"
+    },
+    "45": {
+        "Question": "In which month did Audi start the Integrity Think Tank forum in 2017?",
+        "Answer": "December 2017",
+        "OriginalText": "To promote a culture of integrity and thus make a contribution towards changing the corporate culture, the 'Integrity Think Tank' forum had its kick-off in December 2017.",
+        "chunk_id": "2017---7"
+    },
+    "46": {
+        "Question": "How many business partners did Audi work with in its compliance checks in 2017?",
+        "Answer": "29 business partners",
+        "OriginalText": "In addition to AUDI AG, 29 participations within the Audi Group were analyzed for compliance risks in the year under review.",
+        "chunk_id": "2017---7"
+    },
+    "47": {
+        "Question": "How does Audi's electric vehicle strategy differ from other manufacturers, according to their 2017 report?",
+        "Answer": "Audi plans to have its entire model range electrified by 2025, with the production of fully electric cars starting in 2018 and a focus on long-distance electric mobility.",
+        "OriginalText": "From 2018 onward, we will start the production and sale of fully electric cars with a sporty SUV. Our entire model range will be electrified by 2025.With this car, we are making elec­ tric mobility fit for long-distance driving. ",
+        "chunk_id": "2017---7"
+    },
+    "48": {
+        "Question": "What was the focus of Audi's 'Second Life' project in 2017?",
+        "Answer": "The 'Second Life' project aimed to reuse batteries with good storage capacity at the end of a vehicle's life cycle for stationary industrial applications before recycling them.",
+        "OriginalText": "Meaningful use of the battery beyond this period is the subject of our 'Second Life' project. The aim is reuse batteries that still have good storage capacity at the end of the vehicle’s life cycle for stationary industrial applications before ultimately recycling them.",
+        "chunk_id": "2017---8"
+    },
+    "49": {
+        "Question": "What was the planned output of Audi's e-diesel production in Switzerland by 2017?",
+        "Answer": "Audi planned to produce around 400,000 liters of Audi e-diesel a year in a new pilot plant in Switzerland.",
+        "OriginalText": "Together with our partners INERATEC GmbH and Energiedienst Holding AG, it is planned to produce around 400,000 liters of Audi e-diesel a year in a new pilot plant in Switzerland.",
+        "chunk_id": "2017---8"
+    },
+    "50": {
+        "Question": "In 2017, what was the capacity and electric range of the Audi Q7 e-tron quattro's battery?",
+        "Answer": "The Audi Q7 e-tron quattro's battery had a capacity of 17.3 kWh and provided a range of around 56 kilometers in electric mode.",
+        "OriginalText": "In 2017, the Audi fleet of e-tron models comprised two plug-in hybrid models: the Audi A3 Sportback e-tron and the Audi Q7 e-tron quattro. Both cars combine the benefits of electric drive with the strengths of a TFSI or TDI combustion engine. The e-tron models are equipped with lithium-ion batteries. In the Q7 e-tron quattro the battery capacity is 17.3 kWh, enabling a range of around 56 kilometers in electric mode.",
+        "chunk_id": "2017---8"
+    },
+    "51": {
+        "Question": "Which Audi model was used as an example of the mild hybrid system in 2017, and what fuel savings were achieved?",
+        "Answer": "The Audi A8 and the A6/A7 family were examples of models using the mild hybrid system, which saved up to 0.7 liters of fuel per 100 kilometers and reduced CO2 emissions accordingly.",
+        "OriginalText": "With the mild hybrid system, we save up to 0.7 liters of fuel per 100 kilometers and reduce CO2 emissions correspondingly. The system is already used in the new Audi A8 and in the A6/A7 family.",
+        "chunk_id": "2017---8"
+    },
+    "52": {
+        "Question": "How much CO2 reduction did Audi's g-gas models achieve compared to gasoline-powered models in the same output class in 2017?",
+        "Answer": "Audi's g-gas models achieved a CO2 reduction of about 80% compared to gasoline-powered models in the same output class.",
+        "OriginalText": "A well-to-wheel analysis shows CO2 emissions are a good 80 percent lower than with a gasoline-powered model in the same output class.",
+        "chunk_id": "2017---8"
+    },
+    "53": {
+        "Question": "What strategic partnership did Audi form in 2017 to speed up the development of electric cars?",
+        "Answer": "In 2017, Audi formed a joint electric initiative with Porsche to speed up the development of electric cars and create space for electrification, digitalization, and autonomous driving.",
+        "OriginalText": "2017 saw the go-ahead for a joint electric initiative by the Porsche and Audi brands. The development partnership is intended to bring future electric cars to market faster and also create scope for the topics of electrification, digitalization and autonomous driving.",
+        "chunk_id": "2017---8"
+    },
+    "54": {
+        "Question": "How many Audi models were available with CO2 emissions averaging up to 120 g/km by the end of 2017?",
+        "Answer": "By the end of 2017, there were 126 Audi models available with CO2 emissions averaging up to 120 g/km.",
+        "OriginalText": "As of the end of the 2017 reporting year, there were 126 (2016: 121) Audi models available with $\\mathsf{C O}_{2}$ emissions averaging up to $120\\;\\mathrm{g/km}$ in the combined cycle.",
+        "chunk_id": "2017---9"
+    },
+    "55": {
+        "Question": "What is the range in electric mode for the Audi Q7 e-tron quattro in 2017?",
+        "Answer": "In 2017, the Audi Q7 e-tron quattro has a range of around 56 kilometers in electric mode.",
+        "OriginalText": "In the Q7 e-tron quattro the battery capacity is $17.3\\;\\mathsf{k W h}$ , enabling a range of around 56 kilometers in electric mode.",
+        "chunk_id": "2017---9"
+    },
+    "56": {
+        "Question": "How long does it take to fully charge the Audi Q7 e-tron quattro's battery in 2017?",
+        "Answer": "In 2017, the battery of the Audi Q7 e-tron quattro can be fully charged in around two and a half hours, depending on the charging infrastructure available.",
+        "OriginalText": "Thanks to the two-phase charging technology fitted in the Q7 e-tron quattro, each battery can be fully charged in around two and a half hours, depending on the charging infrastructure available.",
+        "chunk_id": "2017---9"
+    },
+    "57": {
+        "Question": "In which country did Audi plan to build a new pilot plant for e-diesel production in 2017?",
+        "Answer": "In 2017, Audi planned to build a new pilot plant for e-diesel production in Switzerland.",
+        "OriginalText": "The Company is now taking the next step in e-diesel production. Together with two project-partner companies, it is planning a new pilot plant in Laufenburg (Switzerland) for a production process according to the power-to-liquid principle.",
+        "chunk_id": "2017---9"
+    },
+    "58": {
+        "Question": "What is the expected CO2 emissions figure for newly registered Audi vehicles in the EU 28 for 2017?",
+        "Answer": "The expected CO2 emissions figure for newly registered Audi vehicles in the EU 28 for 2017 is around 127 g/km.",
+        "OriginalText": "Based on our provisional calculations, the average $\\mathsf{C O}_{2}$ emissions of newly registered Audi vehicles in the EU 28 are expected to be around $127\\,\\mathfrak{g}/\\mathsf{k m}$.",
+        "chunk_id": "2017---9"
+    },
+    "59": {
+        "Question": "What is the role of IONITY in Audi's 2017 strategy for electric mobility?",
+        "Answer": "In 2017, IONITY, a joint venture established by Audi and other car manufacturers, began setting up quick charging stations, with around 400 stations planned for Europe by 2020.",
+        "OriginalText": "To achieve the latter, Audi teamed up with other car manufacturers in 2017 to establish the joint venture IONITY. IONITY GmbH started setting up the first quick charging stations in the year under review – around 400 stations installed along Europe’s transport arteries are planned by 2020.",
+        "chunk_id": "2017---9"
+    },
+    "60": {
+        "Question": "What was the fleet consumption in China (FBU) for Audi vehicles in 2017?",
+        "Answer": "7.6 l/100 km",
+        "OriginalText": "Fleet consumption in China (FBU) in 2017 was $7.6\\,\\mathsf{U}100\\,\\mathsf{k m}$ (2016: 7.7 l/100 km).",
+        "chunk_id": "2017---10"
+    },
+    "61": {
+        "Question": "In 2017, how many accidents were investigated by the Audi Accident Research Unit (AARU)?",
+        "Answer": "80 accidents",
+        "OriginalText": "In 2017, a total of 80 accidents were investigated and analyzed.",
+        "chunk_id": "2017---10"
+    },
+    "62": {
+        "Question": "Which safety project did Audi participate in during 2017 to improve pedestrian and cyclist safety?",
+        "Answer": "PROSPECT EU project",
+        "OriginalText": "In addition, in coordination with the Group brands, the year under review saw Audi participate in various EU and German government projects aimed at improving traffic safety, such as PROSPECT, an EU project to improve the safety of pedestrians and cyclists.",
+        "chunk_id": "2017---10"
+    },
+    "63": {
+        "Question": "What was the top NCAP rating achieved by Audi models in 2017?",
+        "Answer": "Five stars",
+        "OriginalText": "In 2017, the Audi brand was awarded the top score of five stars in regional NCAP consumer protection tests four times.",
+        "chunk_id": "2017---10"
+    },
+    "64": {
+        "Question": "How much can Audi's mild hybrid 48-volt drivetrain reduce fuel consumption per 100 kilometers in real-life driving conditions?",
+        "Answer": "Up to 0.7 liters",
+        "OriginalText": "Mild hybrid 48-volt drivetrain: The new technology can reduce fuel consumption by up to 0.7 liters per 100 kilometers in real-life driving conditions.",
+        "chunk_id": "2017---10"
+    },
+    "65": {
+        "Question": "What is the top speed at which Audi's traffic jam pilot system can operate in 2017?",
+        "Answer": "60 km/h",
+        "OriginalText": "The Audi AI traffic jam pilot... can take full charge of the task of driving the car in congestion on multi-lane highways with structural separation between the car riageways and in nose-to-tail traffic at up to $60\\,\\mathsf{k m}/\\mathsf{h}$.",
+        "chunk_id": "2017---10"
+    },
+    "66": {
+        "Question": "What technological advancement did Audi unveil in 2017 with the Audi Aicon concept car?",
+        "Answer": "The Audi Aicon concept car featured a design without a steering wheel and pedals, and was configured for all-electric operation with a range of 700 to 800 kilometers.",
+        "OriginalText": "With the Audi Aicon concept car, which is shown on the cover of this report, we unveiled our design vision of a self-driving Audi of the future in 2017. The design concept with the revolutionary styling does away with the steering wheel and pedals, and is configured for all-electric operation: It is designed for distances of between 700 and 800 kilometers without the need to recharge the battery.",
+        "chunk_id": "2017---11"
+    },
+    "67": {
+        "Question": "What initiative did Audi launch to manage the AI transformation and its challenges in 2017?",
+        "Answer": "The be yond initiative.",
+        "OriginalText": "How can artificial intelligence (AI) be used to the benefit of society? What framework is needed to build trust in automated and autonomous driving? These are the core questions that the be yond initiative tackles in an interdisciplinary dialogue. The initiative was launched by Audi.",
+        "chunk_id": "2017---11"
+    },
+    "68": {
+        "Question": "How many registered users did Audi on demand have in 2017?",
+        "Answer": "12,000 registered users.",
+        "OriginalText": "In 2017, Audi on demand had a total of 12,000 registered users.",
+        "chunk_id": "2017---11"
+    },
+    "69": {
+        "Question": "What is the target annual reduction in CO2 emissions at the Audi plant in Brussels in the 2017 report?",
+        "Answer": "From 22,000 metric tons to zero.",
+        "OriginalText": "Annual CO2 emissions must therefore be reduced from approximately 22,000 metric tons to zero.",
+        "chunk_id": "2017---11"
+    },
+    "70": {
+        "Question": "How much electricity does the solar system at the Audi Brussels plant produce annually as of 2017?",
+        "Answer": "Approximately 3,000 MWh.",
+        "OriginalText": "With a surface area of 37,000 square meters, it is the region’s largest solar system. It produces roughly 3,000 MWh of electricity each year.",
+        "chunk_id": "2017---12"
+    },
+    "71": {
+        "Question": "What technology was implemented in the Brussels paint shop in 2017 to reduce material use?",
+        "Answer": "Flat stream nozzles requiring one-third of the pressure to apply sealant, reducing overspray and material use.",
+        "OriginalText": "The new flat stream nozzles require just one-third of the pressure to apply the sealant to the bodies.",
+        "chunk_id": "2017---12"
+    },
+    "72": {
+        "Question": "How many kilograms of PVC material were saved per car in the Brussels plant in 2017?",
+        "Answer": "More than two kilograms per car.",
+        "OriginalText": "This reduces overspray and a thinner coat of PVC sealant can be applied. We save more than two kilograms of material per car.",
+        "chunk_id": "2017---12"
+    },
+    "73": {
+        "Question": "What was the contribution of the Brussels plant’s solar system to CO2 reduction per year in 2017?",
+        "Answer": "Approximately 17,000 metric tons of CO2.",
+        "OriginalText": "It produces roughly 3,000 MWh of electricity each year. This prevents the emission of approximately 17,000 metric tons of CO2 per year.",
+        "chunk_id": "2017---12"
+    },
+    "74": {
+        "Question": "How many sustainability projects had Audi initiated by 2017?",
+        "Answer": "More than 100 projects.",
+        "OriginalText": "We have initiated more than 100 such projects in the last few years to make the plant more efficient and live sustainability in all facets.",
+        "chunk_id": "2017---12"
+    },
+    "75": {
+        "Question": "What technology was implemented in the Brussels plant to reuse waste heat in 2017?",
+        "Answer": "A heat pump in the paint pretreatment immersion tanks to reuse waste heat.",
+        "OriginalText": "A heat pump in the paint pretreatment immersion tanks ensures that the waste heat from cooling is not lost, but is used to heat the pretreatment tanks.",
+        "chunk_id": "2017---12"
+    },
+    "76": {
+        "Question": "What was the environmental management system standard used at Audi Brussels as of 2017?",
+        "Answer": "The European Eco-Management and Audit Scheme (EMAS).",
+        "OriginalText": "That is part of the environmental management system that Audi voluntarily implemented in Brussels and has audited according to the European Eco-Management and Audit Scheme (EMAS).",
+        "chunk_id": "2017---12"
+    },
+    "77": {
+        "Question": "What was the total energy consumption of Audi Group in 2017?",
+        "Answer": "2,924,694 MWh",
+        "OriginalText": "In the year under review, absolute energy consumption within the organization amounted to 2,924,694 (2016: 2,867,015) MWh. That is a rise of around 2 percent year on year.",
+        "chunk_id": "2017---13"
+    },
+    "78": {
+        "Question": "What was the rise in energy intensity of Audi Group from 2016 to 2017?",
+        "Answer": "0.5%",
+        "OriginalText": "The energy intensity of the Group relating to automotive production including component manufacturing was 2.65 MWh/veh. for the year under review. The 0.5 percent rise in energy intensity – like the rise in total energy consumption – is attributable to such factors as the operation of the new plant in Mexico and lower production output by the European production sites.",
+        "chunk_id": "2017---13"
+    },
+    "79": {
+        "Question": "How much greenhouse gas emission intensity was recorded per vehicle in 2017?",
+        "Answer": "660.07 kg/veh.",
+        "OriginalText": "The intensity of greenhouse gas emissions relating to automotive production including component manufacturing was 660.07 kg/veh. for the year under review.",
+        "chunk_id": "2017---13"
+    },
+    "80": {
+        "Question": "What was the total CO2 emissions of Audi Group in 2017?",
+        "Answer": "727,278 metric tons",
+        "OriginalText": "A total of 727,278 metric tons of CO2 were emitted throughout the Audi Group in 2017. This represents an increase of 2.2 percent on the previous year.",
+        "chunk_id": "2017---13"
+    },
+    "81": {
+        "Question": "By how much did Audi reduce its CO2 emissions in 2017 through CO2-neutral rail transport in Germany?",
+        "Answer": "Over 13,000 metric tons",
+        "OriginalText": "Since 2017, rail transport in Germany has been handled entirely CO2-neutrally: All shipments from and to the German production locations Ingolstadt and Neckarsulm are CO2-free. This enabled the Company to reduce its CO2 emissions by over 13,000 metric tons in 2017.",
+        "chunk_id": "2017---13"
+    },
+    "82": {
+        "Question": "How much waste did Audi Group generate in 2017?",
+        "Answer": "107,999 metric tons",
+        "OriginalText": "Group-wide, a total of 107,999 metric tons of waste were generated in the year under review. This represents a 3 percent rise in the total volume of waste (excluding scrap) compared with the previous year, which is mainly attributable to higher production.",
+        "chunk_id": "2017---13"
+    },
+    "83": {
+        "Question": "What energy efficiency achievement did Audi Hungaria receive in 2017?",
+        "Answer": "Audi Hungaria received the 'Award of Excellence' for energy efficiency for its energy supply system.",
+        "OriginalText": "At the Audi site in Győr, 70 percent of heat requirements are covered by geothermal energy sources. Audi Hungaria received the 'Award of Excellence' for energy efficiency for its energy supply system in the year under review.",
+        "chunk_id": "2017---13"
+    },
+    "84": {
+        "Question": "How much electrical energy did Ducati generate using its trigeneration plant in 2017?",
+        "Answer": "11,200 MWh",
+        "OriginalText": "Ducati has been using a trigeneration plant at its headquarters in Bologna since 2016. The plant generated around 11,200 MWh of electrical energy in 2017, thereby covering some 80 percent of the electricity requirements at the site.",
+        "chunk_id": "2017---13"
+    },
+    "85": {
+        "Question": "How much CO2-equivalent did Audi save in logistics in 2017?",
+        "Answer": "Over 13,000 metric tons",
+        "OriginalText": "Since 2017, rail transport in Germany has been handled entirely CO2-neutrally: All shipments from and to the German production locations Ingolstadt and Neckarsulm are CO2-free. This enabled the Company to reduce its CO2 emissions by over 13,000 metric tons in 2017.",
+        "chunk_id": "2017---13"
+    },
+    "86": {
+        "Question": "What percentage of Audi's waste was recycled in 2017, and how does it compare to 2016?",
+        "Answer": "In 2017, Audi recycled 98% of its waste, up from 97% in 2016.",
+        "OriginalText": "Overall, just under 98 (2016: 97) percent of waste occurring Group-wide is recycled.",
+        "chunk_id": "2017---14"
+    },
+    "87": {
+        "Question": "What was the total amount of waste generated by Audi in 2017, and how did it compare to 2016?",
+        "Answer": "In 2017, Audi generated 107,999 metric tons of waste, a 3% increase compared to 2016.",
+        "OriginalText": "Group-wide, a total of 107,999 metric tons of waste were generated in the year under review. This represents a 3 percent rise in the total volume of waste (excluding scrap) compared with the previous year.",
+        "chunk_id": "2017---14"
+    },
+    "88": {
+        "Question": "What was the CO2-equivalent emissions savings achieved by Audi in 2017 through the Aluminum Closed Loop pilot project?",
+        "Answer": "The Aluminum Closed Loop pilot project saved 70,038 metric tons of CO2-equivalent emissions in 2017.",
+        "OriginalText": "This collaborative approach saved 70,038 metric tons of $\\mathsf{C O}_{2}$ -equivalent emissions in the year under review.",
+        "chunk_id": "2017---14"
+    },
+    "89": {
+        "Question": "Which Audi sites had a recycling rate of over 99% in 2017, and which materials were primarily recycled?",
+        "Answer": "In 2017, Audi Hungaria and the site in Mexico recycled over 99% of waste, including metallic waste.",
+        "OriginalText": "Audi Hungaria sends more than 99 (2016: 95) percent of waste arising in production (incl. metallic waste) for recycling, and the site in Mexico recycles over 99 (2016: 91) percent of waste arising.",
+        "chunk_id": "2017---14"
+    },
+    "90": {
+        "Question": "How did Audi maintain its water consumption in 2017 compared to the previous year?",
+        "Answer": "Audi managed to keep water consumption virtually unchanged from the previous year's level in 2017.",
+        "OriginalText": "In 2017, the Audi Group managed to keep water consumption virtually unchanged from the previous year’s level.",
+        "chunk_id": "2017---14"
+    },
+    "91": {
+        "Question": "What is the goal of Audi's collaboration with the Global Battery Alliance since September 2017?",
+        "Answer": "Audi's goal in the Global Battery Alliance is to comply with standards on health and safety risks and to devise solutions for the recycling of lithium-ion batteries.",
+        "OriginalText": "Audi has been an active member of the Global Battery Alliance since it was established in September 2017. Priority issues for the alliance involve compliance with standards on health and safety risks as well as devising solutions for the recycling of lithium-ion batteries.",
+        "chunk_id": "2017---14"
+    },
+    "92": {
+        "Question": "What new production concept did Audi develop in 2017, and what is its potential productivity gain?",
+        "Answer": "Audi developed the modular assembly concept in 2017, which has the potential to deliver a productivity gain of up to 20%.",
+        "OriginalText": "To respond more flexibly and efficiently to growing complexity and the increasing number of variants in production, Audi is developing the principle of modular assembly. The concept has the potential to replace the assembly line approach and deliver a productivity gain of up to 20 percent.",
+        "chunk_id": "2017---15"
+    },
+    "93": {
+        "Question": "What type of cooperation between robots and humans did Audi implement in 2017, and where was it applied?",
+        "Answer": "In 2017, Audi implemented human-robot cooperation for bonding a carbon fiber roof in final assembly at the Ingolstadt site.",
+        "OriginalText": "For example, an initial automated application involving bonding a carbon fiber roof through human-robot cooperation in final assembly at Ingolstadt was realized in the year under review.",
+        "chunk_id": "2017---15"
+    },
+    "94": {
+        "Question": "How many on-site checks were carried out by Audi as part of the sustainability rating for suppliers in 2017?",
+        "Answer": "Audi carried out 258 on-site checks as part of the sustainability rating for suppliers in 2017.",
+        "OriginalText": "In 2017, Audi started to introduce the sustainability rat­ing for relevant first-tier suppliers, to which end it initially focused on the suppliers for the electrically powered Audi. 258 on-site checks were carried out in the year under review.",
+        "chunk_id": "2017---15"
+    },
+    "95": {
+        "Question": "What percentage of Audi's main suppliers had a certified environmental management system in 2017?",
+        "Answer": "In 2017, 88% of Audi's main suppliers had a certified environmental management system in accordance with ISO 14001 and/or EMAS.",
+        "OriginalText": "Suppliers are expected to take responsibility themselves. For example, main suppliers are required to implement a certified environmental management system in accordance with ISO 14001 and/or EMAS. 88 percent of the main suppliers of the Volkswagen Group have documented this.",
+        "chunk_id": "2017---15"
+    },
+    "96": {
+        "Question": "How did Audi support local social institutions in 2017, and what was the total revenue from outsourced contracts?",
+        "Answer": "Audi supported local social institutions by outsourcing supply contracts worth a total of EUR 10 million in 2017.",
+        "OriginalText": "Audi specifically supports local social institutions at the Ingolstadt, Neckarsulm and Brussels sites by outsourcing supply contracts to them for assembly-related tasks. Contracts worth a total of EUR 10 (2016: 10) million were outsourced in 2017.",
+        "chunk_id": "2017---15"
+    },
+    "97": {
+        "Question": "What was the focus of Audi's Smart Factory Hackathon held in 2017?",
+        "Answer": "The Smart Factory Hackathon in 2017 focused on developing software solutions for specific production applications within a short timeframe and programming prototypes.",
+        "OriginalText": "The Smart Factory Hackathon was held for the second time in the year under review, its purpose being to develop software solutions for specific production applications within a short time frame and to program prototypes.",
+        "chunk_id": "2017---15"
+    },
+    "98": {
+        "Question": "How many employees and suppliers participated in face-to-face sustainability training in 2017?",
+        "Answer": "In 2017, approximately 700 employees from more than 360 Group suppliers received face-to-face sustainability training.",
+        "OriginalText": "In the year under review, a total of some 700 (2016: 1,348) employees of more than 360 (2016: 800) Group suppliers received face-to-face training on the topic of sustainability.",
+        "chunk_id": "2017---15"
+    },
+    "99": {
+        "Question": "What technology did Audi integrate into digital assembly planning as part of its virtual reality pilot project in 2017?",
+        "Answer": "Audi integrated virtual reality headset technology into digital assembly planning in 2017.",
+        "OriginalText": "The technology of the virtual reality headset is already in use in a pilot project in digital assembly plan­ning.",
+        "chunk_id": "2017---15"
+    },
+    "100": {
+        "Question": "How many employees from all seven Audi divisions worked in teams at the 'Agile Process Workshop' in 2017 to optimize and digitalize product management?",
+        "Answer": "In 2017, experts from all seven Audi divisions worked in three teams at the 'Agile Process Workshop' to optimize and digitalize product management.",
+        "OriginalText": "In 2017, experts from all seven Audi divisions worked in three teams at the Agile Process Workshop to optimize and digitalize product management.",
+        "chunk_id": "2017---16"
+    },
+    "101": {
+        "Question": "In 2017, how many self-disclosures were evaluated by Audi as part of their sustainability rating for suppliers?",
+        "Answer": "In 2017, Audi evaluated 1,198 self-disclosures as part of their sustainability rating for suppliers.",
+        "OriginalText": "258 on-site checks were carried out in the year under review – 65 of them before the awarding of the contract – and 1,198 self-disclosures were evaluated.",
+        "chunk_id": "2017---16"
+    },
+    "102": {
+        "Question": "What were the main areas Audi identified for optimization during their supplier evaluation in 2017?",
+        "Answer": "Fire prevention and industrial safety.",
+        "OriginalText": "In its evaluation of the results, Audi identified particularly a need for optimizations in the areas of fire prevention and industrial safety.",
+        "chunk_id": "2017---16"
+    },
+    "103": {
+        "Question": "What was the main purpose of the Agile Process Workshop that Audi started in 2017?",
+        "Answer": "To optimize and digitalize product management processes.",
+        "OriginalText": "Interdisci­ plinary teams are currently working to improve processes with particularly high optimization and digitalization potential while at the same time further developing the necessary IT tools.The first process workshop convened in Gaimersheim near Ingolstadt in 2017 with a pilot project regarding product data management in the vehicle development process.",
+        "chunk_id": "2017---16"
+    },
+    "104": {
+        "Question": "What is the name of the program Audi launched in 2017 to promote leadership and collaborative culture within the company?",
+        "Answer": "The Role Model Program.",
+        "OriginalText": "We approved two major programs in 2017.  The Group-wide management program 'Role Model Program' comprises various innovative actions and measures for managers...",
+        "chunk_id": "2017---16"
+    },
+    "105": {
+        "Question": "What was the total number of employees at the Audi Group at the end of 2017?",
+        "Answer": "91,231 employees",
+        "OriginalText": "As of the end of 2017, the Audi Group had a total of 91,231 (2016: 88,453) employees.",
+        "chunk_id": "2017---17"
+    },
+    "106": {
+        "Question": "How many employees were newly recruited by Audi Group in 2017?",
+        "Answer": "6,125 employees",
+        "OriginalText": "Of the total of 6,125 (2016: 7,308) employees newly recruited within the Audi Group...",
+        "chunk_id": "2017---17"
+    },
+    "107": {
+        "Question": "What was the turnover rate at AUDI AG in 2017?",
+        "Answer": "0.8 percent",
+        "OriginalText": "The turnover rate at AUDI AG in 2017 was 0.8 percent (2016: 0.8 percent).",
+        "chunk_id": "2017---17"
+    },
+    "108": {
+        "Question": "What was the average number of employees at Audi Group in 2017?",
+        "Answer": "90,402 employees",
+        "OriginalText": "The average number of employees over the year was 90,402 (2016: 87,112).",
+        "chunk_id": "2017---17"
+    },
+    "109": {
+        "Question": "In 2017, what percentage of Audi Group employees were in the direct area?",
+        "Answer": "48.9 percent",
+        "OriginalText": "48.9 (2016: 48.0) percent of Audi Group employees were in the direct area at the end of 2017.",
+        "chunk_id": "2017---17"
+    },
+    "110": {
+        "Question": "How many employees at AUDI AG took parental leave in 2017?",
+        "Answer": "3,117 employees",
+        "OriginalText": "In 2017, a total of 3,117 (2016: 2,785) employees took parental leave.",
+        "chunk_id": "2017---17"
+    },
+    "111": {
+        "Question": "What was the proportion of non-German employees at AUDI AG in 2017?",
+        "Answer": "8.4 percent",
+        "OriginalText": "The proportion of non-German employees at AUDI AG was 8.4 (2016: 8.4) percent in 2017.",
+        "chunk_id": "2017---17"
+    },
+    "112": {
+        "Question": "How many employees participated in Audi's regular employee survey 'Stimmungsbarometer' in 2017?",
+        "Answer": "41,194 employees",
+        "OriginalText": "41,194 (2016: 40,500) employees took part in the AUDI AG 'Stimmungsbarometer' in 2017.",
+        "chunk_id": "2017---17"
+    },
+    "113": {
+        "Question": "How many ideas were implemented from Audi's Ideas Program in 2017?",
+        "Answer": "Over 14,000 ideas",
+        "OriginalText": "Over 14,000 ideas from our employees were implemented in 2017.",
+        "chunk_id": "2017---17"
+    },
+    "114": {
+        "Question": "What percentage of ideas put forward in Audi's Ideas Program were realized in 2017?",
+        "Answer": "55 percent",
+        "OriginalText": "In 2017, around 55 (2016: 55.1) percent of ideas put forward were realized, producing savings of around EUR 109 (2016: 88) million.",
+        "chunk_id": "2017---17"
+    },
+    "115": {
+        "Question": "What percentage of employees at AUDI AG were severely disabled in 2017?",
+        "Answer": "6.1 percent",
+        "OriginalText": "The proportion of severely disabled employees at AUDI AG was 6.1 (2016: 5.8) percent in the year under review.",
+        "chunk_id": "2017---18"
+    },
+    "116": {
+        "Question": "What was the proportion of women in management at AUDI AG in 2017?",
+        "Answer": "10.1 percent",
+        "OriginalText": "The proportion of women in management at AUDI AG was 10.1 (2016: 9.5) percent in 2017.",
+        "chunk_id": "2017---18"
+    },
+    "117": {
+        "Question": "What was the average number of apprentices at Audi in 2017?",
+        "Answer": "2,618 apprentices",
+        "OriginalText": "In 2017, there were an average of 2,618 (2016: 2,555) young people on apprenticeships at Audi.",
+        "chunk_id": "2017---18"
+    },
+    "118": {
+        "Question": "What was the savings generated from the ideas realized through the Audi Ideas Program in 2017?",
+        "Answer": "EUR 109 million",
+        "OriginalText": "In 2017, around 55 (2016: 55.1) percent of ideas put forward were realized, producing savings of around EUR 109 (2016: 88) million.",
+        "chunk_id": "2017---18"
+    },
+    "119": {
+        "Question": "What initiative did Audi join in 2017 to promote family-friendly policies?",
+        "Answer": "Audi joined the Family Pact for Bavaria in 2017.",
+        "OriginalText": "We restated our commitment to a family-friendly corporate culture in joining the Family Pact for Bavaria in 2017.",
+        "chunk_id": "2017---18"
+    },
+    "120": {
+        "Question": "In 2017, how did Audi aim to improve its gender diversity in management?",
+        "Answer": "Audi aimed to increase the proportion of women in management and set goals for improving cultural diversity.",
+        "OriginalText": "Audi has set itself the goal of increasing the proportion of women at all levels, and increasing cultural diversity especially within management.",
+        "chunk_id": "2017---18"
+    },
+    "121": {
+        "Question": "How many young people were on apprenticeships at Audi in 2017?",
+        "Answer": "2,618 young people.",
+        "OriginalText": "In 2017, there were an average of 2,618 (2016: 2,555) young people on apprenticeships at Audi.",
+        "chunk_id": "2017---19"
+    },
+    "122": {
+        "Question": "How many work-related accidents occurred at Audi in 2017 that resulted in at least one day's work lost?",
+        "Answer": "5.0 accidents per million hours worked.",
+        "OriginalText": "In 2017, there were 5.0 (2016: 4.0) work-related accidents per million hours worked at AUDI AG that resulted in at least one day’s work lost.",
+        "chunk_id": "2017---19"
+    },
+    "123": {
+        "Question": "What was the main focus of Audi's 'data.camp' campaign launched in 2017?",
+        "Answer": "The campaign aimed to help employees gain in-service qualifications in machine learning and artificial intelligence.",
+        "OriginalText": "The 'data.camp' further training campaign launched in the year under review is designed to help employees from all divisions obtain in-service qualifications in areas such as machine learning and artificial intelligence.",
+        "chunk_id": "2017---19"
+    },
+    "124": {
+        "Question": "How many employees attended the Sustainability Academy in 2017?",
+        "Answer": "963 employees.",
+        "OriginalText": "963 employees attended training at the Sustainability Academy in 2017.",
+        "chunk_id": "2017---19"
+    },
+    "125": {
+        "Question": "How many employees participated in the Audi Checkup in 2017?",
+        "Answer": "Around 10,000 employees participated in the Audi Checkup in 2017.",
+        "OriginalText": "Some 10,000 employees (2016: 9,873) used the Audi Checkup in the year under review.",
+        "chunk_id": "2017---19"
+    },
+    "126": {
+        "Question": "What is the purpose of the Chairless Chair introduced at Audi in 2017?",
+        "Answer": "The Chairless Chair allows Audi employees to sit without a chair, improving posture and reducing stress on the legs.",
+        "OriginalText": "The Chairless Chair makes many assembly tasks easier.  This high-tech construction made of carbon fiber allows Audi employees to sit without a chair.  It also improves their posture and reduces stress on the legs.",
+        "chunk_id": "2017---20"
+    },
+    "127": {
+        "Question": "How many refugees obtained their school leaving certificate through Audi's integration project in 2017?",
+        "Answer": "24 refugees.",
+        "OriginalText": "Last year, it enabled 24 refugees to obtain their school leaving certificate.",
+        "chunk_id": "2017---20"
+    },
+    "128": {
+        "Question": "How much money was raised through Audi's Christmas appeal and the 'Last Cents' campaign in 2017?",
+        "Answer": "Around EUR 1.27 million.",
+        "OriginalText": "In the year under review an amount of around EUR 1.27 (2016: 1.26) million was collected through the Christmas appeal and the 'Last Cents' campaign.",
+        "chunk_id": "2017---20"
+    },
+    "129": {
+        "Question": "What was the focus of the Audi Environmental Foundation in 2017?",
+        "Answer": "It focused on supporting environmentally compatible technologies, environmental education, and protecting natural habitats.",
+        "OriginalText": "The foundation focuses in particular on the support and development of environmentally compatible technologies, on environmental education measures and on the protection of the natural habitat for humans, animals and plants.",
+        "chunk_id": "2017---20"
+    },
+    "130": {
+        "Question": "How many volunteer hours were contributed by Audi employees in Ingolstadt, Neckarsulm, and Győr in 2017?",
+        "Answer": "Over 60,000 volunteer hours.",
+        "OriginalText": "Over 60,000 volunteer hours in Ingolstadt, Neckarsulm and Győr.",
+        "chunk_id": "2017---20"
+    },
+    "131": {
+        "Question": "What was the goal of the joint project between Audi and the Mentor Foundation Germany in 2017?",
+        "Answer": "The goal was to provide mentoring for disadvantaged young people.",
+        "OriginalText": "A case in point is the joint project with the Mentor Foundation Germany, through which AUDI AG managers provide mentoring for disadvantaged young people.",
+        "chunk_id": "2017---20"
+    },
+    "132": {
+        "Question": "How many apprentices and interns with a refugee background were employed at Audi's sites in 2017?",
+        "Answer": "Six apprentices and 17 interns.",
+        "OriginalText": "Six apprentices and 17 interns with a refugee background were employed at the sites in the period under review.",
+        "chunk_id": "2017---20"
+    },
+    "133": {
+        "Question": "How long has Audi been a trusted partner in the world of culture by 2017?",
+        "Answer": "Over 55 years.",
+        "OriginalText": "Audi has been a trusted partner in the world of culture for over 55 years.",
+        "chunk_id": "2017---20"
+    },
+    "134": {
+        "Question": "What was the name of the Audi site that was renamed in 2017 due to a merger?",
+        "Answer": "Audi Hungaria Zrt., Győr.",
+        "OriginalText": "With effect from January 1, 2017, the fully consolidated Audi Hungaria Motor Kft., Győr (Hungary), was merged with the fully consolidated Audi Hungaria Services Zrt., Győr, and renamed Audi Hungaria Zrt., Győr.",
+        "chunk_id": "2017---21"
+    },
+    "135": {
+        "Question": "What was the environmental initiative at Audi's production sites in 2017 related to vehicle transportation?",
+        "Answer": "All shipments from and to the German production locations Ingolstadt and Neckarsulm were CO2-free.",
+        "OriginalText": "Transportation of vehicles from Ingolstadt to Emden, the port of loading on the North Sea coast, since CO2 Germany has been handled entirely climate-neutrally: All shipments from and to the German production locations Ingolstadt and Neckarsulm are CO2-free.",
+        "chunk_id": "2017---21"
+    },
+    "136": {
+        "Question": "What was the purpose of the assurance engagement performed by PricewaterhouseCoopers in 2017 for Audi?",
+        "Answer": "The purpose was to provide limited assurance on the sustainability report, specifically regarding the materiality analysis and management approach for CO2 fleet emissions.",
+        "OriginalText": "Our responsibility is to express a limited assurance conclusion on the description of the necessary materiality analysis for a sustainability report, the management approach on CO2 fleet emissions and selected sustainability disclosures denoted with ... in the Report for the period January 1st to December 31st 2017.",
+        "chunk_id": "2017---22"
+    },
+    "137": {
+        "Question": "Which sites did the auditors visit to assess data collection processes for Audi's sustainability report in 2017?",
+        "Answer": "The auditors visited Audi's sites in Ingolstadt, Neckarsulm, and Győr.",
+        "OriginalText": "Conduction of site and brand visits in order to assess the data collection and consolidation processes and the internal control activities: AUDI Aktiengesellschaft, Ingolstadt, Germany; AUDI Aktiengesellschaft, Neckarsulm, Germany; AUDI HUNGARIA MOTOR Kft., Gyor, Hungary.",
+        "chunk_id": "2017---22"
+    },
+    "138": {
+        "Question": "Which global standard did Audi follow for their sustainability reporting in 2017?",
+        "Answer": "Audi followed the Global Reporting Initiative (GRI) core option for their sustainability reporting in 2017.",
+        "OriginalText": "The Audi Group is reporting on its sustainability performance for the year 2017 pursuant to the international standard of the Global Reporting Initiative (GRI). This report was prepared in accordance with the 'core' option of the GRI standard.",
+        "chunk_id": "2017---22"
+    },
+    "139": {
+        "Question": "What is the name of the standard that the auditors followed for their assurance engagement in 2017?",
+        "Answer": "The auditors followed the International Standard on Assurance Engagements (ISAE) 3000 for their engagement in 2017.",
+        "OriginalText": "We conducted our assurance engagement in accordance with the International Standard on Assurance Engagements (ISAE) 3000 (Revised): Assurance Engagements other than Audits or Reviews of Historical Financial Information published by IAASB.",
+        "chunk_id": "2017---22"
+    },
+    "140": {
+        "Question": "What was the conclusion of the assurance engagement performed by PricewaterhouseCoopers for Audi's 2017 report?",
+        "Answer": "The conclusion was that the sustainability disclosures in Audi's 2017 report were prepared in all material aspects in accordance with the relevant GRI criteria.",
+        "OriginalText": "Based on the assurance procedures performed and assurance evidence obtained, nothing has come to our attention that causes us to believe that the description of the necessary materiality analysis for a sustainability report, the management approach on CO2 fleet emissions and selected sustainability disclosures ... have not been prepared, in all material aspects, in accordance with the relevant GRI-Criteria.",
+        "chunk_id": "2017---22"
+    },
+    "141": {
+        "Question": "What date did PricewaterhouseCoopers issue the assurance report for Audi's 2017 sustainability information?",
+        "Answer": "PricewaterhouseCoopers issued the assurance report on May 7, 2018.",
+        "OriginalText": "Frankfurt, 7th May 2018",
+        "chunk_id": "2017---22"
+    },
+    "142": {
+        "Question": "What is the main focus of the assurance procedures conducted for Audi's 2017 sustainability report?",
+        "Answer": "The main focus is on guaranteeing sustainability disclosures, materiality analysis and CO2 fleet emissions management to ensure accuracy and compliance with GRI standards",
+        "OriginalText": "Our responsibility is to express a limited assurance con­ clusion on the description of the necessary materiality analysis for a sustainability report, the management ap­ proach on $\\mathsf{C O}_{2}$ fleet emissions and selected sustainability disclosures denoted with $^{\\prime}\\checkmark$ in the table “Audi Corporate Responsibility Figures” in the Report based on the assur­ ance engagement we have performed.The warranty procedure chosen is subject to the judgment of the practitioner. ...  These include the following assurance procedures and further activities: assessment of the description of the materiality analysis used to determine the content of the report, assessment of the management of CO2 fleet emissions in accordance with the guidelines of the GRI standards.",
+        "chunk_id": "2017---22"
+    }
+}

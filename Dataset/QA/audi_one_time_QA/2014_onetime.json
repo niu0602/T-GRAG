@@ -1,0 +1,674 @@
+{
+    "1": {
+        "Question": "What significant sustainability reporting framework did Audi follow in 2014?",
+        "Answer": "Audi followed the G4 Sustainability Reporting Guidelines of the Global Reporting Initiative (GRI).",
+        "OriginalText": "The report conforms with the G4 Sustainability Reporting Guidelines reporting of the Global Reporting Initiative (GRI). It was prepared in accordance with the 'core' scope as specified by GRI G4 Guidelines.",
+        "chunk_id": "2014---1"
+    },
+    "2": {
+        "Question": "What period did the Audi Corporate Responsibility Report 2014 cover?",
+        "Answer": "The report covered the period from January 1, 2013, to December 31, 2014.",
+        "OriginalText": "The Audi Corporate Responsibility Report 2014 covers the period from January 1, 2013 to December 31, 2014.",
+        "chunk_id": "2014---1"
+    },
+    "3": {
+        "Question": "How often does Audi publish its fully revised version of the Audi Corporate Responsibility Report, according to the 2014 report?",
+        "Answer": "Audi publishes its Corporate Responsibility Report every two years.",
+        "OriginalText": "A fully revised version of the Audi Corporate Responsibility Report is published every two years.",
+        "chunk_id": "2014---1"
+    },
+    "4": {
+        "Question": "In what year did Audi plan to release the next fully revised version of the Audi Corporate Responsibility Report after the 2014 edition?",
+        "Answer": "Audi planned to release the next report in the first half of 2017.",
+        "OriginalText": "The next fully revised version of the Audi Corporate Responsibility Report will be published in the first half of 2017.",
+        "chunk_id": "2014---1"
+    },
+    "5": {
+        "Question": "What was the key technological feature demonstrated by Audi in 2014 involving  driving?",
+        "Answer": "Audi demonstrated piloted driving technology with a driverless run at up to 240 km/h on the Hockenheimring racetrack and a drive covering 900 kilometers from California to Nevada.",
+        "OriginalText": "We also see the digital revolution as an opportunity: If big cities are connected, they could direct traffic flows in an efficient, resource-saving manner, making harmonious use of local public transportation and individual mobility possible. Fewer traffic accidents and greater efficiency – that is what we are hoping to achieve with a new key technology, piloted driving. With a driverless run at up to 240 km/h on the Hockenheimring racetrack and a drive covering 900 kilometers from California to Nevada.",
+        "chunk_id": "2014---1"
+    },
+    "6": {
+        "Question": "Which stakeholders did Audi consult to assess the materiality of topics in its corporate strategy in 2014?",
+        "Answer": "Audi consulted both internal and external representatives of AUDI AG interests, including trend analyses and stakeholder dialogues.",
+        "OriginalText": "Since 2012, in cooperation with internal and external representatives of AUDI AG interests, trend analyses and stakeholder dialogues have been conducted to identify and evaluate material topics.",
+        "chunk_id": "2014---1"
+    },
+    "7": {
+        "Question": "What were the top fields of action for Audi and its stakeholders identified at the end of 2014?",
+        "Answer": "The top fields of action were fuel consumption and emissions, the future of mobility, economic stability, and corporate culture.",
+        "OriginalText": "At the end of 2014, the most recent analysis showed that fuel consumption and emissions, the future of mobility, economic stability and corporate culture are the main fields of action – both for us and our stakeholders.",
+        "chunk_id": "2014---1"
+    },
+    "8": {
+        "Question": "What is the main goal of Audi’s corporate responsibility strategy, according to the 2014 report?",
+        "Answer": "Audi’s main goal is to ensure the sustainability of products and processes by assigning equal importance to economic, ecological, and social interests.",
+        "OriginalText": "A company can develop sustainably only if economic, ecological and social interests are assigned equal importance. This is why the sustainability of products and processes is anchored as a corporate goal in our strategy.",
+        "chunk_id": "2014---1"
+    },
+    "9": {
+        "Question": "What was the total number of Audi models delivered to customers in 2014?",
+        "Answer": "1,741,129",
+        "OriginalText": "In 2014, a total of 1,741,129 Audi models were delivered to customers, 10.5 percent more than in the previous year.",
+        "chunk_id": "2014---2"
+    },
+    "10": {
+        "Question": "Which Audi Group brands were involved in the delivery of vehicles in 2014?",
+        "Answer": "Audi, Lamborghini, Ducati",
+        "OriginalText": "In the past fiscal year, the Lamborghini brand delivered 2,530 vehicles to customers, and Ducati sold 45,117 motorcycles.",
+        "chunk_id": "2014---2"
+    },
+    "11": {
+        "Question": "What was the operating profit for Audi in 2014?",
+        "Answer": "EUR 5,150 million",
+        "OriginalText": "The Audi Group was able to post an operating profit of EUR 5,150 million and an operating return on sales of 9.6 percent.",
+        "chunk_id": "2014---2"
+    },
+    "12": {
+        "Question": "How much did Audi's revenue increase in 2014 compared to the previous year?",
+        "Answer": "7.8 percent",
+        "OriginalText": "The Company improved its revenue in 2014 compared with the previous year by 7.8 percent to EUR 53,787 million.",
+        "chunk_id": "2014---2"
+    },
+    "13": {
+        "Question": "How many production locations did the Audi Group have in 2014?",
+        "Answer": "15 locations in 12 countries",
+        "OriginalText": "In total, the Audi Group had production operations at 15 locations in 12 countries in 2014.",
+        "chunk_id": "2014---2"
+    },
+    "14": {
+        "Question": "How many vehicles did Lamborghini deliver to customers in 2014?",
+        "Answer": "2,530 vehicles",
+        "OriginalText": "In the past fiscal year, the Lamborghini brand delivered 2,530 vehicles to customers.",
+        "chunk_id": "2014---2"
+    },
+    "15": {
+        "Question": "How many employees did Audi have worldwide in 2014?",
+        "Answer": "77,247",
+        "OriginalText": "In total, the Audi Group had production operations at 15 locations in 12 countries in 2014, employing 77,247 men and women worldwide.",
+        "chunk_id": "2014---2"
+    },
+    "16": {
+        "Question": "In 2014, which principles did Audi commit to internationally?",
+        "Answer": "Audi committed to the principles of the United Nations Global Compact, the Universal Declaration of Human Rights, the International Labour Organization (ILO), the OECD, the Rio Declaration, and the UN Convention against Corruption.",
+        "OriginalText": "In 2014, we submitted our second Declaration of Conformity with the German Sustainability Code. In addition, we are committed internationally to the principles of the United Nations Global Compact, the Universal Declaration of Human Rights, the principles of the International Labour Organization (ILO), the principles of the Organisation for Economic Co-operation and Development (OECD), the Rio Declaration on Environment and Development, and the UN Convention against Corruption.",
+        "chunk_id": "2014---3"
+    },
+    "17": {
+        "Question": "When did Audi approve the 'Global principles for corporate citizenship'?",
+        "Answer": "Audi approved the 'Global principles for corporate citizenship' in August 2014.",
+        "OriginalText": "Together with the relevant managers at the locations, we also drew up 'Global principles for corporate citizenship' and approved these in August 2014.",
+        "chunk_id": "2014---3"
+    },
+    "18": {
+        "Question": "What was the focus of the Audi Stakeholder Forum held in 2014?",
+        "Answer": "The focus of the Audi Stakeholder Forum held in 2014 was the digitalization and connectivity of vehicles as a key megatrend.",
+        "OriginalText": "For the forum’s headline topic in 2014, we chose the digitalization and connectivity of vehicles as a key megatrend for Audi.",
+        "chunk_id": "2014---3"
+    },
+    "19": {
+        "Question": "What was the primary topic discussed in the October 2014 discussion held in Berlin?",
+        "Answer": "The primary topic discussed was vehicle connectivity and its implications for the future shape of mobility.",
+        "OriginalText": "In October 2014, we held a discussion in Berlin with around 120 representatives of industry, science, non-governmental organizations (NGOs) and politics about vehicle connectivity and its implications for the future shape of mobility.",
+        "chunk_id": "2014---3"
+    },
+    "20": {
+        "Question": "What was the result of Audi's involvement in sustainability image surveys in 2014?",
+        "Answer": "Audi took first place in the Sustainability Image Score in 2014.",
+        "OriginalText": "In 2014, Audi took first place in the Sustainability Image Score. This consumer survey was conducted by the Serviceplan agency in partnership with the market researchers Facit Research, the University of Vienna and the St. Gallen University of Applied Sciences.",
+        "chunk_id": "2014---3"
+    },
+    "21": {
+        "Question": "What significant resolutions did the Board of Management of Audi AG pass in 2014 regarding sustainability?",
+        "Answer": "In March and September 2014, the Board of Management passed resolutions to raise employee awareness of sustainability and define the term 'ultra' as a leitmotif for pioneering sustainability issues.",
+        "OriginalText": "In March and September 2014, the full Board of Management of AUDI AG passed two resolutions on the further development of the sustainability strategy, based on papers submitted by the CR working group: The first seeks to raise employee awareness of the topic of sustainability and to promote the substantive change process through specific projects and measures. In a second resolution, the Board of Management of AUDI AG defined the term 'ultra' as a leitmotif for pioneering sustainability issues.",
+        "chunk_id": "2014---3"
+    },
+    "22": {
+        "Question": "How many vehicles did Audi deliver to customers in 2014?",
+        "Answer": "Audi delivered more than 1.74 million vehicles to customers in 2014.",
+        "OriginalText": "In a challenging market environment, the Audi brand set another record in 2014 by delivering more than 1.74 million vehicles to customers.",
+        "chunk_id": "2014---4"
+    },
+    "23": {
+        "Question": "What percentage increase in revenue did Audi achieve in 2014?",
+        "Answer": "Audi's revenue grew by 7.8 percent in 2014.",
+        "OriginalText": "Revenue thus grew by 7.8 percent to EUR 53,787 million.",
+        "chunk_id": "2014---4"
+    },
+    "24": {
+        "Question": "What was Audi's operating profit in 2014?",
+        "Answer": "Audi's operating profit in 2014 was EUR 5,150 million.",
+        "OriginalText": "Operating profit reached EUR 5,150 million, while the operating return on sales was 9.6 percent.",
+        "chunk_id": "2014---4"
+    },
+    "25": {
+        "Question": "In 2014, how many page impressions did Audi's employees make on the 'Forum Responsibility' platform?",
+        "Answer": "Audi's employees counted over 66,000 page impressions in 2014 on the 'Forum Responsibility' platform.",
+        "OriginalText": "We counted over 66,000 page impressions in 2014.",
+        "chunk_id": "2014---4"
+    },
+    "26": {
+        "Question": "What was the key topic discussed during the Audi Stakeholder Forum in Berlin in October 2014?",
+        "Answer": "The key topic discussed during the Audi Stakeholder Forum in Berlin in October 2014 was vehicle connectivity and its implications for the future shape of mobility.",
+        "OriginalText": "In October 2014, we held a discussion in Berlin with around 120 representatives of industry, science, non-governmental organizations (NGOs) and politics about vehicle connectivity and its implications for the future shape of mobility.",
+        "chunk_id": "2014---4"
+    },
+    "27": {
+        "Question": "What was the purpose of the 'Materiality analysis of international sustainability aspects for AUDI AG' conducted in 2014?",
+        "Answer": "The purpose of the 'Materiality analysis of international sustainability aspects for AUDI AG' conducted in 2014 was to assess the relevance of sustainability aspects defined by the Global Reporting Initiative in various countries.",
+        "OriginalText": "To enable us to zoom in further on the relevance of sustainability topics as perceived externally, we conducted the project 'Materiality analysis of international sustainability aspects for AUDI AG' in cooperation with the Fresenius University of Applied Sciences (Munich) in 2014.",
+        "chunk_id": "2014---4"
+    },
+    "28": {
+        "Question": "What was Audi's operating return on sales in 2014?",
+        "Answer": "Audi's operating return on sales in 2014 was 9.6 percent.",
+        "OriginalText": "Operating profit reached EUR 5,150 million, while the operating return on sales was 9.6 percent.",
+        "chunk_id": "2014---4"
+    },
+    "29": {
+        "Question": "What sustainability requirements did Audi set for its suppliers in 2014?",
+        "Answer": "Since 2014, Audi has included sustainability requirements in its supplier contracts, requiring suppliers to confirm that they comply with the 'Volkswagen Group' requirements for sustainability in their relationships with business partners.'",
+        "OriginalText": "Sustainability requirements have been included in supplier contracts since 2014. Before submitting a bid, suppliers must actively confirm their compliance with the 'Volkswagen Group requirements regarding sustainability in its relationships with business partners.'",
+        "chunk_id": "2014---4"
+    },
+    "30": {
+        "Question": "What year did Audi integrate auditing rights and extraordinary termination clauses into supplier agreements?",
+        "Answer": "2014",
+        "OriginalText": "The Group-wide concept is being continuously further developed: In addition to the previously valid environmental and social standards, agreements concluded since 2014 also contain auditing rights as well as a right to extraordinary termination in the case of violations.",
+        "chunk_id": "2014---5"
+    },
+    "31": {
+        "Question": "How many compliance officers were supporting Audi’s Chief Compliance Officer at its subsidiaries in 2014?",
+        "Answer": "27 compliance officers",
+        "OriginalText": "The Governance, Risk & Compliance area manages compliance activities throughout the Group. This area is led by the Chief Compliance Officer, who reports directly to the Chairman of the Board of Management. He is supported by 27 compliance officers working at the subsidiaries of AUDI AG.",
+        "chunk_id": "2014---5"
+    },
+    "32": {
+        "Question": "Which locations did Audi open Audi City stores in 2014, and when did they open?",
+        "Answer": "Audi City opened in Berlin in February 2014.",
+        "OriginalText": "Following the successful launch in London in July 2012, Audi opened additional Audi City stores in Beijing in January 2013 and in Berlin in February 2014.",
+        "chunk_id": "2014---5"
+    },
+    "33": {
+        "Question": "What are the key topics considered highly relevant in the 2013 and 2014 surveys at Audi?",
+        "Answer": "Economic stability and customer orientation.",
+        "OriginalText": "Building on the stakeholder survey conducted in 2012, we systematically surveyed the relevance of various topics related to operations in 2013 and 2014 as well. Especially great importance is still accorded to the aspects of 'economic stability' and 'customer orientation.'",
+        "chunk_id": "2014---5"
+    },
+    "34": {
+        "Question": "Which company’s requirements did Audi’s suppliers need to confirm compliance with since 2014?",
+        "Answer": "Volkswagen Group requirements",
+        "OriginalText": "Sustainability requirements have been included in supplier contracts since 2014. Before submitting a bid, suppliers must actively confirm their compliance with the 'Volkswagen Group requirements regarding sustainability in its relationships with business partners.'",
+        "chunk_id": "2014---5"
+    },
+    "35": {
+        "Question": "When did Audi open additional Audi City stores in Berlin, and what technology was featured in these stores?",
+        "Answer": "Audi opened an additional Audi City store in Berlin in February 2014, featuring state-of-the-art media technology that allowed visitors to virtually explore Audi model variations and equipment packages.",
+        "OriginalText": "Following the successful launch in London in July 2012, Audi opened additional Audi City stores in Beijing in January 2013 and in Berlin in February 2014. State-of-the-art media technology at Audi City stores enables visitors to virtually explore the variations and equipment packages on Audi models even before making a purchase.",
+        "chunk_id": "2014---6"
+    },
+    "36": {
+        "Question": "What significant customer satisfaction achievement did Audi receive in 2014?",
+        "Answer": "In September 2014, Audi ranked at the very top of the confidence index among German automakers, according to the German business magazine 'WirtschaftsWoche'.",
+        "OriginalText": "Among German automakers, Audi ranks at the very top of the confidence index compiled by the German business magazine “WirtschaftsWoche” (September 2014). The jurors attribute this top-place finish to Audi’s high product quality and the low number of recalls.",
+        "chunk_id": "2014---6"
+    },
+    "37": {
+        "Question": "How many employee representatives were elected at Audi's Ingolstadt site in March 2014, and how does this compare to previous elections?",
+        "Answer": "In the March 2014 elections, 55 employees were elected to represent their colleagues' interests at the Ingolstadt site, which was an increase of four compared to previous elections.",
+        "OriginalText": "Following the elections in early March 2014, 55 employees now represent their colleagues’ interests at the Ingolstadt site, four more than before.",
+        "chunk_id": "2014---6"
+    },
+    "38": {
+        "Question": "What did Audi achieve with its vehicle weight reduction efforts by 2014, and how was this linked to fuel consumption and emissions?",
+        "Answer": "By 2014, Audi had been working on reducing vehicle weight using intelligent multimaterial mixes, helping to lower fuel consumption and emissions as part of their ongoing efficiency efforts.",
+        "OriginalText": "To further reduce the weight of new models across the entire product portfolio, we use an intelligent multimaterial mix and integrate our functions and systems into innovative vehicle architectures.",
+        "chunk_id": "2014---6"
+    },
+    "39": {
+        "Question": "What customer-focused service did Audi offer in 2014 to businesses for optimizing their vehicle fleets?",
+        "Answer": "In 2014, Audi offered a shared fleet mobility service to businesses, allowing employees to use fleet vehicles at attractive rates during private time, such as evenings and weekends, and optimizing vehicle utilization.",
+        "OriginalText": "Audi shared fleet is a mobility service individually tailored to the car pool of businesses. Employees of these businesses have the option of driving vehicles from the Audi shared fleet at attractive rates in their private time, such as in the evening and on weekends. Businesses can thus optimize utilization of their fleet and keep vehicle downtime to a minimum.",
+        "chunk_id": "2014---6"
+    },
+    "40": {
+        "Question": "How did Audi's Works Council initiatives in 2014 contribute to employee welfare?",
+        "Answer": "Audi's Works Council initiatives in 2014 focused on job security, competence development, and health protection, ensuring employees' rights and benefits were well managed, even in challenging economic times.",
+        "OriginalText": "In addition to job security, the Works Council at Audi seeks to maintain the Company’s profitability and ensure its readiness for the future. For instance, flexible time accounts can be used to secure jobs when economic conditions are difficult.",
+        "chunk_id": "2014---6"
+    },
+    "41": {
+        "Question": "How many Audi models had CO2 emissions of no more than 140 grams per kilometer by the end of 2014?",
+        "Answer": "By the end of 2014, 205 Audi models had CO2 emissions of no more than 140 grams per kilometer.",
+        "OriginalText": "At the end of 2014, 205 models had CO2 emissions of not more than 140 grams per kilometer.",
+        "chunk_id": "2014---7"
+    },
+    "42": {
+        "Question": "How much lighter is the new Audi Q7 compared to its predecessor in 2014?",
+        "Answer": "The new Audi Q7 is up to 325 kg lighter than its predecessor.",
+        "OriginalText": "Up to 325 kg is the amount by which the new Audi Q7 is lighter than its predecessor.",
+        "chunk_id": "2014---7"
+    },
+    "43": {
+        "Question": "What was the fuel consumption range for Audi's ultra models in 2014?",
+        "Answer": "In 2014, Audi's ultra models had a combined fuel consumption range of between 3.2 and 4.9 liters per 100 kilometers.",
+        "OriginalText": "In the standardized New European Driving Cycle (NEDC), the ultra models have a combined fuel consumption of between 3.2 and 4.9 liters per 100 kilometers.",
+        "chunk_id": "2014---7"
+    },
+    "44": {
+        "Question": "Which Audi model was named 'Engine of the Year' by Digital Trends in January 2014?",
+        "Answer": "The V8 4.0 TFSI engine was named 'Engine of the Year' by Digital Trends in January 2014.",
+        "OriginalText": "In January 2014, the U.S. online magazine 'Digital Trends' named the V8 4.0 TFSI engine 'Engine of the Year'.",
+        "chunk_id": "2014---7"
+    },
+    "45": {
+        "Question": "How much can fuel consumption be reduced by the cylinder deactivation system in Audi models in 2014?",
+        "Answer": "The cylinder deactivation system in Audi models can reduce fuel consumption by as much as 20 percent during moderate driving.",
+        "OriginalText": "The innovative cylinder deactivation system reduces fuel consumption during moderate driving by as much as 20 percent.",
+        "chunk_id": "2014---7"
+    },
+    "46": {
+        "Question": "What percentage of the desired CO2 reduction by 2020 can be achieved by optimizing combustion engines according to Audi's plan in 2014?",
+        "Answer": "According to Audi's plan in 2014, roughly 50 percent of the desired CO2 reduction can be achieved by optimizing combustion engines.",
+        "OriginalText": "Roughly 50 percent of the desired CO2 reduction can be achieved by optimizing the combustion engines.",
+        "chunk_id": "2014---7"
+    },
+    "47": {
+        "Question": "Which Audi model's life cycle assessment saved 5.5 metric tons of greenhouse gases compared to its predecessor in 2014?",
+        "Answer": "The Audi TT Coupé 2.0 TFSI quattro S tronic (2015 model year) saved 5.5 metric tons of greenhouse gases compared to its predecessor in 2014.",
+        "OriginalText": "The Audi TT Coupé 2.0 TFSI quattro S tronic (2015 model year) proves that the automotive industry can resolve the paradox between greater output and less pollution. Compared with its predecessor, the new model with $169\\,\\mathsf{k W}$ yields nine percent more output while also saving around 5.5 metric tons of greenhouse gases over the entire life cycle, which corresponds to an 11 percent reduction. ",
+        "chunk_id": "2014---7"
+    },
+    "48": {
+        "Question": "How many ultra models did Audi offer by the end of 2014, and how many were equipped with TDI engines?",
+        "Answer": "By the end of 2014, Audi offered 36 ultra models, of which 25 were equipped with TDI engines.",
+        "OriginalText": "At the end of 2014, Audi offered a total of 36 ultra models in the A1, A3, Q3, A4, A5, A6, A7 and TT model series. Of these models, 25 are equipped with TDI engines.",
+        "chunk_id": "2014---7"
+    },
+    "49": {
+        "Question": "What is the CO2 emission rate for the Audi A3 Sportback e-tron in 2014?",
+        "Answer": "The Audi A3 Sportback e-tron emits 35 grams of CO2 per kilometer on average in 2014.",
+        "OriginalText": "In fall 2014, Audi launched the A3 Sportback e-tron, a plug-in hybrid of the latest generation with a total range of 940 kilometers. A 1.4 TFSI engine with an output of 110 kW (150 hp) and a 75 kW electric motor drive the A3 Sportback e-tron. According to the NEDC standard for plug-in hybrid vehicles, it emits 35 grams of $\\mathsf{C O}_{2}$ per kilometer on average",
+        "chunk_id": "2014---7"
+    },
+    "50": {
+        "Question": "What was the total range of the Audi A3 Sportback e-tron launched in fall 2014?",
+        "Answer": "940 kilometers.",
+        "OriginalText": "In fall 2014, Audi launched the A3 Sportback e-tron, a plug-in hybrid of the latest generation with a total range of 940 kilometers.",
+        "chunk_id": "2014---8"
+    },
+    "51": {
+        "Question": "How much CO2 does the Audi A3 e-tron emit per kilometer on average?",
+        "Answer": "35 grams of CO2 per kilometer.",
+        "OriginalText": "35 g CO2 is the average amount emitted by the Audi A3 e-tron per kilometer.",
+        "chunk_id": "2014---8"
+    },
+    "52": {
+        "Question": "In what year did Audi present the A7 Sportback h-tron quattro at the Los Angeles Auto Show?",
+        "Answer": "October 2014.",
+        "OriginalText": "In October 2014, the Company presented the Audi A7 Sportback h-tron quattro at the Los Angeles Auto Show.",
+        "chunk_id": "2014---8"
+    },
+    "53": {
+        "Question": "What was the average CO2 emission per kilometer of the Audi A3 Sportback e-tron according to the NEDC standard?",
+        "Answer": "35 grams of CO2 per kilometer.",
+        "OriginalText": "According to the NEDC standard for plug-in hybrid vehicles, it emits 35 grams of CO2 per kilometer on average.",
+        "chunk_id": "2014---8"
+    },
+    "54": {
+        "Question": "How many stars did the Audi A3 and A6 models receive in the 2014 US NCAP safety ratings?",
+        "Answer": "5 stars.",
+        "OriginalText": "Audi regularly scores top marks here, as the 2014 results in the USA (5 stars in the US NCAP for A3 and A6) exemplarily demonstrate.",
+        "chunk_id": "2014---8"
+    },
+    "55": {
+        "Question": "What milestone did the Audi RS 7 piloted driving concept achieve on October 19, 2014, during the German Touring Car Masters (DTM) series finale?",
+        "Answer": "The Audi RS 7 piloted driving concept completed a lap at Hockenheim without a driver in slightly over two minutes.",
+        "OriginalText": "Piloted driving has already demonstrated what it is capable of in a real-world test conducted on the racetrack. At the season finale of the German Touring Car Masters (DTM) series on October 19, 2014, the Audi RS 7 piloted driving concept circled the track at Hockenheim without a driver in slightly over two minutes.",
+        "chunk_id": "2014---9"
+    },
+    "56": {
+        "Question": "Which environmental certification standards do Audi’s plants in Ingolstadt, Győr, and Sant’Agata Bolognese comply with as of 2014?",
+        "Answer": "They are certified according to EMAS, DIN EN ISO 14001, and DIN EN ISO 50001.",
+        "OriginalText": "The plants in Ingolstadt, Győr in Hungary and Sant’Agata Bolognese in Italy are additionally certified according to DIN EN ISO 14001, the international standard for environmental management. They also comply with DIN EN ISO 50001, as do the environmental management systems of the sites in Neckarsulm in Germany and Brussels in Belgium.",
+        "chunk_id": "2014---9"
+    },
+    "57": {
+        "Question": "What environmental improvements were outlined in Audi's 2014 environmental statement for the Ingolstadt plant?",
+        "Answer": "Around 40 individual measures, including avoiding waste, preventing water pollution, and reducing CO2 emissions.",
+        "OriginalText": "In environmental statements published each year, Audi documents the implementation status of measures and projects at the respective sites. For example, there are around 40 individual measures in the 2014 environmental statement for the Ingolstadt plant alone: from avoiding waste and preventing water pollution to reducing CO2 emissions.",
+        "chunk_id": "2014---9"
+    },
+    "58": {
+        "Question": "What responsibility does Audi assign to its Board of Management regarding environmental protection as of 2014?",
+        "Answer": "The Board of Management of AUDI AG is responsible for adhering to environmental policy and the viability of the environmental management system.",
+        "OriginalText": "The Board of Management of AUDI AG is responsible for adhering to environmental policy and for the viability of our environmental management system.",
+        "chunk_id": "2014---9"
+    },
+    "59": {
+        "Question": "How does Audi encourage employees to adopt environmentally conscious behavior in 2014?",
+        "Answer": "Specially trained employees regularly share knowledge, motivate colleagues, and explain the latest environmental developments.",
+        "OriginalText": "Specially trained employees regularly pass their knowledge on to colleagues, motivate them to practice environmentally conscious conduct and explain the latest developments.",
+        "chunk_id": "2014---9"
+    },
+    "60": {
+        "Question": "What systems and committees coordinate Audi's environmental protection strategy in 2014?",
+        "Answer": "The environmental protection coordinating committee and the cross-divisional ecology steering committee develop and implement strategic environmental recommendations.",
+        "OriginalText": "The environmental protection coordinating committee develops recommendations for strategic environmental issues. The duties of the cross-divisional ecology steering committee include implementing assignments from the coordinating committee.",
+        "chunk_id": "2014---9"
+    },
+    "61": {
+        "Question": "What environmental certification standard was Audi's corporate carbon footprint certified to in 2014?",
+        "Answer": "Audi's corporate carbon footprint was certified to the ISO 14064 standard in 2014.",
+        "OriginalText": "For example, the Company was the first premium manufacturer to have its corporate carbon footprint certified to the globally recognized ISO 14064 standard.",
+        "chunk_id": "2014---10"
+    },
+    "62": {
+        "Question": "What reduction in CO2 emissions was achieved by Audi's green trains in 2014 on the route between Neckarsulm and Emden?",
+        "Answer": "Audi's green trains reduced CO2 emissions by a total of 3,926 metric tons on the route between Neckarsulm and Emden in 2014.",
+        "OriginalText": "Since 2012, the green trains have also been traveling the route between Neckarsulm and Emden. Audi was able to save a total of 3,926 metric tons in CO2 emissions here in 2014.",
+        "chunk_id": "2014---11"
+    },
+    "63": {
+        "Question": "How many metric tons of CO2 were saved in 2014 by Audi’s green trains traveling between Ingolstadt and Emden?",
+        "Answer": "Audi’s green trains saved a total of 7,517 metric tons of CO2 emissions in 2014 on the route between Ingolstadt and Emden.",
+        "OriginalText": "Since 2010, the green trains have been traveling between Ingolstadt and the loading port in Emden. As a result, the Company reduced CO2 emissions by a total of 7,517 metric tons in 2014 alone.",
+        "chunk_id": "2014---11"
+    },
+    "64": {
+        "Question": "How many oak trees have been planted as part of the Oak Forest research project by 2014?",
+        "Answer": "Around 100,000 oak trees have been planted as part of the Oak Forest research project by 2014.",
+        "OriginalText": "Around 100,000 trees have now been planted.",
+        "chunk_id": "2014---11"
+    },
+    "65": {
+        "Question": "How many apprentices worldwide were employed by the Audi Group on average in 2014?",
+        "Answer": "The Audi Group employed an average of 2,421 apprentices worldwide in 2014.",
+        "OriginalText": "At the end of 2014, the Audi Group employed 2,647 apprentices worldwide (average of 2,421 for the year).",
+        "chunk_id": "2014---12"
+    },
+    "66": {
+        "Question": "What rank did Audi achieve among engineers in the 2014 Young Professional Barometer survey?",
+        "Answer": "Audi achieved first place among engineers in the 2014 Young Professional Barometer survey.",
+        "OriginalText": "Audi took first place among the target group of engineers in the Young Professional Barometer 2014 conducted by consulting firm Universum.",
+        "chunk_id": "2014---12"
+    },
+    "67": {
+        "Question": "How many young people began their apprenticeship at Audi’s German locations in 2014?",
+        "Answer": "A total of 766 young people began their apprenticeship at Audi’s German locations in 2014.",
+        "OriginalText": "At the German locations in Ingolstadt and Neckarsulm, a total of 766 young people began their apprenticeship at AUDI AG in 2014.",
+        "chunk_id": "2014---12"
+    },
+    "68": {
+        "Question": "How many hours of instruction did the Brussels plant apprentices complete in the dual education program by 2014?",
+        "Answer": "The Brussels plant apprentices completed 600 hours of instruction in the dual education program by 2014.",
+        "OriginalText": "After two years and 600 hours of instruction at the Brussels plant, 11 apprentices successfully passed their qualifying examination.",
+        "chunk_id": "2014---12"
+    },
+    "69": {
+        "Question": "What is the area of the training center opened by Audi in San José Chiapa in October 2014?",
+        "Answer": "The training center in San José Chiapa covers an area of 20,000 square meters.",
+        "OriginalText": "In October 2014, the new training center in San José Chiapa was opened. The 20,000 square-meter building will be the site of over 1,500 training courses a year.",
+        "chunk_id": "2014---12"
+    },
+    "70": {
+        "Question": "How many apprenticeships were launched at Ducati and Lamborghini in October 2014?",
+        "Answer": "41 young Italians started apprenticeships at Ducati and Lamborghini in October 2014.",
+        "OriginalText": "In October 2014, the first year of dual education started at Ducati and Lamborghini in Italy – 41 young Italians are learning the vocations of CNC machinist, motorcycle mechatronics technician or automotive mechatronics technician.",
+        "chunk_id": "2014---12"
+    },
+    "71": {
+        "Question": "How many courses were conducted annually at the San José Chiapa training center opened in 2014?",
+        "Answer": "The San José Chiapa training center conducts over 1,500 courses annually.",
+        "OriginalText": "The 20,000 square-meter building will be the site of over 1,500 training courses a year for employees and apprentices.",
+        "chunk_id": "2014---12"
+    },
+    "72": {
+        "Question": "What rank did Audi achieve among computer scientists in the 2014 Young Professional Barometer survey?",
+        "Answer": "Audi ranked second among computer scientists in the 2014 Young Professional Barometer survey.",
+        "OriginalText": "In the target group that is becoming more and more important in this digital world, namely computer scientists, Audi took second place.",
+        "chunk_id": "2014---12"
+    },
+    "73": {
+        "Question": "What percentage of female apprentices were employed at AUDI AG in 2014?",
+        "Answer": "26.9% of apprentices at AUDI AG were female in 2014.",
+        "OriginalText": "26.9% female apprentices at AUDI AG in 2014.",
+        "chunk_id": "2014---13"
+    },
+    "74": {
+        "Question": "How many improvement suggestions were implemented through the Audi Ideas Program in Győr in 2014?",
+        "Answer": "7,500 improvement suggestions were implemented in Győr in 2014.",
+        "OriginalText": "In 2014, 7,500 suggestions for improvement achieved savings of around 15 million euros.",
+        "chunk_id": "2014---13"
+    },
+    "75": {
+        "Question": "What was the cost saving achieved by Audi Brussels through implemented ideas by the end of 2014?",
+        "Answer": "Audi Brussels achieved cost savings of around 2 million euros through implemented ideas by the end of 2014.",
+        "OriginalText": "Since 2012, more than 250 ideas have been put into practice. These measures have enabled Audi Brussels to achieve savings of around 2 million euros.",
+        "chunk_id": "2014---13"
+    },
+    "76": {
+        "Question": "How many years has the Ötletbörze ideas program been running in Győr as of 2014?",
+        "Answer": "The Ötletbörze ideas program celebrated its tenth anniversary in Győr in 2014.",
+        "OriginalText": "In Győr, the 'Ötletbörze' ideas program is already celebrating its tenth anniversary.",
+        "chunk_id": "2014---13"
+    },
+    "77": {
+        "Question": "How many Audi Check-ups have been carried out since the program's launch in 2006 up to 2014?",
+        "Answer": "70,000 Audi Check-ups have been carried out since 2006.",
+        "OriginalText": "70,000 Audi Check-ups have been carried out since 2006.",
+        "chunk_id": "2014---13"
+    },
+    "78": {
+        "Question": "How many female academic graduates were newly recruited by AUDI AG in 2014?",
+        "Answer": "AUDI AG newly recruited a total of 1,451 academic graduates in 2014, of which 20.5% were women.",
+        "OriginalText": "In 2014, AUDI AG newly recruited a total of 1,451 academic graduates. 20.5 percent of them were women.",
+        "chunk_id": "2014---14"
+    },
+    "79": {
+        "Question": "What was the increase in the proportion of women in management roles at AUDI AG from 2013 to 2014?",
+        "Answer": "The proportion of women in management increased from 8.0% in 2013 to 8.3% in 2014, a 0.3% increase.",
+        "OriginalText": "The proportion of females in management increased from 7.3 percent in 2012 and 8.0 percent in 2013 to 8.3 percent in 2014.",
+        "chunk_id": "2014---14"
+    },
+    "80": {
+        "Question": "What initiatives did Audi organize in 2014 to inspire young women to pursue technical and scientific careers?",
+        "Answer": "Audi organized 'Girls’ Day,' the 'Female Researchers Camp,' and the 'Girls for Technology Camp' in 2014.",
+        "OriginalText": "For example, with events such as the annual 'Girls’ Day,' the 'Female Researchers Camp,' and the 'Girls for Technology Camp.'",
+        "chunk_id": "2014---14"
+    },
+    "81": {
+        "Question": "How many participants joined the Mentoring Management program launched in July 2014?",
+        "Answer": "The Mentoring Management program had 12 participants from Ingolstadt and Neckarsulm.",
+        "OriginalText": "The 'Mentoring Management' program was developed for this purpose and was launched in July 2014, with 12 participants from Ingolstadt and Neckarsulm.",
+        "chunk_id": "2014---14"
+    },
+    "82": {
+        "Question": "What was the total number of employees in the Audi Group by the end of 2014?",
+        "Answer": "The Audi Group had 77,247 employees by the end of 2014.",
+        "OriginalText": "The number of employees in the Audi Group rose by around 15 percent from 2012 to 2014, to 77,247 employees.",
+        "chunk_id": "2014---14"
+    },
+    "83": {
+        "Question": "What was the percentage increase in the number of Audi Group employees from 2012 to 2014?",
+        "Answer": "The number of employees in the Audi Group increased by approximately 15% from 2012 to 2014.",
+        "OriginalText": "The number of employees in the Audi Group rose by around 15 percent from 2012 to 2014, to 77,247 employees.",
+        "chunk_id": "2014---14"
+    },
+    "84": {
+        "Question": "What are the five fields of action outlined in Audi's global principles for corporate citizenship adopted in August 2014?",
+        "Answer": "The five fields of action are mobility and infrastructure, family and society, health and leisure, knowledge and competences, and nature and the environment.",
+        "OriginalText": "The principles encompass five fields of action: mobility and infrastructure, family and society, health and leisure, knowledge and competences, and nature and the environment.",
+        "chunk_id": "2014---15"
+    },
+    "85": {
+        "Question": "Which team won the Audi Urban Future Award 2014, and what was the core concept of their winning idea?",
+        "Answer": "The Mexican team won the Audi Urban Future Award 2014 with a concept for an 'operating system for urban mobility,' which used a data platform for commuters to adapt based on real-time traffic forecasts.",
+        "OriginalText": "The Mexican team was honored with first prize for its 'operating system for urban mobility.' The heart of the concept is a data platform on which commuters enter data on their movements, using a website and an app.",
+        "chunk_id": "2014---15"
+    },
+    "86": {
+        "Question": "What improvement in public transportation was introduced at the Neckarsulm site in December 2014?",
+        "Answer": "Two stops for the new commuter rail system were added at the plant, and direct regional bus lines for early and late shift employees were put into service.",
+        "OriginalText": "In December 2014, two stops for the new commuter rail system were added – right at the plant. In addition, other direct regional bus lines that stop right outside the plant were put into service for employees who work the early and late shifts.",
+        "chunk_id": "2014---15"
+    },
+    "87": {
+        "Question": "What was the prize money for the Audi Urban Future Award 2014, and how many teams competed?",
+        "Answer": "The prize money was EUR 100,000, and four teams from Berlin, Boston, Mexico City, and Seoul competed.",
+        "OriginalText": "In November 2014, Audi presented the Audi Urban Future Award for the third time since 2010. With prize money of EUR 100,000, it is the world’s highest-endowed award for innovative mobility solutions. An international jury viewed the entries of four competing teams – from Berlin, Boston, Mexico City, and Seoul.",
+        "chunk_id": "2014---15"
+    },
+    "88": {
+        "Question": "What new project debuted in the 2014 Audi Summer Concerts season under the direction of Kent Nagano?",
+        "Answer": "The 'Vorsprung Festival' debuted in the 2014 Audi Summer Concerts season, with Kent Nagano as Artistic Director.",
+        "OriginalText": "Another attraction of the 2014 season was the Audi Summer Concerts debut of Kent Nagano’s 'Vorsprung Festival,' with Nagano in the role of Artistic Director.",
+        "chunk_id": "2014---15"
+    },
+    "89": {
+        "Question": "What specific event marked the start of the 2014 Audi Summer Concerts season?",
+        "Answer": "The 2014 Audi Summer Concerts opened with a performance by tenor Piotr Beczala and the Baden-Baden Philharmonic Orchestra.",
+        "OriginalText": "In 2014, the festival opened with a performance by tenor Piotr Beczala and the Baden-Baden Philharmonic Orchestra.",
+        "chunk_id": "2014---15"
+    },
+    "90": {
+        "Question": "How many cultural events were part of the 2014 Audi Summer Concerts season?",
+        "Answer": "There were 15 cultural events in the 2014 Audi Summer Concerts season.",
+        "OriginalText": "The concert marked the start of a series featuring 14 more cultural events.",
+        "chunk_id": "2014---15"
+    },
+    "91": {
+        "Question": "What themes have grown in importance since 2012, as evaluated in the 2013 and 2014 materiality analysis?",
+        "Answer": "The themes 'promotion of sports, exercise and health,' 'promotion of art and culture,' and 'promotion of voluntary activities' have grown in importance.",
+        "OriginalText": "The themes 'promotion of sports, exercise and health,' 'promotion of art and culture,' and 'promotion of voluntary activities' have grown in importance since the last report period.",
+        "chunk_id": "2014---15"
+    },
+    "92": {
+        "Question": "How many employees participated in the Audi Volunteer Day in Ingolstadt in May 2014, and how many social projects did they support?",
+        "Answer": "460 employees participated in 54 social projects.",
+        "OriginalText": "The Audi Volunteer Day in May 2014 in and around Ingolstadt attracted 460 employees, who participated in 54 social projects.",
+        "chunk_id": "2014---16"
+    },
+    "93": {
+        "Question": "What was the focus of the Audi Forum Neckarsulm's cultural events in 2014?",
+        "Answer": "The Audi Forum Neckarsulm featured 150 artists from around the world, 29 hands-on programs for children, and 21 cultural events, including TangoPassion and a pop concert by Marlon Roudette.",
+        "OriginalText": "In 2014, the Audi Forum Neckarsulm presented more than 150 artists from around the world, 29 creative hands-on programs for children and 21 cultural events.",
+        "chunk_id": "2014---16"
+    },
+    "94": {
+        "Question": "What percentage of Audi employees in Ingolstadt used bicycles to commute between April and October 2014?",
+        "Answer": "17% of Audi employees in Ingolstadt used bicycles to commute.",
+        "OriginalText": "Between April and October, 17 percent of the Audi employees use bicycles.",
+        "chunk_id": "2014---16"
+    },
+    "95": {
+        "Question": "How many volunteer hours were performed by Audi employees from 2012 to 2014 through the Audi Volunteers program?",
+        "Answer": "22,324 hours of voluntary work were performed.",
+        "OriginalText": "Between 2012 and 2014, a total of 2,971 employees took part in 326 projects, contributing 22,324 hours of voluntary work.",
+        "chunk_id": "2014---16"
+    },
+    "96": {
+        "Question": "What initiatives did Audi introduce to link volunteering and team building in 2014?",
+        "Answer": "Audi introduced the 'TeamAction' initiative, where colleagues support a charitable project as a team and receive up to EUR 500 in donations for the project.",
+        "OriginalText": "With the 'TeamAction' initiative at the Ingolstadt and Neckarsulm sites, Audi began linking corporate volunteering to team building in 2014.",
+        "chunk_id": "2014---16"
+    },
+    "97": {
+        "Question": "How much money was raised through the Audi workforce's annual Christmas donation appeal in 2014, and how was it used?",
+        "Answer": "EUR 910,000 was raised and used to support 120 projects run by charitable institutions in Ingolstadt, Neckarsulm, and surrounding districts.",
+        "OriginalText": "In 2014, each participating employee had 12 euros of pre-tax income deducted from their November payslip. Including the sum topped up by the Company, a total of EUR 910,000 was collected.The donated money was used to support 120 projects run by charitable institutions in Ingolstadt and the surrounding districts, as well as in Neckarsulm. ",
+        "chunk_id": "2014---16"
+    },
+    "98": {
+        "Question": "What cultural promotion activities did Audi Hungaria sponsor in 2014?",
+        "Answer": "Audi Hungaria sponsored the Győr Ballet and the annual closing concert of the Győr Summer Festival.",
+        "OriginalText": "Audi Hungaria sponsors, for example, the Győr Ballet and the annual closing concert of the Győr Summer Festival.",
+        "chunk_id": "2014---16"
+    },
+    "99": {
+        "Question": "How did Audi employees contribute to flood relief in Germany and Hungary in 2014?",
+        "Answer": "Audi employees raised EUR 500,000 in donations, which was passed on to seven social institutions in Passau and Deggendorf.",
+        "OriginalText": "In February 2014, the money was passed on to seven social institutions in the Passau and Deggendorf regions.",
+        "chunk_id": "2014---16"
+    },
+    "100": {
+        "Question": "What charitable projects were supported by Audi employees in Győr, Hungary, during the Volunteer Day in October 2014?",
+        "Answer": "Employees renovated classrooms, a children's home, playgrounds, collected trash, and planted flowers to beautify the local zoo.",
+        "OriginalText": "In October 2014, the Volunteer Day also took place for the first time in Győr, Hungary. They helped to renovate elementary school classrooms, a children’s home and several playgrounds, to name a few examples. Other employees collected trash and planted flowers in order to beautify the local zoo.",
+        "chunk_id": "2014---16"
+    },
+    "101": {
+        "Question": "How much money was collected through the 'Spare Cents' donation campaign in 2014, and what was its purpose?",
+        "Answer": "EUR 250,000 was collected in 2014 and used to fund a number of projects.",
+        "OriginalText": "Every month many Audi employees donate the remaining cents after the decimal point on their monthly payslip. In 2014, about EUR 250,000 was collected through this 'Spare Cents' donation campaign, money that was used to fund a number of projects.",
+        "chunk_id": "2014---17"
+    },
+    "102": {
+        "Question": "How did Audi support flood victims in Passau and Deggendorf in February 2014?",
+        "Answer": "Audi passed on EUR 500,000 in donations to seven social institutions in Passau and Deggendorf.",
+        "OriginalText": "In February 2014, the money was passed on to seven social institutions in the Passau and Deggendorf regions.",
+        "chunk_id": "2014---17"
+    },
+    "103": {
+        "Question": "How many school students attended the 'Fisica in Moto' physics lab during the 2013/2014 school year?",
+        "Answer": "7,357 students attended the interactive physics lab.",
+        "OriginalText": "In the 2013/2014 school year, 7,357 young learners attended the interactive physics lab.",
+        "chunk_id": "2014---17"
+    },
+    "104": {
+        "Question": "What academic partnership did Audi establish in January 2014, and what was its purpose?",
+        "Answer": "Audi established a partnership with the Technical University of Dresden in January 2014 to strengthen research and development.",
+        "OriginalText": "In January 2014, the Technical University of Dresden joined the list. Audi works with 31 academic institutes around the world.",
+        "chunk_id": "2014---17"
+    },
+    "105": {
+        "Question": "How did the San José Chiapa site in Mexico participate in Audi's donation campaign in 2014?",
+        "Answer": "The San José Chiapa site participated in the donation campaign before the plant opened.",
+        "OriginalText": "In 2014, the San José Chiapa site in Mexico took part in the donation campaign even before the plant opens there.",
+        "chunk_id": "2014---17"
+    },
+    "106": {
+        "Question": "How does Audi endow professorships, and what is an example of such an initiative as of 2014?",
+        "Answer": "Audi endows professorships in areas important to the company, such as the professorship for entrepreneurship, global responsibility, and sustainability at Zeppelin University.",
+        "OriginalText": "We currently endow the professorship for entrepreneurship, global responsibility and sustainability at Zeppelin University in Friedrichshafen.",
+        "chunk_id": "2014---17"
+    },
+    "107": {
+        "Question": "What guidelines does Audi adhere to in its Corporate Responsibility Report 2014, and who conducted the Materiality Disclosures Service?",
+        "Answer": "Audi adheres to the G4 Global Reporting Initiative Guidelines, and the Materiality Disclosures Service was conducted by the Global Reporting Initiative.",
+        "OriginalText": "The Audi Corporate Responsibility Report 2014 is based on the G4 Global Reporting Initiative (GRI) Guidelines. A Materiality Disclosures Service was conducted by the GRI for the report.",
+        "chunk_id": "2014---18"
+    },
+    "108": {
+        "Question": "What specific focus was discussed at the second Audi Stakeholder Forum in October 2014?",
+        "Answer": "The forum focused on digitalization and connectivity of vehicles, including connecting the automobile with infrastructure, road users, and mobile applications.",
+        "OriginalText": "At the second Audi Stakeholder Forum on October 7, 2014, we discussed the digitalization and connectivity of vehicles with around 120 representatives of industry, science, NGOs and politics.",
+        "chunk_id": "2014---18"
+    },
+    "109": {
+        "Question": "How many representatives participated in the second Audi Stakeholder Forum held in Berlin in 2014?",
+        "Answer": "Around 120 representatives from industry, science, NGOs, and politics participated.",
+        "OriginalText": "At the second Audi Stakeholder Forum on October 7, 2014, we discussed the digitalization and connectivity of vehicles with around 120 representatives of industry, science, NGOs and politics.",
+        "chunk_id": "2014---18"
+    },
+    "110": {
+        "Question": "What three major advantages does Audi's connected mobility offer, as highlighted in 2014?",
+        "Answer": "The three major advantages are increased safety, greater comfort, and higher efficiency.",
+        "OriginalText": "Connected mobility offers advantages as well as new possibilities for the future: increased safety, greater comfort and higher efficiency.",
+        "chunk_id": "2014---19"
+    },
+    "111": {
+        "Question": "What key elements define the smart factory under the Audi ultra initiative as of 2014?",
+        "Answer": "The smart factory uses innovative technologies to optimize processes, support employees with complex tasks, and enhance resource conservation and sustainability.",
+        "OriginalText": "Audi ultra also means: an even smarter, more efficient and connected factory. The key aspect: innovative technologies ensure optimized processes and support employees with their increasingly complex work – leading to greater efficiency, resource conservation and sustainability in our manufacturing.",
+        "chunk_id": "2014---19"
+    },
+    "112": {
+        "Question": "What achievement is attributed to Audi's ultra models in both racing and series production as of 2014?",
+        "Answer": "Audi ultra models combine higher performance with lower consumption, achieving victories at the 24 Hours of Le Mans and excellence in series production vehicles.",
+        "OriginalText": "Higher performance, lower consumption. This formula has led us to victory many times at the 24 Hours of Le Mans – and in our series production vehicles it ensures maximum performance combined with the ultimate driving experience.",
+        "chunk_id": "2014---19"
+    }
+}
